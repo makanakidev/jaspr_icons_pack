@@ -133,4 +133,4 @@ If you encounter any bugs or have a feature request, please file an issue on the
 
 ## Inspiration
 
-This package was inspired by [Jaspr Icons](https://pub.dev/packages/jaspr_icons)
+This package was inspired by [Jaspr Icons](https://pub.dev/packages/jaspr_icons)# jaspr_svg
