@@ -3,7 +3,7 @@
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
-import '../icons.dart';
+import '../jaspr_svg.dart';
 
 class SvgIcon extends StatelessComponent {
   /// the icon data to render

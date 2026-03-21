@@ -12,8 +12,6 @@ issue_tracker: https://github.com/makanakidev/jaspr_svg/issues
 
 homepage: https://github.com/makanakidev/jaspr_svg.git
 
-publish_to: pub.dev
-
 topics:
   - jaspr
   - icon
