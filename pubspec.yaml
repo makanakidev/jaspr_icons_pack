@@ -1,0 +1,30 @@
+name: jaspr_svg
+
+description: A collection of svg icon for use in a jaspr app, easy to use and tree-shakable.
+
+version: 1.0.0
+
+license: MIT
+
+repository: https://github.com/makanakidev/jaspr_svg.git
+
+issue_tracker: https://github.com/makanakidev/jaspr_svg/issues
+
+homepage: https://github.com/makanakidev/jaspr_svg.git
+
+publish_to: pub.dev
+
+topics:
+  - jaspr
+  - icon
+  - svg
+  - web
+
+environment:
+  sdk: ">=3.10.0 <4.0.0"
+
+dependencies:
+  jaspr: ^0.22.4
+
+dev_dependencies:
+  lints: ^6.0.0

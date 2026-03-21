@@ -1,0 +1,18 @@
+/// a library that provides access to svg icons for use in jaspr apps.
+library;
+
+export 'src/icons/animated_icons.dart';
+export 'src/icons/emojis.dart';
+export 'src/icons/feather_icons.dart';
+export 'src/icons/flags.dart';
+export 'src/icons/fluent_icons.dart';
+export 'src/icons/font_awesome.dart';
+export 'src/icons/lucide_icons.dart';
+export 'src/icons/material_icons.dart';
+export 'src/icons/material_symbols.dart';
+export 'src/icons/solar_icons.dart';
+export 'src/icons/spinners.dart';
+export 'src/icons/tabler_icons.dart';
+
+export 'src/helpers.dart';
+export 'src/svg_icon.dart';
