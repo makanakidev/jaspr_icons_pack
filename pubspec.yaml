@@ -2,7 +2,7 @@ name: jaspr_icons_pack
 
 description: A collection of svg icon for use in a jaspr app, easy to use and tree-shakable.
 
-version: 1.0.0
+version: 1.0.1
 
 license: MIT
 
