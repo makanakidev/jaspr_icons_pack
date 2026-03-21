@@ -1,10 +1,10 @@
 # example
 
-A new Jaspr project
+A Jaspr gallery app for previewing the bundled `jaspr_svg` icon collections.
 
 ## Running the project
 
-Run your project using `jaspr serve`.
+Run the gallery using `jaspr serve`.
 
 The development server will be available on `http://localhost:8080`.
 

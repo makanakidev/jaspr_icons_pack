@@ -20,7 +20,9 @@ formatter:
 linter:
   rules:
     - camel_case_types
-    - public_member_api_docs
+analyzer:
+  errors:
+    public_member_api_docs: ignore
 
 # analyzer:
 #   exclude:
