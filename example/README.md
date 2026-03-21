@@ -1,6 +1,6 @@
 # example
 
-A Jaspr gallery app for previewing the bundled `jaspr_svg` icon collections.
+A Jaspr gallery app for previewing the bundled `jaspr_icons_pack` icon collections.
 
 ## Running the project
 
