@@ -3,7 +3,7 @@
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
-import '../jaspr_svg.dart';
+import '../jaspr_icons_pack.dart';
 
 class SvgIcon extends StatelessComponent {
   static const (double, double, double, double) _defaultViewBox = (0, 0, 24, 24);

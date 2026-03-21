@@ -1,4 +1,4 @@
-name: jaspr_svg
+name: jaspr_icons_pack
 
 description: A collection of svg icon for use in a jaspr app, easy to use and tree-shakable.
 
@@ -6,11 +6,11 @@ version: 1.0.0
 
 license: MIT
 
-repository: https://github.com/makanakidev/jaspr_svg.git
+repository: https://github.com/makanakidev/jaspr_icons_pack.git
 
-issue_tracker: https://github.com/makanakidev/jaspr_svg/issues
+issue_tracker: https://github.com/makanakidev/jaspr_icons_pack/issues
 
-homepage: https://github.com/makanakidev/jaspr_svg.git
+homepage: https://github.com/makanakidev/jaspr_icons_pack.git
 
 topics:
   - jaspr

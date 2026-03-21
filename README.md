@@ -1,4 +1,4 @@
-# jaspr_svg
+# jaspr_icons_pack
 
 An easy and efficient way to use SVG icons in your Jaspr applications. This package provides a simple `SvgIcon()` component and a comprehensive, tree-shakable library of 12 icon collections.
 
@@ -17,11 +17,11 @@ Insert icons just like you do in flutter.
 
 ## Installation
 
-Add `jaspr_svg` to your `pubspec.yaml` dependencies:
+Add `jaspr_icons_pack` to your `pubspec.yaml` dependencies:
 
 ```yaml
 dependencies:
-  jaspr_svg: ^1.0.0
+  jaspr_icons_pack: ^1.0.0
 ```
 
 Then, run `dart pub get`.
@@ -34,7 +34,7 @@ Import the package and use the `SvgIcon()` component with the desired icon.
 import 'package:jaspr/jaspr.dart';
 
 // Import the main library file
-import 'package:jaspr_svg/icons.dart';
+import 'package:jaspr_icons_pack/jaspr_icons_pack.dart';
 
 class MyAwesomeComponent extends StatelessComponent {
   @override
@@ -104,7 +104,7 @@ The `SvgIcon()` component is designed to work with any `IconData` object. You ca
 
 ```dart
 // my_custom_icons.dart
-import 'package:jaspr_svg/icons.dart';
+import 'package:jaspr_icons_pack/jaspr_icons_pack.dart';
 
 class MyIcons {
   const MyIcons._();
@@ -129,7 +129,7 @@ The included icons are licensed under the **Apache License 2.0**. Your use of th
 
 ## Issues and Contributions
 
-If you encounter any bugs or have a feature request, please file an issue on the [Github issue tracker](https://github.com/makanakidev/jaspr_svg/issues). Contributions are welcome
+If you encounter any bugs or have a feature request, please file an issue on the [Github issue tracker](https://github.com/makanakidev/jaspr_icons_pack/issues). Contributions are welcome
 
 ## Inspiration
 

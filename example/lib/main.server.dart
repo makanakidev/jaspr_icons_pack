@@ -1,6 +1,6 @@
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/server.dart';
-import 'package:jaspr_svg/jaspr_svg.dart';
+import 'package:jaspr_icons_pack/jaspr_icons_pack.dart';
 
 import 'main.server.options.dart';
 

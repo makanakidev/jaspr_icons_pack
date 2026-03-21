@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   jaspr: ^0.22.4
-  jaspr_svg:
+  jaspr_icons_pack:
     path: ../
 
 dev_dependencies:
