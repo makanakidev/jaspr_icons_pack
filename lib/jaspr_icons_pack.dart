@@ -1,4 +1,8 @@
-/// a library that provides access to svg icons for use in jaspr apps.
+/// Jaspr icon components and generated icon collections.
+///
+/// Import this library to access [SvgIcon], [IconData], stroke enums, and the
+/// generated icon families such as [MaterialIcons], [LucideIcons], and
+/// [FluentIcons].
 library;
 
 export 'src/icons/animated_icons.dart';

@@ -2,3 +2,6 @@
 .*/
 **/.*/
 .pubignore
+.dart_tool
+preview/
+build/

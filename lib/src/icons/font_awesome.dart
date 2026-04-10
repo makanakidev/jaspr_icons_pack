@@ -1,19 +1,22 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
-// This file contains a collection of icons that are derived from Font Awesome Solid by Dave Gandy.
+// This file contains a collection of icons that are derived from Font Awesome by Dave Gandy.
 
 // The original icons may be subject to their upstream license terms.
 // Review the upstream collection before publishing or redistributing generated output.
 
-// ignore_for_file: constant_identifier_names, public_member_api_docs
+// ignore_for_file: constant_identifier_names, public_member_api_docs, unintended_html_in_doc_comment
 
 import '../helpers.dart';
 
-/// [Font Awesome Solid (1999)](https://icones.js.org/collection/fa7-solid)
+/// [Font Awesome (1999)](https://icones.js.org/collection/fa7-solid)
 /// - Set SvgIcon `color` to change fill or stroke value
 /// - Icon `height` and `width` can also be modified
 class FontAwesome {
   const FontAwesome._();
 
+  /// Font Awesome icon named `0`
+  /// 
+  /// ![0](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/0.png)
   static const IconData icon_0 = IconData([
     {
       'tag': 'root',
@@ -31,6 +34,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `1`
+  /// 
+  /// ![1](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/1.png)
   static const IconData icon_1 = IconData([
     {
       'tag': 'root',
@@ -48,6 +54,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `2`
+  /// 
+  /// ![2](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/2.png)
   static const IconData icon_2 = IconData([
     {
       'tag': 'root',
@@ -65,6 +74,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `3`
+  /// 
+  /// ![3](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/3.png)
   static const IconData icon_3 = IconData([
     {
       'tag': 'root',
@@ -82,6 +94,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `4`
+  /// 
+  /// ![4](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/4.png)
   static const IconData icon_4 = IconData([
     {
       'tag': 'root',
@@ -99,6 +114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `5`
+  /// 
+  /// ![5](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/5.png)
   static const IconData icon_5 = IconData([
     {
       'tag': 'root',
@@ -116,6 +134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `6`
+  /// 
+  /// ![6](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/6.png)
   static const IconData icon_6 = IconData([
     {
       'tag': 'root',
@@ -133,6 +154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `7`
+  /// 
+  /// ![7](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/7.png)
   static const IconData icon_7 = IconData([
     {
       'tag': 'root',
@@ -150,6 +174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `8`
+  /// 
+  /// ![8](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/8.png)
   static const IconData icon_8 = IconData([
     {
       'tag': 'root',
@@ -167,6 +194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `9`
+  /// 
+  /// ![9](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/9.png)
   static const IconData icon_9 = IconData([
     {
       'tag': 'root',
@@ -184,6 +214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `a`
+  /// 
+  /// ![a](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/a.png)
   static const IconData icon_a = IconData([
     {
       'tag': 'root',
@@ -201,6 +234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ad`
+  /// 
+  /// ![ad](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ad.png)
   static const IconData icon_ad = IconData([
     {
       'tag': 'root',
@@ -218,6 +254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `add`
+  /// 
+  /// ![add](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/add.png)
   static const IconData icon_add = IconData([
     {
       'tag': 'root',
@@ -235,6 +274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `address book`
+  /// 
+  /// ![address book](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/address-book.png)
   static const IconData icon_address_book = IconData([
     {
       'tag': 'root',
@@ -252,6 +294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `address card`
+  /// 
+  /// ![address card](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/address-card.png)
   static const IconData icon_address_card = IconData([
     {
       'tag': 'root',
@@ -269,6 +314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `adjust`
+  /// 
+  /// ![adjust](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/adjust.png)
   static const IconData icon_adjust = IconData([
     {
       'tag': 'root',
@@ -286,6 +334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `air freshener`
+  /// 
+  /// ![air freshener](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/air-freshener.png)
   static const IconData icon_air_freshener = IconData([
     {
       'tag': 'root',
@@ -303,6 +354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `alarm clock`
+  /// 
+  /// ![alarm clock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/alarm-clock.png)
   static const IconData icon_alarm_clock = IconData([
     {
       'tag': 'root',
@@ -320,6 +374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `align center`
+  /// 
+  /// ![align center](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/align-center.png)
   static const IconData icon_align_center = IconData([
     {
       'tag': 'root',
@@ -337,6 +394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `align justify`
+  /// 
+  /// ![align justify](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/align-justify.png)
   static const IconData icon_align_justify = IconData([
     {
       'tag': 'root',
@@ -354,6 +414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `align left`
+  /// 
+  /// ![align left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/align-left.png)
   static const IconData icon_align_left = IconData([
     {
       'tag': 'root',
@@ -371,6 +434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `align right`
+  /// 
+  /// ![align right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/align-right.png)
   static const IconData icon_align_right = IconData([
     {
       'tag': 'root',
@@ -388,6 +454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `allergies`
+  /// 
+  /// ![allergies](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/allergies.png)
   static const IconData icon_allergies = IconData([
     {
       'tag': 'root',
@@ -405,6 +474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ambulance`
+  /// 
+  /// ![ambulance](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ambulance.png)
   static const IconData icon_ambulance = IconData([
     {
       'tag': 'root',
@@ -422,6 +494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `american sign language interpreting`
+  /// 
+  /// ![american sign language interpreting](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/american-sign-language-interpreting.png)
   static const IconData icon_american_sign_language_interpreting = IconData([
     {
       'tag': 'root',
@@ -439,6 +514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `anchor`
+  /// 
+  /// ![anchor](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/anchor.png)
   static const IconData icon_anchor = IconData([
     {
       'tag': 'root',
@@ -456,6 +534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `anchor circle check`
+  /// 
+  /// ![anchor circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/anchor-circle-check.png)
   static const IconData icon_anchor_circle_check = IconData([
     {
       'tag': 'root',
@@ -473,6 +554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `anchor circle exclamation`
+  /// 
+  /// ![anchor circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/anchor-circle-exclamation.png)
   static const IconData icon_anchor_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -490,6 +574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `anchor circle xmark`
+  /// 
+  /// ![anchor circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/anchor-circle-xmark.png)
   static const IconData icon_anchor_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -507,6 +594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `anchor lock`
+  /// 
+  /// ![anchor lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/anchor-lock.png)
   static const IconData icon_anchor_lock = IconData([
     {
       'tag': 'root',
@@ -524,6 +614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angle double down`
+  /// 
+  /// ![angle double down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angle-double-down.png)
   static const IconData icon_angle_double_down = IconData([
     {
       'tag': 'root',
@@ -541,6 +634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angle double left`
+  /// 
+  /// ![angle double left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angle-double-left.png)
   static const IconData icon_angle_double_left = IconData([
     {
       'tag': 'root',
@@ -558,6 +654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angle double right`
+  /// 
+  /// ![angle double right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angle-double-right.png)
   static const IconData icon_angle_double_right = IconData([
     {
       'tag': 'root',
@@ -575,6 +674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angle double up`
+  /// 
+  /// ![angle double up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angle-double-up.png)
   static const IconData icon_angle_double_up = IconData([
     {
       'tag': 'root',
@@ -592,6 +694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angle down`
+  /// 
+  /// ![angle down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angle-down.png)
   static const IconData icon_angle_down = IconData([
     {
       'tag': 'root',
@@ -609,6 +714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angle left`
+  /// 
+  /// ![angle left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angle-left.png)
   static const IconData icon_angle_left = IconData([
     {
       'tag': 'root',
@@ -626,6 +734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angle right`
+  /// 
+  /// ![angle right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angle-right.png)
   static const IconData icon_angle_right = IconData([
     {
       'tag': 'root',
@@ -643,6 +754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angle up`
+  /// 
+  /// ![angle up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angle-up.png)
   static const IconData icon_angle_up = IconData([
     {
       'tag': 'root',
@@ -660,6 +774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angles down`
+  /// 
+  /// ![angles down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angles-down.png)
   static const IconData icon_angles_down = IconData([
     {
       'tag': 'root',
@@ -677,6 +794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angles left`
+  /// 
+  /// ![angles left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angles-left.png)
   static const IconData icon_angles_left = IconData([
     {
       'tag': 'root',
@@ -694,6 +814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angles right`
+  /// 
+  /// ![angles right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angles-right.png)
   static const IconData icon_angles_right = IconData([
     {
       'tag': 'root',
@@ -711,6 +834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angles up`
+  /// 
+  /// ![angles up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angles-up.png)
   static const IconData icon_angles_up = IconData([
     {
       'tag': 'root',
@@ -728,6 +854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `angry`
+  /// 
+  /// ![angry](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/angry.png)
   static const IconData icon_angry = IconData([
     {
       'tag': 'root',
@@ -745,6 +874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ankh`
+  /// 
+  /// ![ankh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ankh.png)
   static const IconData icon_ankh = IconData([
     {
       'tag': 'root',
@@ -762,6 +894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `apple alt`
+  /// 
+  /// ![apple alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/apple-alt.png)
   static const IconData icon_apple_alt = IconData([
     {
       'tag': 'root',
@@ -779,6 +914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `apple whole`
+  /// 
+  /// ![apple whole](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/apple-whole.png)
   static const IconData icon_apple_whole = IconData([
     {
       'tag': 'root',
@@ -796,6 +934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `aquarius`
+  /// 
+  /// ![aquarius](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/aquarius.png)
   static const IconData icon_aquarius = IconData([
     {
       'tag': 'root',
@@ -813,6 +954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `archive`
+  /// 
+  /// ![archive](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/archive.png)
   static const IconData icon_archive = IconData([
     {
       'tag': 'root',
@@ -830,6 +974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `archway`
+  /// 
+  /// ![archway](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/archway.png)
   static const IconData icon_archway = IconData([
     {
       'tag': 'root',
@@ -847,6 +994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `area chart`
+  /// 
+  /// ![area chart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/area-chart.png)
   static const IconData icon_area_chart = IconData([
     {
       'tag': 'root',
@@ -864,6 +1014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `aries`
+  /// 
+  /// ![aries](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/aries.png)
   static const IconData icon_aries = IconData([
     {
       'tag': 'root',
@@ -881,6 +1034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow alt circle down`
+  /// 
+  /// ![arrow alt circle down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-alt-circle-down.png)
   static const IconData icon_arrow_alt_circle_down = IconData([
     {
       'tag': 'root',
@@ -898,6 +1054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow alt circle left`
+  /// 
+  /// ![arrow alt circle left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-alt-circle-left.png)
   static const IconData icon_arrow_alt_circle_left = IconData([
     {
       'tag': 'root',
@@ -915,6 +1074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow alt circle right`
+  /// 
+  /// ![arrow alt circle right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-alt-circle-right.png)
   static const IconData icon_arrow_alt_circle_right = IconData([
     {
       'tag': 'root',
@@ -932,6 +1094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow alt circle up`
+  /// 
+  /// ![arrow alt circle up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-alt-circle-up.png)
   static const IconData icon_arrow_alt_circle_up = IconData([
     {
       'tag': 'root',
@@ -949,6 +1114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow circle down`
+  /// 
+  /// ![arrow circle down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-circle-down.png)
   static const IconData icon_arrow_circle_down = IconData([
     {
       'tag': 'root',
@@ -966,6 +1134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow circle left`
+  /// 
+  /// ![arrow circle left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-circle-left.png)
   static const IconData icon_arrow_circle_left = IconData([
     {
       'tag': 'root',
@@ -983,6 +1154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow circle right`
+  /// 
+  /// ![arrow circle right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-circle-right.png)
   static const IconData icon_arrow_circle_right = IconData([
     {
       'tag': 'root',
@@ -1000,6 +1174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow circle up`
+  /// 
+  /// ![arrow circle up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-circle-up.png)
   static const IconData icon_arrow_circle_up = IconData([
     {
       'tag': 'root',
@@ -1017,6 +1194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down`
+  /// 
+  /// ![arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down.png)
   static const IconData icon_arrow_down = IconData([
     {
       'tag': 'root',
@@ -1034,6 +1214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down 1 9`
+  /// 
+  /// ![arrow down 1 9](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-1-9.png)
   static const IconData icon_arrow_down_1_9 = IconData([
     {
       'tag': 'root',
@@ -1051,6 +1234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down 9 1`
+  /// 
+  /// ![arrow down 9 1](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-9-1.png)
   static const IconData icon_arrow_down_9_1 = IconData([
     {
       'tag': 'root',
@@ -1068,6 +1254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down a z`
+  /// 
+  /// ![arrow down a z](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-a-z.png)
   static const IconData icon_arrow_down_a_z = IconData([
     {
       'tag': 'root',
@@ -1085,6 +1274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down long`
+  /// 
+  /// ![arrow down long](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-long.png)
   static const IconData icon_arrow_down_long = IconData([
     {
       'tag': 'root',
@@ -1102,6 +1294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down short wide`
+  /// 
+  /// ![arrow down short wide](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-short-wide.png)
   static const IconData icon_arrow_down_short_wide = IconData([
     {
       'tag': 'root',
@@ -1119,6 +1314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down up across line`
+  /// 
+  /// ![arrow down up across line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-up-across-line.png)
   static const IconData icon_arrow_down_up_across_line = IconData([
     {
       'tag': 'root',
@@ -1136,6 +1334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down up lock`
+  /// 
+  /// ![arrow down up lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-up-lock.png)
   static const IconData icon_arrow_down_up_lock = IconData([
     {
       'tag': 'root',
@@ -1153,6 +1354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down wide short`
+  /// 
+  /// ![arrow down wide short](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-wide-short.png)
   static const IconData icon_arrow_down_wide_short = IconData([
     {
       'tag': 'root',
@@ -1170,6 +1374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow down z a`
+  /// 
+  /// ![arrow down z a](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-down-z-a.png)
   static const IconData icon_arrow_down_z_a = IconData([
     {
       'tag': 'root',
@@ -1187,6 +1394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow left`
+  /// 
+  /// ![arrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-left.png)
   static const IconData icon_arrow_left = IconData([
     {
       'tag': 'root',
@@ -1204,6 +1414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow left long`
+  /// 
+  /// ![arrow left long](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-left-long.png)
   static const IconData icon_arrow_left_long = IconData([
     {
       'tag': 'root',
@@ -1221,6 +1434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow left rotate`
+  /// 
+  /// ![arrow left rotate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-left-rotate.png)
   static const IconData icon_arrow_left_rotate = IconData([
     {
       'tag': 'root',
@@ -1238,6 +1454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow pointer`
+  /// 
+  /// ![arrow pointer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-pointer.png)
   static const IconData icon_arrow_pointer = IconData([
     {
       'tag': 'root',
@@ -1255,6 +1474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right`
+  /// 
+  /// ![arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right.png)
   static const IconData icon_arrow_right = IconData([
     {
       'tag': 'root',
@@ -1272,6 +1494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right arrow left`
+  /// 
+  /// ![arrow right arrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right-arrow-left.png)
   static const IconData icon_arrow_right_arrow_left = IconData([
     {
       'tag': 'root',
@@ -1289,6 +1514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right from bracket`
+  /// 
+  /// ![arrow right from bracket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right-from-bracket.png)
   static const IconData icon_arrow_right_from_bracket = IconData([
     {
       'tag': 'root',
@@ -1306,6 +1534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right from file`
+  /// 
+  /// ![arrow right from file](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right-from-file.png)
   static const IconData icon_arrow_right_from_file = IconData([
     {
       'tag': 'root',
@@ -1323,6 +1554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right long`
+  /// 
+  /// ![arrow right long](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right-long.png)
   static const IconData icon_arrow_right_long = IconData([
     {
       'tag': 'root',
@@ -1340,6 +1574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right rotate`
+  /// 
+  /// ![arrow right rotate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right-rotate.png)
   static const IconData icon_arrow_right_rotate = IconData([
     {
       'tag': 'root',
@@ -1357,6 +1594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right to bracket`
+  /// 
+  /// ![arrow right to bracket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right-to-bracket.png)
   static const IconData icon_arrow_right_to_bracket = IconData([
     {
       'tag': 'root',
@@ -1374,6 +1614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right to city`
+  /// 
+  /// ![arrow right to city](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right-to-city.png)
   static const IconData icon_arrow_right_to_city = IconData([
     {
       'tag': 'root',
@@ -1391,6 +1634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow right to file`
+  /// 
+  /// ![arrow right to file](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-right-to-file.png)
   static const IconData icon_arrow_right_to_file = IconData([
     {
       'tag': 'root',
@@ -1408,6 +1654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow rotate back`
+  /// 
+  /// ![arrow rotate back](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-rotate-back.png)
   static const IconData icon_arrow_rotate_back = IconData([
     {
       'tag': 'root',
@@ -1425,6 +1674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow rotate backward`
+  /// 
+  /// ![arrow rotate backward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-rotate-backward.png)
   static const IconData icon_arrow_rotate_backward = IconData([
     {
       'tag': 'root',
@@ -1442,6 +1694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow rotate forward`
+  /// 
+  /// ![arrow rotate forward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-rotate-forward.png)
   static const IconData icon_arrow_rotate_forward = IconData([
     {
       'tag': 'root',
@@ -1459,6 +1714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow rotate left`
+  /// 
+  /// ![arrow rotate left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-rotate-left.png)
   static const IconData icon_arrow_rotate_left = IconData([
     {
       'tag': 'root',
@@ -1476,6 +1734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow rotate right`
+  /// 
+  /// ![arrow rotate right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-rotate-right.png)
   static const IconData icon_arrow_rotate_right = IconData([
     {
       'tag': 'root',
@@ -1493,6 +1754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow trend down`
+  /// 
+  /// ![arrow trend down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-trend-down.png)
   static const IconData icon_arrow_trend_down = IconData([
     {
       'tag': 'root',
@@ -1510,6 +1774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow trend up`
+  /// 
+  /// ![arrow trend up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-trend-up.png)
   static const IconData icon_arrow_trend_up = IconData([
     {
       'tag': 'root',
@@ -1527,6 +1794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow turn down`
+  /// 
+  /// ![arrow turn down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-turn-down.png)
   static const IconData icon_arrow_turn_down = IconData([
     {
       'tag': 'root',
@@ -1544,6 +1814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow turn up`
+  /// 
+  /// ![arrow turn up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-turn-up.png)
   static const IconData icon_arrow_turn_up = IconData([
     {
       'tag': 'root',
@@ -1561,6 +1834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up`
+  /// 
+  /// ![arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up.png)
   static const IconData icon_arrow_up = IconData([
     {
       'tag': 'root',
@@ -1578,6 +1854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up 1 9`
+  /// 
+  /// ![arrow up 1 9](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-1-9.png)
   static const IconData icon_arrow_up_1_9 = IconData([
     {
       'tag': 'root',
@@ -1595,6 +1874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up 9 1`
+  /// 
+  /// ![arrow up 9 1](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-9-1.png)
   static const IconData icon_arrow_up_9_1 = IconData([
     {
       'tag': 'root',
@@ -1612,6 +1894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up a z`
+  /// 
+  /// ![arrow up a z](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-a-z.png)
   static const IconData icon_arrow_up_a_z = IconData([
     {
       'tag': 'root',
@@ -1629,6 +1914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up from bracket`
+  /// 
+  /// ![arrow up from bracket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-from-bracket.png)
   static const IconData icon_arrow_up_from_bracket = IconData([
     {
       'tag': 'root',
@@ -1646,6 +1934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up from ground water`
+  /// 
+  /// ![arrow up from ground water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-from-ground-water.png)
   static const IconData icon_arrow_up_from_ground_water = IconData([
     {
       'tag': 'root',
@@ -1663,6 +1954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up from water pump`
+  /// 
+  /// ![arrow up from water pump](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-from-water-pump.png)
   static const IconData icon_arrow_up_from_water_pump = IconData([
     {
       'tag': 'root',
@@ -1680,6 +1974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up long`
+  /// 
+  /// ![arrow up long](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-long.png)
   static const IconData icon_arrow_up_long = IconData([
     {
       'tag': 'root',
@@ -1697,6 +1994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up right dots`
+  /// 
+  /// ![arrow up right dots](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-right-dots.png)
   static const IconData icon_arrow_up_right_dots = IconData([
     {
       'tag': 'root',
@@ -1714,6 +2014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up right from square`
+  /// 
+  /// ![arrow up right from square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-right-from-square.png)
   static const IconData icon_arrow_up_right_from_square = IconData([
     {
       'tag': 'root',
@@ -1731,6 +2034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up short wide`
+  /// 
+  /// ![arrow up short wide](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-short-wide.png)
   static const IconData icon_arrow_up_short_wide = IconData([
     {
       'tag': 'root',
@@ -1748,6 +2054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up wide short`
+  /// 
+  /// ![arrow up wide short](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-wide-short.png)
   static const IconData icon_arrow_up_wide_short = IconData([
     {
       'tag': 'root',
@@ -1765,6 +2074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrow up z a`
+  /// 
+  /// ![arrow up z a](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrow-up-z-a.png)
   static const IconData icon_arrow_up_z_a = IconData([
     {
       'tag': 'root',
@@ -1782,6 +2094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows`
+  /// 
+  /// ![arrows](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows.png)
   static const IconData icon_arrows = IconData([
     {
       'tag': 'root',
@@ -1799,6 +2114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows alt`
+  /// 
+  /// ![arrows alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-alt.png)
   static const IconData icon_arrows_alt = IconData([
     {
       'tag': 'root',
@@ -1816,6 +2134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows alt h`
+  /// 
+  /// ![arrows alt h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-alt-h.png)
   static const IconData icon_arrows_alt_h = IconData([
     {
       'tag': 'root',
@@ -1833,6 +2154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows alt v`
+  /// 
+  /// ![arrows alt v](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-alt-v.png)
   static const IconData icon_arrows_alt_v = IconData([
     {
       'tag': 'root',
@@ -1850,6 +2174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows down to line`
+  /// 
+  /// ![arrows down to line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-down-to-line.png)
   static const IconData icon_arrows_down_to_line = IconData([
     {
       'tag': 'root',
@@ -1867,6 +2194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows down to people`
+  /// 
+  /// ![arrows down to people](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-down-to-people.png)
   static const IconData icon_arrows_down_to_people = IconData([
     {
       'tag': 'root',
@@ -1884,6 +2214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows h`
+  /// 
+  /// ![arrows h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-h.png)
   static const IconData icon_arrows_h = IconData([
     {
       'tag': 'root',
@@ -1901,6 +2234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows left right`
+  /// 
+  /// ![arrows left right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-left-right.png)
   static const IconData icon_arrows_left_right = IconData([
     {
       'tag': 'root',
@@ -1918,6 +2254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows left right to line`
+  /// 
+  /// ![arrows left right to line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-left-right-to-line.png)
   static const IconData icon_arrows_left_right_to_line = IconData([
     {
       'tag': 'root',
@@ -1935,6 +2274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows rotate`
+  /// 
+  /// ![arrows rotate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-rotate.png)
   static const IconData icon_arrows_rotate = IconData([
     {
       'tag': 'root',
@@ -1952,6 +2294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows spin`
+  /// 
+  /// ![arrows spin](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-spin.png)
   static const IconData icon_arrows_spin = IconData([
     {
       'tag': 'root',
@@ -1969,6 +2314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows split up and left`
+  /// 
+  /// ![arrows split up and left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-split-up-and-left.png)
   static const IconData icon_arrows_split_up_and_left = IconData([
     {
       'tag': 'root',
@@ -1986,6 +2334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows to circle`
+  /// 
+  /// ![arrows to circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-to-circle.png)
   static const IconData icon_arrows_to_circle = IconData([
     {
       'tag': 'root',
@@ -2003,6 +2354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows to dot`
+  /// 
+  /// ![arrows to dot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-to-dot.png)
   static const IconData icon_arrows_to_dot = IconData([
     {
       'tag': 'root',
@@ -2020,6 +2374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows to eye`
+  /// 
+  /// ![arrows to eye](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-to-eye.png)
   static const IconData icon_arrows_to_eye = IconData([
     {
       'tag': 'root',
@@ -2037,6 +2394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows turn right`
+  /// 
+  /// ![arrows turn right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-turn-right.png)
   static const IconData icon_arrows_turn_right = IconData([
     {
       'tag': 'root',
@@ -2054,6 +2414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows turn to dots`
+  /// 
+  /// ![arrows turn to dots](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-turn-to-dots.png)
   static const IconData icon_arrows_turn_to_dots = IconData([
     {
       'tag': 'root',
@@ -2071,6 +2434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows up down`
+  /// 
+  /// ![arrows up down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-up-down.png)
   static const IconData icon_arrows_up_down = IconData([
     {
       'tag': 'root',
@@ -2088,6 +2454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows up down left right`
+  /// 
+  /// ![arrows up down left right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-up-down-left-right.png)
   static const IconData icon_arrows_up_down_left_right = IconData([
     {
       'tag': 'root',
@@ -2105,6 +2474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows up to line`
+  /// 
+  /// ![arrows up to line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-up-to-line.png)
   static const IconData icon_arrows_up_to_line = IconData([
     {
       'tag': 'root',
@@ -2122,6 +2494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `arrows v`
+  /// 
+  /// ![arrows v](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/arrows-v.png)
   static const IconData icon_arrows_v = IconData([
     {
       'tag': 'root',
@@ -2139,6 +2514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `asl interpreting`
+  /// 
+  /// ![asl interpreting](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/asl-interpreting.png)
   static const IconData icon_asl_interpreting = IconData([
     {
       'tag': 'root',
@@ -2156,6 +2534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `assistive listening systems`
+  /// 
+  /// ![assistive listening systems](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/assistive-listening-systems.png)
   static const IconData icon_assistive_listening_systems = IconData([
     {
       'tag': 'root',
@@ -2173,6 +2554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `asterisk`
+  /// 
+  /// ![asterisk](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/asterisk.png)
   static const IconData icon_asterisk = IconData([
     {
       'tag': 'root',
@@ -2190,6 +2574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `at`
+  /// 
+  /// ![at](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/at.png)
   static const IconData icon_at = IconData([
     {
       'tag': 'root',
@@ -2207,6 +2594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `atlas`
+  /// 
+  /// ![atlas](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/atlas.png)
   static const IconData icon_atlas = IconData([
     {
       'tag': 'root',
@@ -2224,6 +2614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `atom`
+  /// 
+  /// ![atom](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/atom.png)
   static const IconData icon_atom = IconData([
     {
       'tag': 'root',
@@ -2241,6 +2634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `audio description`
+  /// 
+  /// ![audio description](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/audio-description.png)
   static const IconData icon_audio_description = IconData([
     {
       'tag': 'root',
@@ -2258,6 +2654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `austral sign`
+  /// 
+  /// ![austral sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/austral-sign.png)
   static const IconData icon_austral_sign = IconData([
     {
       'tag': 'root',
@@ -2275,6 +2674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `automobile`
+  /// 
+  /// ![automobile](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/automobile.png)
   static const IconData icon_automobile = IconData([
     {
       'tag': 'root',
@@ -2292,6 +2694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `award`
+  /// 
+  /// ![award](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/award.png)
   static const IconData icon_award = IconData([
     {
       'tag': 'root',
@@ -2309,6 +2714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `b`
+  /// 
+  /// ![b](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/b.png)
   static const IconData icon_b = IconData([
     {
       'tag': 'root',
@@ -2326,6 +2734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `baby`
+  /// 
+  /// ![baby](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/baby.png)
   static const IconData icon_baby = IconData([
     {
       'tag': 'root',
@@ -2343,6 +2754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `baby carriage`
+  /// 
+  /// ![baby carriage](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/baby-carriage.png)
   static const IconData icon_baby_carriage = IconData([
     {
       'tag': 'root',
@@ -2360,6 +2774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `backspace`
+  /// 
+  /// ![backspace](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/backspace.png)
   static const IconData icon_backspace = IconData([
     {
       'tag': 'root',
@@ -2377,6 +2794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `backward`
+  /// 
+  /// ![backward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/backward.png)
   static const IconData icon_backward = IconData([
     {
       'tag': 'root',
@@ -2394,6 +2814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `backward fast`
+  /// 
+  /// ![backward fast](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/backward-fast.png)
   static const IconData icon_backward_fast = IconData([
     {
       'tag': 'root',
@@ -2411,6 +2834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `backward step`
+  /// 
+  /// ![backward step](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/backward-step.png)
   static const IconData icon_backward_step = IconData([
     {
       'tag': 'root',
@@ -2428,6 +2854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bacon`
+  /// 
+  /// ![bacon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bacon.png)
   static const IconData icon_bacon = IconData([
     {
       'tag': 'root',
@@ -2445,6 +2874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bacteria`
+  /// 
+  /// ![bacteria](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bacteria.png)
   static const IconData icon_bacteria = IconData([
     {
       'tag': 'root',
@@ -2462,6 +2894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bacterium`
+  /// 
+  /// ![bacterium](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bacterium.png)
   static const IconData icon_bacterium = IconData([
     {
       'tag': 'root',
@@ -2479,6 +2914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bag shopping`
+  /// 
+  /// ![bag shopping](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bag-shopping.png)
   static const IconData icon_bag_shopping = IconData([
     {
       'tag': 'root',
@@ -2496,6 +2934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bahai`
+  /// 
+  /// ![bahai](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bahai.png)
   static const IconData icon_bahai = IconData([
     {
       'tag': 'root',
@@ -2513,6 +2954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `baht sign`
+  /// 
+  /// ![baht sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/baht-sign.png)
   static const IconData icon_baht_sign = IconData([
     {
       'tag': 'root',
@@ -2530,6 +2974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `balance scale`
+  /// 
+  /// ![balance scale](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/balance-scale.png)
   static const IconData icon_balance_scale = IconData([
     {
       'tag': 'root',
@@ -2547,6 +2994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `balance scale left`
+  /// 
+  /// ![balance scale left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/balance-scale-left.png)
   static const IconData icon_balance_scale_left = IconData([
     {
       'tag': 'root',
@@ -2564,6 +3014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `balance scale right`
+  /// 
+  /// ![balance scale right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/balance-scale-right.png)
   static const IconData icon_balance_scale_right = IconData([
     {
       'tag': 'root',
@@ -2581,6 +3034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ban`
+  /// 
+  /// ![ban](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ban.png)
   static const IconData icon_ban = IconData([
     {
       'tag': 'root',
@@ -2598,6 +3054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ban smoking`
+  /// 
+  /// ![ban smoking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ban-smoking.png)
   static const IconData icon_ban_smoking = IconData([
     {
       'tag': 'root',
@@ -2615,6 +3074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `band aid`
+  /// 
+  /// ![band aid](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/band-aid.png)
   static const IconData icon_band_aid = IconData([
     {
       'tag': 'root',
@@ -2632,6 +3094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bandage`
+  /// 
+  /// ![bandage](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bandage.png)
   static const IconData icon_bandage = IconData([
     {
       'tag': 'root',
@@ -2649,6 +3114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bangladeshi taka sign`
+  /// 
+  /// ![bangladeshi taka sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bangladeshi-taka-sign.png)
   static const IconData icon_bangladeshi_taka_sign = IconData([
     {
       'tag': 'root',
@@ -2666,6 +3134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bank`
+  /// 
+  /// ![bank](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bank.png)
   static const IconData icon_bank = IconData([
     {
       'tag': 'root',
@@ -2683,6 +3154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bar chart`
+  /// 
+  /// ![bar chart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bar-chart.png)
   static const IconData icon_bar_chart = IconData([
     {
       'tag': 'root',
@@ -2700,6 +3174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `barcode`
+  /// 
+  /// ![barcode](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/barcode.png)
   static const IconData icon_barcode = IconData([
     {
       'tag': 'root',
@@ -2717,6 +3194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bars`
+  /// 
+  /// ![bars](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bars.png)
   static const IconData icon_bars = IconData([
     {
       'tag': 'root',
@@ -2734,6 +3214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bars progress`
+  /// 
+  /// ![bars progress](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bars-progress.png)
   static const IconData icon_bars_progress = IconData([
     {
       'tag': 'root',
@@ -2751,6 +3234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bars staggered`
+  /// 
+  /// ![bars staggered](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bars-staggered.png)
   static const IconData icon_bars_staggered = IconData([
     {
       'tag': 'root',
@@ -2768,6 +3254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `baseball`
+  /// 
+  /// ![baseball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/baseball.png)
   static const IconData icon_baseball = IconData([
     {
       'tag': 'root',
@@ -2785,6 +3274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `baseball ball`
+  /// 
+  /// ![baseball ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/baseball-ball.png)
   static const IconData icon_baseball_ball = IconData([
     {
       'tag': 'root',
@@ -2802,6 +3294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `baseball bat ball`
+  /// 
+  /// ![baseball bat ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/baseball-bat-ball.png)
   static const IconData icon_baseball_bat_ball = IconData([
     {
       'tag': 'root',
@@ -2819,6 +3314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `basket shopping`
+  /// 
+  /// ![basket shopping](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/basket-shopping.png)
   static const IconData icon_basket_shopping = IconData([
     {
       'tag': 'root',
@@ -2836,6 +3334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `basketball`
+  /// 
+  /// ![basketball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/basketball.png)
   static const IconData icon_basketball = IconData([
     {
       'tag': 'root',
@@ -2853,6 +3354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `basketball ball`
+  /// 
+  /// ![basketball ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/basketball-ball.png)
   static const IconData icon_basketball_ball = IconData([
     {
       'tag': 'root',
@@ -2870,6 +3374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bath`
+  /// 
+  /// ![bath](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bath.png)
   static const IconData icon_bath = IconData([
     {
       'tag': 'root',
@@ -2887,6 +3394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bathtub`
+  /// 
+  /// ![bathtub](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bathtub.png)
   static const IconData icon_bathtub = IconData([
     {
       'tag': 'root',
@@ -2904,6 +3414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery`
+  /// 
+  /// ![battery](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery.png)
   static const IconData icon_battery = IconData([
     {
       'tag': 'root',
@@ -2921,6 +3434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery 0`
+  /// 
+  /// ![battery 0](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-0.png)
   static const IconData icon_battery_0 = IconData([
     {
       'tag': 'root',
@@ -2938,6 +3454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery 2`
+  /// 
+  /// ![battery 2](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-2.png)
   static const IconData icon_battery_2 = IconData([
     {
       'tag': 'root',
@@ -2955,6 +3474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery 3`
+  /// 
+  /// ![battery 3](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-3.png)
   static const IconData icon_battery_3 = IconData([
     {
       'tag': 'root',
@@ -2972,6 +3494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery 4`
+  /// 
+  /// ![battery 4](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-4.png)
   static const IconData icon_battery_4 = IconData([
     {
       'tag': 'root',
@@ -2989,6 +3514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery 5`
+  /// 
+  /// ![battery 5](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-5.png)
   static const IconData icon_battery_5 = IconData([
     {
       'tag': 'root',
@@ -3006,6 +3534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery car`
+  /// 
+  /// ![battery car](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-car.png)
   static const IconData icon_battery_car = IconData([
     {
       'tag': 'root',
@@ -3023,6 +3554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery empty`
+  /// 
+  /// ![battery empty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-empty.png)
   static const IconData icon_battery_empty = IconData([
     {
       'tag': 'root',
@@ -3040,6 +3574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery full`
+  /// 
+  /// ![battery full](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-full.png)
   static const IconData icon_battery_full = IconData([
     {
       'tag': 'root',
@@ -3057,6 +3594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery half`
+  /// 
+  /// ![battery half](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-half.png)
   static const IconData icon_battery_half = IconData([
     {
       'tag': 'root',
@@ -3074,6 +3614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery quarter`
+  /// 
+  /// ![battery quarter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-quarter.png)
   static const IconData icon_battery_quarter = IconData([
     {
       'tag': 'root',
@@ -3091,6 +3634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `battery three quarters`
+  /// 
+  /// ![battery three quarters](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/battery-three-quarters.png)
   static const IconData icon_battery_three_quarters = IconData([
     {
       'tag': 'root',
@@ -3108,6 +3654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bed`
+  /// 
+  /// ![bed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bed.png)
   static const IconData icon_bed = IconData([
     {
       'tag': 'root',
@@ -3125,6 +3674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bed pulse`
+  /// 
+  /// ![bed pulse](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bed-pulse.png)
   static const IconData icon_bed_pulse = IconData([
     {
       'tag': 'root',
@@ -3142,6 +3694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `beer`
+  /// 
+  /// ![beer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/beer.png)
   static const IconData icon_beer = IconData([
     {
       'tag': 'root',
@@ -3159,6 +3714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `beer mug empty`
+  /// 
+  /// ![beer mug empty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/beer-mug-empty.png)
   static const IconData icon_beer_mug_empty = IconData([
     {
       'tag': 'root',
@@ -3176,6 +3734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bell`
+  /// 
+  /// ![bell](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bell.png)
   static const IconData icon_bell = IconData([
     {
       'tag': 'root',
@@ -3193,6 +3754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bell concierge`
+  /// 
+  /// ![bell concierge](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bell-concierge.png)
   static const IconData icon_bell_concierge = IconData([
     {
       'tag': 'root',
@@ -3210,6 +3774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bell slash`
+  /// 
+  /// ![bell slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bell-slash.png)
   static const IconData icon_bell_slash = IconData([
     {
       'tag': 'root',
@@ -3227,6 +3794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bezier curve`
+  /// 
+  /// ![bezier curve](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bezier-curve.png)
   static const IconData icon_bezier_curve = IconData([
     {
       'tag': 'root',
@@ -3244,6 +3814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bible`
+  /// 
+  /// ![bible](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bible.png)
   static const IconData icon_bible = IconData([
     {
       'tag': 'root',
@@ -3261,6 +3834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bicycle`
+  /// 
+  /// ![bicycle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bicycle.png)
   static const IconData icon_bicycle = IconData([
     {
       'tag': 'root',
@@ -3278,6 +3854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `biking`
+  /// 
+  /// ![biking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/biking.png)
   static const IconData icon_biking = IconData([
     {
       'tag': 'root',
@@ -3295,6 +3874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `binoculars`
+  /// 
+  /// ![binoculars](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/binoculars.png)
   static const IconData icon_binoculars = IconData([
     {
       'tag': 'root',
@@ -3312,6 +3894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `biohazard`
+  /// 
+  /// ![biohazard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/biohazard.png)
   static const IconData icon_biohazard = IconData([
     {
       'tag': 'root',
@@ -3329,6 +3914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `birthday cake`
+  /// 
+  /// ![birthday cake](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/birthday-cake.png)
   static const IconData icon_birthday_cake = IconData([
     {
       'tag': 'root',
@@ -3346,6 +3934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bitcoin sign`
+  /// 
+  /// ![bitcoin sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bitcoin-sign.png)
   static const IconData icon_bitcoin_sign = IconData([
     {
       'tag': 'root',
@@ -3363,6 +3954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `blackboard`
+  /// 
+  /// ![blackboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/blackboard.png)
   static const IconData icon_blackboard = IconData([
     {
       'tag': 'root',
@@ -3380,6 +3974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `blender`
+  /// 
+  /// ![blender](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/blender.png)
   static const IconData icon_blender = IconData([
     {
       'tag': 'root',
@@ -3397,6 +3994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `blender phone`
+  /// 
+  /// ![blender phone](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/blender-phone.png)
   static const IconData icon_blender_phone = IconData([
     {
       'tag': 'root',
@@ -3414,6 +4014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `blind`
+  /// 
+  /// ![blind](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/blind.png)
   static const IconData icon_blind = IconData([
     {
       'tag': 'root',
@@ -3431,6 +4034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `blog`
+  /// 
+  /// ![blog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/blog.png)
   static const IconData icon_blog = IconData([
     {
       'tag': 'root',
@@ -3448,6 +4054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bold`
+  /// 
+  /// ![bold](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bold.png)
   static const IconData icon_bold = IconData([
     {
       'tag': 'root',
@@ -3465,6 +4074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bolt`
+  /// 
+  /// ![bolt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bolt.png)
   static const IconData icon_bolt = IconData([
     {
       'tag': 'root',
@@ -3482,6 +4094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bolt lightning`
+  /// 
+  /// ![bolt lightning](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bolt-lightning.png)
   static const IconData icon_bolt_lightning = IconData([
     {
       'tag': 'root',
@@ -3499,6 +4114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bomb`
+  /// 
+  /// ![bomb](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bomb.png)
   static const IconData icon_bomb = IconData([
     {
       'tag': 'root',
@@ -3516,6 +4134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bone`
+  /// 
+  /// ![bone](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bone.png)
   static const IconData icon_bone = IconData([
     {
       'tag': 'root',
@@ -3533,6 +4154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bong`
+  /// 
+  /// ![bong](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bong.png)
   static const IconData icon_bong = IconData([
     {
       'tag': 'root',
@@ -3550,6 +4174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book`
+  /// 
+  /// ![book](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book.png)
   static const IconData icon_book = IconData([
     {
       'tag': 'root',
@@ -3567,6 +4194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book atlas`
+  /// 
+  /// ![book atlas](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-atlas.png)
   static const IconData icon_book_atlas = IconData([
     {
       'tag': 'root',
@@ -3584,6 +4214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book bible`
+  /// 
+  /// ![book bible](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-bible.png)
   static const IconData icon_book_bible = IconData([
     {
       'tag': 'root',
@@ -3601,6 +4234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book bookmark`
+  /// 
+  /// ![book bookmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-bookmark.png)
   static const IconData icon_book_bookmark = IconData([
     {
       'tag': 'root',
@@ -3618,6 +4254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book dead`
+  /// 
+  /// ![book dead](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-dead.png)
   static const IconData icon_book_dead = IconData([
     {
       'tag': 'root',
@@ -3635,6 +4274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book journal whills`
+  /// 
+  /// ![book journal whills](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-journal-whills.png)
   static const IconData icon_book_journal_whills = IconData([
     {
       'tag': 'root',
@@ -3652,6 +4294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book medical`
+  /// 
+  /// ![book medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-medical.png)
   static const IconData icon_book_medical = IconData([
     {
       'tag': 'root',
@@ -3669,6 +4314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book open`
+  /// 
+  /// ![book open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-open.png)
   static const IconData icon_book_open = IconData([
     {
       'tag': 'root',
@@ -3686,6 +4334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book open reader`
+  /// 
+  /// ![book open reader](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-open-reader.png)
   static const IconData icon_book_open_reader = IconData([
     {
       'tag': 'root',
@@ -3703,6 +4354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book quran`
+  /// 
+  /// ![book quran](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-quran.png)
   static const IconData icon_book_quran = IconData([
     {
       'tag': 'root',
@@ -3720,6 +4374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book reader`
+  /// 
+  /// ![book reader](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-reader.png)
   static const IconData icon_book_reader = IconData([
     {
       'tag': 'root',
@@ -3737,6 +4394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book skull`
+  /// 
+  /// ![book skull](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-skull.png)
   static const IconData icon_book_skull = IconData([
     {
       'tag': 'root',
@@ -3754,6 +4414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `book tanakh`
+  /// 
+  /// ![book tanakh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/book-tanakh.png)
   static const IconData icon_book_tanakh = IconData([
     {
       'tag': 'root',
@@ -3771,6 +4434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bookmark`
+  /// 
+  /// ![bookmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bookmark.png)
   static const IconData icon_bookmark = IconData([
     {
       'tag': 'root',
@@ -3788,6 +4454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `border all`
+  /// 
+  /// ![border all](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/border-all.png)
   static const IconData icon_border_all = IconData([
     {
       'tag': 'root',
@@ -3805,6 +4474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `border none`
+  /// 
+  /// ![border none](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/border-none.png)
   static const IconData icon_border_none = IconData([
     {
       'tag': 'root',
@@ -3822,6 +4494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `border style`
+  /// 
+  /// ![border style](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/border-style.png)
   static const IconData icon_border_style = IconData([
     {
       'tag': 'root',
@@ -3839,6 +4514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `border top left`
+  /// 
+  /// ![border top left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/border-top-left.png)
   static const IconData icon_border_top_left = IconData([
     {
       'tag': 'root',
@@ -3856,6 +4534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bore hole`
+  /// 
+  /// ![bore hole](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bore-hole.png)
   static const IconData icon_bore_hole = IconData([
     {
       'tag': 'root',
@@ -3873,6 +4554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bottle droplet`
+  /// 
+  /// ![bottle droplet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bottle-droplet.png)
   static const IconData icon_bottle_droplet = IconData([
     {
       'tag': 'root',
@@ -3890,6 +4574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bottle water`
+  /// 
+  /// ![bottle water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bottle-water.png)
   static const IconData icon_bottle_water = IconData([
     {
       'tag': 'root',
@@ -3907,6 +4594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bowl food`
+  /// 
+  /// ![bowl food](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bowl-food.png)
   static const IconData icon_bowl_food = IconData([
     {
       'tag': 'root',
@@ -3924,6 +4614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bowl rice`
+  /// 
+  /// ![bowl rice](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bowl-rice.png)
   static const IconData icon_bowl_rice = IconData([
     {
       'tag': 'root',
@@ -3941,6 +4634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bowling ball`
+  /// 
+  /// ![bowling ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bowling-ball.png)
   static const IconData icon_bowling_ball = IconData([
     {
       'tag': 'root',
@@ -3958,6 +4654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `box`
+  /// 
+  /// ![box](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/box.png)
   static const IconData icon_box = IconData([
     {
       'tag': 'root',
@@ -3975,6 +4674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `box archive`
+  /// 
+  /// ![box archive](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/box-archive.png)
   static const IconData icon_box_archive = IconData([
     {
       'tag': 'root',
@@ -3992,6 +4694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `box open`
+  /// 
+  /// ![box open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/box-open.png)
   static const IconData icon_box_open = IconData([
     {
       'tag': 'root',
@@ -4009,6 +4714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `box tissue`
+  /// 
+  /// ![box tissue](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/box-tissue.png)
   static const IconData icon_box_tissue = IconData([
     {
       'tag': 'root',
@@ -4026,6 +4734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `boxes`
+  /// 
+  /// ![boxes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/boxes.png)
   static const IconData icon_boxes = IconData([
     {
       'tag': 'root',
@@ -4043,6 +4754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `boxes alt`
+  /// 
+  /// ![boxes alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/boxes-alt.png)
   static const IconData icon_boxes_alt = IconData([
     {
       'tag': 'root',
@@ -4060,6 +4774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `boxes packing`
+  /// 
+  /// ![boxes packing](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/boxes-packing.png)
   static const IconData icon_boxes_packing = IconData([
     {
       'tag': 'root',
@@ -4077,6 +4794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `boxes stacked`
+  /// 
+  /// ![boxes stacked](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/boxes-stacked.png)
   static const IconData icon_boxes_stacked = IconData([
     {
       'tag': 'root',
@@ -4094,6 +4814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `braille`
+  /// 
+  /// ![braille](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/braille.png)
   static const IconData icon_braille = IconData([
     {
       'tag': 'root',
@@ -4111,6 +4834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `brain`
+  /// 
+  /// ![brain](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/brain.png)
   static const IconData icon_brain = IconData([
     {
       'tag': 'root',
@@ -4128,6 +4854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `brazilian real sign`
+  /// 
+  /// ![brazilian real sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/brazilian-real-sign.png)
   static const IconData icon_brazilian_real_sign = IconData([
     {
       'tag': 'root',
@@ -4145,6 +4874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bread slice`
+  /// 
+  /// ![bread slice](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bread-slice.png)
   static const IconData icon_bread_slice = IconData([
     {
       'tag': 'root',
@@ -4162,6 +4894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bridge`
+  /// 
+  /// ![bridge](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bridge.png)
   static const IconData icon_bridge = IconData([
     {
       'tag': 'root',
@@ -4179,6 +4914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bridge circle check`
+  /// 
+  /// ![bridge circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bridge-circle-check.png)
   static const IconData icon_bridge_circle_check = IconData([
     {
       'tag': 'root',
@@ -4196,6 +4934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bridge circle exclamation`
+  /// 
+  /// ![bridge circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bridge-circle-exclamation.png)
   static const IconData icon_bridge_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -4213,6 +4954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bridge circle xmark`
+  /// 
+  /// ![bridge circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bridge-circle-xmark.png)
   static const IconData icon_bridge_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -4230,6 +4974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bridge lock`
+  /// 
+  /// ![bridge lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bridge-lock.png)
   static const IconData icon_bridge_lock = IconData([
     {
       'tag': 'root',
@@ -4247,6 +4994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bridge water`
+  /// 
+  /// ![bridge water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bridge-water.png)
   static const IconData icon_bridge_water = IconData([
     {
       'tag': 'root',
@@ -4264,6 +5014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `briefcase`
+  /// 
+  /// ![briefcase](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/briefcase.png)
   static const IconData icon_briefcase = IconData([
     {
       'tag': 'root',
@@ -4281,6 +5034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `briefcase clock`
+  /// 
+  /// ![briefcase clock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/briefcase-clock.png)
   static const IconData icon_briefcase_clock = IconData([
     {
       'tag': 'root',
@@ -4298,6 +5054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `briefcase medical`
+  /// 
+  /// ![briefcase medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/briefcase-medical.png)
   static const IconData icon_briefcase_medical = IconData([
     {
       'tag': 'root',
@@ -4315,6 +5074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `broadcast tower`
+  /// 
+  /// ![broadcast tower](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/broadcast-tower.png)
   static const IconData icon_broadcast_tower = IconData([
     {
       'tag': 'root',
@@ -4332,6 +5094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `broom`
+  /// 
+  /// ![broom](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/broom.png)
   static const IconData icon_broom = IconData([
     {
       'tag': 'root',
@@ -4349,6 +5114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `broom ball`
+  /// 
+  /// ![broom ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/broom-ball.png)
   static const IconData icon_broom_ball = IconData([
     {
       'tag': 'root',
@@ -4366,6 +5134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `brush`
+  /// 
+  /// ![brush](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/brush.png)
   static const IconData icon_brush = IconData([
     {
       'tag': 'root',
@@ -4383,6 +5154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bucket`
+  /// 
+  /// ![bucket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bucket.png)
   static const IconData icon_bucket = IconData([
     {
       'tag': 'root',
@@ -4400,6 +5174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bug`
+  /// 
+  /// ![bug](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bug.png)
   static const IconData icon_bug = IconData([
     {
       'tag': 'root',
@@ -4417,6 +5194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bug slash`
+  /// 
+  /// ![bug slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bug-slash.png)
   static const IconData icon_bug_slash = IconData([
     {
       'tag': 'root',
@@ -4434,6 +5214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bugs`
+  /// 
+  /// ![bugs](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bugs.png)
   static const IconData icon_bugs = IconData([
     {
       'tag': 'root',
@@ -4451,6 +5234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building`
+  /// 
+  /// ![building](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building.png)
   static const IconData icon_building = IconData([
     {
       'tag': 'root',
@@ -4468,6 +5254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building circle arrow right`
+  /// 
+  /// ![building circle arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-circle-arrow-right.png)
   static const IconData icon_building_circle_arrow_right = IconData([
     {
       'tag': 'root',
@@ -4485,6 +5274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building circle check`
+  /// 
+  /// ![building circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-circle-check.png)
   static const IconData icon_building_circle_check = IconData([
     {
       'tag': 'root',
@@ -4502,6 +5294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building circle exclamation`
+  /// 
+  /// ![building circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-circle-exclamation.png)
   static const IconData icon_building_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -4519,6 +5314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building circle xmark`
+  /// 
+  /// ![building circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-circle-xmark.png)
   static const IconData icon_building_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -4536,6 +5334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building columns`
+  /// 
+  /// ![building columns](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-columns.png)
   static const IconData icon_building_columns = IconData([
     {
       'tag': 'root',
@@ -4553,6 +5354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building flag`
+  /// 
+  /// ![building flag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-flag.png)
   static const IconData icon_building_flag = IconData([
     {
       'tag': 'root',
@@ -4570,6 +5374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building lock`
+  /// 
+  /// ![building lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-lock.png)
   static const IconData icon_building_lock = IconData([
     {
       'tag': 'root',
@@ -4587,6 +5394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building ngo`
+  /// 
+  /// ![building ngo](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-ngo.png)
   static const IconData icon_building_ngo = IconData([
     {
       'tag': 'root',
@@ -4604,6 +5414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building shield`
+  /// 
+  /// ![building shield](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-shield.png)
   static const IconData icon_building_shield = IconData([
     {
       'tag': 'root',
@@ -4621,6 +5434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building un`
+  /// 
+  /// ![building un](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-un.png)
   static const IconData icon_building_un = IconData([
     {
       'tag': 'root',
@@ -4638,6 +5454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building user`
+  /// 
+  /// ![building user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-user.png)
   static const IconData icon_building_user = IconData([
     {
       'tag': 'root',
@@ -4655,6 +5474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `building wheat`
+  /// 
+  /// ![building wheat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/building-wheat.png)
   static const IconData icon_building_wheat = IconData([
     {
       'tag': 'root',
@@ -4672,6 +5494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bullhorn`
+  /// 
+  /// ![bullhorn](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bullhorn.png)
   static const IconData icon_bullhorn = IconData([
     {
       'tag': 'root',
@@ -4689,6 +5514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bullseye`
+  /// 
+  /// ![bullseye](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bullseye.png)
   static const IconData icon_bullseye = IconData([
     {
       'tag': 'root',
@@ -4706,6 +5534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `burger`
+  /// 
+  /// ![burger](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/burger.png)
   static const IconData icon_burger = IconData([
     {
       'tag': 'root',
@@ -4723,6 +5554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `burn`
+  /// 
+  /// ![burn](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/burn.png)
   static const IconData icon_burn = IconData([
     {
       'tag': 'root',
@@ -4740,6 +5574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `burst`
+  /// 
+  /// ![burst](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/burst.png)
   static const IconData icon_burst = IconData([
     {
       'tag': 'root',
@@ -4757,6 +5594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bus`
+  /// 
+  /// ![bus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bus.png)
   static const IconData icon_bus = IconData([
     {
       'tag': 'root',
@@ -4774,6 +5614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bus alt`
+  /// 
+  /// ![bus alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bus-alt.png)
   static const IconData icon_bus_alt = IconData([
     {
       'tag': 'root',
@@ -4791,6 +5634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bus side`
+  /// 
+  /// ![bus side](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bus-side.png)
   static const IconData icon_bus_side = IconData([
     {
       'tag': 'root',
@@ -4808,6 +5654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `bus simple`
+  /// 
+  /// ![bus simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/bus-simple.png)
   static const IconData icon_bus_simple = IconData([
     {
       'tag': 'root',
@@ -4825,6 +5674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `business time`
+  /// 
+  /// ![business time](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/business-time.png)
   static const IconData icon_business_time = IconData([
     {
       'tag': 'root',
@@ -4842,6 +5694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `c`
+  /// 
+  /// ![c](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/c.png)
   static const IconData icon_c = IconData([
     {
       'tag': 'root',
@@ -4859,6 +5714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cab`
+  /// 
+  /// ![cab](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cab.png)
   static const IconData icon_cab = IconData([
     {
       'tag': 'root',
@@ -4876,6 +5734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cable car`
+  /// 
+  /// ![cable car](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cable-car.png)
   static const IconData icon_cable_car = IconData([
     {
       'tag': 'root',
@@ -4893,6 +5754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cake`
+  /// 
+  /// ![cake](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cake.png)
   static const IconData icon_cake = IconData([
     {
       'tag': 'root',
@@ -4910,6 +5774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cake candles`
+  /// 
+  /// ![cake candles](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cake-candles.png)
   static const IconData icon_cake_candles = IconData([
     {
       'tag': 'root',
@@ -4927,6 +5794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calculator`
+  /// 
+  /// ![calculator](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calculator.png)
   static const IconData icon_calculator = IconData([
     {
       'tag': 'root',
@@ -4944,6 +5814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar`
+  /// 
+  /// ![calendar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar.png)
   static const IconData icon_calendar = IconData([
     {
       'tag': 'root',
@@ -4961,6 +5834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar alt`
+  /// 
+  /// ![calendar alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-alt.png)
   static const IconData icon_calendar_alt = IconData([
     {
       'tag': 'root',
@@ -4978,6 +5854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar check`
+  /// 
+  /// ![calendar check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-check.png)
   static const IconData icon_calendar_check = IconData([
     {
       'tag': 'root',
@@ -4995,6 +5874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar day`
+  /// 
+  /// ![calendar day](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-day.png)
   static const IconData icon_calendar_day = IconData([
     {
       'tag': 'root',
@@ -5012,6 +5894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar days`
+  /// 
+  /// ![calendar days](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-days.png)
   static const IconData icon_calendar_days = IconData([
     {
       'tag': 'root',
@@ -5029,6 +5914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar minus`
+  /// 
+  /// ![calendar minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-minus.png)
   static const IconData icon_calendar_minus = IconData([
     {
       'tag': 'root',
@@ -5046,6 +5934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar plus`
+  /// 
+  /// ![calendar plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-plus.png)
   static const IconData icon_calendar_plus = IconData([
     {
       'tag': 'root',
@@ -5063,6 +5954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar times`
+  /// 
+  /// ![calendar times](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-times.png)
   static const IconData icon_calendar_times = IconData([
     {
       'tag': 'root',
@@ -5080,6 +5974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar week`
+  /// 
+  /// ![calendar week](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-week.png)
   static const IconData icon_calendar_week = IconData([
     {
       'tag': 'root',
@@ -5097,6 +5994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `calendar xmark`
+  /// 
+  /// ![calendar xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/calendar-xmark.png)
   static const IconData icon_calendar_xmark = IconData([
     {
       'tag': 'root',
@@ -5114,6 +6014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `camera`
+  /// 
+  /// ![camera](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/camera.png)
   static const IconData icon_camera = IconData([
     {
       'tag': 'root',
@@ -5131,6 +6034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `camera alt`
+  /// 
+  /// ![camera alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/camera-alt.png)
   static const IconData icon_camera_alt = IconData([
     {
       'tag': 'root',
@@ -5148,6 +6054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `camera retro`
+  /// 
+  /// ![camera retro](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/camera-retro.png)
   static const IconData icon_camera_retro = IconData([
     {
       'tag': 'root',
@@ -5165,6 +6074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `camera rotate`
+  /// 
+  /// ![camera rotate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/camera-rotate.png)
   static const IconData icon_camera_rotate = IconData([
     {
       'tag': 'root',
@@ -5182,6 +6094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `campground`
+  /// 
+  /// ![campground](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/campground.png)
   static const IconData icon_campground = IconData([
     {
       'tag': 'root',
@@ -5199,6 +6114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cancel`
+  /// 
+  /// ![cancel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cancel.png)
   static const IconData icon_cancel = IconData([
     {
       'tag': 'root',
@@ -5216,6 +6134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cancer`
+  /// 
+  /// ![cancer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cancer.png)
   static const IconData icon_cancer = IconData([
     {
       'tag': 'root',
@@ -5233,6 +6154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `candy cane`
+  /// 
+  /// ![candy cane](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/candy-cane.png)
   static const IconData icon_candy_cane = IconData([
     {
       'tag': 'root',
@@ -5250,6 +6174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cannabis`
+  /// 
+  /// ![cannabis](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cannabis.png)
   static const IconData icon_cannabis = IconData([
     {
       'tag': 'root',
@@ -5267,6 +6194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `capricorn`
+  /// 
+  /// ![capricorn](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/capricorn.png)
   static const IconData icon_capricorn = IconData([
     {
       'tag': 'root',
@@ -5284,6 +6214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `capsules`
+  /// 
+  /// ![capsules](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/capsules.png)
   static const IconData icon_capsules = IconData([
     {
       'tag': 'root',
@@ -5301,6 +6234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car`
+  /// 
+  /// ![car](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car.png)
   static const IconData icon_car = IconData([
     {
       'tag': 'root',
@@ -5318,6 +6254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car alt`
+  /// 
+  /// ![car alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car-alt.png)
   static const IconData icon_car_alt = IconData([
     {
       'tag': 'root',
@@ -5335,6 +6274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car battery`
+  /// 
+  /// ![car battery](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car-battery.png)
   static const IconData icon_car_battery = IconData([
     {
       'tag': 'root',
@@ -5352,6 +6294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car burst`
+  /// 
+  /// ![car burst](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car-burst.png)
   static const IconData icon_car_burst = IconData([
     {
       'tag': 'root',
@@ -5369,6 +6314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car crash`
+  /// 
+  /// ![car crash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car-crash.png)
   static const IconData icon_car_crash = IconData([
     {
       'tag': 'root',
@@ -5386,6 +6334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car on`
+  /// 
+  /// ![car on](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car-on.png)
   static const IconData icon_car_on = IconData([
     {
       'tag': 'root',
@@ -5403,6 +6354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car rear`
+  /// 
+  /// ![car rear](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car-rear.png)
   static const IconData icon_car_rear = IconData([
     {
       'tag': 'root',
@@ -5420,6 +6374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car side`
+  /// 
+  /// ![car side](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car-side.png)
   static const IconData icon_car_side = IconData([
     {
       'tag': 'root',
@@ -5437,6 +6394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `car tunnel`
+  /// 
+  /// ![car tunnel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/car-tunnel.png)
   static const IconData icon_car_tunnel = IconData([
     {
       'tag': 'root',
@@ -5454,6 +6414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caravan`
+  /// 
+  /// ![caravan](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caravan.png)
   static const IconData icon_caravan = IconData([
     {
       'tag': 'root',
@@ -5471,6 +6434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caret down`
+  /// 
+  /// ![caret down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caret-down.png)
   static const IconData icon_caret_down = IconData([
     {
       'tag': 'root',
@@ -5488,6 +6454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caret left`
+  /// 
+  /// ![caret left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caret-left.png)
   static const IconData icon_caret_left = IconData([
     {
       'tag': 'root',
@@ -5505,6 +6474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caret right`
+  /// 
+  /// ![caret right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caret-right.png)
   static const IconData icon_caret_right = IconData([
     {
       'tag': 'root',
@@ -5522,6 +6494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caret square down`
+  /// 
+  /// ![caret square down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caret-square-down.png)
   static const IconData icon_caret_square_down = IconData([
     {
       'tag': 'root',
@@ -5539,6 +6514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caret square left`
+  /// 
+  /// ![caret square left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caret-square-left.png)
   static const IconData icon_caret_square_left = IconData([
     {
       'tag': 'root',
@@ -5556,6 +6534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caret square right`
+  /// 
+  /// ![caret square right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caret-square-right.png)
   static const IconData icon_caret_square_right = IconData([
     {
       'tag': 'root',
@@ -5573,6 +6554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caret square up`
+  /// 
+  /// ![caret square up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caret-square-up.png)
   static const IconData icon_caret_square_up = IconData([
     {
       'tag': 'root',
@@ -5590,6 +6574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `caret up`
+  /// 
+  /// ![caret up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/caret-up.png)
   static const IconData icon_caret_up = IconData([
     {
       'tag': 'root',
@@ -5607,6 +6594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `carriage baby`
+  /// 
+  /// ![carriage baby](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/carriage-baby.png)
   static const IconData icon_carriage_baby = IconData([
     {
       'tag': 'root',
@@ -5624,6 +6614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `carrot`
+  /// 
+  /// ![carrot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/carrot.png)
   static const IconData icon_carrot = IconData([
     {
       'tag': 'root',
@@ -5641,6 +6634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cart arrow down`
+  /// 
+  /// ![cart arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cart-arrow-down.png)
   static const IconData icon_cart_arrow_down = IconData([
     {
       'tag': 'root',
@@ -5658,6 +6654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cart flatbed`
+  /// 
+  /// ![cart flatbed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cart-flatbed.png)
   static const IconData icon_cart_flatbed = IconData([
     {
       'tag': 'root',
@@ -5675,6 +6674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cart flatbed suitcase`
+  /// 
+  /// ![cart flatbed suitcase](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cart-flatbed-suitcase.png)
   static const IconData icon_cart_flatbed_suitcase = IconData([
     {
       'tag': 'root',
@@ -5692,6 +6694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cart plus`
+  /// 
+  /// ![cart plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cart-plus.png)
   static const IconData icon_cart_plus = IconData([
     {
       'tag': 'root',
@@ -5709,6 +6714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cart shopping`
+  /// 
+  /// ![cart shopping](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cart-shopping.png)
   static const IconData icon_cart_shopping = IconData([
     {
       'tag': 'root',
@@ -5726,6 +6734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cash register`
+  /// 
+  /// ![cash register](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cash-register.png)
   static const IconData icon_cash_register = IconData([
     {
       'tag': 'root',
@@ -5743,6 +6754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cat`
+  /// 
+  /// ![cat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cat.png)
   static const IconData icon_cat = IconData([
     {
       'tag': 'root',
@@ -5760,6 +6774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cedi sign`
+  /// 
+  /// ![cedi sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cedi-sign.png)
   static const IconData icon_cedi_sign = IconData([
     {
       'tag': 'root',
@@ -5777,6 +6794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cent sign`
+  /// 
+  /// ![cent sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cent-sign.png)
   static const IconData icon_cent_sign = IconData([
     {
       'tag': 'root',
@@ -5794,6 +6814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `certificate`
+  /// 
+  /// ![certificate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/certificate.png)
   static const IconData icon_certificate = IconData([
     {
       'tag': 'root',
@@ -5811,6 +6834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chain`
+  /// 
+  /// ![chain](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chain.png)
   static const IconData icon_chain = IconData([
     {
       'tag': 'root',
@@ -5828,6 +6854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chain broken`
+  /// 
+  /// ![chain broken](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chain-broken.png)
   static const IconData icon_chain_broken = IconData([
     {
       'tag': 'root',
@@ -5845,6 +6874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chain slash`
+  /// 
+  /// ![chain slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chain-slash.png)
   static const IconData icon_chain_slash = IconData([
     {
       'tag': 'root',
@@ -5862,6 +6894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chair`
+  /// 
+  /// ![chair](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chair.png)
   static const IconData icon_chair = IconData([
     {
       'tag': 'root',
@@ -5879,6 +6914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chalkboard`
+  /// 
+  /// ![chalkboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chalkboard.png)
   static const IconData icon_chalkboard = IconData([
     {
       'tag': 'root',
@@ -5896,6 +6934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chalkboard teacher`
+  /// 
+  /// ![chalkboard teacher](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chalkboard-teacher.png)
   static const IconData icon_chalkboard_teacher = IconData([
     {
       'tag': 'root',
@@ -5913,6 +6954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chalkboard user`
+  /// 
+  /// ![chalkboard user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chalkboard-user.png)
   static const IconData icon_chalkboard_user = IconData([
     {
       'tag': 'root',
@@ -5930,6 +6974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `champagne glasses`
+  /// 
+  /// ![champagne glasses](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/champagne-glasses.png)
   static const IconData icon_champagne_glasses = IconData([
     {
       'tag': 'root',
@@ -5947,6 +6994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `charging station`
+  /// 
+  /// ![charging station](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/charging-station.png)
   static const IconData icon_charging_station = IconData([
     {
       'tag': 'root',
@@ -5964,6 +7014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chart area`
+  /// 
+  /// ![chart area](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chart-area.png)
   static const IconData icon_chart_area = IconData([
     {
       'tag': 'root',
@@ -5981,6 +7034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chart bar`
+  /// 
+  /// ![chart bar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chart-bar.png)
   static const IconData icon_chart_bar = IconData([
     {
       'tag': 'root',
@@ -5998,6 +7054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chart column`
+  /// 
+  /// ![chart column](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chart-column.png)
   static const IconData icon_chart_column = IconData([
     {
       'tag': 'root',
@@ -6015,6 +7074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chart diagram`
+  /// 
+  /// ![chart diagram](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chart-diagram.png)
   static const IconData icon_chart_diagram = IconData([
     {
       'tag': 'root',
@@ -6032,6 +7094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chart gantt`
+  /// 
+  /// ![chart gantt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chart-gantt.png)
   static const IconData icon_chart_gantt = IconData([
     {
       'tag': 'root',
@@ -6049,6 +7114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chart line`
+  /// 
+  /// ![chart line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chart-line.png)
   static const IconData icon_chart_line = IconData([
     {
       'tag': 'root',
@@ -6066,6 +7134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chart pie`
+  /// 
+  /// ![chart pie](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chart-pie.png)
   static const IconData icon_chart_pie = IconData([
     {
       'tag': 'root',
@@ -6083,6 +7154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chart simple`
+  /// 
+  /// ![chart simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chart-simple.png)
   static const IconData icon_chart_simple = IconData([
     {
       'tag': 'root',
@@ -6100,6 +7174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `check`
+  /// 
+  /// ![check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/check.png)
   static const IconData icon_check = IconData([
     {
       'tag': 'root',
@@ -6117,6 +7194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `check circle`
+  /// 
+  /// ![check circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/check-circle.png)
   static const IconData icon_check_circle = IconData([
     {
       'tag': 'root',
@@ -6134,6 +7214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `check double`
+  /// 
+  /// ![check double](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/check-double.png)
   static const IconData icon_check_double = IconData([
     {
       'tag': 'root',
@@ -6151,6 +7234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `check square`
+  /// 
+  /// ![check square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/check-square.png)
   static const IconData icon_check_square = IconData([
     {
       'tag': 'root',
@@ -6168,6 +7254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `check to slot`
+  /// 
+  /// ![check to slot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/check-to-slot.png)
   static const IconData icon_check_to_slot = IconData([
     {
       'tag': 'root',
@@ -6185,6 +7274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cheese`
+  /// 
+  /// ![cheese](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cheese.png)
   static const IconData icon_cheese = IconData([
     {
       'tag': 'root',
@@ -6202,6 +7294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chess`
+  /// 
+  /// ![chess](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chess.png)
   static const IconData icon_chess = IconData([
     {
       'tag': 'root',
@@ -6219,6 +7314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chess bishop`
+  /// 
+  /// ![chess bishop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chess-bishop.png)
   static const IconData icon_chess_bishop = IconData([
     {
       'tag': 'root',
@@ -6236,6 +7334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chess board`
+  /// 
+  /// ![chess board](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chess-board.png)
   static const IconData icon_chess_board = IconData([
     {
       'tag': 'root',
@@ -6253,6 +7354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chess king`
+  /// 
+  /// ![chess king](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chess-king.png)
   static const IconData icon_chess_king = IconData([
     {
       'tag': 'root',
@@ -6270,6 +7374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chess knight`
+  /// 
+  /// ![chess knight](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chess-knight.png)
   static const IconData icon_chess_knight = IconData([
     {
       'tag': 'root',
@@ -6287,6 +7394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chess pawn`
+  /// 
+  /// ![chess pawn](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chess-pawn.png)
   static const IconData icon_chess_pawn = IconData([
     {
       'tag': 'root',
@@ -6304,6 +7414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chess queen`
+  /// 
+  /// ![chess queen](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chess-queen.png)
   static const IconData icon_chess_queen = IconData([
     {
       'tag': 'root',
@@ -6321,6 +7434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chess rook`
+  /// 
+  /// ![chess rook](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chess-rook.png)
   static const IconData icon_chess_rook = IconData([
     {
       'tag': 'root',
@@ -6338,6 +7454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chevron circle down`
+  /// 
+  /// ![chevron circle down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chevron-circle-down.png)
   static const IconData icon_chevron_circle_down = IconData([
     {
       'tag': 'root',
@@ -6355,6 +7474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chevron circle left`
+  /// 
+  /// ![chevron circle left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chevron-circle-left.png)
   static const IconData icon_chevron_circle_left = IconData([
     {
       'tag': 'root',
@@ -6372,6 +7494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chevron circle right`
+  /// 
+  /// ![chevron circle right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chevron-circle-right.png)
   static const IconData icon_chevron_circle_right = IconData([
     {
       'tag': 'root',
@@ -6389,6 +7514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chevron circle up`
+  /// 
+  /// ![chevron circle up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chevron-circle-up.png)
   static const IconData icon_chevron_circle_up = IconData([
     {
       'tag': 'root',
@@ -6406,6 +7534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chevron down`
+  /// 
+  /// ![chevron down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chevron-down.png)
   static const IconData icon_chevron_down = IconData([
     {
       'tag': 'root',
@@ -6423,6 +7554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chevron left`
+  /// 
+  /// ![chevron left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chevron-left.png)
   static const IconData icon_chevron_left = IconData([
     {
       'tag': 'root',
@@ -6440,6 +7574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chevron right`
+  /// 
+  /// ![chevron right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chevron-right.png)
   static const IconData icon_chevron_right = IconData([
     {
       'tag': 'root',
@@ -6457,6 +7594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `chevron up`
+  /// 
+  /// ![chevron up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/chevron-up.png)
   static const IconData icon_chevron_up = IconData([
     {
       'tag': 'root',
@@ -6474,6 +7614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `child`
+  /// 
+  /// ![child](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/child.png)
   static const IconData icon_child = IconData([
     {
       'tag': 'root',
@@ -6491,6 +7634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `child combatant`
+  /// 
+  /// ![child combatant](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/child-combatant.png)
   static const IconData icon_child_combatant = IconData([
     {
       'tag': 'root',
@@ -6508,6 +7654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `child dress`
+  /// 
+  /// ![child dress](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/child-dress.png)
   static const IconData icon_child_dress = IconData([
     {
       'tag': 'root',
@@ -6525,6 +7674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `child reaching`
+  /// 
+  /// ![child reaching](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/child-reaching.png)
   static const IconData icon_child_reaching = IconData([
     {
       'tag': 'root',
@@ -6542,6 +7694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `child rifle`
+  /// 
+  /// ![child rifle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/child-rifle.png)
   static const IconData icon_child_rifle = IconData([
     {
       'tag': 'root',
@@ -6559,6 +7714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `children`
+  /// 
+  /// ![children](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/children.png)
   static const IconData icon_children = IconData([
     {
       'tag': 'root',
@@ -6576,6 +7734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `church`
+  /// 
+  /// ![church](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/church.png)
   static const IconData icon_church = IconData([
     {
       'tag': 'root',
@@ -6593,6 +7754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle`
+  /// 
+  /// ![circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle.png)
   static const IconData icon_circle = IconData([
     {
       'tag': 'root',
@@ -6610,6 +7774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle arrow down`
+  /// 
+  /// ![circle arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-arrow-down.png)
   static const IconData icon_circle_arrow_down = IconData([
     {
       'tag': 'root',
@@ -6627,6 +7794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle arrow left`
+  /// 
+  /// ![circle arrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-arrow-left.png)
   static const IconData icon_circle_arrow_left = IconData([
     {
       'tag': 'root',
@@ -6644,6 +7814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle arrow right`
+  /// 
+  /// ![circle arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-arrow-right.png)
   static const IconData icon_circle_arrow_right = IconData([
     {
       'tag': 'root',
@@ -6661,6 +7834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle arrow up`
+  /// 
+  /// ![circle arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-arrow-up.png)
   static const IconData icon_circle_arrow_up = IconData([
     {
       'tag': 'root',
@@ -6678,6 +7854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle check`
+  /// 
+  /// ![circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-check.png)
   static const IconData icon_circle_check = IconData([
     {
       'tag': 'root',
@@ -6695,6 +7874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle chevron down`
+  /// 
+  /// ![circle chevron down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-chevron-down.png)
   static const IconData icon_circle_chevron_down = IconData([
     {
       'tag': 'root',
@@ -6712,6 +7894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle chevron left`
+  /// 
+  /// ![circle chevron left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-chevron-left.png)
   static const IconData icon_circle_chevron_left = IconData([
     {
       'tag': 'root',
@@ -6729,6 +7914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle chevron right`
+  /// 
+  /// ![circle chevron right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-chevron-right.png)
   static const IconData icon_circle_chevron_right = IconData([
     {
       'tag': 'root',
@@ -6746,6 +7934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle chevron up`
+  /// 
+  /// ![circle chevron up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-chevron-up.png)
   static const IconData icon_circle_chevron_up = IconData([
     {
       'tag': 'root',
@@ -6763,6 +7954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle dollar to slot`
+  /// 
+  /// ![circle dollar to slot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-dollar-to-slot.png)
   static const IconData icon_circle_dollar_to_slot = IconData([
     {
       'tag': 'root',
@@ -6780,6 +7974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle dot`
+  /// 
+  /// ![circle dot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-dot.png)
   static const IconData icon_circle_dot = IconData([
     {
       'tag': 'root',
@@ -6797,6 +7994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle down`
+  /// 
+  /// ![circle down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-down.png)
   static const IconData icon_circle_down = IconData([
     {
       'tag': 'root',
@@ -6814,6 +8014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle exclamation`
+  /// 
+  /// ![circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-exclamation.png)
   static const IconData icon_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -6831,6 +8034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle h`
+  /// 
+  /// ![circle h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-h.png)
   static const IconData icon_circle_h = IconData([
     {
       'tag': 'root',
@@ -6848,6 +8054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle half stroke`
+  /// 
+  /// ![circle half stroke](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-half-stroke.png)
   static const IconData icon_circle_half_stroke = IconData([
     {
       'tag': 'root',
@@ -6865,6 +8074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle info`
+  /// 
+  /// ![circle info](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-info.png)
   static const IconData icon_circle_info = IconData([
     {
       'tag': 'root',
@@ -6882,6 +8094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle left`
+  /// 
+  /// ![circle left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-left.png)
   static const IconData icon_circle_left = IconData([
     {
       'tag': 'root',
@@ -6899,6 +8114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle minus`
+  /// 
+  /// ![circle minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-minus.png)
   static const IconData icon_circle_minus = IconData([
     {
       'tag': 'root',
@@ -6916,6 +8134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle nodes`
+  /// 
+  /// ![circle nodes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-nodes.png)
   static const IconData icon_circle_nodes = IconData([
     {
       'tag': 'root',
@@ -6933,6 +8154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle notch`
+  /// 
+  /// ![circle notch](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-notch.png)
   static const IconData icon_circle_notch = IconData([
     {
       'tag': 'root',
@@ -6950,6 +8174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle pause`
+  /// 
+  /// ![circle pause](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-pause.png)
   static const IconData icon_circle_pause = IconData([
     {
       'tag': 'root',
@@ -6967,6 +8194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle play`
+  /// 
+  /// ![circle play](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-play.png)
   static const IconData icon_circle_play = IconData([
     {
       'tag': 'root',
@@ -6984,6 +8214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle plus`
+  /// 
+  /// ![circle plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-plus.png)
   static const IconData icon_circle_plus = IconData([
     {
       'tag': 'root',
@@ -7001,6 +8234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle question`
+  /// 
+  /// ![circle question](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-question.png)
   static const IconData icon_circle_question = IconData([
     {
       'tag': 'root',
@@ -7018,6 +8254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle radiation`
+  /// 
+  /// ![circle radiation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-radiation.png)
   static const IconData icon_circle_radiation = IconData([
     {
       'tag': 'root',
@@ -7035,6 +8274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle right`
+  /// 
+  /// ![circle right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-right.png)
   static const IconData icon_circle_right = IconData([
     {
       'tag': 'root',
@@ -7052,6 +8294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle stop`
+  /// 
+  /// ![circle stop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-stop.png)
   static const IconData icon_circle_stop = IconData([
     {
       'tag': 'root',
@@ -7069,6 +8314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle up`
+  /// 
+  /// ![circle up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-up.png)
   static const IconData icon_circle_up = IconData([
     {
       'tag': 'root',
@@ -7086,6 +8334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle user`
+  /// 
+  /// ![circle user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-user.png)
   static const IconData icon_circle_user = IconData([
     {
       'tag': 'root',
@@ -7103,6 +8354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `circle xmark`
+  /// 
+  /// ![circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/circle-xmark.png)
   static const IconData icon_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -7120,6 +8374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `city`
+  /// 
+  /// ![city](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/city.png)
   static const IconData icon_city = IconData([
     {
       'tag': 'root',
@@ -7137,6 +8394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clapperboard`
+  /// 
+  /// ![clapperboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clapperboard.png)
   static const IconData icon_clapperboard = IconData([
     {
       'tag': 'root',
@@ -7154,6 +8414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clinic medical`
+  /// 
+  /// ![clinic medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clinic-medical.png)
   static const IconData icon_clinic_medical = IconData([
     {
       'tag': 'root',
@@ -7171,6 +8434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clipboard`
+  /// 
+  /// ![clipboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clipboard.png)
   static const IconData icon_clipboard = IconData([
     {
       'tag': 'root',
@@ -7188,6 +8454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clipboard check`
+  /// 
+  /// ![clipboard check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clipboard-check.png)
   static const IconData icon_clipboard_check = IconData([
     {
       'tag': 'root',
@@ -7205,6 +8474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clipboard list`
+  /// 
+  /// ![clipboard list](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clipboard-list.png)
   static const IconData icon_clipboard_list = IconData([
     {
       'tag': 'root',
@@ -7222,6 +8494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clipboard question`
+  /// 
+  /// ![clipboard question](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clipboard-question.png)
   static const IconData icon_clipboard_question = IconData([
     {
       'tag': 'root',
@@ -7239,6 +8514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clipboard user`
+  /// 
+  /// ![clipboard user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clipboard-user.png)
   static const IconData icon_clipboard_user = IconData([
     {
       'tag': 'root',
@@ -7256,6 +8534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clock`
+  /// 
+  /// ![clock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clock.png)
   static const IconData icon_clock = IconData([
     {
       'tag': 'root',
@@ -7273,6 +8554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clock four`
+  /// 
+  /// ![clock four](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clock-four.png)
   static const IconData icon_clock_four = IconData([
     {
       'tag': 'root',
@@ -7290,6 +8574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clock rotate left`
+  /// 
+  /// ![clock rotate left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clock-rotate-left.png)
   static const IconData icon_clock_rotate_left = IconData([
     {
       'tag': 'root',
@@ -7307,6 +8594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clone`
+  /// 
+  /// ![clone](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clone.png)
   static const IconData icon_clone = IconData([
     {
       'tag': 'root',
@@ -7324,6 +8614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `close`
+  /// 
+  /// ![close](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/close.png)
   static const IconData icon_close = IconData([
     {
       'tag': 'root',
@@ -7341,6 +8634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `closed captioning`
+  /// 
+  /// ![closed captioning](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/closed-captioning.png)
   static const IconData icon_closed_captioning = IconData([
     {
       'tag': 'root',
@@ -7358,6 +8654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `closed captioning slash`
+  /// 
+  /// ![closed captioning slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/closed-captioning-slash.png)
   static const IconData icon_closed_captioning_slash = IconData([
     {
       'tag': 'root',
@@ -7375,6 +8674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud`
+  /// 
+  /// ![cloud](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud.png)
   static const IconData icon_cloud = IconData([
     {
       'tag': 'root',
@@ -7392,6 +8694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud arrow down`
+  /// 
+  /// ![cloud arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-arrow-down.png)
   static const IconData icon_cloud_arrow_down = IconData([
     {
       'tag': 'root',
@@ -7409,6 +8714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud arrow up`
+  /// 
+  /// ![cloud arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-arrow-up.png)
   static const IconData icon_cloud_arrow_up = IconData([
     {
       'tag': 'root',
@@ -7426,6 +8734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud bolt`
+  /// 
+  /// ![cloud bolt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-bolt.png)
   static const IconData icon_cloud_bolt = IconData([
     {
       'tag': 'root',
@@ -7443,6 +8754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud download`
+  /// 
+  /// ![cloud download](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-download.png)
   static const IconData icon_cloud_download = IconData([
     {
       'tag': 'root',
@@ -7460,6 +8774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud download alt`
+  /// 
+  /// ![cloud download alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-download-alt.png)
   static const IconData icon_cloud_download_alt = IconData([
     {
       'tag': 'root',
@@ -7477,6 +8794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud meatball`
+  /// 
+  /// ![cloud meatball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-meatball.png)
   static const IconData icon_cloud_meatball = IconData([
     {
       'tag': 'root',
@@ -7494,6 +8814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud moon`
+  /// 
+  /// ![cloud moon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-moon.png)
   static const IconData icon_cloud_moon = IconData([
     {
       'tag': 'root',
@@ -7511,6 +8834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud moon rain`
+  /// 
+  /// ![cloud moon rain](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-moon-rain.png)
   static const IconData icon_cloud_moon_rain = IconData([
     {
       'tag': 'root',
@@ -7528,6 +8854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud rain`
+  /// 
+  /// ![cloud rain](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-rain.png)
   static const IconData icon_cloud_rain = IconData([
     {
       'tag': 'root',
@@ -7545,6 +8874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud showers heavy`
+  /// 
+  /// ![cloud showers heavy](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-showers-heavy.png)
   static const IconData icon_cloud_showers_heavy = IconData([
     {
       'tag': 'root',
@@ -7562,6 +8894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud showers water`
+  /// 
+  /// ![cloud showers water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-showers-water.png)
   static const IconData icon_cloud_showers_water = IconData([
     {
       'tag': 'root',
@@ -7579,6 +8914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud sun`
+  /// 
+  /// ![cloud sun](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-sun.png)
   static const IconData icon_cloud_sun = IconData([
     {
       'tag': 'root',
@@ -7596,6 +8934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud sun rain`
+  /// 
+  /// ![cloud sun rain](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-sun-rain.png)
   static const IconData icon_cloud_sun_rain = IconData([
     {
       'tag': 'root',
@@ -7613,6 +8954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud upload`
+  /// 
+  /// ![cloud upload](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-upload.png)
   static const IconData icon_cloud_upload = IconData([
     {
       'tag': 'root',
@@ -7630,6 +8974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cloud upload alt`
+  /// 
+  /// ![cloud upload alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cloud-upload-alt.png)
   static const IconData icon_cloud_upload_alt = IconData([
     {
       'tag': 'root',
@@ -7647,6 +8994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `clover`
+  /// 
+  /// ![clover](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/clover.png)
   static const IconData icon_clover = IconData([
     {
       'tag': 'root',
@@ -7664,6 +9014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cny`
+  /// 
+  /// ![cny](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cny.png)
   static const IconData icon_cny = IconData([
     {
       'tag': 'root',
@@ -7681,6 +9034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cocktail`
+  /// 
+  /// ![cocktail](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cocktail.png)
   static const IconData icon_cocktail = IconData([
     {
       'tag': 'root',
@@ -7698,6 +9054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `code`
+  /// 
+  /// ![code](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/code.png)
   static const IconData icon_code = IconData([
     {
       'tag': 'root',
@@ -7715,6 +9074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `code branch`
+  /// 
+  /// ![code branch](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/code-branch.png)
   static const IconData icon_code_branch = IconData([
     {
       'tag': 'root',
@@ -7732,6 +9094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `code commit`
+  /// 
+  /// ![code commit](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/code-commit.png)
   static const IconData icon_code_commit = IconData([
     {
       'tag': 'root',
@@ -7749,6 +9114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `code compare`
+  /// 
+  /// ![code compare](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/code-compare.png)
   static const IconData icon_code_compare = IconData([
     {
       'tag': 'root',
@@ -7766,6 +9134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `code fork`
+  /// 
+  /// ![code fork](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/code-fork.png)
   static const IconData icon_code_fork = IconData([
     {
       'tag': 'root',
@@ -7783,6 +9154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `code merge`
+  /// 
+  /// ![code merge](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/code-merge.png)
   static const IconData icon_code_merge = IconData([
     {
       'tag': 'root',
@@ -7800,6 +9174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `code pull request`
+  /// 
+  /// ![code pull request](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/code-pull-request.png)
   static const IconData icon_code_pull_request = IconData([
     {
       'tag': 'root',
@@ -7817,6 +9194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `coffee`
+  /// 
+  /// ![coffee](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/coffee.png)
   static const IconData icon_coffee = IconData([
     {
       'tag': 'root',
@@ -7834,6 +9214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cog`
+  /// 
+  /// ![cog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cog.png)
   static const IconData icon_cog = IconData([
     {
       'tag': 'root',
@@ -7851,6 +9234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cogs`
+  /// 
+  /// ![cogs](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cogs.png)
   static const IconData icon_cogs = IconData([
     {
       'tag': 'root',
@@ -7868,6 +9254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `coins`
+  /// 
+  /// ![coins](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/coins.png)
   static const IconData icon_coins = IconData([
     {
       'tag': 'root',
@@ -7885,6 +9274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `colon sign`
+  /// 
+  /// ![colon sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/colon-sign.png)
   static const IconData icon_colon_sign = IconData([
     {
       'tag': 'root',
@@ -7902,6 +9294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `columns`
+  /// 
+  /// ![columns](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/columns.png)
   static const IconData icon_columns = IconData([
     {
       'tag': 'root',
@@ -7919,6 +9314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comment`
+  /// 
+  /// ![comment](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comment.png)
   static const IconData icon_comment = IconData([
     {
       'tag': 'root',
@@ -7936,6 +9334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comment alt`
+  /// 
+  /// ![comment alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comment-alt.png)
   static const IconData icon_comment_alt = IconData([
     {
       'tag': 'root',
@@ -7953,6 +9354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comment dollar`
+  /// 
+  /// ![comment dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comment-dollar.png)
   static const IconData icon_comment_dollar = IconData([
     {
       'tag': 'root',
@@ -7970,6 +9374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comment dots`
+  /// 
+  /// ![comment dots](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comment-dots.png)
   static const IconData icon_comment_dots = IconData([
     {
       'tag': 'root',
@@ -7987,6 +9394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comment medical`
+  /// 
+  /// ![comment medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comment-medical.png)
   static const IconData icon_comment_medical = IconData([
     {
       'tag': 'root',
@@ -8004,6 +9414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comment nodes`
+  /// 
+  /// ![comment nodes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comment-nodes.png)
   static const IconData icon_comment_nodes = IconData([
     {
       'tag': 'root',
@@ -8021,6 +9434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comment slash`
+  /// 
+  /// ![comment slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comment-slash.png)
   static const IconData icon_comment_slash = IconData([
     {
       'tag': 'root',
@@ -8038,6 +9454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comment sms`
+  /// 
+  /// ![comment sms](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comment-sms.png)
   static const IconData icon_comment_sms = IconData([
     {
       'tag': 'root',
@@ -8055,6 +9474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `commenting`
+  /// 
+  /// ![commenting](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/commenting.png)
   static const IconData icon_commenting = IconData([
     {
       'tag': 'root',
@@ -8072,6 +9494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comments`
+  /// 
+  /// ![comments](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comments.png)
   static const IconData icon_comments = IconData([
     {
       'tag': 'root',
@@ -8089,6 +9514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `comments dollar`
+  /// 
+  /// ![comments dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/comments-dollar.png)
   static const IconData icon_comments_dollar = IconData([
     {
       'tag': 'root',
@@ -8106,6 +9534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `compact disc`
+  /// 
+  /// ![compact disc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/compact-disc.png)
   static const IconData icon_compact_disc = IconData([
     {
       'tag': 'root',
@@ -8123,6 +9554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `compass`
+  /// 
+  /// ![compass](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/compass.png)
   static const IconData icon_compass = IconData([
     {
       'tag': 'root',
@@ -8140,6 +9574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `compass drafting`
+  /// 
+  /// ![compass drafting](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/compass-drafting.png)
   static const IconData icon_compass_drafting = IconData([
     {
       'tag': 'root',
@@ -8157,6 +9594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `compress`
+  /// 
+  /// ![compress](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/compress.png)
   static const IconData icon_compress = IconData([
     {
       'tag': 'root',
@@ -8174,6 +9614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `compress alt`
+  /// 
+  /// ![compress alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/compress-alt.png)
   static const IconData icon_compress_alt = IconData([
     {
       'tag': 'root',
@@ -8191,6 +9634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `compress arrows alt`
+  /// 
+  /// ![compress arrows alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/compress-arrows-alt.png)
   static const IconData icon_compress_arrows_alt = IconData([
     {
       'tag': 'root',
@@ -8208,6 +9654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `computer`
+  /// 
+  /// ![computer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/computer.png)
   static const IconData icon_computer = IconData([
     {
       'tag': 'root',
@@ -8225,6 +9674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `computer mouse`
+  /// 
+  /// ![computer mouse](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/computer-mouse.png)
   static const IconData icon_computer_mouse = IconData([
     {
       'tag': 'root',
@@ -8242,6 +9694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `concierge bell`
+  /// 
+  /// ![concierge bell](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/concierge-bell.png)
   static const IconData icon_concierge_bell = IconData([
     {
       'tag': 'root',
@@ -8259,6 +9714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `contact book`
+  /// 
+  /// ![contact book](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/contact-book.png)
   static const IconData icon_contact_book = IconData([
     {
       'tag': 'root',
@@ -8276,6 +9734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `contact card`
+  /// 
+  /// ![contact card](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/contact-card.png)
   static const IconData icon_contact_card = IconData([
     {
       'tag': 'root',
@@ -8293,6 +9754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cookie`
+  /// 
+  /// ![cookie](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cookie.png)
   static const IconData icon_cookie = IconData([
     {
       'tag': 'root',
@@ -8310,6 +9774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cookie bite`
+  /// 
+  /// ![cookie bite](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cookie-bite.png)
   static const IconData icon_cookie_bite = IconData([
     {
       'tag': 'root',
@@ -8327,6 +9794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `copy`
+  /// 
+  /// ![copy](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/copy.png)
   static const IconData icon_copy = IconData([
     {
       'tag': 'root',
@@ -8344,6 +9814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `copyright`
+  /// 
+  /// ![copyright](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/copyright.png)
   static const IconData icon_copyright = IconData([
     {
       'tag': 'root',
@@ -8361,6 +9834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `couch`
+  /// 
+  /// ![couch](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/couch.png)
   static const IconData icon_couch = IconData([
     {
       'tag': 'root',
@@ -8378,6 +9854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cow`
+  /// 
+  /// ![cow](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cow.png)
   static const IconData icon_cow = IconData([
     {
       'tag': 'root',
@@ -8395,6 +9874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `credit card`
+  /// 
+  /// ![credit card](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/credit-card.png)
   static const IconData icon_credit_card = IconData([
     {
       'tag': 'root',
@@ -8412,6 +9894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `credit card alt`
+  /// 
+  /// ![credit card alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/credit-card-alt.png)
   static const IconData icon_credit_card_alt = IconData([
     {
       'tag': 'root',
@@ -8429,6 +9914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `crop`
+  /// 
+  /// ![crop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/crop.png)
   static const IconData icon_crop = IconData([
     {
       'tag': 'root',
@@ -8446,6 +9934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `crop alt`
+  /// 
+  /// ![crop alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/crop-alt.png)
   static const IconData icon_crop_alt = IconData([
     {
       'tag': 'root',
@@ -8463,6 +9954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `crop simple`
+  /// 
+  /// ![crop simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/crop-simple.png)
   static const IconData icon_crop_simple = IconData([
     {
       'tag': 'root',
@@ -8480,6 +9974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cross`
+  /// 
+  /// ![cross](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cross.png)
   static const IconData icon_cross = IconData([
     {
       'tag': 'root',
@@ -8497,6 +9994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `crosshairs`
+  /// 
+  /// ![crosshairs](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/crosshairs.png)
   static const IconData icon_crosshairs = IconData([
     {
       'tag': 'root',
@@ -8514,6 +10014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `crow`
+  /// 
+  /// ![crow](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/crow.png)
   static const IconData icon_crow = IconData([
     {
       'tag': 'root',
@@ -8531,6 +10034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `crown`
+  /// 
+  /// ![crown](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/crown.png)
   static const IconData icon_crown = IconData([
     {
       'tag': 'root',
@@ -8548,6 +10054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `crutch`
+  /// 
+  /// ![crutch](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/crutch.png)
   static const IconData icon_crutch = IconData([
     {
       'tag': 'root',
@@ -8565,6 +10074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cruzeiro sign`
+  /// 
+  /// ![cruzeiro sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cruzeiro-sign.png)
   static const IconData icon_cruzeiro_sign = IconData([
     {
       'tag': 'root',
@@ -8582,6 +10094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cube`
+  /// 
+  /// ![cube](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cube.png)
   static const IconData icon_cube = IconData([
     {
       'tag': 'root',
@@ -8599,6 +10114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cubes`
+  /// 
+  /// ![cubes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cubes.png)
   static const IconData icon_cubes = IconData([
     {
       'tag': 'root',
@@ -8616,6 +10134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cubes stacked`
+  /// 
+  /// ![cubes stacked](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cubes-stacked.png)
   static const IconData icon_cubes_stacked = IconData([
     {
       'tag': 'root',
@@ -8633,6 +10154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cut`
+  /// 
+  /// ![cut](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cut.png)
   static const IconData icon_cut = IconData([
     {
       'tag': 'root',
@@ -8650,6 +10174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `cutlery`
+  /// 
+  /// ![cutlery](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/cutlery.png)
   static const IconData icon_cutlery = IconData([
     {
       'tag': 'root',
@@ -8667,6 +10194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `d`
+  /// 
+  /// ![d](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/d.png)
   static const IconData icon_d = IconData([
     {
       'tag': 'root',
@@ -8684,6 +10214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dashboard`
+  /// 
+  /// ![dashboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dashboard.png)
   static const IconData icon_dashboard = IconData([
     {
       'tag': 'root',
@@ -8701,6 +10234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `database`
+  /// 
+  /// ![database](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/database.png)
   static const IconData icon_database = IconData([
     {
       'tag': 'root',
@@ -8718,6 +10254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `deaf`
+  /// 
+  /// ![deaf](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/deaf.png)
   static const IconData icon_deaf = IconData([
     {
       'tag': 'root',
@@ -8735,6 +10274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `deafness`
+  /// 
+  /// ![deafness](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/deafness.png)
   static const IconData icon_deafness = IconData([
     {
       'tag': 'root',
@@ -8752,6 +10294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dedent`
+  /// 
+  /// ![dedent](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dedent.png)
   static const IconData icon_dedent = IconData([
     {
       'tag': 'root',
@@ -8769,6 +10314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `delete left`
+  /// 
+  /// ![delete left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/delete-left.png)
   static const IconData icon_delete_left = IconData([
     {
       'tag': 'root',
@@ -8786,6 +10334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `democrat`
+  /// 
+  /// ![democrat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/democrat.png)
   static const IconData icon_democrat = IconData([
     {
       'tag': 'root',
@@ -8803,6 +10354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `desktop`
+  /// 
+  /// ![desktop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/desktop.png)
   static const IconData icon_desktop = IconData([
     {
       'tag': 'root',
@@ -8820,6 +10374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `desktop alt`
+  /// 
+  /// ![desktop alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/desktop-alt.png)
   static const IconData icon_desktop_alt = IconData([
     {
       'tag': 'root',
@@ -8837,6 +10394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dharmachakra`
+  /// 
+  /// ![dharmachakra](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dharmachakra.png)
   static const IconData icon_dharmachakra = IconData([
     {
       'tag': 'root',
@@ -8854,6 +10414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `diagnoses`
+  /// 
+  /// ![diagnoses](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/diagnoses.png)
   static const IconData icon_diagnoses = IconData([
     {
       'tag': 'root',
@@ -8871,6 +10434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `diagram next`
+  /// 
+  /// ![diagram next](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/diagram-next.png)
   static const IconData icon_diagram_next = IconData([
     {
       'tag': 'root',
@@ -8888,6 +10454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `diagram predecessor`
+  /// 
+  /// ![diagram predecessor](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/diagram-predecessor.png)
   static const IconData icon_diagram_predecessor = IconData([
     {
       'tag': 'root',
@@ -8905,6 +10474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `diagram project`
+  /// 
+  /// ![diagram project](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/diagram-project.png)
   static const IconData icon_diagram_project = IconData([
     {
       'tag': 'root',
@@ -8922,6 +10494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `diagram successor`
+  /// 
+  /// ![diagram successor](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/diagram-successor.png)
   static const IconData icon_diagram_successor = IconData([
     {
       'tag': 'root',
@@ -8939,6 +10514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `diamond`
+  /// 
+  /// ![diamond](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/diamond.png)
   static const IconData icon_diamond = IconData([
     {
       'tag': 'root',
@@ -8956,6 +10534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `diamond turn right`
+  /// 
+  /// ![diamond turn right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/diamond-turn-right.png)
   static const IconData icon_diamond_turn_right = IconData([
     {
       'tag': 'root',
@@ -8973,6 +10554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice`
+  /// 
+  /// ![dice](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice.png)
   static const IconData icon_dice = IconData([
     {
       'tag': 'root',
@@ -8990,6 +10574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice d20`
+  /// 
+  /// ![dice d20](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice-d20.png)
   static const IconData icon_dice_d20 = IconData([
     {
       'tag': 'root',
@@ -9007,6 +10594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice d6`
+  /// 
+  /// ![dice d6](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice-d6.png)
   static const IconData icon_dice_d6 = IconData([
     {
       'tag': 'root',
@@ -9024,6 +10614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice five`
+  /// 
+  /// ![dice five](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice-five.png)
   static const IconData icon_dice_five = IconData([
     {
       'tag': 'root',
@@ -9041,6 +10634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice four`
+  /// 
+  /// ![dice four](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice-four.png)
   static const IconData icon_dice_four = IconData([
     {
       'tag': 'root',
@@ -9058,6 +10654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice one`
+  /// 
+  /// ![dice one](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice-one.png)
   static const IconData icon_dice_one = IconData([
     {
       'tag': 'root',
@@ -9075,6 +10674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice six`
+  /// 
+  /// ![dice six](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice-six.png)
   static const IconData icon_dice_six = IconData([
     {
       'tag': 'root',
@@ -9092,6 +10694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice three`
+  /// 
+  /// ![dice three](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice-three.png)
   static const IconData icon_dice_three = IconData([
     {
       'tag': 'root',
@@ -9109,6 +10714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dice two`
+  /// 
+  /// ![dice two](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dice-two.png)
   static const IconData icon_dice_two = IconData([
     {
       'tag': 'root',
@@ -9126,6 +10734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `digging`
+  /// 
+  /// ![digging](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/digging.png)
   static const IconData icon_digging = IconData([
     {
       'tag': 'root',
@@ -9143,6 +10754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `digital tachograph`
+  /// 
+  /// ![digital tachograph](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/digital-tachograph.png)
   static const IconData icon_digital_tachograph = IconData([
     {
       'tag': 'root',
@@ -9160,6 +10774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `directions`
+  /// 
+  /// ![directions](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/directions.png)
   static const IconData icon_directions = IconData([
     {
       'tag': 'root',
@@ -9177,6 +10794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `disease`
+  /// 
+  /// ![disease](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/disease.png)
   static const IconData icon_disease = IconData([
     {
       'tag': 'root',
@@ -9194,6 +10814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `display`
+  /// 
+  /// ![display](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/display.png)
   static const IconData icon_display = IconData([
     {
       'tag': 'root',
@@ -9211,6 +10834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `divide`
+  /// 
+  /// ![divide](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/divide.png)
   static const IconData icon_divide = IconData([
     {
       'tag': 'root',
@@ -9228,6 +10854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dizzy`
+  /// 
+  /// ![dizzy](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dizzy.png)
   static const IconData icon_dizzy = IconData([
     {
       'tag': 'root',
@@ -9245,6 +10874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dna`
+  /// 
+  /// ![dna](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dna.png)
   static const IconData icon_dna = IconData([
     {
       'tag': 'root',
@@ -9262,6 +10894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dog`
+  /// 
+  /// ![dog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dog.png)
   static const IconData icon_dog = IconData([
     {
       'tag': 'root',
@@ -9279,6 +10914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dollar`
+  /// 
+  /// ![dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dollar.png)
   static const IconData icon_dollar = IconData([
     {
       'tag': 'root',
@@ -9296,6 +10934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dollar sign`
+  /// 
+  /// ![dollar sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dollar-sign.png)
   static const IconData icon_dollar_sign = IconData([
     {
       'tag': 'root',
@@ -9313,6 +10954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dolly`
+  /// 
+  /// ![dolly](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dolly.png)
   static const IconData icon_dolly = IconData([
     {
       'tag': 'root',
@@ -9330,6 +10974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dolly box`
+  /// 
+  /// ![dolly box](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dolly-box.png)
   static const IconData icon_dolly_box = IconData([
     {
       'tag': 'root',
@@ -9347,6 +10994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dolly flatbed`
+  /// 
+  /// ![dolly flatbed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dolly-flatbed.png)
   static const IconData icon_dolly_flatbed = IconData([
     {
       'tag': 'root',
@@ -9364,6 +11014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `donate`
+  /// 
+  /// ![donate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/donate.png)
   static const IconData icon_donate = IconData([
     {
       'tag': 'root',
@@ -9381,6 +11034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dong sign`
+  /// 
+  /// ![dong sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dong-sign.png)
   static const IconData icon_dong_sign = IconData([
     {
       'tag': 'root',
@@ -9398,6 +11054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `door closed`
+  /// 
+  /// ![door closed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/door-closed.png)
   static const IconData icon_door_closed = IconData([
     {
       'tag': 'root',
@@ -9415,6 +11074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `door open`
+  /// 
+  /// ![door open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/door-open.png)
   static const IconData icon_door_open = IconData([
     {
       'tag': 'root',
@@ -9432,6 +11094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dot circle`
+  /// 
+  /// ![dot circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dot-circle.png)
   static const IconData icon_dot_circle = IconData([
     {
       'tag': 'root',
@@ -9449,6 +11114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dove`
+  /// 
+  /// ![dove](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dove.png)
   static const IconData icon_dove = IconData([
     {
       'tag': 'root',
@@ -9466,6 +11134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `down left and up right to center`
+  /// 
+  /// ![down left and up right to center](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/down-left-and-up-right-to-center.png)
   static const IconData icon_down_left_and_up_right_to_center = IconData([
     {
       'tag': 'root',
@@ -9483,6 +11154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `down long`
+  /// 
+  /// ![down long](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/down-long.png)
   static const IconData icon_down_long = IconData([
     {
       'tag': 'root',
@@ -9500,6 +11174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `download`
+  /// 
+  /// ![download](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/download.png)
   static const IconData icon_download = IconData([
     {
       'tag': 'root',
@@ -9517,6 +11194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `drafting compass`
+  /// 
+  /// ![drafting compass](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/drafting-compass.png)
   static const IconData icon_drafting_compass = IconData([
     {
       'tag': 'root',
@@ -9534,6 +11214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dragon`
+  /// 
+  /// ![dragon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dragon.png)
   static const IconData icon_dragon = IconData([
     {
       'tag': 'root',
@@ -9551,6 +11234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `draw polygon`
+  /// 
+  /// ![draw polygon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/draw-polygon.png)
   static const IconData icon_draw_polygon = IconData([
     {
       'tag': 'root',
@@ -9568,6 +11254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `drivers license`
+  /// 
+  /// ![drivers license](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/drivers-license.png)
   static const IconData icon_drivers_license = IconData([
     {
       'tag': 'root',
@@ -9585,6 +11274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `droplet`
+  /// 
+  /// ![droplet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/droplet.png)
   static const IconData icon_droplet = IconData([
     {
       'tag': 'root',
@@ -9602,6 +11294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `droplet slash`
+  /// 
+  /// ![droplet slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/droplet-slash.png)
   static const IconData icon_droplet_slash = IconData([
     {
       'tag': 'root',
@@ -9619,6 +11314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `drum`
+  /// 
+  /// ![drum](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/drum.png)
   static const IconData icon_drum = IconData([
     {
       'tag': 'root',
@@ -9636,6 +11334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `drum steelpan`
+  /// 
+  /// ![drum steelpan](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/drum-steelpan.png)
   static const IconData icon_drum_steelpan = IconData([
     {
       'tag': 'root',
@@ -9653,6 +11354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `drumstick bite`
+  /// 
+  /// ![drumstick bite](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/drumstick-bite.png)
   static const IconData icon_drumstick_bite = IconData([
     {
       'tag': 'root',
@@ -9670,6 +11374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dumbbell`
+  /// 
+  /// ![dumbbell](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dumbbell.png)
   static const IconData icon_dumbbell = IconData([
     {
       'tag': 'root',
@@ -9687,6 +11394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dumpster`
+  /// 
+  /// ![dumpster](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dumpster.png)
   static const IconData icon_dumpster = IconData([
     {
       'tag': 'root',
@@ -9704,6 +11414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dumpster fire`
+  /// 
+  /// ![dumpster fire](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dumpster-fire.png)
   static const IconData icon_dumpster_fire = IconData([
     {
       'tag': 'root',
@@ -9721,6 +11434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `dungeon`
+  /// 
+  /// ![dungeon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/dungeon.png)
   static const IconData icon_dungeon = IconData([
     {
       'tag': 'root',
@@ -9738,6 +11454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `e`
+  /// 
+  /// ![e](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/e.png)
   static const IconData icon_e = IconData([
     {
       'tag': 'root',
@@ -9755,6 +11474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ear deaf`
+  /// 
+  /// ![ear deaf](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ear-deaf.png)
   static const IconData icon_ear_deaf = IconData([
     {
       'tag': 'root',
@@ -9772,6 +11494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ear listen`
+  /// 
+  /// ![ear listen](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ear-listen.png)
   static const IconData icon_ear_listen = IconData([
     {
       'tag': 'root',
@@ -9789,6 +11514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `earth`
+  /// 
+  /// ![earth](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/earth.png)
   static const IconData icon_earth = IconData([
     {
       'tag': 'root',
@@ -9806,6 +11534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `earth africa`
+  /// 
+  /// ![earth africa](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/earth-africa.png)
   static const IconData icon_earth_africa = IconData([
     {
       'tag': 'root',
@@ -9823,6 +11554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `earth america`
+  /// 
+  /// ![earth america](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/earth-america.png)
   static const IconData icon_earth_america = IconData([
     {
       'tag': 'root',
@@ -9840,6 +11574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `earth americas`
+  /// 
+  /// ![earth americas](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/earth-americas.png)
   static const IconData icon_earth_americas = IconData([
     {
       'tag': 'root',
@@ -9857,6 +11594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `earth asia`
+  /// 
+  /// ![earth asia](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/earth-asia.png)
   static const IconData icon_earth_asia = IconData([
     {
       'tag': 'root',
@@ -9874,6 +11614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `earth europe`
+  /// 
+  /// ![earth europe](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/earth-europe.png)
   static const IconData icon_earth_europe = IconData([
     {
       'tag': 'root',
@@ -9891,6 +11634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `earth oceania`
+  /// 
+  /// ![earth oceania](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/earth-oceania.png)
   static const IconData icon_earth_oceania = IconData([
     {
       'tag': 'root',
@@ -9908,6 +11654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `edit`
+  /// 
+  /// ![edit](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/edit.png)
   static const IconData icon_edit = IconData([
     {
       'tag': 'root',
@@ -9925,6 +11674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `egg`
+  /// 
+  /// ![egg](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/egg.png)
   static const IconData icon_egg = IconData([
     {
       'tag': 'root',
@@ -9942,6 +11694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eject`
+  /// 
+  /// ![eject](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eject.png)
   static const IconData icon_eject = IconData([
     {
       'tag': 'root',
@@ -9959,6 +11714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `elevator`
+  /// 
+  /// ![elevator](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/elevator.png)
   static const IconData icon_elevator = IconData([
     {
       'tag': 'root',
@@ -9976,6 +11734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ellipsis`
+  /// 
+  /// ![ellipsis](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ellipsis.png)
   static const IconData icon_ellipsis = IconData([
     {
       'tag': 'root',
@@ -9993,6 +11754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ellipsis h`
+  /// 
+  /// ![ellipsis h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ellipsis-h.png)
   static const IconData icon_ellipsis_h = IconData([
     {
       'tag': 'root',
@@ -10010,6 +11774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ellipsis v`
+  /// 
+  /// ![ellipsis v](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ellipsis-v.png)
   static const IconData icon_ellipsis_v = IconData([
     {
       'tag': 'root',
@@ -10027,6 +11794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ellipsis vertical`
+  /// 
+  /// ![ellipsis vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ellipsis-vertical.png)
   static const IconData icon_ellipsis_vertical = IconData([
     {
       'tag': 'root',
@@ -10044,6 +11814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `envelope`
+  /// 
+  /// ![envelope](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/envelope.png)
   static const IconData icon_envelope = IconData([
     {
       'tag': 'root',
@@ -10061,6 +11834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `envelope circle check`
+  /// 
+  /// ![envelope circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/envelope-circle-check.png)
   static const IconData icon_envelope_circle_check = IconData([
     {
       'tag': 'root',
@@ -10078,6 +11854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `envelope open`
+  /// 
+  /// ![envelope open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/envelope-open.png)
   static const IconData icon_envelope_open = IconData([
     {
       'tag': 'root',
@@ -10095,6 +11874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `envelope open text`
+  /// 
+  /// ![envelope open text](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/envelope-open-text.png)
   static const IconData icon_envelope_open_text = IconData([
     {
       'tag': 'root',
@@ -10112,6 +11894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `envelope square`
+  /// 
+  /// ![envelope square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/envelope-square.png)
   static const IconData icon_envelope_square = IconData([
     {
       'tag': 'root',
@@ -10129,6 +11914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `envelopes bulk`
+  /// 
+  /// ![envelopes bulk](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/envelopes-bulk.png)
   static const IconData icon_envelopes_bulk = IconData([
     {
       'tag': 'root',
@@ -10146,6 +11934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `equals`
+  /// 
+  /// ![equals](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/equals.png)
   static const IconData icon_equals = IconData([
     {
       'tag': 'root',
@@ -10163,6 +11954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eraser`
+  /// 
+  /// ![eraser](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eraser.png)
   static const IconData icon_eraser = IconData([
     {
       'tag': 'root',
@@ -10180,6 +11974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ethernet`
+  /// 
+  /// ![ethernet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ethernet.png)
   static const IconData icon_ethernet = IconData([
     {
       'tag': 'root',
@@ -10197,6 +11994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eur`
+  /// 
+  /// ![eur](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eur.png)
   static const IconData icon_eur = IconData([
     {
       'tag': 'root',
@@ -10214,6 +12014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `euro`
+  /// 
+  /// ![euro](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/euro.png)
   static const IconData icon_euro = IconData([
     {
       'tag': 'root',
@@ -10231,6 +12034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `euro sign`
+  /// 
+  /// ![euro sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/euro-sign.png)
   static const IconData icon_euro_sign = IconData([
     {
       'tag': 'root',
@@ -10248,6 +12054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `exchange`
+  /// 
+  /// ![exchange](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/exchange.png)
   static const IconData icon_exchange = IconData([
     {
       'tag': 'root',
@@ -10265,6 +12074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `exchange alt`
+  /// 
+  /// ![exchange alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/exchange-alt.png)
   static const IconData icon_exchange_alt = IconData([
     {
       'tag': 'root',
@@ -10282,6 +12094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `exclamation`
+  /// 
+  /// ![exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/exclamation.png)
   static const IconData icon_exclamation = IconData([
     {
       'tag': 'root',
@@ -10299,6 +12114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `exclamation circle`
+  /// 
+  /// ![exclamation circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/exclamation-circle.png)
   static const IconData icon_exclamation_circle = IconData([
     {
       'tag': 'root',
@@ -10316,6 +12134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `exclamation triangle`
+  /// 
+  /// ![exclamation triangle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/exclamation-triangle.png)
   static const IconData icon_exclamation_triangle = IconData([
     {
       'tag': 'root',
@@ -10333,6 +12154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `expand`
+  /// 
+  /// ![expand](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/expand.png)
   static const IconData icon_expand = IconData([
     {
       'tag': 'root',
@@ -10350,6 +12174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `expand alt`
+  /// 
+  /// ![expand alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/expand-alt.png)
   static const IconData icon_expand_alt = IconData([
     {
       'tag': 'root',
@@ -10367,6 +12194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `expand arrows alt`
+  /// 
+  /// ![expand arrows alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/expand-arrows-alt.png)
   static const IconData icon_expand_arrows_alt = IconData([
     {
       'tag': 'root',
@@ -10384,6 +12214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `explosion`
+  /// 
+  /// ![explosion](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/explosion.png)
   static const IconData icon_explosion = IconData([
     {
       'tag': 'root',
@@ -10401,6 +12234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `external link`
+  /// 
+  /// ![external link](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/external-link.png)
   static const IconData icon_external_link = IconData([
     {
       'tag': 'root',
@@ -10418,6 +12254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `external link alt`
+  /// 
+  /// ![external link alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/external-link-alt.png)
   static const IconData icon_external_link_alt = IconData([
     {
       'tag': 'root',
@@ -10435,6 +12274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `external link square`
+  /// 
+  /// ![external link square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/external-link-square.png)
   static const IconData icon_external_link_square = IconData([
     {
       'tag': 'root',
@@ -10452,6 +12294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `external link square alt`
+  /// 
+  /// ![external link square alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/external-link-square-alt.png)
   static const IconData icon_external_link_square_alt = IconData([
     {
       'tag': 'root',
@@ -10469,6 +12314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eye`
+  /// 
+  /// ![eye](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eye.png)
   static const IconData icon_eye = IconData([
     {
       'tag': 'root',
@@ -10486,6 +12334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eye dropper`
+  /// 
+  /// ![eye dropper](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eye-dropper.png)
   static const IconData icon_eye_dropper = IconData([
     {
       'tag': 'root',
@@ -10503,6 +12354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eye dropper empty`
+  /// 
+  /// ![eye dropper empty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eye-dropper-empty.png)
   static const IconData icon_eye_dropper_empty = IconData([
     {
       'tag': 'root',
@@ -10520,6 +12374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eye low vision`
+  /// 
+  /// ![eye low vision](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eye-low-vision.png)
   static const IconData icon_eye_low_vision = IconData([
     {
       'tag': 'root',
@@ -10537,6 +12394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eye slash`
+  /// 
+  /// ![eye slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eye-slash.png)
   static const IconData icon_eye_slash = IconData([
     {
       'tag': 'root',
@@ -10554,6 +12414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `eyedropper`
+  /// 
+  /// ![eyedropper](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/eyedropper.png)
   static const IconData icon_eyedropper = IconData([
     {
       'tag': 'root',
@@ -10571,6 +12434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `f`
+  /// 
+  /// ![f](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/f.png)
   static const IconData icon_f = IconData([
     {
       'tag': 'root',
@@ -10588,6 +12454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face angry`
+  /// 
+  /// ![face angry](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-angry.png)
   static const IconData icon_face_angry = IconData([
     {
       'tag': 'root',
@@ -10605,6 +12474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face dizzy`
+  /// 
+  /// ![face dizzy](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-dizzy.png)
   static const IconData icon_face_dizzy = IconData([
     {
       'tag': 'root',
@@ -10622,6 +12494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face flushed`
+  /// 
+  /// ![face flushed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-flushed.png)
   static const IconData icon_face_flushed = IconData([
     {
       'tag': 'root',
@@ -10639,6 +12514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face frown`
+  /// 
+  /// ![face frown](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-frown.png)
   static const IconData icon_face_frown = IconData([
     {
       'tag': 'root',
@@ -10656,6 +12534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face frown open`
+  /// 
+  /// ![face frown open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-frown-open.png)
   static const IconData icon_face_frown_open = IconData([
     {
       'tag': 'root',
@@ -10673,6 +12554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grimace`
+  /// 
+  /// ![face grimace](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grimace.png)
   static const IconData icon_face_grimace = IconData([
     {
       'tag': 'root',
@@ -10690,6 +12574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin`
+  /// 
+  /// ![face grin](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin.png)
   static const IconData icon_face_grin = IconData([
     {
       'tag': 'root',
@@ -10707,6 +12594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin beam`
+  /// 
+  /// ![face grin beam](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-beam.png)
   static const IconData icon_face_grin_beam = IconData([
     {
       'tag': 'root',
@@ -10724,6 +12614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin beam sweat`
+  /// 
+  /// ![face grin beam sweat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-beam-sweat.png)
   static const IconData icon_face_grin_beam_sweat = IconData([
     {
       'tag': 'root',
@@ -10741,6 +12634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin hearts`
+  /// 
+  /// ![face grin hearts](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-hearts.png)
   static const IconData icon_face_grin_hearts = IconData([
     {
       'tag': 'root',
@@ -10758,6 +12654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin squint`
+  /// 
+  /// ![face grin squint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-squint.png)
   static const IconData icon_face_grin_squint = IconData([
     {
       'tag': 'root',
@@ -10775,6 +12674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin squint tears`
+  /// 
+  /// ![face grin squint tears](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-squint-tears.png)
   static const IconData icon_face_grin_squint_tears = IconData([
     {
       'tag': 'root',
@@ -10792,6 +12694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin stars`
+  /// 
+  /// ![face grin stars](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-stars.png)
   static const IconData icon_face_grin_stars = IconData([
     {
       'tag': 'root',
@@ -10809,6 +12714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin tears`
+  /// 
+  /// ![face grin tears](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-tears.png)
   static const IconData icon_face_grin_tears = IconData([
     {
       'tag': 'root',
@@ -10826,6 +12734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin tongue`
+  /// 
+  /// ![face grin tongue](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-tongue.png)
   static const IconData icon_face_grin_tongue = IconData([
     {
       'tag': 'root',
@@ -10843,6 +12754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin tongue squint`
+  /// 
+  /// ![face grin tongue squint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-tongue-squint.png)
   static const IconData icon_face_grin_tongue_squint = IconData([
     {
       'tag': 'root',
@@ -10860,6 +12774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin tongue wink`
+  /// 
+  /// ![face grin tongue wink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-tongue-wink.png)
   static const IconData icon_face_grin_tongue_wink = IconData([
     {
       'tag': 'root',
@@ -10877,6 +12794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin wide`
+  /// 
+  /// ![face grin wide](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-wide.png)
   static const IconData icon_face_grin_wide = IconData([
     {
       'tag': 'root',
@@ -10894,6 +12814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face grin wink`
+  /// 
+  /// ![face grin wink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-grin-wink.png)
   static const IconData icon_face_grin_wink = IconData([
     {
       'tag': 'root',
@@ -10911,6 +12834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face kiss`
+  /// 
+  /// ![face kiss](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-kiss.png)
   static const IconData icon_face_kiss = IconData([
     {
       'tag': 'root',
@@ -10928,6 +12854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face kiss beam`
+  /// 
+  /// ![face kiss beam](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-kiss-beam.png)
   static const IconData icon_face_kiss_beam = IconData([
     {
       'tag': 'root',
@@ -10945,6 +12874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face kiss wink heart`
+  /// 
+  /// ![face kiss wink heart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-kiss-wink-heart.png)
   static const IconData icon_face_kiss_wink_heart = IconData([
     {
       'tag': 'root',
@@ -10962,6 +12894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face laugh`
+  /// 
+  /// ![face laugh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-laugh.png)
   static const IconData icon_face_laugh = IconData([
     {
       'tag': 'root',
@@ -10979,6 +12914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face laugh beam`
+  /// 
+  /// ![face laugh beam](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-laugh-beam.png)
   static const IconData icon_face_laugh_beam = IconData([
     {
       'tag': 'root',
@@ -10996,6 +12934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face laugh squint`
+  /// 
+  /// ![face laugh squint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-laugh-squint.png)
   static const IconData icon_face_laugh_squint = IconData([
     {
       'tag': 'root',
@@ -11013,6 +12954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face laugh wink`
+  /// 
+  /// ![face laugh wink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-laugh-wink.png)
   static const IconData icon_face_laugh_wink = IconData([
     {
       'tag': 'root',
@@ -11030,6 +12974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face meh`
+  /// 
+  /// ![face meh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-meh.png)
   static const IconData icon_face_meh = IconData([
     {
       'tag': 'root',
@@ -11047,6 +12994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face meh blank`
+  /// 
+  /// ![face meh blank](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-meh-blank.png)
   static const IconData icon_face_meh_blank = IconData([
     {
       'tag': 'root',
@@ -11064,6 +13014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face rolling eyes`
+  /// 
+  /// ![face rolling eyes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-rolling-eyes.png)
   static const IconData icon_face_rolling_eyes = IconData([
     {
       'tag': 'root',
@@ -11081,6 +13034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face sad cry`
+  /// 
+  /// ![face sad cry](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-sad-cry.png)
   static const IconData icon_face_sad_cry = IconData([
     {
       'tag': 'root',
@@ -11098,6 +13054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face sad tear`
+  /// 
+  /// ![face sad tear](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-sad-tear.png)
   static const IconData icon_face_sad_tear = IconData([
     {
       'tag': 'root',
@@ -11115,6 +13074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face smile`
+  /// 
+  /// ![face smile](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-smile.png)
   static const IconData icon_face_smile = IconData([
     {
       'tag': 'root',
@@ -11132,6 +13094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face smile beam`
+  /// 
+  /// ![face smile beam](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-smile-beam.png)
   static const IconData icon_face_smile_beam = IconData([
     {
       'tag': 'root',
@@ -11149,6 +13114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face smile wink`
+  /// 
+  /// ![face smile wink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-smile-wink.png)
   static const IconData icon_face_smile_wink = IconData([
     {
       'tag': 'root',
@@ -11166,6 +13134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face surprise`
+  /// 
+  /// ![face surprise](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-surprise.png)
   static const IconData icon_face_surprise = IconData([
     {
       'tag': 'root',
@@ -11183,6 +13154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `face tired`
+  /// 
+  /// ![face tired](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/face-tired.png)
   static const IconData icon_face_tired = IconData([
     {
       'tag': 'root',
@@ -11200,6 +13174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fan`
+  /// 
+  /// ![fan](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fan.png)
   static const IconData icon_fan = IconData([
     {
       'tag': 'root',
@@ -11217,6 +13194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fast backward`
+  /// 
+  /// ![fast backward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fast-backward.png)
   static const IconData icon_fast_backward = IconData([
     {
       'tag': 'root',
@@ -11234,6 +13214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fast forward`
+  /// 
+  /// ![fast forward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fast-forward.png)
   static const IconData icon_fast_forward = IconData([
     {
       'tag': 'root',
@@ -11251,6 +13234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `faucet`
+  /// 
+  /// ![faucet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/faucet.png)
   static const IconData icon_faucet = IconData([
     {
       'tag': 'root',
@@ -11268,6 +13254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `faucet drip`
+  /// 
+  /// ![faucet drip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/faucet-drip.png)
   static const IconData icon_faucet_drip = IconData([
     {
       'tag': 'root',
@@ -11285,6 +13274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fax`
+  /// 
+  /// ![fax](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fax.png)
   static const IconData icon_fax = IconData([
     {
       'tag': 'root',
@@ -11302,6 +13294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `feather`
+  /// 
+  /// ![feather](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/feather.png)
   static const IconData icon_feather = IconData([
     {
       'tag': 'root',
@@ -11319,6 +13314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `feather alt`
+  /// 
+  /// ![feather alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/feather-alt.png)
   static const IconData icon_feather_alt = IconData([
     {
       'tag': 'root',
@@ -11336,6 +13334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `feather pointed`
+  /// 
+  /// ![feather pointed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/feather-pointed.png)
   static const IconData icon_feather_pointed = IconData([
     {
       'tag': 'root',
@@ -11353,6 +13354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `feed`
+  /// 
+  /// ![feed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/feed.png)
   static const IconData icon_feed = IconData([
     {
       'tag': 'root',
@@ -11370,6 +13374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `female`
+  /// 
+  /// ![female](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/female.png)
   static const IconData icon_female = IconData([
     {
       'tag': 'root',
@@ -11387,6 +13394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ferry`
+  /// 
+  /// ![ferry](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ferry.png)
   static const IconData icon_ferry = IconData([
     {
       'tag': 'root',
@@ -11404,6 +13414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fighter jet`
+  /// 
+  /// ![fighter jet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fighter-jet.png)
   static const IconData icon_fighter_jet = IconData([
     {
       'tag': 'root',
@@ -11421,6 +13434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file`
+  /// 
+  /// ![file](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file.png)
   static const IconData icon_file = IconData([
     {
       'tag': 'root',
@@ -11438,6 +13454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file alt`
+  /// 
+  /// ![file alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-alt.png)
   static const IconData icon_file_alt = IconData([
     {
       'tag': 'root',
@@ -11455,6 +13474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file archive`
+  /// 
+  /// ![file archive](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-archive.png)
   static const IconData icon_file_archive = IconData([
     {
       'tag': 'root',
@@ -11472,6 +13494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file arrow down`
+  /// 
+  /// ![file arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-arrow-down.png)
   static const IconData icon_file_arrow_down = IconData([
     {
       'tag': 'root',
@@ -11489,6 +13514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file arrow up`
+  /// 
+  /// ![file arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-arrow-up.png)
   static const IconData icon_file_arrow_up = IconData([
     {
       'tag': 'root',
@@ -11506,6 +13534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file audio`
+  /// 
+  /// ![file audio](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-audio.png)
   static const IconData icon_file_audio = IconData([
     {
       'tag': 'root',
@@ -11523,6 +13554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file circle check`
+  /// 
+  /// ![file circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-circle-check.png)
   static const IconData icon_file_circle_check = IconData([
     {
       'tag': 'root',
@@ -11540,6 +13574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file circle exclamation`
+  /// 
+  /// ![file circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-circle-exclamation.png)
   static const IconData icon_file_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -11557,6 +13594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file circle minus`
+  /// 
+  /// ![file circle minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-circle-minus.png)
   static const IconData icon_file_circle_minus = IconData([
     {
       'tag': 'root',
@@ -11574,6 +13614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file circle plus`
+  /// 
+  /// ![file circle plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-circle-plus.png)
   static const IconData icon_file_circle_plus = IconData([
     {
       'tag': 'root',
@@ -11591,6 +13634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file circle question`
+  /// 
+  /// ![file circle question](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-circle-question.png)
   static const IconData icon_file_circle_question = IconData([
     {
       'tag': 'root',
@@ -11608,6 +13654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file circle xmark`
+  /// 
+  /// ![file circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-circle-xmark.png)
   static const IconData icon_file_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -11625,6 +13674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file clipboard`
+  /// 
+  /// ![file clipboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-clipboard.png)
   static const IconData icon_file_clipboard = IconData([
     {
       'tag': 'root',
@@ -11642,6 +13694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file code`
+  /// 
+  /// ![file code](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-code.png)
   static const IconData icon_file_code = IconData([
     {
       'tag': 'root',
@@ -11659,6 +13714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file contract`
+  /// 
+  /// ![file contract](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-contract.png)
   static const IconData icon_file_contract = IconData([
     {
       'tag': 'root',
@@ -11676,6 +13734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file csv`
+  /// 
+  /// ![file csv](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-csv.png)
   static const IconData icon_file_csv = IconData([
     {
       'tag': 'root',
@@ -11693,6 +13754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file download`
+  /// 
+  /// ![file download](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-download.png)
   static const IconData icon_file_download = IconData([
     {
       'tag': 'root',
@@ -11710,6 +13774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file edit`
+  /// 
+  /// ![file edit](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-edit.png)
   static const IconData icon_file_edit = IconData([
     {
       'tag': 'root',
@@ -11727,6 +13794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file excel`
+  /// 
+  /// ![file excel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-excel.png)
   static const IconData icon_file_excel = IconData([
     {
       'tag': 'root',
@@ -11744,6 +13814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file export`
+  /// 
+  /// ![file export](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-export.png)
   static const IconData icon_file_export = IconData([
     {
       'tag': 'root',
@@ -11761,6 +13834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file fragment`
+  /// 
+  /// ![file fragment](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-fragment.png)
   static const IconData icon_file_fragment = IconData([
     {
       'tag': 'root',
@@ -11778,6 +13854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file half dashed`
+  /// 
+  /// ![file half dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-half-dashed.png)
   static const IconData icon_file_half_dashed = IconData([
     {
       'tag': 'root',
@@ -11795,6 +13874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file image`
+  /// 
+  /// ![file image](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-image.png)
   static const IconData icon_file_image = IconData([
     {
       'tag': 'root',
@@ -11812,6 +13894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file import`
+  /// 
+  /// ![file import](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-import.png)
   static const IconData icon_file_import = IconData([
     {
       'tag': 'root',
@@ -11829,6 +13914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file invoice`
+  /// 
+  /// ![file invoice](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-invoice.png)
   static const IconData icon_file_invoice = IconData([
     {
       'tag': 'root',
@@ -11846,6 +13934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file invoice dollar`
+  /// 
+  /// ![file invoice dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-invoice-dollar.png)
   static const IconData icon_file_invoice_dollar = IconData([
     {
       'tag': 'root',
@@ -11863,6 +13954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file lines`
+  /// 
+  /// ![file lines](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-lines.png)
   static const IconData icon_file_lines = IconData([
     {
       'tag': 'root',
@@ -11880,6 +13974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file medical`
+  /// 
+  /// ![file medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-medical.png)
   static const IconData icon_file_medical = IconData([
     {
       'tag': 'root',
@@ -11897,6 +13994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file medical alt`
+  /// 
+  /// ![file medical alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-medical-alt.png)
   static const IconData icon_file_medical_alt = IconData([
     {
       'tag': 'root',
@@ -11914,6 +14014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file pdf`
+  /// 
+  /// ![file pdf](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-pdf.png)
   static const IconData icon_file_pdf = IconData([
     {
       'tag': 'root',
@@ -11931,6 +14034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file pen`
+  /// 
+  /// ![file pen](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-pen.png)
   static const IconData icon_file_pen = IconData([
     {
       'tag': 'root',
@@ -11948,6 +14054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file powerpoint`
+  /// 
+  /// ![file powerpoint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-powerpoint.png)
   static const IconData icon_file_powerpoint = IconData([
     {
       'tag': 'root',
@@ -11965,6 +14074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file prescription`
+  /// 
+  /// ![file prescription](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-prescription.png)
   static const IconData icon_file_prescription = IconData([
     {
       'tag': 'root',
@@ -11982,6 +14094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file shield`
+  /// 
+  /// ![file shield](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-shield.png)
   static const IconData icon_file_shield = IconData([
     {
       'tag': 'root',
@@ -11999,6 +14114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file signature`
+  /// 
+  /// ![file signature](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-signature.png)
   static const IconData icon_file_signature = IconData([
     {
       'tag': 'root',
@@ -12016,6 +14134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file text`
+  /// 
+  /// ![file text](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-text.png)
   static const IconData icon_file_text = IconData([
     {
       'tag': 'root',
@@ -12033,6 +14154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file upload`
+  /// 
+  /// ![file upload](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-upload.png)
   static const IconData icon_file_upload = IconData([
     {
       'tag': 'root',
@@ -12050,6 +14174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file video`
+  /// 
+  /// ![file video](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-video.png)
   static const IconData icon_file_video = IconData([
     {
       'tag': 'root',
@@ -12067,6 +14194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file waveform`
+  /// 
+  /// ![file waveform](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-waveform.png)
   static const IconData icon_file_waveform = IconData([
     {
       'tag': 'root',
@@ -12084,6 +14214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file word`
+  /// 
+  /// ![file word](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-word.png)
   static const IconData icon_file_word = IconData([
     {
       'tag': 'root',
@@ -12101,6 +14234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `file zipper`
+  /// 
+  /// ![file zipper](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/file-zipper.png)
   static const IconData icon_file_zipper = IconData([
     {
       'tag': 'root',
@@ -12118,6 +14254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fill`
+  /// 
+  /// ![fill](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fill.png)
   static const IconData icon_fill = IconData([
     {
       'tag': 'root',
@@ -12135,6 +14274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fill drip`
+  /// 
+  /// ![fill drip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fill-drip.png)
   static const IconData icon_fill_drip = IconData([
     {
       'tag': 'root',
@@ -12152,6 +14294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `film`
+  /// 
+  /// ![film](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/film.png)
   static const IconData icon_film = IconData([
     {
       'tag': 'root',
@@ -12169,6 +14314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `film alt`
+  /// 
+  /// ![film alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/film-alt.png)
   static const IconData icon_film_alt = IconData([
     {
       'tag': 'root',
@@ -12186,6 +14334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `film simple`
+  /// 
+  /// ![film simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/film-simple.png)
   static const IconData icon_film_simple = IconData([
     {
       'tag': 'root',
@@ -12203,6 +14354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `filter`
+  /// 
+  /// ![filter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/filter.png)
   static const IconData icon_filter = IconData([
     {
       'tag': 'root',
@@ -12220,6 +14374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `filter circle dollar`
+  /// 
+  /// ![filter circle dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/filter-circle-dollar.png)
   static const IconData icon_filter_circle_dollar = IconData([
     {
       'tag': 'root',
@@ -12237,6 +14394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `filter circle xmark`
+  /// 
+  /// ![filter circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/filter-circle-xmark.png)
   static const IconData icon_filter_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -12254,6 +14414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fingerprint`
+  /// 
+  /// ![fingerprint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fingerprint.png)
   static const IconData icon_fingerprint = IconData([
     {
       'tag': 'root',
@@ -12271,6 +14434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fire`
+  /// 
+  /// ![fire](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fire.png)
   static const IconData icon_fire = IconData([
     {
       'tag': 'root',
@@ -12288,6 +14454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fire alt`
+  /// 
+  /// ![fire alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fire-alt.png)
   static const IconData icon_fire_alt = IconData([
     {
       'tag': 'root',
@@ -12305,6 +14474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fire burner`
+  /// 
+  /// ![fire burner](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fire-burner.png)
   static const IconData icon_fire_burner = IconData([
     {
       'tag': 'root',
@@ -12322,6 +14494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fire extinguisher`
+  /// 
+  /// ![fire extinguisher](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fire-extinguisher.png)
   static const IconData icon_fire_extinguisher = IconData([
     {
       'tag': 'root',
@@ -12339,6 +14514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fire flame curved`
+  /// 
+  /// ![fire flame curved](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fire-flame-curved.png)
   static const IconData icon_fire_flame_curved = IconData([
     {
       'tag': 'root',
@@ -12356,6 +14534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fire flame simple`
+  /// 
+  /// ![fire flame simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fire-flame-simple.png)
   static const IconData icon_fire_flame_simple = IconData([
     {
       'tag': 'root',
@@ -12373,6 +14554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `first aid`
+  /// 
+  /// ![first aid](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/first-aid.png)
   static const IconData icon_first_aid = IconData([
     {
       'tag': 'root',
@@ -12390,6 +14574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fish`
+  /// 
+  /// ![fish](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fish.png)
   static const IconData icon_fish = IconData([
     {
       'tag': 'root',
@@ -12407,6 +14594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fish fins`
+  /// 
+  /// ![fish fins](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fish-fins.png)
   static const IconData icon_fish_fins = IconData([
     {
       'tag': 'root',
@@ -12424,6 +14614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `fist raised`
+  /// 
+  /// ![fist raised](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/fist-raised.png)
   static const IconData icon_fist_raised = IconData([
     {
       'tag': 'root',
@@ -12441,6 +14634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `flag`
+  /// 
+  /// ![flag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/flag.png)
   static const IconData icon_flag = IconData([
     {
       'tag': 'root',
@@ -12458,6 +14654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `flag checkered`
+  /// 
+  /// ![flag checkered](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/flag-checkered.png)
   static const IconData icon_flag_checkered = IconData([
     {
       'tag': 'root',
@@ -12475,6 +14674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `flag usa`
+  /// 
+  /// ![flag usa](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/flag-usa.png)
   static const IconData icon_flag_usa = IconData([
     {
       'tag': 'root',
@@ -12492,6 +14694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `flask`
+  /// 
+  /// ![flask](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/flask.png)
   static const IconData icon_flask = IconData([
     {
       'tag': 'root',
@@ -12509,6 +14714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `flask vial`
+  /// 
+  /// ![flask vial](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/flask-vial.png)
   static const IconData icon_flask_vial = IconData([
     {
       'tag': 'root',
@@ -12526,6 +14734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `floppy disk`
+  /// 
+  /// ![floppy disk](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/floppy-disk.png)
   static const IconData icon_floppy_disk = IconData([
     {
       'tag': 'root',
@@ -12543,6 +14754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `florin sign`
+  /// 
+  /// ![florin sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/florin-sign.png)
   static const IconData icon_florin_sign = IconData([
     {
       'tag': 'root',
@@ -12560,6 +14774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `flushed`
+  /// 
+  /// ![flushed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/flushed.png)
   static const IconData icon_flushed = IconData([
     {
       'tag': 'root',
@@ -12577,6 +14794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `folder`
+  /// 
+  /// ![folder](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/folder.png)
   static const IconData icon_folder = IconData([
     {
       'tag': 'root',
@@ -12594,6 +14814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `folder blank`
+  /// 
+  /// ![folder blank](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/folder-blank.png)
   static const IconData icon_folder_blank = IconData([
     {
       'tag': 'root',
@@ -12611,6 +14834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `folder closed`
+  /// 
+  /// ![folder closed](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/folder-closed.png)
   static const IconData icon_folder_closed = IconData([
     {
       'tag': 'root',
@@ -12628,6 +14854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `folder minus`
+  /// 
+  /// ![folder minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/folder-minus.png)
   static const IconData icon_folder_minus = IconData([
     {
       'tag': 'root',
@@ -12645,6 +14874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `folder open`
+  /// 
+  /// ![folder open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/folder-open.png)
   static const IconData icon_folder_open = IconData([
     {
       'tag': 'root',
@@ -12662,6 +14894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `folder plus`
+  /// 
+  /// ![folder plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/folder-plus.png)
   static const IconData icon_folder_plus = IconData([
     {
       'tag': 'root',
@@ -12679,6 +14914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `folder tree`
+  /// 
+  /// ![folder tree](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/folder-tree.png)
   static const IconData icon_folder_tree = IconData([
     {
       'tag': 'root',
@@ -12696,6 +14934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `font`
+  /// 
+  /// ![font](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/font.png)
   static const IconData icon_font = IconData([
     {
       'tag': 'root',
@@ -12713,6 +14954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `font awesome`
+  /// 
+  /// ![font awesome](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/font-awesome.png)
   static const IconData icon_font_awesome = IconData([
     {
       'tag': 'root',
@@ -12730,6 +14974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `font awesome flag`
+  /// 
+  /// ![font awesome flag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/font-awesome-flag.png)
   static const IconData icon_font_awesome_flag = IconData([
     {
       'tag': 'root',
@@ -12747,6 +14994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `football`
+  /// 
+  /// ![football](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/football.png)
   static const IconData icon_football = IconData([
     {
       'tag': 'root',
@@ -12764,6 +15014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `football ball`
+  /// 
+  /// ![football ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/football-ball.png)
   static const IconData icon_football_ball = IconData([
     {
       'tag': 'root',
@@ -12781,6 +15034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `forward`
+  /// 
+  /// ![forward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/forward.png)
   static const IconData icon_forward = IconData([
     {
       'tag': 'root',
@@ -12798,6 +15054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `forward fast`
+  /// 
+  /// ![forward fast](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/forward-fast.png)
   static const IconData icon_forward_fast = IconData([
     {
       'tag': 'root',
@@ -12815,6 +15074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `forward step`
+  /// 
+  /// ![forward step](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/forward-step.png)
   static const IconData icon_forward_step = IconData([
     {
       'tag': 'root',
@@ -12832,6 +15094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `franc sign`
+  /// 
+  /// ![franc sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/franc-sign.png)
   static const IconData icon_franc_sign = IconData([
     {
       'tag': 'root',
@@ -12849,6 +15114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `frog`
+  /// 
+  /// ![frog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/frog.png)
   static const IconData icon_frog = IconData([
     {
       'tag': 'root',
@@ -12866,6 +15134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `frown`
+  /// 
+  /// ![frown](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/frown.png)
   static const IconData icon_frown = IconData([
     {
       'tag': 'root',
@@ -12883,6 +15154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `frown open`
+  /// 
+  /// ![frown open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/frown-open.png)
   static const IconData icon_frown_open = IconData([
     {
       'tag': 'root',
@@ -12900,6 +15174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `funnel dollar`
+  /// 
+  /// ![funnel dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/funnel-dollar.png)
   static const IconData icon_funnel_dollar = IconData([
     {
       'tag': 'root',
@@ -12917,6 +15194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `futbol`
+  /// 
+  /// ![futbol](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/futbol.png)
   static const IconData icon_futbol = IconData([
     {
       'tag': 'root',
@@ -12934,6 +15214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `futbol ball`
+  /// 
+  /// ![futbol ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/futbol-ball.png)
   static const IconData icon_futbol_ball = IconData([
     {
       'tag': 'root',
@@ -12951,6 +15234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `g`
+  /// 
+  /// ![g](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/g.png)
   static const IconData icon_g = IconData([
     {
       'tag': 'root',
@@ -12968,6 +15254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gamepad`
+  /// 
+  /// ![gamepad](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gamepad.png)
   static const IconData icon_gamepad = IconData([
     {
       'tag': 'root',
@@ -12985,6 +15274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gas pump`
+  /// 
+  /// ![gas pump](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gas-pump.png)
   static const IconData icon_gas_pump = IconData([
     {
       'tag': 'root',
@@ -13002,6 +15294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gauge`
+  /// 
+  /// ![gauge](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gauge.png)
   static const IconData icon_gauge = IconData([
     {
       'tag': 'root',
@@ -13019,6 +15314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gauge high`
+  /// 
+  /// ![gauge high](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gauge-high.png)
   static const IconData icon_gauge_high = IconData([
     {
       'tag': 'root',
@@ -13036,6 +15334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gauge med`
+  /// 
+  /// ![gauge med](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gauge-med.png)
   static const IconData icon_gauge_med = IconData([
     {
       'tag': 'root',
@@ -13053,6 +15354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gauge simple`
+  /// 
+  /// ![gauge simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gauge-simple.png)
   static const IconData icon_gauge_simple = IconData([
     {
       'tag': 'root',
@@ -13070,6 +15374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gauge simple high`
+  /// 
+  /// ![gauge simple high](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gauge-simple-high.png)
   static const IconData icon_gauge_simple_high = IconData([
     {
       'tag': 'root',
@@ -13087,6 +15394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gauge simple med`
+  /// 
+  /// ![gauge simple med](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gauge-simple-med.png)
   static const IconData icon_gauge_simple_med = IconData([
     {
       'tag': 'root',
@@ -13104,6 +15414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gavel`
+  /// 
+  /// ![gavel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gavel.png)
   static const IconData icon_gavel = IconData([
     {
       'tag': 'root',
@@ -13121,6 +15434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gbp`
+  /// 
+  /// ![gbp](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gbp.png)
   static const IconData icon_gbp = IconData([
     {
       'tag': 'root',
@@ -13138,6 +15454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gear`
+  /// 
+  /// ![gear](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gear.png)
   static const IconData icon_gear = IconData([
     {
       'tag': 'root',
@@ -13155,6 +15474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gears`
+  /// 
+  /// ![gears](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gears.png)
   static const IconData icon_gears = IconData([
     {
       'tag': 'root',
@@ -13172,6 +15494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gem`
+  /// 
+  /// ![gem](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gem.png)
   static const IconData icon_gem = IconData([
     {
       'tag': 'root',
@@ -13189,6 +15514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gemini`
+  /// 
+  /// ![gemini](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gemini.png)
   static const IconData icon_gemini = IconData([
     {
       'tag': 'root',
@@ -13206,6 +15534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `genderless`
+  /// 
+  /// ![genderless](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/genderless.png)
   static const IconData icon_genderless = IconData([
     {
       'tag': 'root',
@@ -13223,6 +15554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ghost`
+  /// 
+  /// ![ghost](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ghost.png)
   static const IconData icon_ghost = IconData([
     {
       'tag': 'root',
@@ -13240,6 +15574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gift`
+  /// 
+  /// ![gift](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gift.png)
   static const IconData icon_gift = IconData([
     {
       'tag': 'root',
@@ -13257,6 +15594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gifts`
+  /// 
+  /// ![gifts](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gifts.png)
   static const IconData icon_gifts = IconData([
     {
       'tag': 'root',
@@ -13274,6 +15614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `glass cheers`
+  /// 
+  /// ![glass cheers](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/glass-cheers.png)
   static const IconData icon_glass_cheers = IconData([
     {
       'tag': 'root',
@@ -13291,6 +15634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `glass martini`
+  /// 
+  /// ![glass martini](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/glass-martini.png)
   static const IconData icon_glass_martini = IconData([
     {
       'tag': 'root',
@@ -13308,6 +15654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `glass martini alt`
+  /// 
+  /// ![glass martini alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/glass-martini-alt.png)
   static const IconData icon_glass_martini_alt = IconData([
     {
       'tag': 'root',
@@ -13325,6 +15674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `glass water`
+  /// 
+  /// ![glass water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/glass-water.png)
   static const IconData icon_glass_water = IconData([
     {
       'tag': 'root',
@@ -13342,6 +15694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `glass water droplet`
+  /// 
+  /// ![glass water droplet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/glass-water-droplet.png)
   static const IconData icon_glass_water_droplet = IconData([
     {
       'tag': 'root',
@@ -13359,6 +15714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `glass whiskey`
+  /// 
+  /// ![glass whiskey](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/glass-whiskey.png)
   static const IconData icon_glass_whiskey = IconData([
     {
       'tag': 'root',
@@ -13376,6 +15734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `glasses`
+  /// 
+  /// ![glasses](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/glasses.png)
   static const IconData icon_glasses = IconData([
     {
       'tag': 'root',
@@ -13393,6 +15754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `globe`
+  /// 
+  /// ![globe](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/globe.png)
   static const IconData icon_globe = IconData([
     {
       'tag': 'root',
@@ -13410,6 +15774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `globe africa`
+  /// 
+  /// ![globe africa](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/globe-africa.png)
   static const IconData icon_globe_africa = IconData([
     {
       'tag': 'root',
@@ -13427,6 +15794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `globe americas`
+  /// 
+  /// ![globe americas](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/globe-americas.png)
   static const IconData icon_globe_americas = IconData([
     {
       'tag': 'root',
@@ -13444,6 +15814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `globe asia`
+  /// 
+  /// ![globe asia](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/globe-asia.png)
   static const IconData icon_globe_asia = IconData([
     {
       'tag': 'root',
@@ -13461,6 +15834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `globe europe`
+  /// 
+  /// ![globe europe](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/globe-europe.png)
   static const IconData icon_globe_europe = IconData([
     {
       'tag': 'root',
@@ -13478,6 +15854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `globe oceania`
+  /// 
+  /// ![globe oceania](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/globe-oceania.png)
   static const IconData icon_globe_oceania = IconData([
     {
       'tag': 'root',
@@ -13495,6 +15874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `golf ball`
+  /// 
+  /// ![golf ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/golf-ball.png)
   static const IconData icon_golf_ball = IconData([
     {
       'tag': 'root',
@@ -13512,6 +15894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `golf ball tee`
+  /// 
+  /// ![golf ball tee](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/golf-ball-tee.png)
   static const IconData icon_golf_ball_tee = IconData([
     {
       'tag': 'root',
@@ -13529,6 +15914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gopuram`
+  /// 
+  /// ![gopuram](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gopuram.png)
   static const IconData icon_gopuram = IconData([
     {
       'tag': 'root',
@@ -13546,6 +15934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `graduation cap`
+  /// 
+  /// ![graduation cap](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/graduation-cap.png)
   static const IconData icon_graduation_cap = IconData([
     {
       'tag': 'root',
@@ -13563,6 +15954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `greater than`
+  /// 
+  /// ![greater than](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/greater-than.png)
   static const IconData icon_greater_than = IconData([
     {
       'tag': 'root',
@@ -13580,6 +15974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `greater than equal`
+  /// 
+  /// ![greater than equal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/greater-than-equal.png)
   static const IconData icon_greater_than_equal = IconData([
     {
       'tag': 'root',
@@ -13597,6 +15994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grid horizontal`
+  /// 
+  /// ![grid horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grid-horizontal.png)
   static const IconData icon_grid_horizontal = IconData([
     {
       'tag': 'root',
@@ -13614,6 +16014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grid vertical`
+  /// 
+  /// ![grid vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grid-vertical.png)
   static const IconData icon_grid_vertical = IconData([
     {
       'tag': 'root',
@@ -13631,6 +16034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grimace`
+  /// 
+  /// ![grimace](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grimace.png)
   static const IconData icon_grimace = IconData([
     {
       'tag': 'root',
@@ -13648,6 +16054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin`
+  /// 
+  /// ![grin](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin.png)
   static const IconData icon_grin = IconData([
     {
       'tag': 'root',
@@ -13665,6 +16074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin alt`
+  /// 
+  /// ![grin alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-alt.png)
   static const IconData icon_grin_alt = IconData([
     {
       'tag': 'root',
@@ -13682,6 +16094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin beam`
+  /// 
+  /// ![grin beam](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-beam.png)
   static const IconData icon_grin_beam = IconData([
     {
       'tag': 'root',
@@ -13699,6 +16114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin beam sweat`
+  /// 
+  /// ![grin beam sweat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-beam-sweat.png)
   static const IconData icon_grin_beam_sweat = IconData([
     {
       'tag': 'root',
@@ -13716,6 +16134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin hearts`
+  /// 
+  /// ![grin hearts](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-hearts.png)
   static const IconData icon_grin_hearts = IconData([
     {
       'tag': 'root',
@@ -13733,6 +16154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin squint`
+  /// 
+  /// ![grin squint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-squint.png)
   static const IconData icon_grin_squint = IconData([
     {
       'tag': 'root',
@@ -13750,6 +16174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin squint tears`
+  /// 
+  /// ![grin squint tears](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-squint-tears.png)
   static const IconData icon_grin_squint_tears = IconData([
     {
       'tag': 'root',
@@ -13767,6 +16194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin stars`
+  /// 
+  /// ![grin stars](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-stars.png)
   static const IconData icon_grin_stars = IconData([
     {
       'tag': 'root',
@@ -13784,6 +16214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin tears`
+  /// 
+  /// ![grin tears](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-tears.png)
   static const IconData icon_grin_tears = IconData([
     {
       'tag': 'root',
@@ -13801,6 +16234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin tongue`
+  /// 
+  /// ![grin tongue](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-tongue.png)
   static const IconData icon_grin_tongue = IconData([
     {
       'tag': 'root',
@@ -13818,6 +16254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin tongue squint`
+  /// 
+  /// ![grin tongue squint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-tongue-squint.png)
   static const IconData icon_grin_tongue_squint = IconData([
     {
       'tag': 'root',
@@ -13835,6 +16274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin tongue wink`
+  /// 
+  /// ![grin tongue wink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-tongue-wink.png)
   static const IconData icon_grin_tongue_wink = IconData([
     {
       'tag': 'root',
@@ -13852,6 +16294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grin wink`
+  /// 
+  /// ![grin wink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grin-wink.png)
   static const IconData icon_grin_wink = IconData([
     {
       'tag': 'root',
@@ -13869,6 +16314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grip`
+  /// 
+  /// ![grip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grip.png)
   static const IconData icon_grip = IconData([
     {
       'tag': 'root',
@@ -13886,6 +16334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grip horizontal`
+  /// 
+  /// ![grip horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grip-horizontal.png)
   static const IconData icon_grip_horizontal = IconData([
     {
       'tag': 'root',
@@ -13903,6 +16354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grip lines`
+  /// 
+  /// ![grip lines](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grip-lines.png)
   static const IconData icon_grip_lines = IconData([
     {
       'tag': 'root',
@@ -13920,6 +16374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grip lines vertical`
+  /// 
+  /// ![grip lines vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grip-lines-vertical.png)
   static const IconData icon_grip_lines_vertical = IconData([
     {
       'tag': 'root',
@@ -13937,6 +16394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `grip vertical`
+  /// 
+  /// ![grip vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/grip-vertical.png)
   static const IconData icon_grip_vertical = IconData([
     {
       'tag': 'root',
@@ -13954,6 +16414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `group arrows rotate`
+  /// 
+  /// ![group arrows rotate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/group-arrows-rotate.png)
   static const IconData icon_group_arrows_rotate = IconData([
     {
       'tag': 'root',
@@ -13971,6 +16434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `guarani sign`
+  /// 
+  /// ![guarani sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/guarani-sign.png)
   static const IconData icon_guarani_sign = IconData([
     {
       'tag': 'root',
@@ -13988,6 +16454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `guitar`
+  /// 
+  /// ![guitar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/guitar.png)
   static const IconData icon_guitar = IconData([
     {
       'tag': 'root',
@@ -14005,6 +16474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `gun`
+  /// 
+  /// ![gun](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/gun.png)
   static const IconData icon_gun = IconData([
     {
       'tag': 'root',
@@ -14022,6 +16494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `h`
+  /// 
+  /// ![h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/h.png)
   static const IconData icon_h = IconData([
     {
       'tag': 'root',
@@ -14039,6 +16514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `h square`
+  /// 
+  /// ![h square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/h-square.png)
   static const IconData icon_h_square = IconData([
     {
       'tag': 'root',
@@ -14056,6 +16534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hamburger`
+  /// 
+  /// ![hamburger](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hamburger.png)
   static const IconData icon_hamburger = IconData([
     {
       'tag': 'root',
@@ -14073,6 +16554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hammer`
+  /// 
+  /// ![hammer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hammer.png)
   static const IconData icon_hammer = IconData([
     {
       'tag': 'root',
@@ -14090,6 +16574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hamsa`
+  /// 
+  /// ![hamsa](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hamsa.png)
   static const IconData icon_hamsa = IconData([
     {
       'tag': 'root',
@@ -14107,6 +16594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand`
+  /// 
+  /// ![hand](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand.png)
   static const IconData icon_hand = IconData([
     {
       'tag': 'root',
@@ -14124,6 +16614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand back fist`
+  /// 
+  /// ![hand back fist](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-back-fist.png)
   static const IconData icon_hand_back_fist = IconData([
     {
       'tag': 'root',
@@ -14141,6 +16634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand dots`
+  /// 
+  /// ![hand dots](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-dots.png)
   static const IconData icon_hand_dots = IconData([
     {
       'tag': 'root',
@@ -14158,6 +16654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand fist`
+  /// 
+  /// ![hand fist](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-fist.png)
   static const IconData icon_hand_fist = IconData([
     {
       'tag': 'root',
@@ -14175,6 +16674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand holding`
+  /// 
+  /// ![hand holding](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-holding.png)
   static const IconData icon_hand_holding = IconData([
     {
       'tag': 'root',
@@ -14192,6 +16694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand holding dollar`
+  /// 
+  /// ![hand holding dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-holding-dollar.png)
   static const IconData icon_hand_holding_dollar = IconData([
     {
       'tag': 'root',
@@ -14209,6 +16714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand holding droplet`
+  /// 
+  /// ![hand holding droplet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-holding-droplet.png)
   static const IconData icon_hand_holding_droplet = IconData([
     {
       'tag': 'root',
@@ -14226,6 +16734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand holding hand`
+  /// 
+  /// ![hand holding hand](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-holding-hand.png)
   static const IconData icon_hand_holding_hand = IconData([
     {
       'tag': 'root',
@@ -14243,6 +16754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand holding heart`
+  /// 
+  /// ![hand holding heart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-holding-heart.png)
   static const IconData icon_hand_holding_heart = IconData([
     {
       'tag': 'root',
@@ -14260,6 +16774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand holding medical`
+  /// 
+  /// ![hand holding medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-holding-medical.png)
   static const IconData icon_hand_holding_medical = IconData([
     {
       'tag': 'root',
@@ -14277,6 +16794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand holding usd`
+  /// 
+  /// ![hand holding usd](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-holding-usd.png)
   static const IconData icon_hand_holding_usd = IconData([
     {
       'tag': 'root',
@@ -14294,6 +16814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand holding water`
+  /// 
+  /// ![hand holding water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-holding-water.png)
   static const IconData icon_hand_holding_water = IconData([
     {
       'tag': 'root',
@@ -14311,6 +16834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand lizard`
+  /// 
+  /// ![hand lizard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-lizard.png)
   static const IconData icon_hand_lizard = IconData([
     {
       'tag': 'root',
@@ -14328,6 +16854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand middle finger`
+  /// 
+  /// ![hand middle finger](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-middle-finger.png)
   static const IconData icon_hand_middle_finger = IconData([
     {
       'tag': 'root',
@@ -14345,6 +16874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand paper`
+  /// 
+  /// ![hand paper](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-paper.png)
   static const IconData icon_hand_paper = IconData([
     {
       'tag': 'root',
@@ -14362,6 +16894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand peace`
+  /// 
+  /// ![hand peace](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-peace.png)
   static const IconData icon_hand_peace = IconData([
     {
       'tag': 'root',
@@ -14379,6 +16914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand point down`
+  /// 
+  /// ![hand point down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-point-down.png)
   static const IconData icon_hand_point_down = IconData([
     {
       'tag': 'root',
@@ -14396,6 +16934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand point left`
+  /// 
+  /// ![hand point left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-point-left.png)
   static const IconData icon_hand_point_left = IconData([
     {
       'tag': 'root',
@@ -14413,6 +16954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand point right`
+  /// 
+  /// ![hand point right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-point-right.png)
   static const IconData icon_hand_point_right = IconData([
     {
       'tag': 'root',
@@ -14430,6 +16974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand point up`
+  /// 
+  /// ![hand point up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-point-up.png)
   static const IconData icon_hand_point_up = IconData([
     {
       'tag': 'root',
@@ -14447,6 +16994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand pointer`
+  /// 
+  /// ![hand pointer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-pointer.png)
   static const IconData icon_hand_pointer = IconData([
     {
       'tag': 'root',
@@ -14464,6 +17014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand rock`
+  /// 
+  /// ![hand rock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-rock.png)
   static const IconData icon_hand_rock = IconData([
     {
       'tag': 'root',
@@ -14481,6 +17034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand scissors`
+  /// 
+  /// ![hand scissors](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-scissors.png)
   static const IconData icon_hand_scissors = IconData([
     {
       'tag': 'root',
@@ -14498,6 +17054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand sparkles`
+  /// 
+  /// ![hand sparkles](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-sparkles.png)
   static const IconData icon_hand_sparkles = IconData([
     {
       'tag': 'root',
@@ -14515,6 +17074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hand spock`
+  /// 
+  /// ![hand spock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hand-spock.png)
   static const IconData icon_hand_spock = IconData([
     {
       'tag': 'root',
@@ -14532,6 +17094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `handcuffs`
+  /// 
+  /// ![handcuffs](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/handcuffs.png)
   static const IconData icon_handcuffs = IconData([
     {
       'tag': 'root',
@@ -14549,6 +17114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands`
+  /// 
+  /// ![hands](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands.png)
   static const IconData icon_hands = IconData([
     {
       'tag': 'root',
@@ -14566,6 +17134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands american sign language interpreting`
+  /// 
+  /// ![hands american sign language interpreting](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-american-sign-language-interpreting.png)
   static const IconData icon_hands_american_sign_language_interpreting = IconData([
     {
       'tag': 'root',
@@ -14583,6 +17154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands asl interpreting`
+  /// 
+  /// ![hands asl interpreting](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-asl-interpreting.png)
   static const IconData icon_hands_asl_interpreting = IconData([
     {
       'tag': 'root',
@@ -14600,6 +17174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands bound`
+  /// 
+  /// ![hands bound](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-bound.png)
   static const IconData icon_hands_bound = IconData([
     {
       'tag': 'root',
@@ -14617,6 +17194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands bubbles`
+  /// 
+  /// ![hands bubbles](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-bubbles.png)
   static const IconData icon_hands_bubbles = IconData([
     {
       'tag': 'root',
@@ -14634,6 +17214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands clapping`
+  /// 
+  /// ![hands clapping](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-clapping.png)
   static const IconData icon_hands_clapping = IconData([
     {
       'tag': 'root',
@@ -14651,6 +17234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands helping`
+  /// 
+  /// ![hands helping](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-helping.png)
   static const IconData icon_hands_helping = IconData([
     {
       'tag': 'root',
@@ -14668,6 +17254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands holding`
+  /// 
+  /// ![hands holding](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-holding.png)
   static const IconData icon_hands_holding = IconData([
     {
       'tag': 'root',
@@ -14685,6 +17274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands holding child`
+  /// 
+  /// ![hands holding child](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-holding-child.png)
   static const IconData icon_hands_holding_child = IconData([
     {
       'tag': 'root',
@@ -14702,6 +17294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands holding circle`
+  /// 
+  /// ![hands holding circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-holding-circle.png)
   static const IconData icon_hands_holding_circle = IconData([
     {
       'tag': 'root',
@@ -14719,6 +17314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands praying`
+  /// 
+  /// ![hands praying](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-praying.png)
   static const IconData icon_hands_praying = IconData([
     {
       'tag': 'root',
@@ -14736,6 +17334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hands wash`
+  /// 
+  /// ![hands wash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hands-wash.png)
   static const IconData icon_hands_wash = IconData([
     {
       'tag': 'root',
@@ -14753,6 +17354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `handshake`
+  /// 
+  /// ![handshake](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/handshake.png)
   static const IconData icon_handshake = IconData([
     {
       'tag': 'root',
@@ -14770,6 +17374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `handshake alt`
+  /// 
+  /// ![handshake alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/handshake-alt.png)
   static const IconData icon_handshake_alt = IconData([
     {
       'tag': 'root',
@@ -14787,6 +17394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `handshake alt slash`
+  /// 
+  /// ![handshake alt slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/handshake-alt-slash.png)
   static const IconData icon_handshake_alt_slash = IconData([
     {
       'tag': 'root',
@@ -14804,6 +17414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `handshake angle`
+  /// 
+  /// ![handshake angle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/handshake-angle.png)
   static const IconData icon_handshake_angle = IconData([
     {
       'tag': 'root',
@@ -14821,6 +17434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `handshake simple`
+  /// 
+  /// ![handshake simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/handshake-simple.png)
   static const IconData icon_handshake_simple = IconData([
     {
       'tag': 'root',
@@ -14838,6 +17454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `handshake simple slash`
+  /// 
+  /// ![handshake simple slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/handshake-simple-slash.png)
   static const IconData icon_handshake_simple_slash = IconData([
     {
       'tag': 'root',
@@ -14855,6 +17474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `handshake slash`
+  /// 
+  /// ![handshake slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/handshake-slash.png)
   static const IconData icon_handshake_slash = IconData([
     {
       'tag': 'root',
@@ -14872,6 +17494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hanukiah`
+  /// 
+  /// ![hanukiah](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hanukiah.png)
   static const IconData icon_hanukiah = IconData([
     {
       'tag': 'root',
@@ -14889,6 +17514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hard drive`
+  /// 
+  /// ![hard drive](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hard-drive.png)
   static const IconData icon_hard_drive = IconData([
     {
       'tag': 'root',
@@ -14906,6 +17534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hard hat`
+  /// 
+  /// ![hard hat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hard-hat.png)
   static const IconData icon_hard_hat = IconData([
     {
       'tag': 'root',
@@ -14923,6 +17554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hard of hearing`
+  /// 
+  /// ![hard of hearing](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hard-of-hearing.png)
   static const IconData icon_hard_of_hearing = IconData([
     {
       'tag': 'root',
@@ -14940,6 +17574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hashtag`
+  /// 
+  /// ![hashtag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hashtag.png)
   static const IconData icon_hashtag = IconData([
     {
       'tag': 'root',
@@ -14957,6 +17594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hat cowboy`
+  /// 
+  /// ![hat cowboy](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hat-cowboy.png)
   static const IconData icon_hat_cowboy = IconData([
     {
       'tag': 'root',
@@ -14974,6 +17614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hat cowboy side`
+  /// 
+  /// ![hat cowboy side](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hat-cowboy-side.png)
   static const IconData icon_hat_cowboy_side = IconData([
     {
       'tag': 'root',
@@ -14991,6 +17634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hat hard`
+  /// 
+  /// ![hat hard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hat-hard.png)
   static const IconData icon_hat_hard = IconData([
     {
       'tag': 'root',
@@ -15008,6 +17654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hat wizard`
+  /// 
+  /// ![hat wizard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hat-wizard.png)
   static const IconData icon_hat_wizard = IconData([
     {
       'tag': 'root',
@@ -15025,6 +17674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `haykal`
+  /// 
+  /// ![haykal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/haykal.png)
   static const IconData icon_haykal = IconData([
     {
       'tag': 'root',
@@ -15042,6 +17694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hdd`
+  /// 
+  /// ![hdd](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hdd.png)
   static const IconData icon_hdd = IconData([
     {
       'tag': 'root',
@@ -15059,6 +17714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `head side cough`
+  /// 
+  /// ![head side cough](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/head-side-cough.png)
   static const IconData icon_head_side_cough = IconData([
     {
       'tag': 'root',
@@ -15076,6 +17734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `head side cough slash`
+  /// 
+  /// ![head side cough slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/head-side-cough-slash.png)
   static const IconData icon_head_side_cough_slash = IconData([
     {
       'tag': 'root',
@@ -15093,6 +17754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `head side mask`
+  /// 
+  /// ![head side mask](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/head-side-mask.png)
   static const IconData icon_head_side_mask = IconData([
     {
       'tag': 'root',
@@ -15110,6 +17774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `head side virus`
+  /// 
+  /// ![head side virus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/head-side-virus.png)
   static const IconData icon_head_side_virus = IconData([
     {
       'tag': 'root',
@@ -15127,6 +17794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `header`
+  /// 
+  /// ![header](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/header.png)
   static const IconData icon_header = IconData([
     {
       'tag': 'root',
@@ -15144,6 +17814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heading`
+  /// 
+  /// ![heading](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heading.png)
   static const IconData icon_heading = IconData([
     {
       'tag': 'root',
@@ -15161,6 +17834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `headphones`
+  /// 
+  /// ![headphones](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/headphones.png)
   static const IconData icon_headphones = IconData([
     {
       'tag': 'root',
@@ -15178,6 +17854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `headphones alt`
+  /// 
+  /// ![headphones alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/headphones-alt.png)
   static const IconData icon_headphones_alt = IconData([
     {
       'tag': 'root',
@@ -15195,6 +17874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `headphones simple`
+  /// 
+  /// ![headphones simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/headphones-simple.png)
   static const IconData icon_headphones_simple = IconData([
     {
       'tag': 'root',
@@ -15212,6 +17894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `headset`
+  /// 
+  /// ![headset](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/headset.png)
   static const IconData icon_headset = IconData([
     {
       'tag': 'root',
@@ -15229,6 +17914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart`
+  /// 
+  /// ![heart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart.png)
   static const IconData icon_heart = IconData([
     {
       'tag': 'root',
@@ -15246,6 +17934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart broken`
+  /// 
+  /// ![heart broken](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-broken.png)
   static const IconData icon_heart_broken = IconData([
     {
       'tag': 'root',
@@ -15263,6 +17954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart circle bolt`
+  /// 
+  /// ![heart circle bolt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-circle-bolt.png)
   static const IconData icon_heart_circle_bolt = IconData([
     {
       'tag': 'root',
@@ -15280,6 +17974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart circle check`
+  /// 
+  /// ![heart circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-circle-check.png)
   static const IconData icon_heart_circle_check = IconData([
     {
       'tag': 'root',
@@ -15297,6 +17994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart circle exclamation`
+  /// 
+  /// ![heart circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-circle-exclamation.png)
   static const IconData icon_heart_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -15314,6 +18014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart circle minus`
+  /// 
+  /// ![heart circle minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-circle-minus.png)
   static const IconData icon_heart_circle_minus = IconData([
     {
       'tag': 'root',
@@ -15331,6 +18034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart circle plus`
+  /// 
+  /// ![heart circle plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-circle-plus.png)
   static const IconData icon_heart_circle_plus = IconData([
     {
       'tag': 'root',
@@ -15348,6 +18054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart circle xmark`
+  /// 
+  /// ![heart circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-circle-xmark.png)
   static const IconData icon_heart_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -15365,6 +18074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart crack`
+  /// 
+  /// ![heart crack](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-crack.png)
   static const IconData icon_heart_crack = IconData([
     {
       'tag': 'root',
@@ -15382,6 +18094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart music camera bolt`
+  /// 
+  /// ![heart music camera bolt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-music-camera-bolt.png)
   static const IconData icon_heart_music_camera_bolt = IconData([
     {
       'tag': 'root',
@@ -15399,6 +18114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heart pulse`
+  /// 
+  /// ![heart pulse](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heart-pulse.png)
   static const IconData icon_heart_pulse = IconData([
     {
       'tag': 'root',
@@ -15416,6 +18134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heartbeat`
+  /// 
+  /// ![heartbeat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heartbeat.png)
   static const IconData icon_heartbeat = IconData([
     {
       'tag': 'root',
@@ -15433,6 +18154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `helicopter`
+  /// 
+  /// ![helicopter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/helicopter.png)
   static const IconData icon_helicopter = IconData([
     {
       'tag': 'root',
@@ -15450,6 +18174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `helicopter symbol`
+  /// 
+  /// ![helicopter symbol](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/helicopter-symbol.png)
   static const IconData icon_helicopter_symbol = IconData([
     {
       'tag': 'root',
@@ -15467,6 +18194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `helmet safety`
+  /// 
+  /// ![helmet safety](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/helmet-safety.png)
   static const IconData icon_helmet_safety = IconData([
     {
       'tag': 'root',
@@ -15484,6 +18214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `helmet un`
+  /// 
+  /// ![helmet un](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/helmet-un.png)
   static const IconData icon_helmet_un = IconData([
     {
       'tag': 'root',
@@ -15501,6 +18234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `heptagon`
+  /// 
+  /// ![heptagon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/heptagon.png)
   static const IconData icon_heptagon = IconData([
     {
       'tag': 'root',
@@ -15518,6 +18254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hexagon`
+  /// 
+  /// ![hexagon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hexagon.png)
   static const IconData icon_hexagon = IconData([
     {
       'tag': 'root',
@@ -15535,6 +18274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hexagon nodes`
+  /// 
+  /// ![hexagon nodes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hexagon-nodes.png)
   static const IconData icon_hexagon_nodes = IconData([
     {
       'tag': 'root',
@@ -15552,6 +18294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hexagon nodes bolt`
+  /// 
+  /// ![hexagon nodes bolt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hexagon-nodes-bolt.png)
   static const IconData icon_hexagon_nodes_bolt = IconData([
     {
       'tag': 'root',
@@ -15569,6 +18314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `highlighter`
+  /// 
+  /// ![highlighter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/highlighter.png)
   static const IconData icon_highlighter = IconData([
     {
       'tag': 'root',
@@ -15586,6 +18334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hiking`
+  /// 
+  /// ![hiking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hiking.png)
   static const IconData icon_hiking = IconData([
     {
       'tag': 'root',
@@ -15603,6 +18354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hill avalanche`
+  /// 
+  /// ![hill avalanche](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hill-avalanche.png)
   static const IconData icon_hill_avalanche = IconData([
     {
       'tag': 'root',
@@ -15620,6 +18374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hill rockslide`
+  /// 
+  /// ![hill rockslide](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hill-rockslide.png)
   static const IconData icon_hill_rockslide = IconData([
     {
       'tag': 'root',
@@ -15637,6 +18394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hippo`
+  /// 
+  /// ![hippo](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hippo.png)
   static const IconData icon_hippo = IconData([
     {
       'tag': 'root',
@@ -15654,6 +18414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `history`
+  /// 
+  /// ![history](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/history.png)
   static const IconData icon_history = IconData([
     {
       'tag': 'root',
@@ -15671,6 +18434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hockey puck`
+  /// 
+  /// ![hockey puck](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hockey-puck.png)
   static const IconData icon_hockey_puck = IconData([
     {
       'tag': 'root',
@@ -15688,6 +18454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `holly berry`
+  /// 
+  /// ![holly berry](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/holly-berry.png)
   static const IconData icon_holly_berry = IconData([
     {
       'tag': 'root',
@@ -15705,6 +18474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `home`
+  /// 
+  /// ![home](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/home.png)
   static const IconData icon_home = IconData([
     {
       'tag': 'root',
@@ -15722,6 +18494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `home alt`
+  /// 
+  /// ![home alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/home-alt.png)
   static const IconData icon_home_alt = IconData([
     {
       'tag': 'root',
@@ -15739,6 +18514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `home lg`
+  /// 
+  /// ![home lg](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/home-lg.png)
   static const IconData icon_home_lg = IconData([
     {
       'tag': 'root',
@@ -15756,6 +18534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `home lg alt`
+  /// 
+  /// ![home lg alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/home-lg-alt.png)
   static const IconData icon_home_lg_alt = IconData([
     {
       'tag': 'root',
@@ -15773,6 +18554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `home user`
+  /// 
+  /// ![home user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/home-user.png)
   static const IconData icon_home_user = IconData([
     {
       'tag': 'root',
@@ -15790,6 +18574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `horse`
+  /// 
+  /// ![horse](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/horse.png)
   static const IconData icon_horse = IconData([
     {
       'tag': 'root',
@@ -15807,6 +18594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `horse head`
+  /// 
+  /// ![horse head](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/horse-head.png)
   static const IconData icon_horse_head = IconData([
     {
       'tag': 'root',
@@ -15824,6 +18614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hospital`
+  /// 
+  /// ![hospital](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hospital.png)
   static const IconData icon_hospital = IconData([
     {
       'tag': 'root',
@@ -15841,6 +18634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hospital alt`
+  /// 
+  /// ![hospital alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hospital-alt.png)
   static const IconData icon_hospital_alt = IconData([
     {
       'tag': 'root',
@@ -15858,6 +18654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hospital symbol`
+  /// 
+  /// ![hospital symbol](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hospital-symbol.png)
   static const IconData icon_hospital_symbol = IconData([
     {
       'tag': 'root',
@@ -15875,6 +18674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hospital user`
+  /// 
+  /// ![hospital user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hospital-user.png)
   static const IconData icon_hospital_user = IconData([
     {
       'tag': 'root',
@@ -15892,6 +18694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hospital wide`
+  /// 
+  /// ![hospital wide](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hospital-wide.png)
   static const IconData icon_hospital_wide = IconData([
     {
       'tag': 'root',
@@ -15909,6 +18714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hot tub`
+  /// 
+  /// ![hot tub](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hot-tub.png)
   static const IconData icon_hot_tub = IconData([
     {
       'tag': 'root',
@@ -15926,6 +18734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hot tub person`
+  /// 
+  /// ![hot tub person](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hot-tub-person.png)
   static const IconData icon_hot_tub_person = IconData([
     {
       'tag': 'root',
@@ -15943,6 +18754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hotdog`
+  /// 
+  /// ![hotdog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hotdog.png)
   static const IconData icon_hotdog = IconData([
     {
       'tag': 'root',
@@ -15960,6 +18774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hotel`
+  /// 
+  /// ![hotel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hotel.png)
   static const IconData icon_hotel = IconData([
     {
       'tag': 'root',
@@ -15977,6 +18794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hourglass`
+  /// 
+  /// ![hourglass](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hourglass.png)
   static const IconData icon_hourglass = IconData([
     {
       'tag': 'root',
@@ -15994,6 +18814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hourglass 1`
+  /// 
+  /// ![hourglass 1](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hourglass-1.png)
   static const IconData icon_hourglass_1 = IconData([
     {
       'tag': 'root',
@@ -16011,6 +18834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hourglass 2`
+  /// 
+  /// ![hourglass 2](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hourglass-2.png)
   static const IconData icon_hourglass_2 = IconData([
     {
       'tag': 'root',
@@ -16028,6 +18854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hourglass 3`
+  /// 
+  /// ![hourglass 3](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hourglass-3.png)
   static const IconData icon_hourglass_3 = IconData([
     {
       'tag': 'root',
@@ -16045,6 +18874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hourglass empty`
+  /// 
+  /// ![hourglass empty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hourglass-empty.png)
   static const IconData icon_hourglass_empty = IconData([
     {
       'tag': 'root',
@@ -16062,6 +18894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hourglass end`
+  /// 
+  /// ![hourglass end](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hourglass-end.png)
   static const IconData icon_hourglass_end = IconData([
     {
       'tag': 'root',
@@ -16079,6 +18914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hourglass half`
+  /// 
+  /// ![hourglass half](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hourglass-half.png)
   static const IconData icon_hourglass_half = IconData([
     {
       'tag': 'root',
@@ -16096,6 +18934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hourglass start`
+  /// 
+  /// ![hourglass start](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hourglass-start.png)
   static const IconData icon_hourglass_start = IconData([
     {
       'tag': 'root',
@@ -16113,6 +18954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house`
+  /// 
+  /// ![house](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house.png)
   static const IconData icon_house = IconData([
     {
       'tag': 'root',
@@ -16130,6 +18974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house chimney`
+  /// 
+  /// ![house chimney](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-chimney.png)
   static const IconData icon_house_chimney = IconData([
     {
       'tag': 'root',
@@ -16147,6 +18994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house chimney crack`
+  /// 
+  /// ![house chimney crack](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-chimney-crack.png)
   static const IconData icon_house_chimney_crack = IconData([
     {
       'tag': 'root',
@@ -16164,6 +19014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house chimney medical`
+  /// 
+  /// ![house chimney medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-chimney-medical.png)
   static const IconData icon_house_chimney_medical = IconData([
     {
       'tag': 'root',
@@ -16181,6 +19034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house chimney user`
+  /// 
+  /// ![house chimney user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-chimney-user.png)
   static const IconData icon_house_chimney_user = IconData([
     {
       'tag': 'root',
@@ -16198,6 +19054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house chimney window`
+  /// 
+  /// ![house chimney window](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-chimney-window.png)
   static const IconData icon_house_chimney_window = IconData([
     {
       'tag': 'root',
@@ -16215,6 +19074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house circle check`
+  /// 
+  /// ![house circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-circle-check.png)
   static const IconData icon_house_circle_check = IconData([
     {
       'tag': 'root',
@@ -16232,6 +19094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house circle exclamation`
+  /// 
+  /// ![house circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-circle-exclamation.png)
   static const IconData icon_house_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -16249,6 +19114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house circle xmark`
+  /// 
+  /// ![house circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-circle-xmark.png)
   static const IconData icon_house_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -16266,6 +19134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house crack`
+  /// 
+  /// ![house crack](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-crack.png)
   static const IconData icon_house_crack = IconData([
     {
       'tag': 'root',
@@ -16283,6 +19154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house damage`
+  /// 
+  /// ![house damage](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-damage.png)
   static const IconData icon_house_damage = IconData([
     {
       'tag': 'root',
@@ -16300,6 +19174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house fire`
+  /// 
+  /// ![house fire](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-fire.png)
   static const IconData icon_house_fire = IconData([
     {
       'tag': 'root',
@@ -16317,6 +19194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house flag`
+  /// 
+  /// ![house flag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-flag.png)
   static const IconData icon_house_flag = IconData([
     {
       'tag': 'root',
@@ -16334,6 +19214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house flood water`
+  /// 
+  /// ![house flood water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-flood-water.png)
   static const IconData icon_house_flood_water = IconData([
     {
       'tag': 'root',
@@ -16351,6 +19234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house flood water circle arrow right`
+  /// 
+  /// ![house flood water circle arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-flood-water-circle-arrow-right.png)
   static const IconData icon_house_flood_water_circle_arrow_right = IconData([
     {
       'tag': 'root',
@@ -16368,6 +19254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house laptop`
+  /// 
+  /// ![house laptop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-laptop.png)
   static const IconData icon_house_laptop = IconData([
     {
       'tag': 'root',
@@ -16385,6 +19274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house lock`
+  /// 
+  /// ![house lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-lock.png)
   static const IconData icon_house_lock = IconData([
     {
       'tag': 'root',
@@ -16402,6 +19294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house medical`
+  /// 
+  /// ![house medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-medical.png)
   static const IconData icon_house_medical = IconData([
     {
       'tag': 'root',
@@ -16419,6 +19314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house medical circle check`
+  /// 
+  /// ![house medical circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-medical-circle-check.png)
   static const IconData icon_house_medical_circle_check = IconData([
     {
       'tag': 'root',
@@ -16436,6 +19334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house medical circle exclamation`
+  /// 
+  /// ![house medical circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-medical-circle-exclamation.png)
   static const IconData icon_house_medical_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -16453,6 +19354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house medical circle xmark`
+  /// 
+  /// ![house medical circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-medical-circle-xmark.png)
   static const IconData icon_house_medical_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -16470,6 +19374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house medical flag`
+  /// 
+  /// ![house medical flag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-medical-flag.png)
   static const IconData icon_house_medical_flag = IconData([
     {
       'tag': 'root',
@@ -16487,6 +19394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house signal`
+  /// 
+  /// ![house signal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-signal.png)
   static const IconData icon_house_signal = IconData([
     {
       'tag': 'root',
@@ -16504,6 +19414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house tsunami`
+  /// 
+  /// ![house tsunami](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-tsunami.png)
   static const IconData icon_house_tsunami = IconData([
     {
       'tag': 'root',
@@ -16521,6 +19434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `house user`
+  /// 
+  /// ![house user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/house-user.png)
   static const IconData icon_house_user = IconData([
     {
       'tag': 'root',
@@ -16538,6 +19454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hryvnia`
+  /// 
+  /// ![hryvnia](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hryvnia.png)
   static const IconData icon_hryvnia = IconData([
     {
       'tag': 'root',
@@ -16555,6 +19474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hryvnia sign`
+  /// 
+  /// ![hryvnia sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hryvnia-sign.png)
   static const IconData icon_hryvnia_sign = IconData([
     {
       'tag': 'root',
@@ -16572,6 +19494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `hurricane`
+  /// 
+  /// ![hurricane](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/hurricane.png)
   static const IconData icon_hurricane = IconData([
     {
       'tag': 'root',
@@ -16589,6 +19514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `i`
+  /// 
+  /// ![i](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/i.png)
   static const IconData icon_i = IconData([
     {
       'tag': 'root',
@@ -16606,6 +19534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `i cursor`
+  /// 
+  /// ![i cursor](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/i-cursor.png)
   static const IconData icon_i_cursor = IconData([
     {
       'tag': 'root',
@@ -16623,6 +19554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ice cream`
+  /// 
+  /// ![ice cream](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ice-cream.png)
   static const IconData icon_ice_cream = IconData([
     {
       'tag': 'root',
@@ -16640,6 +19574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `icicles`
+  /// 
+  /// ![icicles](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/icicles.png)
   static const IconData icon_icicles = IconData([
     {
       'tag': 'root',
@@ -16657,6 +19594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `icons`
+  /// 
+  /// ![icons](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/icons.png)
   static const IconData icon_icons = IconData([
     {
       'tag': 'root',
@@ -16674,6 +19614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `id badge`
+  /// 
+  /// ![id badge](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/id-badge.png)
   static const IconData icon_id_badge = IconData([
     {
       'tag': 'root',
@@ -16691,6 +19634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `id card`
+  /// 
+  /// ![id card](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/id-card.png)
   static const IconData icon_id_card = IconData([
     {
       'tag': 'root',
@@ -16708,6 +19654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `id card alt`
+  /// 
+  /// ![id card alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/id-card-alt.png)
   static const IconData icon_id_card_alt = IconData([
     {
       'tag': 'root',
@@ -16725,6 +19674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `id card clip`
+  /// 
+  /// ![id card clip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/id-card-clip.png)
   static const IconData icon_id_card_clip = IconData([
     {
       'tag': 'root',
@@ -16742,6 +19694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `igloo`
+  /// 
+  /// ![igloo](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/igloo.png)
   static const IconData icon_igloo = IconData([
     {
       'tag': 'root',
@@ -16759,6 +19714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ils`
+  /// 
+  /// ![ils](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ils.png)
   static const IconData icon_ils = IconData([
     {
       'tag': 'root',
@@ -16776,6 +19734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `image`
+  /// 
+  /// ![image](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/image.png)
   static const IconData icon_image = IconData([
     {
       'tag': 'root',
@@ -16793,6 +19754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `image portrait`
+  /// 
+  /// ![image portrait](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/image-portrait.png)
   static const IconData icon_image_portrait = IconData([
     {
       'tag': 'root',
@@ -16810,6 +19774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `images`
+  /// 
+  /// ![images](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/images.png)
   static const IconData icon_images = IconData([
     {
       'tag': 'root',
@@ -16827,6 +19794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `inbox`
+  /// 
+  /// ![inbox](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/inbox.png)
   static const IconData icon_inbox = IconData([
     {
       'tag': 'root',
@@ -16844,6 +19814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `indent`
+  /// 
+  /// ![indent](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/indent.png)
   static const IconData icon_indent = IconData([
     {
       'tag': 'root',
@@ -16861,6 +19834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `indian rupee`
+  /// 
+  /// ![indian rupee](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/indian-rupee.png)
   static const IconData icon_indian_rupee = IconData([
     {
       'tag': 'root',
@@ -16878,6 +19854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `indian rupee sign`
+  /// 
+  /// ![indian rupee sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/indian-rupee-sign.png)
   static const IconData icon_indian_rupee_sign = IconData([
     {
       'tag': 'root',
@@ -16895,6 +19874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `industry`
+  /// 
+  /// ![industry](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/industry.png)
   static const IconData icon_industry = IconData([
     {
       'tag': 'root',
@@ -16912,6 +19894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `infinity`
+  /// 
+  /// ![infinity](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/infinity.png)
   static const IconData icon_infinity = IconData([
     {
       'tag': 'root',
@@ -16929,6 +19914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `info`
+  /// 
+  /// ![info](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/info.png)
   static const IconData icon_info = IconData([
     {
       'tag': 'root',
@@ -16946,6 +19934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `info circle`
+  /// 
+  /// ![info circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/info-circle.png)
   static const IconData icon_info_circle = IconData([
     {
       'tag': 'root',
@@ -16963,6 +19954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `inr`
+  /// 
+  /// ![inr](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/inr.png)
   static const IconData icon_inr = IconData([
     {
       'tag': 'root',
@@ -16980,6 +19974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `institution`
+  /// 
+  /// ![institution](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/institution.png)
   static const IconData icon_institution = IconData([
     {
       'tag': 'root',
@@ -16997,6 +19994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `italic`
+  /// 
+  /// ![italic](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/italic.png)
   static const IconData icon_italic = IconData([
     {
       'tag': 'root',
@@ -17014,6 +20014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `j`
+  /// 
+  /// ![j](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/j.png)
   static const IconData icon_j = IconData([
     {
       'tag': 'root',
@@ -17031,6 +20034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `jar`
+  /// 
+  /// ![jar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/jar.png)
   static const IconData icon_jar = IconData([
     {
       'tag': 'root',
@@ -17048,6 +20054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `jar wheat`
+  /// 
+  /// ![jar wheat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/jar-wheat.png)
   static const IconData icon_jar_wheat = IconData([
     {
       'tag': 'root',
@@ -17065,6 +20074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `jedi`
+  /// 
+  /// ![jedi](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/jedi.png)
   static const IconData icon_jedi = IconData([
     {
       'tag': 'root',
@@ -17082,6 +20094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `jet fighter`
+  /// 
+  /// ![jet fighter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/jet-fighter.png)
   static const IconData icon_jet_fighter = IconData([
     {
       'tag': 'root',
@@ -17099,6 +20114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `jet fighter up`
+  /// 
+  /// ![jet fighter up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/jet-fighter-up.png)
   static const IconData icon_jet_fighter_up = IconData([
     {
       'tag': 'root',
@@ -17116,6 +20134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `joint`
+  /// 
+  /// ![joint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/joint.png)
   static const IconData icon_joint = IconData([
     {
       'tag': 'root',
@@ -17133,6 +20154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `journal whills`
+  /// 
+  /// ![journal whills](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/journal-whills.png)
   static const IconData icon_journal_whills = IconData([
     {
       'tag': 'root',
@@ -17150,6 +20174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `jpy`
+  /// 
+  /// ![jpy](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/jpy.png)
   static const IconData icon_jpy = IconData([
     {
       'tag': 'root',
@@ -17167,6 +20194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `jug detergent`
+  /// 
+  /// ![jug detergent](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/jug-detergent.png)
   static const IconData icon_jug_detergent = IconData([
     {
       'tag': 'root',
@@ -17184,6 +20214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `k`
+  /// 
+  /// ![k](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/k.png)
   static const IconData icon_k = IconData([
     {
       'tag': 'root',
@@ -17201,6 +20234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `kaaba`
+  /// 
+  /// ![kaaba](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/kaaba.png)
   static const IconData icon_kaaba = IconData([
     {
       'tag': 'root',
@@ -17218,6 +20254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `key`
+  /// 
+  /// ![key](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/key.png)
   static const IconData icon_key = IconData([
     {
       'tag': 'root',
@@ -17235,6 +20274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `keyboard`
+  /// 
+  /// ![keyboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/keyboard.png)
   static const IconData icon_keyboard = IconData([
     {
       'tag': 'root',
@@ -17252,6 +20294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `khanda`
+  /// 
+  /// ![khanda](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/khanda.png)
   static const IconData icon_khanda = IconData([
     {
       'tag': 'root',
@@ -17269,6 +20314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `kip sign`
+  /// 
+  /// ![kip sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/kip-sign.png)
   static const IconData icon_kip_sign = IconData([
     {
       'tag': 'root',
@@ -17286,6 +20334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `kiss`
+  /// 
+  /// ![kiss](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/kiss.png)
   static const IconData icon_kiss = IconData([
     {
       'tag': 'root',
@@ -17303,6 +20354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `kiss beam`
+  /// 
+  /// ![kiss beam](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/kiss-beam.png)
   static const IconData icon_kiss_beam = IconData([
     {
       'tag': 'root',
@@ -17320,6 +20374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `kiss wink heart`
+  /// 
+  /// ![kiss wink heart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/kiss-wink-heart.png)
   static const IconData icon_kiss_wink_heart = IconData([
     {
       'tag': 'root',
@@ -17337,6 +20394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `kit medical`
+  /// 
+  /// ![kit medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/kit-medical.png)
   static const IconData icon_kit_medical = IconData([
     {
       'tag': 'root',
@@ -17354,6 +20414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `kitchen set`
+  /// 
+  /// ![kitchen set](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/kitchen-set.png)
   static const IconData icon_kitchen_set = IconData([
     {
       'tag': 'root',
@@ -17371,6 +20434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `kiwi bird`
+  /// 
+  /// ![kiwi bird](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/kiwi-bird.png)
   static const IconData icon_kiwi_bird = IconData([
     {
       'tag': 'root',
@@ -17388,6 +20454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `krw`
+  /// 
+  /// ![krw](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/krw.png)
   static const IconData icon_krw = IconData([
     {
       'tag': 'root',
@@ -17405,6 +20474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `l`
+  /// 
+  /// ![l](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/l.png)
   static const IconData icon_l = IconData([
     {
       'tag': 'root',
@@ -17422,6 +20494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ladder water`
+  /// 
+  /// ![ladder water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ladder-water.png)
   static const IconData icon_ladder_water = IconData([
     {
       'tag': 'root',
@@ -17439,6 +20514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `land mine on`
+  /// 
+  /// ![land mine on](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/land-mine-on.png)
   static const IconData icon_land_mine_on = IconData([
     {
       'tag': 'root',
@@ -17456,6 +20534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `landmark`
+  /// 
+  /// ![landmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/landmark.png)
   static const IconData icon_landmark = IconData([
     {
       'tag': 'root',
@@ -17473,6 +20554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `landmark alt`
+  /// 
+  /// ![landmark alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/landmark-alt.png)
   static const IconData icon_landmark_alt = IconData([
     {
       'tag': 'root',
@@ -17490,6 +20574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `landmark dome`
+  /// 
+  /// ![landmark dome](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/landmark-dome.png)
   static const IconData icon_landmark_dome = IconData([
     {
       'tag': 'root',
@@ -17507,6 +20594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `landmark flag`
+  /// 
+  /// ![landmark flag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/landmark-flag.png)
   static const IconData icon_landmark_flag = IconData([
     {
       'tag': 'root',
@@ -17524,6 +20614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `language`
+  /// 
+  /// ![language](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/language.png)
   static const IconData icon_language = IconData([
     {
       'tag': 'root',
@@ -17541,6 +20634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laptop`
+  /// 
+  /// ![laptop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laptop.png)
   static const IconData icon_laptop = IconData([
     {
       'tag': 'root',
@@ -17558,6 +20654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laptop code`
+  /// 
+  /// ![laptop code](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laptop-code.png)
   static const IconData icon_laptop_code = IconData([
     {
       'tag': 'root',
@@ -17575,6 +20674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laptop file`
+  /// 
+  /// ![laptop file](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laptop-file.png)
   static const IconData icon_laptop_file = IconData([
     {
       'tag': 'root',
@@ -17592,6 +20694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laptop house`
+  /// 
+  /// ![laptop house](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laptop-house.png)
   static const IconData icon_laptop_house = IconData([
     {
       'tag': 'root',
@@ -17609,6 +20714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laptop medical`
+  /// 
+  /// ![laptop medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laptop-medical.png)
   static const IconData icon_laptop_medical = IconData([
     {
       'tag': 'root',
@@ -17626,6 +20734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lari sign`
+  /// 
+  /// ![lari sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lari-sign.png)
   static const IconData icon_lari_sign = IconData([
     {
       'tag': 'root',
@@ -17643,6 +20754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laugh`
+  /// 
+  /// ![laugh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laugh.png)
   static const IconData icon_laugh = IconData([
     {
       'tag': 'root',
@@ -17660,6 +20774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laugh beam`
+  /// 
+  /// ![laugh beam](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laugh-beam.png)
   static const IconData icon_laugh_beam = IconData([
     {
       'tag': 'root',
@@ -17677,6 +20794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laugh squint`
+  /// 
+  /// ![laugh squint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laugh-squint.png)
   static const IconData icon_laugh_squint = IconData([
     {
       'tag': 'root',
@@ -17694,6 +20814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `laugh wink`
+  /// 
+  /// ![laugh wink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/laugh-wink.png)
   static const IconData icon_laugh_wink = IconData([
     {
       'tag': 'root',
@@ -17711,6 +20834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `layer group`
+  /// 
+  /// ![layer group](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/layer-group.png)
   static const IconData icon_layer_group = IconData([
     {
       'tag': 'root',
@@ -17728,6 +20854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `leaf`
+  /// 
+  /// ![leaf](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/leaf.png)
   static const IconData icon_leaf = IconData([
     {
       'tag': 'root',
@@ -17745,6 +20874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `left long`
+  /// 
+  /// ![left long](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/left-long.png)
   static const IconData icon_left_long = IconData([
     {
       'tag': 'root',
@@ -17762,6 +20894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `left right`
+  /// 
+  /// ![left right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/left-right.png)
   static const IconData icon_left_right = IconData([
     {
       'tag': 'root',
@@ -17779,6 +20914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `legal`
+  /// 
+  /// ![legal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/legal.png)
   static const IconData icon_legal = IconData([
     {
       'tag': 'root',
@@ -17796,6 +20934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lemon`
+  /// 
+  /// ![lemon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lemon.png)
   static const IconData icon_lemon = IconData([
     {
       'tag': 'root',
@@ -17813,6 +20954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `leo`
+  /// 
+  /// ![leo](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/leo.png)
   static const IconData icon_leo = IconData([
     {
       'tag': 'root',
@@ -17830,6 +20974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `less than`
+  /// 
+  /// ![less than](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/less-than.png)
   static const IconData icon_less_than = IconData([
     {
       'tag': 'root',
@@ -17847,6 +20994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `less than equal`
+  /// 
+  /// ![less than equal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/less-than-equal.png)
   static const IconData icon_less_than_equal = IconData([
     {
       'tag': 'root',
@@ -17864,6 +21014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `level down`
+  /// 
+  /// ![level down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/level-down.png)
   static const IconData icon_level_down = IconData([
     {
       'tag': 'root',
@@ -17881,6 +21034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `level down alt`
+  /// 
+  /// ![level down alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/level-down-alt.png)
   static const IconData icon_level_down_alt = IconData([
     {
       'tag': 'root',
@@ -17898,6 +21054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `level up`
+  /// 
+  /// ![level up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/level-up.png)
   static const IconData icon_level_up = IconData([
     {
       'tag': 'root',
@@ -17915,6 +21074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `level up alt`
+  /// 
+  /// ![level up alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/level-up-alt.png)
   static const IconData icon_level_up_alt = IconData([
     {
       'tag': 'root',
@@ -17932,6 +21094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `libra`
+  /// 
+  /// ![libra](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/libra.png)
   static const IconData icon_libra = IconData([
     {
       'tag': 'root',
@@ -17949,6 +21114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `life ring`
+  /// 
+  /// ![life ring](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/life-ring.png)
   static const IconData icon_life_ring = IconData([
     {
       'tag': 'root',
@@ -17966,6 +21134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lightbulb`
+  /// 
+  /// ![lightbulb](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lightbulb.png)
   static const IconData icon_lightbulb = IconData([
     {
       'tag': 'root',
@@ -17983,6 +21154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `line chart`
+  /// 
+  /// ![line chart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/line-chart.png)
   static const IconData icon_line_chart = IconData([
     {
       'tag': 'root',
@@ -18000,6 +21174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lines leaning`
+  /// 
+  /// ![lines leaning](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lines-leaning.png)
   static const IconData icon_lines_leaning = IconData([
     {
       'tag': 'root',
@@ -18017,6 +21194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `link`
+  /// 
+  /// ![link](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/link.png)
   static const IconData icon_link = IconData([
     {
       'tag': 'root',
@@ -18034,6 +21214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `link slash`
+  /// 
+  /// ![link slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/link-slash.png)
   static const IconData icon_link_slash = IconData([
     {
       'tag': 'root',
@@ -18051,6 +21234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lira sign`
+  /// 
+  /// ![lira sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lira-sign.png)
   static const IconData icon_lira_sign = IconData([
     {
       'tag': 'root',
@@ -18068,6 +21254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list`
+  /// 
+  /// ![list](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list.png)
   static const IconData icon_list = IconData([
     {
       'tag': 'root',
@@ -18085,6 +21274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list 1 2`
+  /// 
+  /// ![list 1 2](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list-1-2.png)
   static const IconData icon_list_1_2 = IconData([
     {
       'tag': 'root',
@@ -18102,6 +21294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list alt`
+  /// 
+  /// ![list alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list-alt.png)
   static const IconData icon_list_alt = IconData([
     {
       'tag': 'root',
@@ -18119,6 +21314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list check`
+  /// 
+  /// ![list check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list-check.png)
   static const IconData icon_list_check = IconData([
     {
       'tag': 'root',
@@ -18136,6 +21334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list dots`
+  /// 
+  /// ![list dots](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list-dots.png)
   static const IconData icon_list_dots = IconData([
     {
       'tag': 'root',
@@ -18153,6 +21354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list numeric`
+  /// 
+  /// ![list numeric](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list-numeric.png)
   static const IconData icon_list_numeric = IconData([
     {
       'tag': 'root',
@@ -18170,6 +21374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list ol`
+  /// 
+  /// ![list ol](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list-ol.png)
   static const IconData icon_list_ol = IconData([
     {
       'tag': 'root',
@@ -18187,6 +21394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list squares`
+  /// 
+  /// ![list squares](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list-squares.png)
   static const IconData icon_list_squares = IconData([
     {
       'tag': 'root',
@@ -18204,6 +21414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `list ul`
+  /// 
+  /// ![list ul](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/list-ul.png)
   static const IconData icon_list_ul = IconData([
     {
       'tag': 'root',
@@ -18221,6 +21434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `litecoin sign`
+  /// 
+  /// ![litecoin sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/litecoin-sign.png)
   static const IconData icon_litecoin_sign = IconData([
     {
       'tag': 'root',
@@ -18238,6 +21454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `location`
+  /// 
+  /// ![location](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/location.png)
   static const IconData icon_location = IconData([
     {
       'tag': 'root',
@@ -18255,6 +21474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `location arrow`
+  /// 
+  /// ![location arrow](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/location-arrow.png)
   static const IconData icon_location_arrow = IconData([
     {
       'tag': 'root',
@@ -18272,6 +21494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `location crosshairs`
+  /// 
+  /// ![location crosshairs](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/location-crosshairs.png)
   static const IconData icon_location_crosshairs = IconData([
     {
       'tag': 'root',
@@ -18289,6 +21514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `location dot`
+  /// 
+  /// ![location dot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/location-dot.png)
   static const IconData icon_location_dot = IconData([
     {
       'tag': 'root',
@@ -18306,6 +21534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `location pin`
+  /// 
+  /// ![location pin](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/location-pin.png)
   static const IconData icon_location_pin = IconData([
     {
       'tag': 'root',
@@ -18323,6 +21554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `location pin lock`
+  /// 
+  /// ![location pin lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/location-pin-lock.png)
   static const IconData icon_location_pin_lock = IconData([
     {
       'tag': 'root',
@@ -18340,6 +21574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lock`
+  /// 
+  /// ![lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lock.png)
   static const IconData icon_lock = IconData([
     {
       'tag': 'root',
@@ -18357,6 +21594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lock open`
+  /// 
+  /// ![lock open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lock-open.png)
   static const IconData icon_lock_open = IconData([
     {
       'tag': 'root',
@@ -18374,6 +21614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `locust`
+  /// 
+  /// ![locust](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/locust.png)
   static const IconData icon_locust = IconData([
     {
       'tag': 'root',
@@ -18391,6 +21634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `long arrow alt down`
+  /// 
+  /// ![long arrow alt down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/long-arrow-alt-down.png)
   static const IconData icon_long_arrow_alt_down = IconData([
     {
       'tag': 'root',
@@ -18408,6 +21654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `long arrow alt left`
+  /// 
+  /// ![long arrow alt left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/long-arrow-alt-left.png)
   static const IconData icon_long_arrow_alt_left = IconData([
     {
       'tag': 'root',
@@ -18425,6 +21674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `long arrow alt right`
+  /// 
+  /// ![long arrow alt right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/long-arrow-alt-right.png)
   static const IconData icon_long_arrow_alt_right = IconData([
     {
       'tag': 'root',
@@ -18442,6 +21694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `long arrow alt up`
+  /// 
+  /// ![long arrow alt up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/long-arrow-alt-up.png)
   static const IconData icon_long_arrow_alt_up = IconData([
     {
       'tag': 'root',
@@ -18459,6 +21714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `long arrow down`
+  /// 
+  /// ![long arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/long-arrow-down.png)
   static const IconData icon_long_arrow_down = IconData([
     {
       'tag': 'root',
@@ -18476,6 +21734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `long arrow left`
+  /// 
+  /// ![long arrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/long-arrow-left.png)
   static const IconData icon_long_arrow_left = IconData([
     {
       'tag': 'root',
@@ -18493,6 +21754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `long arrow right`
+  /// 
+  /// ![long arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/long-arrow-right.png)
   static const IconData icon_long_arrow_right = IconData([
     {
       'tag': 'root',
@@ -18510,6 +21774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `long arrow up`
+  /// 
+  /// ![long arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/long-arrow-up.png)
   static const IconData icon_long_arrow_up = IconData([
     {
       'tag': 'root',
@@ -18527,6 +21794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `low vision`
+  /// 
+  /// ![low vision](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/low-vision.png)
   static const IconData icon_low_vision = IconData([
     {
       'tag': 'root',
@@ -18544,6 +21814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `luggage cart`
+  /// 
+  /// ![luggage cart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/luggage-cart.png)
   static const IconData icon_luggage_cart = IconData([
     {
       'tag': 'root',
@@ -18561,6 +21834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lungs`
+  /// 
+  /// ![lungs](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lungs.png)
   static const IconData icon_lungs = IconData([
     {
       'tag': 'root',
@@ -18578,6 +21854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `lungs virus`
+  /// 
+  /// ![lungs virus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/lungs-virus.png)
   static const IconData icon_lungs_virus = IconData([
     {
       'tag': 'root',
@@ -18595,6 +21874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `m`
+  /// 
+  /// ![m](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/m.png)
   static const IconData icon_m = IconData([
     {
       'tag': 'root',
@@ -18612,6 +21894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magic`
+  /// 
+  /// ![magic](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magic.png)
   static const IconData icon_magic = IconData([
     {
       'tag': 'root',
@@ -18629,6 +21914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magic wand sparkles`
+  /// 
+  /// ![magic wand sparkles](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magic-wand-sparkles.png)
   static const IconData icon_magic_wand_sparkles = IconData([
     {
       'tag': 'root',
@@ -18646,6 +21934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magnet`
+  /// 
+  /// ![magnet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magnet.png)
   static const IconData icon_magnet = IconData([
     {
       'tag': 'root',
@@ -18663,6 +21954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magnifying glass`
+  /// 
+  /// ![magnifying glass](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magnifying-glass.png)
   static const IconData icon_magnifying_glass = IconData([
     {
       'tag': 'root',
@@ -18680,6 +21974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magnifying glass arrow right`
+  /// 
+  /// ![magnifying glass arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magnifying-glass-arrow-right.png)
   static const IconData icon_magnifying_glass_arrow_right = IconData([
     {
       'tag': 'root',
@@ -18697,6 +21994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magnifying glass chart`
+  /// 
+  /// ![magnifying glass chart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magnifying-glass-chart.png)
   static const IconData icon_magnifying_glass_chart = IconData([
     {
       'tag': 'root',
@@ -18714,6 +22014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magnifying glass dollar`
+  /// 
+  /// ![magnifying glass dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magnifying-glass-dollar.png)
   static const IconData icon_magnifying_glass_dollar = IconData([
     {
       'tag': 'root',
@@ -18731,6 +22034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magnifying glass location`
+  /// 
+  /// ![magnifying glass location](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magnifying-glass-location.png)
   static const IconData icon_magnifying_glass_location = IconData([
     {
       'tag': 'root',
@@ -18748,6 +22054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magnifying glass minus`
+  /// 
+  /// ![magnifying glass minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magnifying-glass-minus.png)
   static const IconData icon_magnifying_glass_minus = IconData([
     {
       'tag': 'root',
@@ -18765,6 +22074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `magnifying glass plus`
+  /// 
+  /// ![magnifying glass plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/magnifying-glass-plus.png)
   static const IconData icon_magnifying_glass_plus = IconData([
     {
       'tag': 'root',
@@ -18782,6 +22094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mail bulk`
+  /// 
+  /// ![mail bulk](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mail-bulk.png)
   static const IconData icon_mail_bulk = IconData([
     {
       'tag': 'root',
@@ -18799,6 +22114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mail forward`
+  /// 
+  /// ![mail forward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mail-forward.png)
   static const IconData icon_mail_forward = IconData([
     {
       'tag': 'root',
@@ -18816,6 +22134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mail reply`
+  /// 
+  /// ![mail reply](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mail-reply.png)
   static const IconData icon_mail_reply = IconData([
     {
       'tag': 'root',
@@ -18833,6 +22154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mail reply all`
+  /// 
+  /// ![mail reply all](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mail-reply-all.png)
   static const IconData icon_mail_reply_all = IconData([
     {
       'tag': 'root',
@@ -18850,6 +22174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `male`
+  /// 
+  /// ![male](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/male.png)
   static const IconData icon_male = IconData([
     {
       'tag': 'root',
@@ -18867,6 +22194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `manat sign`
+  /// 
+  /// ![manat sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/manat-sign.png)
   static const IconData icon_manat_sign = IconData([
     {
       'tag': 'root',
@@ -18884,6 +22214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map`
+  /// 
+  /// ![map](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map.png)
   static const IconData icon_map = IconData([
     {
       'tag': 'root',
@@ -18901,6 +22234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map location`
+  /// 
+  /// ![map location](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map-location.png)
   static const IconData icon_map_location = IconData([
     {
       'tag': 'root',
@@ -18918,6 +22254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map location dot`
+  /// 
+  /// ![map location dot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map-location-dot.png)
   static const IconData icon_map_location_dot = IconData([
     {
       'tag': 'root',
@@ -18935,6 +22274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map marked`
+  /// 
+  /// ![map marked](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map-marked.png)
   static const IconData icon_map_marked = IconData([
     {
       'tag': 'root',
@@ -18952,6 +22294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map marked alt`
+  /// 
+  /// ![map marked alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map-marked-alt.png)
   static const IconData icon_map_marked_alt = IconData([
     {
       'tag': 'root',
@@ -18969,6 +22314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map marker`
+  /// 
+  /// ![map marker](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map-marker.png)
   static const IconData icon_map_marker = IconData([
     {
       'tag': 'root',
@@ -18986,6 +22334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map marker alt`
+  /// 
+  /// ![map marker alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map-marker-alt.png)
   static const IconData icon_map_marker_alt = IconData([
     {
       'tag': 'root',
@@ -19003,6 +22354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map pin`
+  /// 
+  /// ![map pin](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map-pin.png)
   static const IconData icon_map_pin = IconData([
     {
       'tag': 'root',
@@ -19020,6 +22374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `map signs`
+  /// 
+  /// ![map signs](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/map-signs.png)
   static const IconData icon_map_signs = IconData([
     {
       'tag': 'root',
@@ -19037,6 +22394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `marker`
+  /// 
+  /// ![marker](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/marker.png)
   static const IconData icon_marker = IconData([
     {
       'tag': 'root',
@@ -19054,6 +22414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars`
+  /// 
+  /// ![mars](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars.png)
   static const IconData icon_mars = IconData([
     {
       'tag': 'root',
@@ -19071,6 +22434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars and venus`
+  /// 
+  /// ![mars and venus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars-and-venus.png)
   static const IconData icon_mars_and_venus = IconData([
     {
       'tag': 'root',
@@ -19088,6 +22454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars and venus burst`
+  /// 
+  /// ![mars and venus burst](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars-and-venus-burst.png)
   static const IconData icon_mars_and_venus_burst = IconData([
     {
       'tag': 'root',
@@ -19105,6 +22474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars double`
+  /// 
+  /// ![mars double](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars-double.png)
   static const IconData icon_mars_double = IconData([
     {
       'tag': 'root',
@@ -19122,6 +22494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars stroke`
+  /// 
+  /// ![mars stroke](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars-stroke.png)
   static const IconData icon_mars_stroke = IconData([
     {
       'tag': 'root',
@@ -19139,6 +22514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars stroke h`
+  /// 
+  /// ![mars stroke h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars-stroke-h.png)
   static const IconData icon_mars_stroke_h = IconData([
     {
       'tag': 'root',
@@ -19156,6 +22534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars stroke right`
+  /// 
+  /// ![mars stroke right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars-stroke-right.png)
   static const IconData icon_mars_stroke_right = IconData([
     {
       'tag': 'root',
@@ -19173,6 +22554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars stroke up`
+  /// 
+  /// ![mars stroke up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars-stroke-up.png)
   static const IconData icon_mars_stroke_up = IconData([
     {
       'tag': 'root',
@@ -19190,6 +22574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mars stroke v`
+  /// 
+  /// ![mars stroke v](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mars-stroke-v.png)
   static const IconData icon_mars_stroke_v = IconData([
     {
       'tag': 'root',
@@ -19207,6 +22594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `martini glass`
+  /// 
+  /// ![martini glass](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/martini-glass.png)
   static const IconData icon_martini_glass = IconData([
     {
       'tag': 'root',
@@ -19224,6 +22614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `martini glass citrus`
+  /// 
+  /// ![martini glass citrus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/martini-glass-citrus.png)
   static const IconData icon_martini_glass_citrus = IconData([
     {
       'tag': 'root',
@@ -19241,6 +22634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `martini glass empty`
+  /// 
+  /// ![martini glass empty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/martini-glass-empty.png)
   static const IconData icon_martini_glass_empty = IconData([
     {
       'tag': 'root',
@@ -19258,6 +22654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mask`
+  /// 
+  /// ![mask](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mask.png)
   static const IconData icon_mask = IconData([
     {
       'tag': 'root',
@@ -19275,6 +22674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mask face`
+  /// 
+  /// ![mask face](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mask-face.png)
   static const IconData icon_mask_face = IconData([
     {
       'tag': 'root',
@@ -19292,6 +22694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mask ventilator`
+  /// 
+  /// ![mask ventilator](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mask-ventilator.png)
   static const IconData icon_mask_ventilator = IconData([
     {
       'tag': 'root',
@@ -19309,6 +22714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `masks theater`
+  /// 
+  /// ![masks theater](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/masks-theater.png)
   static const IconData icon_masks_theater = IconData([
     {
       'tag': 'root',
@@ -19326,6 +22734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mattress pillow`
+  /// 
+  /// ![mattress pillow](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mattress-pillow.png)
   static const IconData icon_mattress_pillow = IconData([
     {
       'tag': 'root',
@@ -19343,6 +22754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `maximize`
+  /// 
+  /// ![maximize](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/maximize.png)
   static const IconData icon_maximize = IconData([
     {
       'tag': 'root',
@@ -19360,6 +22774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `medal`
+  /// 
+  /// ![medal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/medal.png)
   static const IconData icon_medal = IconData([
     {
       'tag': 'root',
@@ -19377,6 +22794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `medkit`
+  /// 
+  /// ![medkit](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/medkit.png)
   static const IconData icon_medkit = IconData([
     {
       'tag': 'root',
@@ -19394,6 +22814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `meh`
+  /// 
+  /// ![meh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/meh.png)
   static const IconData icon_meh = IconData([
     {
       'tag': 'root',
@@ -19411,6 +22834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `meh blank`
+  /// 
+  /// ![meh blank](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/meh-blank.png)
   static const IconData icon_meh_blank = IconData([
     {
       'tag': 'root',
@@ -19428,6 +22854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `meh rolling eyes`
+  /// 
+  /// ![meh rolling eyes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/meh-rolling-eyes.png)
   static const IconData icon_meh_rolling_eyes = IconData([
     {
       'tag': 'root',
@@ -19445,6 +22874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `memory`
+  /// 
+  /// ![memory](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/memory.png)
   static const IconData icon_memory = IconData([
     {
       'tag': 'root',
@@ -19462,6 +22894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `menorah`
+  /// 
+  /// ![menorah](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/menorah.png)
   static const IconData icon_menorah = IconData([
     {
       'tag': 'root',
@@ -19479,6 +22914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mercury`
+  /// 
+  /// ![mercury](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mercury.png)
   static const IconData icon_mercury = IconData([
     {
       'tag': 'root',
@@ -19496,6 +22934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `message`
+  /// 
+  /// ![message](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/message.png)
   static const IconData icon_message = IconData([
     {
       'tag': 'root',
@@ -19513,6 +22954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `meteor`
+  /// 
+  /// ![meteor](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/meteor.png)
   static const IconData icon_meteor = IconData([
     {
       'tag': 'root',
@@ -19530,6 +22974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `microchip`
+  /// 
+  /// ![microchip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/microchip.png)
   static const IconData icon_microchip = IconData([
     {
       'tag': 'root',
@@ -19547,6 +22994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `microphone`
+  /// 
+  /// ![microphone](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/microphone.png)
   static const IconData icon_microphone = IconData([
     {
       'tag': 'root',
@@ -19564,6 +23014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `microphone alt`
+  /// 
+  /// ![microphone alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/microphone-alt.png)
   static const IconData icon_microphone_alt = IconData([
     {
       'tag': 'root',
@@ -19581,6 +23034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `microphone alt slash`
+  /// 
+  /// ![microphone alt slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/microphone-alt-slash.png)
   static const IconData icon_microphone_alt_slash = IconData([
     {
       'tag': 'root',
@@ -19598,6 +23054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `microphone lines`
+  /// 
+  /// ![microphone lines](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/microphone-lines.png)
   static const IconData icon_microphone_lines = IconData([
     {
       'tag': 'root',
@@ -19615,6 +23074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `microphone lines slash`
+  /// 
+  /// ![microphone lines slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/microphone-lines-slash.png)
   static const IconData icon_microphone_lines_slash = IconData([
     {
       'tag': 'root',
@@ -19632,6 +23094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `microphone slash`
+  /// 
+  /// ![microphone slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/microphone-slash.png)
   static const IconData icon_microphone_slash = IconData([
     {
       'tag': 'root',
@@ -19649,6 +23114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `microscope`
+  /// 
+  /// ![microscope](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/microscope.png)
   static const IconData icon_microscope = IconData([
     {
       'tag': 'root',
@@ -19666,6 +23134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mill sign`
+  /// 
+  /// ![mill sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mill-sign.png)
   static const IconData icon_mill_sign = IconData([
     {
       'tag': 'root',
@@ -19683,6 +23154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `minimize`
+  /// 
+  /// ![minimize](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/minimize.png)
   static const IconData icon_minimize = IconData([
     {
       'tag': 'root',
@@ -19700,6 +23174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `minus`
+  /// 
+  /// ![minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/minus.png)
   static const IconData icon_minus = IconData([
     {
       'tag': 'root',
@@ -19717,6 +23194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `minus circle`
+  /// 
+  /// ![minus circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/minus-circle.png)
   static const IconData icon_minus_circle = IconData([
     {
       'tag': 'root',
@@ -19734,6 +23214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `minus square`
+  /// 
+  /// ![minus square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/minus-square.png)
   static const IconData icon_minus_square = IconData([
     {
       'tag': 'root',
@@ -19751,6 +23234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mitten`
+  /// 
+  /// ![mitten](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mitten.png)
   static const IconData icon_mitten = IconData([
     {
       'tag': 'root',
@@ -19768,6 +23254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile`
+  /// 
+  /// ![mobile](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile.png)
   static const IconData icon_mobile = IconData([
     {
       'tag': 'root',
@@ -19785,6 +23274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile alt`
+  /// 
+  /// ![mobile alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-alt.png)
   static const IconData icon_mobile_alt = IconData([
     {
       'tag': 'root',
@@ -19802,6 +23294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile android`
+  /// 
+  /// ![mobile android](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-android.png)
   static const IconData icon_mobile_android = IconData([
     {
       'tag': 'root',
@@ -19819,6 +23314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile android alt`
+  /// 
+  /// ![mobile android alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-android-alt.png)
   static const IconData icon_mobile_android_alt = IconData([
     {
       'tag': 'root',
@@ -19836,6 +23334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile button`
+  /// 
+  /// ![mobile button](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-button.png)
   static const IconData icon_mobile_button = IconData([
     {
       'tag': 'root',
@@ -19853,6 +23354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile phone`
+  /// 
+  /// ![mobile phone](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-phone.png)
   static const IconData icon_mobile_phone = IconData([
     {
       'tag': 'root',
@@ -19870,6 +23374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile retro`
+  /// 
+  /// ![mobile retro](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-retro.png)
   static const IconData icon_mobile_retro = IconData([
     {
       'tag': 'root',
@@ -19887,6 +23394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile screen`
+  /// 
+  /// ![mobile screen](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-screen.png)
   static const IconData icon_mobile_screen = IconData([
     {
       'tag': 'root',
@@ -19904,6 +23414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile screen button`
+  /// 
+  /// ![mobile screen button](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-screen-button.png)
   static const IconData icon_mobile_screen_button = IconData([
     {
       'tag': 'root',
@@ -19921,6 +23434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mobile vibrate`
+  /// 
+  /// ![mobile vibrate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mobile-vibrate.png)
   static const IconData icon_mobile_vibrate = IconData([
     {
       'tag': 'root',
@@ -19938,6 +23454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill`
+  /// 
+  /// ![money bill](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill.png)
   static const IconData icon_money_bill = IconData([
     {
       'tag': 'root',
@@ -19955,6 +23474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill 1`
+  /// 
+  /// ![money bill 1](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill-1.png)
   static const IconData icon_money_bill_1 = IconData([
     {
       'tag': 'root',
@@ -19972,6 +23494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill 1 wave`
+  /// 
+  /// ![money bill 1 wave](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill-1-wave.png)
   static const IconData icon_money_bill_1_wave = IconData([
     {
       'tag': 'root',
@@ -19989,6 +23514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill alt`
+  /// 
+  /// ![money bill alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill-alt.png)
   static const IconData icon_money_bill_alt = IconData([
     {
       'tag': 'root',
@@ -20006,6 +23534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill transfer`
+  /// 
+  /// ![money bill transfer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill-transfer.png)
   static const IconData icon_money_bill_transfer = IconData([
     {
       'tag': 'root',
@@ -20023,6 +23554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill trend up`
+  /// 
+  /// ![money bill trend up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill-trend-up.png)
   static const IconData icon_money_bill_trend_up = IconData([
     {
       'tag': 'root',
@@ -20040,6 +23574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill wave`
+  /// 
+  /// ![money bill wave](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill-wave.png)
   static const IconData icon_money_bill_wave = IconData([
     {
       'tag': 'root',
@@ -20057,6 +23594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill wave alt`
+  /// 
+  /// ![money bill wave alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill-wave-alt.png)
   static const IconData icon_money_bill_wave_alt = IconData([
     {
       'tag': 'root',
@@ -20074,6 +23614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bill wheat`
+  /// 
+  /// ![money bill wheat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bill-wheat.png)
   static const IconData icon_money_bill_wheat = IconData([
     {
       'tag': 'root',
@@ -20091,6 +23634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money bills`
+  /// 
+  /// ![money bills](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-bills.png)
   static const IconData icon_money_bills = IconData([
     {
       'tag': 'root',
@@ -20108,6 +23654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money check`
+  /// 
+  /// ![money check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-check.png)
   static const IconData icon_money_check = IconData([
     {
       'tag': 'root',
@@ -20125,6 +23674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money check alt`
+  /// 
+  /// ![money check alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-check-alt.png)
   static const IconData icon_money_check_alt = IconData([
     {
       'tag': 'root',
@@ -20142,6 +23694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `money check dollar`
+  /// 
+  /// ![money check dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/money-check-dollar.png)
   static const IconData icon_money_check_dollar = IconData([
     {
       'tag': 'root',
@@ -20159,6 +23714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `monument`
+  /// 
+  /// ![monument](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/monument.png)
   static const IconData icon_monument = IconData([
     {
       'tag': 'root',
@@ -20176,6 +23734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `moon`
+  /// 
+  /// ![moon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/moon.png)
   static const IconData icon_moon = IconData([
     {
       'tag': 'root',
@@ -20193,6 +23754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mortar board`
+  /// 
+  /// ![mortar board](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mortar-board.png)
   static const IconData icon_mortar_board = IconData([
     {
       'tag': 'root',
@@ -20210,6 +23774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mortar pestle`
+  /// 
+  /// ![mortar pestle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mortar-pestle.png)
   static const IconData icon_mortar_pestle = IconData([
     {
       'tag': 'root',
@@ -20227,6 +23794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mosque`
+  /// 
+  /// ![mosque](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mosque.png)
   static const IconData icon_mosque = IconData([
     {
       'tag': 'root',
@@ -20244,6 +23814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mosquito`
+  /// 
+  /// ![mosquito](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mosquito.png)
   static const IconData icon_mosquito = IconData([
     {
       'tag': 'root',
@@ -20261,6 +23834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mosquito net`
+  /// 
+  /// ![mosquito net](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mosquito-net.png)
   static const IconData icon_mosquito_net = IconData([
     {
       'tag': 'root',
@@ -20278,6 +23854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `motorcycle`
+  /// 
+  /// ![motorcycle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/motorcycle.png)
   static const IconData icon_motorcycle = IconData([
     {
       'tag': 'root',
@@ -20295,6 +23874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mound`
+  /// 
+  /// ![mound](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mound.png)
   static const IconData icon_mound = IconData([
     {
       'tag': 'root',
@@ -20312,6 +23894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mountain`
+  /// 
+  /// ![mountain](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mountain.png)
   static const IconData icon_mountain = IconData([
     {
       'tag': 'root',
@@ -20329,6 +23914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mountain city`
+  /// 
+  /// ![mountain city](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mountain-city.png)
   static const IconData icon_mountain_city = IconData([
     {
       'tag': 'root',
@@ -20346,6 +23934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mountain sun`
+  /// 
+  /// ![mountain sun](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mountain-sun.png)
   static const IconData icon_mountain_sun = IconData([
     {
       'tag': 'root',
@@ -20363,6 +23954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mouse`
+  /// 
+  /// ![mouse](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mouse.png)
   static const IconData icon_mouse = IconData([
     {
       'tag': 'root',
@@ -20380,6 +23974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mouse pointer`
+  /// 
+  /// ![mouse pointer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mouse-pointer.png)
   static const IconData icon_mouse_pointer = IconData([
     {
       'tag': 'root',
@@ -20397,6 +23994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mug hot`
+  /// 
+  /// ![mug hot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mug-hot.png)
   static const IconData icon_mug_hot = IconData([
     {
       'tag': 'root',
@@ -20414,6 +24014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `mug saucer`
+  /// 
+  /// ![mug saucer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/mug-saucer.png)
   static const IconData icon_mug_saucer = IconData([
     {
       'tag': 'root',
@@ -20431,6 +24034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `multiply`
+  /// 
+  /// ![multiply](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/multiply.png)
   static const IconData icon_multiply = IconData([
     {
       'tag': 'root',
@@ -20448,6 +24054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `museum`
+  /// 
+  /// ![museum](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/museum.png)
   static const IconData icon_museum = IconData([
     {
       'tag': 'root',
@@ -20465,6 +24074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `music`
+  /// 
+  /// ![music](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/music.png)
   static const IconData icon_music = IconData([
     {
       'tag': 'root',
@@ -20482,6 +24094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `n`
+  /// 
+  /// ![n](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/n.png)
   static const IconData icon_n = IconData([
     {
       'tag': 'root',
@@ -20499,6 +24114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `naira sign`
+  /// 
+  /// ![naira sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/naira-sign.png)
   static const IconData icon_naira_sign = IconData([
     {
       'tag': 'root',
@@ -20516,6 +24134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `navicon`
+  /// 
+  /// ![navicon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/navicon.png)
   static const IconData icon_navicon = IconData([
     {
       'tag': 'root',
@@ -20533,6 +24154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `network wired`
+  /// 
+  /// ![network wired](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/network-wired.png)
   static const IconData icon_network_wired = IconData([
     {
       'tag': 'root',
@@ -20550,6 +24174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `neuter`
+  /// 
+  /// ![neuter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/neuter.png)
   static const IconData icon_neuter = IconData([
     {
       'tag': 'root',
@@ -20567,6 +24194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `newspaper`
+  /// 
+  /// ![newspaper](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/newspaper.png)
   static const IconData icon_newspaper = IconData([
     {
       'tag': 'root',
@@ -20584,6 +24214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `non binary`
+  /// 
+  /// ![non binary](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/non-binary.png)
   static const IconData icon_non_binary = IconData([
     {
       'tag': 'root',
@@ -20601,6 +24234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `not equal`
+  /// 
+  /// ![not equal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/not-equal.png)
   static const IconData icon_not_equal = IconData([
     {
       'tag': 'root',
@@ -20618,6 +24254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `notdef`
+  /// 
+  /// ![notdef](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/notdef.png)
   static const IconData icon_notdef = IconData([
     {
       'tag': 'root',
@@ -20635,6 +24274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `note sticky`
+  /// 
+  /// ![note sticky](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/note-sticky.png)
   static const IconData icon_note_sticky = IconData([
     {
       'tag': 'root',
@@ -20652,6 +24294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `notes medical`
+  /// 
+  /// ![notes medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/notes-medical.png)
   static const IconData icon_notes_medical = IconData([
     {
       'tag': 'root',
@@ -20669,6 +24314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `o`
+  /// 
+  /// ![o](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/o.png)
   static const IconData icon_o = IconData([
     {
       'tag': 'root',
@@ -20686,6 +24334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `object group`
+  /// 
+  /// ![object group](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/object-group.png)
   static const IconData icon_object_group = IconData([
     {
       'tag': 'root',
@@ -20703,6 +24354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `object ungroup`
+  /// 
+  /// ![object ungroup](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/object-ungroup.png)
   static const IconData icon_object_ungroup = IconData([
     {
       'tag': 'root',
@@ -20720,6 +24374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `octagon`
+  /// 
+  /// ![octagon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/octagon.png)
   static const IconData icon_octagon = IconData([
     {
       'tag': 'root',
@@ -20737,6 +24394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `oil can`
+  /// 
+  /// ![oil can](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/oil-can.png)
   static const IconData icon_oil_can = IconData([
     {
       'tag': 'root',
@@ -20754,6 +24414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `oil well`
+  /// 
+  /// ![oil well](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/oil-well.png)
   static const IconData icon_oil_well = IconData([
     {
       'tag': 'root',
@@ -20771,6 +24434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `om`
+  /// 
+  /// ![om](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/om.png)
   static const IconData icon_om = IconData([
     {
       'tag': 'root',
@@ -20788,6 +24454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `otter`
+  /// 
+  /// ![otter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/otter.png)
   static const IconData icon_otter = IconData([
     {
       'tag': 'root',
@@ -20805,6 +24474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `outdent`
+  /// 
+  /// ![outdent](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/outdent.png)
   static const IconData icon_outdent = IconData([
     {
       'tag': 'root',
@@ -20822,6 +24494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `p`
+  /// 
+  /// ![p](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/p.png)
   static const IconData icon_p = IconData([
     {
       'tag': 'root',
@@ -20839,6 +24514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pager`
+  /// 
+  /// ![pager](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pager.png)
   static const IconData icon_pager = IconData([
     {
       'tag': 'root',
@@ -20856,6 +24534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `paint brush`
+  /// 
+  /// ![paint brush](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/paint-brush.png)
   static const IconData icon_paint_brush = IconData([
     {
       'tag': 'root',
@@ -20873,6 +24554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `paint roller`
+  /// 
+  /// ![paint roller](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/paint-roller.png)
   static const IconData icon_paint_roller = IconData([
     {
       'tag': 'root',
@@ -20890,6 +24574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `paintbrush`
+  /// 
+  /// ![paintbrush](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/paintbrush.png)
   static const IconData icon_paintbrush = IconData([
     {
       'tag': 'root',
@@ -20907,6 +24594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `palette`
+  /// 
+  /// ![palette](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/palette.png)
   static const IconData icon_palette = IconData([
     {
       'tag': 'root',
@@ -20924,6 +24614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pallet`
+  /// 
+  /// ![pallet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pallet.png)
   static const IconData icon_pallet = IconData([
     {
       'tag': 'root',
@@ -20941,6 +24634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `panorama`
+  /// 
+  /// ![panorama](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/panorama.png)
   static const IconData icon_panorama = IconData([
     {
       'tag': 'root',
@@ -20958,6 +24654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `paper plane`
+  /// 
+  /// ![paper plane](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/paper-plane.png)
   static const IconData icon_paper_plane = IconData([
     {
       'tag': 'root',
@@ -20975,6 +24674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `paperclip`
+  /// 
+  /// ![paperclip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/paperclip.png)
   static const IconData icon_paperclip = IconData([
     {
       'tag': 'root',
@@ -20992,6 +24694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `parachute box`
+  /// 
+  /// ![parachute box](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/parachute-box.png)
   static const IconData icon_parachute_box = IconData([
     {
       'tag': 'root',
@@ -21009,6 +24714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `paragraph`
+  /// 
+  /// ![paragraph](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/paragraph.png)
   static const IconData icon_paragraph = IconData([
     {
       'tag': 'root',
@@ -21026,6 +24734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `parking`
+  /// 
+  /// ![parking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/parking.png)
   static const IconData icon_parking = IconData([
     {
       'tag': 'root',
@@ -21043,6 +24754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `passport`
+  /// 
+  /// ![passport](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/passport.png)
   static const IconData icon_passport = IconData([
     {
       'tag': 'root',
@@ -21060,6 +24774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pastafarianism`
+  /// 
+  /// ![pastafarianism](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pastafarianism.png)
   static const IconData icon_pastafarianism = IconData([
     {
       'tag': 'root',
@@ -21077,6 +24794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `paste`
+  /// 
+  /// ![paste](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/paste.png)
   static const IconData icon_paste = IconData([
     {
       'tag': 'root',
@@ -21094,6 +24814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pause`
+  /// 
+  /// ![pause](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pause.png)
   static const IconData icon_pause = IconData([
     {
       'tag': 'root',
@@ -21111,6 +24834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pause circle`
+  /// 
+  /// ![pause circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pause-circle.png)
   static const IconData icon_pause_circle = IconData([
     {
       'tag': 'root',
@@ -21128,6 +24854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `paw`
+  /// 
+  /// ![paw](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/paw.png)
   static const IconData icon_paw = IconData([
     {
       'tag': 'root',
@@ -21145,6 +24874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `peace`
+  /// 
+  /// ![peace](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/peace.png)
   static const IconData icon_peace = IconData([
     {
       'tag': 'root',
@@ -21162,6 +24894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pen`
+  /// 
+  /// ![pen](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pen.png)
   static const IconData icon_pen = IconData([
     {
       'tag': 'root',
@@ -21179,6 +24914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pen alt`
+  /// 
+  /// ![pen alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pen-alt.png)
   static const IconData icon_pen_alt = IconData([
     {
       'tag': 'root',
@@ -21196,6 +24934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pen clip`
+  /// 
+  /// ![pen clip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pen-clip.png)
   static const IconData icon_pen_clip = IconData([
     {
       'tag': 'root',
@@ -21213,6 +24954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pen fancy`
+  /// 
+  /// ![pen fancy](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pen-fancy.png)
   static const IconData icon_pen_fancy = IconData([
     {
       'tag': 'root',
@@ -21230,6 +24974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pen nib`
+  /// 
+  /// ![pen nib](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pen-nib.png)
   static const IconData icon_pen_nib = IconData([
     {
       'tag': 'root',
@@ -21247,6 +24994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pen ruler`
+  /// 
+  /// ![pen ruler](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pen-ruler.png)
   static const IconData icon_pen_ruler = IconData([
     {
       'tag': 'root',
@@ -21264,6 +25014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pen square`
+  /// 
+  /// ![pen square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pen-square.png)
   static const IconData icon_pen_square = IconData([
     {
       'tag': 'root',
@@ -21281,6 +25034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pen to square`
+  /// 
+  /// ![pen to square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pen-to-square.png)
   static const IconData icon_pen_to_square = IconData([
     {
       'tag': 'root',
@@ -21298,6 +25054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pencil`
+  /// 
+  /// ![pencil](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pencil.png)
   static const IconData icon_pencil = IconData([
     {
       'tag': 'root',
@@ -21315,6 +25074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pencil alt`
+  /// 
+  /// ![pencil alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pencil-alt.png)
   static const IconData icon_pencil_alt = IconData([
     {
       'tag': 'root',
@@ -21332,6 +25094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pencil ruler`
+  /// 
+  /// ![pencil ruler](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pencil-ruler.png)
   static const IconData icon_pencil_ruler = IconData([
     {
       'tag': 'root',
@@ -21349,6 +25114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pencil square`
+  /// 
+  /// ![pencil square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pencil-square.png)
   static const IconData icon_pencil_square = IconData([
     {
       'tag': 'root',
@@ -21366,6 +25134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pentagon`
+  /// 
+  /// ![pentagon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pentagon.png)
   static const IconData icon_pentagon = IconData([
     {
       'tag': 'root',
@@ -21383,6 +25154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people arrows`
+  /// 
+  /// ![people arrows](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-arrows.png)
   static const IconData icon_people_arrows = IconData([
     {
       'tag': 'root',
@@ -21400,6 +25174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people arrows left right`
+  /// 
+  /// ![people arrows left right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-arrows-left-right.png)
   static const IconData icon_people_arrows_left_right = IconData([
     {
       'tag': 'root',
@@ -21417,6 +25194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people carry`
+  /// 
+  /// ![people carry](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-carry.png)
   static const IconData icon_people_carry = IconData([
     {
       'tag': 'root',
@@ -21434,6 +25214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people carry box`
+  /// 
+  /// ![people carry box](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-carry-box.png)
   static const IconData icon_people_carry_box = IconData([
     {
       'tag': 'root',
@@ -21451,6 +25234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people group`
+  /// 
+  /// ![people group](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-group.png)
   static const IconData icon_people_group = IconData([
     {
       'tag': 'root',
@@ -21468,6 +25254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people line`
+  /// 
+  /// ![people line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-line.png)
   static const IconData icon_people_line = IconData([
     {
       'tag': 'root',
@@ -21485,6 +25274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people pulling`
+  /// 
+  /// ![people pulling](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-pulling.png)
   static const IconData icon_people_pulling = IconData([
     {
       'tag': 'root',
@@ -21502,6 +25294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people robbery`
+  /// 
+  /// ![people robbery](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-robbery.png)
   static const IconData icon_people_robbery = IconData([
     {
       'tag': 'root',
@@ -21519,6 +25314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `people roof`
+  /// 
+  /// ![people roof](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/people-roof.png)
   static const IconData icon_people_roof = IconData([
     {
       'tag': 'root',
@@ -21536,6 +25334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pepper hot`
+  /// 
+  /// ![pepper hot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pepper-hot.png)
   static const IconData icon_pepper_hot = IconData([
     {
       'tag': 'root',
@@ -21553,6 +25354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `percent`
+  /// 
+  /// ![percent](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/percent.png)
   static const IconData icon_percent = IconData([
     {
       'tag': 'root',
@@ -21570,6 +25374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `percentage`
+  /// 
+  /// ![percentage](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/percentage.png)
   static const IconData icon_percentage = IconData([
     {
       'tag': 'root',
@@ -21587,6 +25394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person`
+  /// 
+  /// ![person](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person.png)
   static const IconData icon_person = IconData([
     {
       'tag': 'root',
@@ -21604,6 +25414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person arrow down to line`
+  /// 
+  /// ![person arrow down to line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-arrow-down-to-line.png)
   static const IconData icon_person_arrow_down_to_line = IconData([
     {
       'tag': 'root',
@@ -21621,6 +25434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person arrow up from line`
+  /// 
+  /// ![person arrow up from line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-arrow-up-from-line.png)
   static const IconData icon_person_arrow_up_from_line = IconData([
     {
       'tag': 'root',
@@ -21638,6 +25454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person biking`
+  /// 
+  /// ![person biking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-biking.png)
   static const IconData icon_person_biking = IconData([
     {
       'tag': 'root',
@@ -21655,6 +25474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person booth`
+  /// 
+  /// ![person booth](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-booth.png)
   static const IconData icon_person_booth = IconData([
     {
       'tag': 'root',
@@ -21672,6 +25494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person breastfeeding`
+  /// 
+  /// ![person breastfeeding](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-breastfeeding.png)
   static const IconData icon_person_breastfeeding = IconData([
     {
       'tag': 'root',
@@ -21689,6 +25514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person burst`
+  /// 
+  /// ![person burst](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-burst.png)
   static const IconData icon_person_burst = IconData([
     {
       'tag': 'root',
@@ -21706,6 +25534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person cane`
+  /// 
+  /// ![person cane](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-cane.png)
   static const IconData icon_person_cane = IconData([
     {
       'tag': 'root',
@@ -21723,6 +25554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person chalkboard`
+  /// 
+  /// ![person chalkboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-chalkboard.png)
   static const IconData icon_person_chalkboard = IconData([
     {
       'tag': 'root',
@@ -21740,6 +25574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person circle check`
+  /// 
+  /// ![person circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-circle-check.png)
   static const IconData icon_person_circle_check = IconData([
     {
       'tag': 'root',
@@ -21757,6 +25594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person circle exclamation`
+  /// 
+  /// ![person circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-circle-exclamation.png)
   static const IconData icon_person_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -21774,6 +25614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person circle minus`
+  /// 
+  /// ![person circle minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-circle-minus.png)
   static const IconData icon_person_circle_minus = IconData([
     {
       'tag': 'root',
@@ -21791,6 +25634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person circle plus`
+  /// 
+  /// ![person circle plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-circle-plus.png)
   static const IconData icon_person_circle_plus = IconData([
     {
       'tag': 'root',
@@ -21808,6 +25654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person circle question`
+  /// 
+  /// ![person circle question](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-circle-question.png)
   static const IconData icon_person_circle_question = IconData([
     {
       'tag': 'root',
@@ -21825,6 +25674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person circle xmark`
+  /// 
+  /// ![person circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-circle-xmark.png)
   static const IconData icon_person_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -21842,6 +25694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person digging`
+  /// 
+  /// ![person digging](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-digging.png)
   static const IconData icon_person_digging = IconData([
     {
       'tag': 'root',
@@ -21859,6 +25714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person dots from line`
+  /// 
+  /// ![person dots from line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-dots-from-line.png)
   static const IconData icon_person_dots_from_line = IconData([
     {
       'tag': 'root',
@@ -21876,6 +25734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person dress`
+  /// 
+  /// ![person dress](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-dress.png)
   static const IconData icon_person_dress = IconData([
     {
       'tag': 'root',
@@ -21893,6 +25754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person dress burst`
+  /// 
+  /// ![person dress burst](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-dress-burst.png)
   static const IconData icon_person_dress_burst = IconData([
     {
       'tag': 'root',
@@ -21910,6 +25774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person drowning`
+  /// 
+  /// ![person drowning](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-drowning.png)
   static const IconData icon_person_drowning = IconData([
     {
       'tag': 'root',
@@ -21927,6 +25794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person falling`
+  /// 
+  /// ![person falling](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-falling.png)
   static const IconData icon_person_falling = IconData([
     {
       'tag': 'root',
@@ -21944,6 +25814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person falling burst`
+  /// 
+  /// ![person falling burst](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-falling-burst.png)
   static const IconData icon_person_falling_burst = IconData([
     {
       'tag': 'root',
@@ -21961,6 +25834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person half dress`
+  /// 
+  /// ![person half dress](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-half-dress.png)
   static const IconData icon_person_half_dress = IconData([
     {
       'tag': 'root',
@@ -21978,6 +25854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person harassing`
+  /// 
+  /// ![person harassing](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-harassing.png)
   static const IconData icon_person_harassing = IconData([
     {
       'tag': 'root',
@@ -21995,6 +25874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person hiking`
+  /// 
+  /// ![person hiking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-hiking.png)
   static const IconData icon_person_hiking = IconData([
     {
       'tag': 'root',
@@ -22012,6 +25894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person military pointing`
+  /// 
+  /// ![person military pointing](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-military-pointing.png)
   static const IconData icon_person_military_pointing = IconData([
     {
       'tag': 'root',
@@ -22029,6 +25914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person military rifle`
+  /// 
+  /// ![person military rifle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-military-rifle.png)
   static const IconData icon_person_military_rifle = IconData([
     {
       'tag': 'root',
@@ -22046,6 +25934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person military to person`
+  /// 
+  /// ![person military to person](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-military-to-person.png)
   static const IconData icon_person_military_to_person = IconData([
     {
       'tag': 'root',
@@ -22063,6 +25954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person praying`
+  /// 
+  /// ![person praying](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-praying.png)
   static const IconData icon_person_praying = IconData([
     {
       'tag': 'root',
@@ -22080,6 +25974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person pregnant`
+  /// 
+  /// ![person pregnant](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-pregnant.png)
   static const IconData icon_person_pregnant = IconData([
     {
       'tag': 'root',
@@ -22097,6 +25994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person rays`
+  /// 
+  /// ![person rays](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-rays.png)
   static const IconData icon_person_rays = IconData([
     {
       'tag': 'root',
@@ -22114,6 +26014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person rifle`
+  /// 
+  /// ![person rifle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-rifle.png)
   static const IconData icon_person_rifle = IconData([
     {
       'tag': 'root',
@@ -22131,6 +26034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person running`
+  /// 
+  /// ![person running](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-running.png)
   static const IconData icon_person_running = IconData([
     {
       'tag': 'root',
@@ -22148,6 +26054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person shelter`
+  /// 
+  /// ![person shelter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-shelter.png)
   static const IconData icon_person_shelter = IconData([
     {
       'tag': 'root',
@@ -22165,6 +26074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person skating`
+  /// 
+  /// ![person skating](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-skating.png)
   static const IconData icon_person_skating = IconData([
     {
       'tag': 'root',
@@ -22182,6 +26094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person skiing`
+  /// 
+  /// ![person skiing](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-skiing.png)
   static const IconData icon_person_skiing = IconData([
     {
       'tag': 'root',
@@ -22199,6 +26114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person skiing nordic`
+  /// 
+  /// ![person skiing nordic](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-skiing-nordic.png)
   static const IconData icon_person_skiing_nordic = IconData([
     {
       'tag': 'root',
@@ -22216,6 +26134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person snowboarding`
+  /// 
+  /// ![person snowboarding](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-snowboarding.png)
   static const IconData icon_person_snowboarding = IconData([
     {
       'tag': 'root',
@@ -22233,6 +26154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person swimming`
+  /// 
+  /// ![person swimming](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-swimming.png)
   static const IconData icon_person_swimming = IconData([
     {
       'tag': 'root',
@@ -22250,6 +26174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person through window`
+  /// 
+  /// ![person through window](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-through-window.png)
   static const IconData icon_person_through_window = IconData([
     {
       'tag': 'root',
@@ -22267,6 +26194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person walking`
+  /// 
+  /// ![person walking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-walking.png)
   static const IconData icon_person_walking = IconData([
     {
       'tag': 'root',
@@ -22284,6 +26214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person walking arrow loop left`
+  /// 
+  /// ![person walking arrow loop left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-walking-arrow-loop-left.png)
   static const IconData icon_person_walking_arrow_loop_left = IconData([
     {
       'tag': 'root',
@@ -22301,6 +26234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person walking arrow right`
+  /// 
+  /// ![person walking arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-walking-arrow-right.png)
   static const IconData icon_person_walking_arrow_right = IconData([
     {
       'tag': 'root',
@@ -22318,6 +26254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person walking dashed line arrow right`
+  /// 
+  /// ![person walking dashed line arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-walking-dashed-line-arrow-right.png)
   static const IconData icon_person_walking_dashed_line_arrow_right = IconData([
     {
       'tag': 'root',
@@ -22335,6 +26274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person walking luggage`
+  /// 
+  /// ![person walking luggage](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-walking-luggage.png)
   static const IconData icon_person_walking_luggage = IconData([
     {
       'tag': 'root',
@@ -22352,6 +26294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `person walking with cane`
+  /// 
+  /// ![person walking with cane](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/person-walking-with-cane.png)
   static const IconData icon_person_walking_with_cane = IconData([
     {
       'tag': 'root',
@@ -22369,6 +26314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `peseta sign`
+  /// 
+  /// ![peseta sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/peseta-sign.png)
   static const IconData icon_peseta_sign = IconData([
     {
       'tag': 'root',
@@ -22386,6 +26334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `peso sign`
+  /// 
+  /// ![peso sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/peso-sign.png)
   static const IconData icon_peso_sign = IconData([
     {
       'tag': 'root',
@@ -22403,6 +26354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `phone`
+  /// 
+  /// ![phone](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/phone.png)
   static const IconData icon_phone = IconData([
     {
       'tag': 'root',
@@ -22420,6 +26374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `phone alt`
+  /// 
+  /// ![phone alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/phone-alt.png)
   static const IconData icon_phone_alt = IconData([
     {
       'tag': 'root',
@@ -22437,6 +26394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `phone flip`
+  /// 
+  /// ![phone flip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/phone-flip.png)
   static const IconData icon_phone_flip = IconData([
     {
       'tag': 'root',
@@ -22454,6 +26414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `phone slash`
+  /// 
+  /// ![phone slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/phone-slash.png)
   static const IconData icon_phone_slash = IconData([
     {
       'tag': 'root',
@@ -22471,6 +26434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `phone square`
+  /// 
+  /// ![phone square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/phone-square.png)
   static const IconData icon_phone_square = IconData([
     {
       'tag': 'root',
@@ -22488,6 +26454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `phone square alt`
+  /// 
+  /// ![phone square alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/phone-square-alt.png)
   static const IconData icon_phone_square_alt = IconData([
     {
       'tag': 'root',
@@ -22505,6 +26474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `phone volume`
+  /// 
+  /// ![phone volume](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/phone-volume.png)
   static const IconData icon_phone_volume = IconData([
     {
       'tag': 'root',
@@ -22522,6 +26494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `photo film`
+  /// 
+  /// ![photo film](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/photo-film.png)
   static const IconData icon_photo_film = IconData([
     {
       'tag': 'root',
@@ -22539,6 +26514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `photo video`
+  /// 
+  /// ![photo video](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/photo-video.png)
   static const IconData icon_photo_video = IconData([
     {
       'tag': 'root',
@@ -22556,6 +26534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `picture in picture`
+  /// 
+  /// ![picture in picture](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/picture-in-picture.png)
   static const IconData icon_picture_in_picture = IconData([
     {
       'tag': 'root',
@@ -22573,6 +26554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pie chart`
+  /// 
+  /// ![pie chart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pie-chart.png)
   static const IconData icon_pie_chart = IconData([
     {
       'tag': 'root',
@@ -22590,6 +26574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `piggy bank`
+  /// 
+  /// ![piggy bank](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/piggy-bank.png)
   static const IconData icon_piggy_bank = IconData([
     {
       'tag': 'root',
@@ -22607,6 +26594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pills`
+  /// 
+  /// ![pills](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pills.png)
   static const IconData icon_pills = IconData([
     {
       'tag': 'root',
@@ -22624,6 +26614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ping pong paddle ball`
+  /// 
+  /// ![ping pong paddle ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ping-pong-paddle-ball.png)
   static const IconData icon_ping_pong_paddle_ball = IconData([
     {
       'tag': 'root',
@@ -22641,6 +26634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pisces`
+  /// 
+  /// ![pisces](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pisces.png)
   static const IconData icon_pisces = IconData([
     {
       'tag': 'root',
@@ -22658,6 +26654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pizza slice`
+  /// 
+  /// ![pizza slice](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pizza-slice.png)
   static const IconData icon_pizza_slice = IconData([
     {
       'tag': 'root',
@@ -22675,6 +26674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `place of worship`
+  /// 
+  /// ![place of worship](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/place-of-worship.png)
   static const IconData icon_place_of_worship = IconData([
     {
       'tag': 'root',
@@ -22692,6 +26694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane`
+  /// 
+  /// ![plane](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane.png)
   static const IconData icon_plane = IconData([
     {
       'tag': 'root',
@@ -22709,6 +26714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane arrival`
+  /// 
+  /// ![plane arrival](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane-arrival.png)
   static const IconData icon_plane_arrival = IconData([
     {
       'tag': 'root',
@@ -22726,6 +26734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane circle check`
+  /// 
+  /// ![plane circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane-circle-check.png)
   static const IconData icon_plane_circle_check = IconData([
     {
       'tag': 'root',
@@ -22743,6 +26754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane circle exclamation`
+  /// 
+  /// ![plane circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane-circle-exclamation.png)
   static const IconData icon_plane_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -22760,6 +26774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane circle xmark`
+  /// 
+  /// ![plane circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane-circle-xmark.png)
   static const IconData icon_plane_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -22777,6 +26794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane departure`
+  /// 
+  /// ![plane departure](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane-departure.png)
   static const IconData icon_plane_departure = IconData([
     {
       'tag': 'root',
@@ -22794,6 +26814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane lock`
+  /// 
+  /// ![plane lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane-lock.png)
   static const IconData icon_plane_lock = IconData([
     {
       'tag': 'root',
@@ -22811,6 +26834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane slash`
+  /// 
+  /// ![plane slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane-slash.png)
   static const IconData icon_plane_slash = IconData([
     {
       'tag': 'root',
@@ -22828,6 +26854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plane up`
+  /// 
+  /// ![plane up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plane-up.png)
   static const IconData icon_plane_up = IconData([
     {
       'tag': 'root',
@@ -22845,6 +26874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plant wilt`
+  /// 
+  /// ![plant wilt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plant-wilt.png)
   static const IconData icon_plant_wilt = IconData([
     {
       'tag': 'root',
@@ -22862,6 +26894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plate wheat`
+  /// 
+  /// ![plate wheat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plate-wheat.png)
   static const IconData icon_plate_wheat = IconData([
     {
       'tag': 'root',
@@ -22879,6 +26914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `play`
+  /// 
+  /// ![play](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/play.png)
   static const IconData icon_play = IconData([
     {
       'tag': 'root',
@@ -22896,6 +26934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `play circle`
+  /// 
+  /// ![play circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/play-circle.png)
   static const IconData icon_play_circle = IconData([
     {
       'tag': 'root',
@@ -22913,6 +26954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plug`
+  /// 
+  /// ![plug](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plug.png)
   static const IconData icon_plug = IconData([
     {
       'tag': 'root',
@@ -22930,6 +26974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plug circle bolt`
+  /// 
+  /// ![plug circle bolt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plug-circle-bolt.png)
   static const IconData icon_plug_circle_bolt = IconData([
     {
       'tag': 'root',
@@ -22947,6 +26994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plug circle check`
+  /// 
+  /// ![plug circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plug-circle-check.png)
   static const IconData icon_plug_circle_check = IconData([
     {
       'tag': 'root',
@@ -22964,6 +27014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plug circle exclamation`
+  /// 
+  /// ![plug circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plug-circle-exclamation.png)
   static const IconData icon_plug_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -22981,6 +27034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plug circle minus`
+  /// 
+  /// ![plug circle minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plug-circle-minus.png)
   static const IconData icon_plug_circle_minus = IconData([
     {
       'tag': 'root',
@@ -22998,6 +27054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plug circle plus`
+  /// 
+  /// ![plug circle plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plug-circle-plus.png)
   static const IconData icon_plug_circle_plus = IconData([
     {
       'tag': 'root',
@@ -23015,6 +27074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plug circle xmark`
+  /// 
+  /// ![plug circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plug-circle-xmark.png)
   static const IconData icon_plug_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -23032,6 +27094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plus`
+  /// 
+  /// ![plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plus.png)
   static const IconData icon_plus = IconData([
     {
       'tag': 'root',
@@ -23049,6 +27114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plus circle`
+  /// 
+  /// ![plus circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plus-circle.png)
   static const IconData icon_plus_circle = IconData([
     {
       'tag': 'root',
@@ -23066,6 +27134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plus minus`
+  /// 
+  /// ![plus minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plus-minus.png)
   static const IconData icon_plus_minus = IconData([
     {
       'tag': 'root',
@@ -23083,6 +27154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `plus square`
+  /// 
+  /// ![plus square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/plus-square.png)
   static const IconData icon_plus_square = IconData([
     {
       'tag': 'root',
@@ -23100,6 +27174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `podcast`
+  /// 
+  /// ![podcast](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/podcast.png)
   static const IconData icon_podcast = IconData([
     {
       'tag': 'root',
@@ -23117,6 +27194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `poll`
+  /// 
+  /// ![poll](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/poll.png)
   static const IconData icon_poll = IconData([
     {
       'tag': 'root',
@@ -23134,6 +27214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `poll h`
+  /// 
+  /// ![poll h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/poll-h.png)
   static const IconData icon_poll_h = IconData([
     {
       'tag': 'root',
@@ -23151,6 +27234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `poo`
+  /// 
+  /// ![poo](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/poo.png)
   static const IconData icon_poo = IconData([
     {
       'tag': 'root',
@@ -23168,6 +27254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `poo bolt`
+  /// 
+  /// ![poo bolt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/poo-bolt.png)
   static const IconData icon_poo_bolt = IconData([
     {
       'tag': 'root',
@@ -23185,6 +27274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `poo storm`
+  /// 
+  /// ![poo storm](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/poo-storm.png)
   static const IconData icon_poo_storm = IconData([
     {
       'tag': 'root',
@@ -23202,6 +27294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `poop`
+  /// 
+  /// ![poop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/poop.png)
   static const IconData icon_poop = IconData([
     {
       'tag': 'root',
@@ -23219,6 +27314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `portrait`
+  /// 
+  /// ![portrait](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/portrait.png)
   static const IconData icon_portrait = IconData([
     {
       'tag': 'root',
@@ -23236,6 +27334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pound sign`
+  /// 
+  /// ![pound sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pound-sign.png)
   static const IconData icon_pound_sign = IconData([
     {
       'tag': 'root',
@@ -23253,6 +27354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `power off`
+  /// 
+  /// ![power off](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/power-off.png)
   static const IconData icon_power_off = IconData([
     {
       'tag': 'root',
@@ -23270,6 +27374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pray`
+  /// 
+  /// ![pray](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pray.png)
   static const IconData icon_pray = IconData([
     {
       'tag': 'root',
@@ -23287,6 +27394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `praying hands`
+  /// 
+  /// ![praying hands](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/praying-hands.png)
   static const IconData icon_praying_hands = IconData([
     {
       'tag': 'root',
@@ -23304,6 +27414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `prescription`
+  /// 
+  /// ![prescription](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/prescription.png)
   static const IconData icon_prescription = IconData([
     {
       'tag': 'root',
@@ -23321,6 +27434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `prescription bottle`
+  /// 
+  /// ![prescription bottle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/prescription-bottle.png)
   static const IconData icon_prescription_bottle = IconData([
     {
       'tag': 'root',
@@ -23338,6 +27454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `prescription bottle alt`
+  /// 
+  /// ![prescription bottle alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/prescription-bottle-alt.png)
   static const IconData icon_prescription_bottle_alt = IconData([
     {
       'tag': 'root',
@@ -23355,6 +27474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `prescription bottle medical`
+  /// 
+  /// ![prescription bottle medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/prescription-bottle-medical.png)
   static const IconData icon_prescription_bottle_medical = IconData([
     {
       'tag': 'root',
@@ -23372,6 +27494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `print`
+  /// 
+  /// ![print](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/print.png)
   static const IconData icon_print = IconData([
     {
       'tag': 'root',
@@ -23389,6 +27514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `procedures`
+  /// 
+  /// ![procedures](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/procedures.png)
   static const IconData icon_procedures = IconData([
     {
       'tag': 'root',
@@ -23406,6 +27534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `project diagram`
+  /// 
+  /// ![project diagram](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/project-diagram.png)
   static const IconData icon_project_diagram = IconData([
     {
       'tag': 'root',
@@ -23423,6 +27554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pump medical`
+  /// 
+  /// ![pump medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pump-medical.png)
   static const IconData icon_pump_medical = IconData([
     {
       'tag': 'root',
@@ -23440,6 +27574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `pump soap`
+  /// 
+  /// ![pump soap](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/pump-soap.png)
   static const IconData icon_pump_soap = IconData([
     {
       'tag': 'root',
@@ -23457,6 +27594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `puzzle piece`
+  /// 
+  /// ![puzzle piece](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/puzzle-piece.png)
   static const IconData icon_puzzle_piece = IconData([
     {
       'tag': 'root',
@@ -23474,6 +27614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `q`
+  /// 
+  /// ![q](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/q.png)
   static const IconData icon_q = IconData([
     {
       'tag': 'root',
@@ -23491,6 +27634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `qrcode`
+  /// 
+  /// ![qrcode](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/qrcode.png)
   static const IconData icon_qrcode = IconData([
     {
       'tag': 'root',
@@ -23508,6 +27654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `question`
+  /// 
+  /// ![question](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/question.png)
   static const IconData icon_question = IconData([
     {
       'tag': 'root',
@@ -23525,6 +27674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `question circle`
+  /// 
+  /// ![question circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/question-circle.png)
   static const IconData icon_question_circle = IconData([
     {
       'tag': 'root',
@@ -23542,6 +27694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `quidditch`
+  /// 
+  /// ![quidditch](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/quidditch.png)
   static const IconData icon_quidditch = IconData([
     {
       'tag': 'root',
@@ -23559,6 +27714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `quidditch broom ball`
+  /// 
+  /// ![quidditch broom ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/quidditch-broom-ball.png)
   static const IconData icon_quidditch_broom_ball = IconData([
     {
       'tag': 'root',
@@ -23576,6 +27734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `quote left`
+  /// 
+  /// ![quote left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/quote-left.png)
   static const IconData icon_quote_left = IconData([
     {
       'tag': 'root',
@@ -23593,6 +27754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `quote left alt`
+  /// 
+  /// ![quote left alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/quote-left-alt.png)
   static const IconData icon_quote_left_alt = IconData([
     {
       'tag': 'root',
@@ -23610,6 +27774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `quote right`
+  /// 
+  /// ![quote right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/quote-right.png)
   static const IconData icon_quote_right = IconData([
     {
       'tag': 'root',
@@ -23627,6 +27794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `quote right alt`
+  /// 
+  /// ![quote right alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/quote-right-alt.png)
   static const IconData icon_quote_right_alt = IconData([
     {
       'tag': 'root',
@@ -23644,6 +27814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `quran`
+  /// 
+  /// ![quran](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/quran.png)
   static const IconData icon_quran = IconData([
     {
       'tag': 'root',
@@ -23661,6 +27834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `r`
+  /// 
+  /// ![r](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/r.png)
   static const IconData icon_r = IconData([
     {
       'tag': 'root',
@@ -23678,6 +27854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `radiation`
+  /// 
+  /// ![radiation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/radiation.png)
   static const IconData icon_radiation = IconData([
     {
       'tag': 'root',
@@ -23695,6 +27874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `radiation alt`
+  /// 
+  /// ![radiation alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/radiation-alt.png)
   static const IconData icon_radiation_alt = IconData([
     {
       'tag': 'root',
@@ -23712,6 +27894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `radio`
+  /// 
+  /// ![radio](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/radio.png)
   static const IconData icon_radio = IconData([
     {
       'tag': 'root',
@@ -23729,6 +27914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rainbow`
+  /// 
+  /// ![rainbow](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rainbow.png)
   static const IconData icon_rainbow = IconData([
     {
       'tag': 'root',
@@ -23746,6 +27934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `random`
+  /// 
+  /// ![random](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/random.png)
   static const IconData icon_random = IconData([
     {
       'tag': 'root',
@@ -23763,6 +27954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ranking star`
+  /// 
+  /// ![ranking star](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ranking-star.png)
   static const IconData icon_ranking_star = IconData([
     {
       'tag': 'root',
@@ -23780,6 +27974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `receipt`
+  /// 
+  /// ![receipt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/receipt.png)
   static const IconData icon_receipt = IconData([
     {
       'tag': 'root',
@@ -23797,6 +27994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `record vinyl`
+  /// 
+  /// ![record vinyl](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/record-vinyl.png)
   static const IconData icon_record_vinyl = IconData([
     {
       'tag': 'root',
@@ -23814,6 +28014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rectangle ad`
+  /// 
+  /// ![rectangle ad](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rectangle-ad.png)
   static const IconData icon_rectangle_ad = IconData([
     {
       'tag': 'root',
@@ -23831,6 +28034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rectangle list`
+  /// 
+  /// ![rectangle list](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rectangle-list.png)
   static const IconData icon_rectangle_list = IconData([
     {
       'tag': 'root',
@@ -23848,6 +28054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rectangle times`
+  /// 
+  /// ![rectangle times](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rectangle-times.png)
   static const IconData icon_rectangle_times = IconData([
     {
       'tag': 'root',
@@ -23865,6 +28074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rectangle xmark`
+  /// 
+  /// ![rectangle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rectangle-xmark.png)
   static const IconData icon_rectangle_xmark = IconData([
     {
       'tag': 'root',
@@ -23882,6 +28094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `recycle`
+  /// 
+  /// ![recycle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/recycle.png)
   static const IconData icon_recycle = IconData([
     {
       'tag': 'root',
@@ -23899,6 +28114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `redo`
+  /// 
+  /// ![redo](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/redo.png)
   static const IconData icon_redo = IconData([
     {
       'tag': 'root',
@@ -23916,6 +28134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `redo alt`
+  /// 
+  /// ![redo alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/redo-alt.png)
   static const IconData icon_redo_alt = IconData([
     {
       'tag': 'root',
@@ -23933,6 +28154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `refresh`
+  /// 
+  /// ![refresh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/refresh.png)
   static const IconData icon_refresh = IconData([
     {
       'tag': 'root',
@@ -23950,6 +28174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `registered`
+  /// 
+  /// ![registered](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/registered.png)
   static const IconData icon_registered = IconData([
     {
       'tag': 'root',
@@ -23967,6 +28194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `remove`
+  /// 
+  /// ![remove](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/remove.png)
   static const IconData icon_remove = IconData([
     {
       'tag': 'root',
@@ -23984,6 +28214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `remove format`
+  /// 
+  /// ![remove format](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/remove-format.png)
   static const IconData icon_remove_format = IconData([
     {
       'tag': 'root',
@@ -24001,6 +28234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `reorder`
+  /// 
+  /// ![reorder](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/reorder.png)
   static const IconData icon_reorder = IconData([
     {
       'tag': 'root',
@@ -24018,6 +28254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `repeat`
+  /// 
+  /// ![repeat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/repeat.png)
   static const IconData icon_repeat = IconData([
     {
       'tag': 'root',
@@ -24035,6 +28274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `reply`
+  /// 
+  /// ![reply](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/reply.png)
   static const IconData icon_reply = IconData([
     {
       'tag': 'root',
@@ -24052,6 +28294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `reply all`
+  /// 
+  /// ![reply all](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/reply-all.png)
   static const IconData icon_reply_all = IconData([
     {
       'tag': 'root',
@@ -24069,6 +28314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `republican`
+  /// 
+  /// ![republican](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/republican.png)
   static const IconData icon_republican = IconData([
     {
       'tag': 'root',
@@ -24086,6 +28334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `restroom`
+  /// 
+  /// ![restroom](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/restroom.png)
   static const IconData icon_restroom = IconData([
     {
       'tag': 'root',
@@ -24103,6 +28354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `retweet`
+  /// 
+  /// ![retweet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/retweet.png)
   static const IconData icon_retweet = IconData([
     {
       'tag': 'root',
@@ -24120,6 +28374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ribbon`
+  /// 
+  /// ![ribbon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ribbon.png)
   static const IconData icon_ribbon = IconData([
     {
       'tag': 'root',
@@ -24137,6 +28394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `right from bracket`
+  /// 
+  /// ![right from bracket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/right-from-bracket.png)
   static const IconData icon_right_from_bracket = IconData([
     {
       'tag': 'root',
@@ -24154,6 +28414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `right left`
+  /// 
+  /// ![right left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/right-left.png)
   static const IconData icon_right_left = IconData([
     {
       'tag': 'root',
@@ -24171,6 +28434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `right long`
+  /// 
+  /// ![right long](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/right-long.png)
   static const IconData icon_right_long = IconData([
     {
       'tag': 'root',
@@ -24188,6 +28454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `right to bracket`
+  /// 
+  /// ![right to bracket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/right-to-bracket.png)
   static const IconData icon_right_to_bracket = IconData([
     {
       'tag': 'root',
@@ -24205,6 +28474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ring`
+  /// 
+  /// ![ring](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ring.png)
   static const IconData icon_ring = IconData([
     {
       'tag': 'root',
@@ -24222,6 +28494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rmb`
+  /// 
+  /// ![rmb](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rmb.png)
   static const IconData icon_rmb = IconData([
     {
       'tag': 'root',
@@ -24239,6 +28514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `road`
+  /// 
+  /// ![road](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/road.png)
   static const IconData icon_road = IconData([
     {
       'tag': 'root',
@@ -24256,6 +28534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `road barrier`
+  /// 
+  /// ![road barrier](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/road-barrier.png)
   static const IconData icon_road_barrier = IconData([
     {
       'tag': 'root',
@@ -24273,6 +28554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `road bridge`
+  /// 
+  /// ![road bridge](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/road-bridge.png)
   static const IconData icon_road_bridge = IconData([
     {
       'tag': 'root',
@@ -24290,6 +28574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `road circle check`
+  /// 
+  /// ![road circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/road-circle-check.png)
   static const IconData icon_road_circle_check = IconData([
     {
       'tag': 'root',
@@ -24307,6 +28594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `road circle exclamation`
+  /// 
+  /// ![road circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/road-circle-exclamation.png)
   static const IconData icon_road_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -24324,6 +28614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `road circle xmark`
+  /// 
+  /// ![road circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/road-circle-xmark.png)
   static const IconData icon_road_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -24341,6 +28634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `road lock`
+  /// 
+  /// ![road lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/road-lock.png)
   static const IconData icon_road_lock = IconData([
     {
       'tag': 'root',
@@ -24358,6 +28654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `road spikes`
+  /// 
+  /// ![road spikes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/road-spikes.png)
   static const IconData icon_road_spikes = IconData([
     {
       'tag': 'root',
@@ -24375,6 +28674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `robot`
+  /// 
+  /// ![robot](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/robot.png)
   static const IconData icon_robot = IconData([
     {
       'tag': 'root',
@@ -24392,6 +28694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rocket`
+  /// 
+  /// ![rocket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rocket.png)
   static const IconData icon_rocket = IconData([
     {
       'tag': 'root',
@@ -24409,6 +28714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rod asclepius`
+  /// 
+  /// ![rod asclepius](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rod-asclepius.png)
   static const IconData icon_rod_asclepius = IconData([
     {
       'tag': 'root',
@@ -24426,6 +28734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rod snake`
+  /// 
+  /// ![rod snake](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rod-snake.png)
   static const IconData icon_rod_snake = IconData([
     {
       'tag': 'root',
@@ -24443,6 +28754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rotate`
+  /// 
+  /// ![rotate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rotate.png)
   static const IconData icon_rotate = IconData([
     {
       'tag': 'root',
@@ -24460,6 +28774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rotate back`
+  /// 
+  /// ![rotate back](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rotate-back.png)
   static const IconData icon_rotate_back = IconData([
     {
       'tag': 'root',
@@ -24477,6 +28794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rotate backward`
+  /// 
+  /// ![rotate backward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rotate-backward.png)
   static const IconData icon_rotate_backward = IconData([
     {
       'tag': 'root',
@@ -24494,6 +28814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rotate forward`
+  /// 
+  /// ![rotate forward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rotate-forward.png)
   static const IconData icon_rotate_forward = IconData([
     {
       'tag': 'root',
@@ -24511,6 +28834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rotate left`
+  /// 
+  /// ![rotate left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rotate-left.png)
   static const IconData icon_rotate_left = IconData([
     {
       'tag': 'root',
@@ -24528,6 +28854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rotate right`
+  /// 
+  /// ![rotate right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rotate-right.png)
   static const IconData icon_rotate_right = IconData([
     {
       'tag': 'root',
@@ -24545,6 +28874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rouble`
+  /// 
+  /// ![rouble](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rouble.png)
   static const IconData icon_rouble = IconData([
     {
       'tag': 'root',
@@ -24562,6 +28894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `route`
+  /// 
+  /// ![route](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/route.png)
   static const IconData icon_route = IconData([
     {
       'tag': 'root',
@@ -24579,6 +28914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rss`
+  /// 
+  /// ![rss](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rss.png)
   static const IconData icon_rss = IconData([
     {
       'tag': 'root',
@@ -24596,6 +28934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rss square`
+  /// 
+  /// ![rss square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rss-square.png)
   static const IconData icon_rss_square = IconData([
     {
       'tag': 'root',
@@ -24613,6 +28954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rub`
+  /// 
+  /// ![rub](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rub.png)
   static const IconData icon_rub = IconData([
     {
       'tag': 'root',
@@ -24630,6 +28974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ruble`
+  /// 
+  /// ![ruble](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ruble.png)
   static const IconData icon_ruble = IconData([
     {
       'tag': 'root',
@@ -24647,6 +28994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ruble sign`
+  /// 
+  /// ![ruble sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ruble-sign.png)
   static const IconData icon_ruble_sign = IconData([
     {
       'tag': 'root',
@@ -24664,6 +29014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rug`
+  /// 
+  /// ![rug](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rug.png)
   static const IconData icon_rug = IconData([
     {
       'tag': 'root',
@@ -24681,6 +29034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ruler`
+  /// 
+  /// ![ruler](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ruler.png)
   static const IconData icon_ruler = IconData([
     {
       'tag': 'root',
@@ -24698,6 +29054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ruler combined`
+  /// 
+  /// ![ruler combined](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ruler-combined.png)
   static const IconData icon_ruler_combined = IconData([
     {
       'tag': 'root',
@@ -24715,6 +29074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ruler horizontal`
+  /// 
+  /// ![ruler horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ruler-horizontal.png)
   static const IconData icon_ruler_horizontal = IconData([
     {
       'tag': 'root',
@@ -24732,6 +29094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ruler vertical`
+  /// 
+  /// ![ruler vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ruler-vertical.png)
   static const IconData icon_ruler_vertical = IconData([
     {
       'tag': 'root',
@@ -24749,6 +29114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `running`
+  /// 
+  /// ![running](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/running.png)
   static const IconData icon_running = IconData([
     {
       'tag': 'root',
@@ -24766,6 +29134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rupee`
+  /// 
+  /// ![rupee](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rupee.png)
   static const IconData icon_rupee = IconData([
     {
       'tag': 'root',
@@ -24783,6 +29154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rupee sign`
+  /// 
+  /// ![rupee sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rupee-sign.png)
   static const IconData icon_rupee_sign = IconData([
     {
       'tag': 'root',
@@ -24800,6 +29174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `rupiah sign`
+  /// 
+  /// ![rupiah sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/rupiah-sign.png)
   static const IconData icon_rupiah_sign = IconData([
     {
       'tag': 'root',
@@ -24817,6 +29194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `s`
+  /// 
+  /// ![s](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/s.png)
   static const IconData icon_s = IconData([
     {
       'tag': 'root',
@@ -24834,6 +29214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sack dollar`
+  /// 
+  /// ![sack dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sack-dollar.png)
   static const IconData icon_sack_dollar = IconData([
     {
       'tag': 'root',
@@ -24851,6 +29234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sack xmark`
+  /// 
+  /// ![sack xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sack-xmark.png)
   static const IconData icon_sack_xmark = IconData([
     {
       'tag': 'root',
@@ -24868,6 +29254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sad cry`
+  /// 
+  /// ![sad cry](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sad-cry.png)
   static const IconData icon_sad_cry = IconData([
     {
       'tag': 'root',
@@ -24885,6 +29274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sad tear`
+  /// 
+  /// ![sad tear](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sad-tear.png)
   static const IconData icon_sad_tear = IconData([
     {
       'tag': 'root',
@@ -24902,6 +29294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sagittarius`
+  /// 
+  /// ![sagittarius](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sagittarius.png)
   static const IconData icon_sagittarius = IconData([
     {
       'tag': 'root',
@@ -24919,6 +29314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sailboat`
+  /// 
+  /// ![sailboat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sailboat.png)
   static const IconData icon_sailboat = IconData([
     {
       'tag': 'root',
@@ -24936,6 +29334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `satellite`
+  /// 
+  /// ![satellite](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/satellite.png)
   static const IconData icon_satellite = IconData([
     {
       'tag': 'root',
@@ -24953,6 +29354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `satellite dish`
+  /// 
+  /// ![satellite dish](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/satellite-dish.png)
   static const IconData icon_satellite_dish = IconData([
     {
       'tag': 'root',
@@ -24970,6 +29374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `save`
+  /// 
+  /// ![save](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/save.png)
   static const IconData icon_save = IconData([
     {
       'tag': 'root',
@@ -24987,6 +29394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `scale balanced`
+  /// 
+  /// ![scale balanced](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/scale-balanced.png)
   static const IconData icon_scale_balanced = IconData([
     {
       'tag': 'root',
@@ -25004,6 +29414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `scale unbalanced`
+  /// 
+  /// ![scale unbalanced](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/scale-unbalanced.png)
   static const IconData icon_scale_unbalanced = IconData([
     {
       'tag': 'root',
@@ -25021,6 +29434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `scale unbalanced flip`
+  /// 
+  /// ![scale unbalanced flip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/scale-unbalanced-flip.png)
   static const IconData icon_scale_unbalanced_flip = IconData([
     {
       'tag': 'root',
@@ -25038,6 +29454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `school`
+  /// 
+  /// ![school](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/school.png)
   static const IconData icon_school = IconData([
     {
       'tag': 'root',
@@ -25055,6 +29474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `school circle check`
+  /// 
+  /// ![school circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/school-circle-check.png)
   static const IconData icon_school_circle_check = IconData([
     {
       'tag': 'root',
@@ -25072,6 +29494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `school circle exclamation`
+  /// 
+  /// ![school circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/school-circle-exclamation.png)
   static const IconData icon_school_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -25089,6 +29514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `school circle xmark`
+  /// 
+  /// ![school circle xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/school-circle-xmark.png)
   static const IconData icon_school_circle_xmark = IconData([
     {
       'tag': 'root',
@@ -25106,6 +29534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `school flag`
+  /// 
+  /// ![school flag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/school-flag.png)
   static const IconData icon_school_flag = IconData([
     {
       'tag': 'root',
@@ -25123,6 +29554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `school lock`
+  /// 
+  /// ![school lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/school-lock.png)
   static const IconData icon_school_lock = IconData([
     {
       'tag': 'root',
@@ -25140,6 +29574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `scissors`
+  /// 
+  /// ![scissors](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/scissors.png)
   static const IconData icon_scissors = IconData([
     {
       'tag': 'root',
@@ -25157,6 +29594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `scorpio`
+  /// 
+  /// ![scorpio](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/scorpio.png)
   static const IconData icon_scorpio = IconData([
     {
       'tag': 'root',
@@ -25174,6 +29614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `screwdriver`
+  /// 
+  /// ![screwdriver](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/screwdriver.png)
   static const IconData icon_screwdriver = IconData([
     {
       'tag': 'root',
@@ -25191,6 +29634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `screwdriver wrench`
+  /// 
+  /// ![screwdriver wrench](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/screwdriver-wrench.png)
   static const IconData icon_screwdriver_wrench = IconData([
     {
       'tag': 'root',
@@ -25208,6 +29654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `scroll`
+  /// 
+  /// ![scroll](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/scroll.png)
   static const IconData icon_scroll = IconData([
     {
       'tag': 'root',
@@ -25225,6 +29674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `scroll torah`
+  /// 
+  /// ![scroll torah](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/scroll-torah.png)
   static const IconData icon_scroll_torah = IconData([
     {
       'tag': 'root',
@@ -25242,6 +29694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sd card`
+  /// 
+  /// ![sd card](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sd-card.png)
   static const IconData icon_sd_card = IconData([
     {
       'tag': 'root',
@@ -25259,6 +29714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `search`
+  /// 
+  /// ![search](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/search.png)
   static const IconData icon_search = IconData([
     {
       'tag': 'root',
@@ -25276,6 +29734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `search dollar`
+  /// 
+  /// ![search dollar](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/search-dollar.png)
   static const IconData icon_search_dollar = IconData([
     {
       'tag': 'root',
@@ -25293,6 +29754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `search location`
+  /// 
+  /// ![search location](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/search-location.png)
   static const IconData icon_search_location = IconData([
     {
       'tag': 'root',
@@ -25310,6 +29774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `search minus`
+  /// 
+  /// ![search minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/search-minus.png)
   static const IconData icon_search_minus = IconData([
     {
       'tag': 'root',
@@ -25327,6 +29794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `search plus`
+  /// 
+  /// ![search plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/search-plus.png)
   static const IconData icon_search_plus = IconData([
     {
       'tag': 'root',
@@ -25344,6 +29814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `section`
+  /// 
+  /// ![section](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/section.png)
   static const IconData icon_section = IconData([
     {
       'tag': 'root',
@@ -25361,6 +29834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `seedling`
+  /// 
+  /// ![seedling](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/seedling.png)
   static const IconData icon_seedling = IconData([
     {
       'tag': 'root',
@@ -25378,6 +29854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `septagon`
+  /// 
+  /// ![septagon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/septagon.png)
   static const IconData icon_septagon = IconData([
     {
       'tag': 'root',
@@ -25395,6 +29874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `server`
+  /// 
+  /// ![server](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/server.png)
   static const IconData icon_server = IconData([
     {
       'tag': 'root',
@@ -25412,6 +29894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shapes`
+  /// 
+  /// ![shapes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shapes.png)
   static const IconData icon_shapes = IconData([
     {
       'tag': 'root',
@@ -25429,6 +29914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `share`
+  /// 
+  /// ![share](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/share.png)
   static const IconData icon_share = IconData([
     {
       'tag': 'root',
@@ -25446,6 +29934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `share alt`
+  /// 
+  /// ![share alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/share-alt.png)
   static const IconData icon_share_alt = IconData([
     {
       'tag': 'root',
@@ -25463,6 +29954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `share alt square`
+  /// 
+  /// ![share alt square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/share-alt-square.png)
   static const IconData icon_share_alt_square = IconData([
     {
       'tag': 'root',
@@ -25480,6 +29974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `share from square`
+  /// 
+  /// ![share from square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/share-from-square.png)
   static const IconData icon_share_from_square = IconData([
     {
       'tag': 'root',
@@ -25497,6 +29994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `share nodes`
+  /// 
+  /// ![share nodes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/share-nodes.png)
   static const IconData icon_share_nodes = IconData([
     {
       'tag': 'root',
@@ -25514,6 +30014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `share square`
+  /// 
+  /// ![share square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/share-square.png)
   static const IconData icon_share_square = IconData([
     {
       'tag': 'root',
@@ -25531,6 +30034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sheet plastic`
+  /// 
+  /// ![sheet plastic](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sheet-plastic.png)
   static const IconData icon_sheet_plastic = IconData([
     {
       'tag': 'root',
@@ -25548,6 +30054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shekel`
+  /// 
+  /// ![shekel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shekel.png)
   static const IconData icon_shekel = IconData([
     {
       'tag': 'root',
@@ -25565,6 +30074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shekel sign`
+  /// 
+  /// ![shekel sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shekel-sign.png)
   static const IconData icon_shekel_sign = IconData([
     {
       'tag': 'root',
@@ -25582,6 +30094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sheqel`
+  /// 
+  /// ![sheqel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sheqel.png)
   static const IconData icon_sheqel = IconData([
     {
       'tag': 'root',
@@ -25599,6 +30114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sheqel sign`
+  /// 
+  /// ![sheqel sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sheqel-sign.png)
   static const IconData icon_sheqel_sign = IconData([
     {
       'tag': 'root',
@@ -25616,6 +30134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shield`
+  /// 
+  /// ![shield](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shield.png)
   static const IconData icon_shield = IconData([
     {
       'tag': 'root',
@@ -25633,6 +30154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shield alt`
+  /// 
+  /// ![shield alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shield-alt.png)
   static const IconData icon_shield_alt = IconData([
     {
       'tag': 'root',
@@ -25650,6 +30174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shield blank`
+  /// 
+  /// ![shield blank](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shield-blank.png)
   static const IconData icon_shield_blank = IconData([
     {
       'tag': 'root',
@@ -25667,6 +30194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shield cat`
+  /// 
+  /// ![shield cat](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shield-cat.png)
   static const IconData icon_shield_cat = IconData([
     {
       'tag': 'root',
@@ -25684,6 +30214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shield dog`
+  /// 
+  /// ![shield dog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shield-dog.png)
   static const IconData icon_shield_dog = IconData([
     {
       'tag': 'root',
@@ -25701,6 +30234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shield halved`
+  /// 
+  /// ![shield halved](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shield-halved.png)
   static const IconData icon_shield_halved = IconData([
     {
       'tag': 'root',
@@ -25718,6 +30254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shield heart`
+  /// 
+  /// ![shield heart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shield-heart.png)
   static const IconData icon_shield_heart = IconData([
     {
       'tag': 'root',
@@ -25735,6 +30274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shield virus`
+  /// 
+  /// ![shield virus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shield-virus.png)
   static const IconData icon_shield_virus = IconData([
     {
       'tag': 'root',
@@ -25752,6 +30294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ship`
+  /// 
+  /// ![ship](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ship.png)
   static const IconData icon_ship = IconData([
     {
       'tag': 'root',
@@ -25769,6 +30314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shipping fast`
+  /// 
+  /// ![shipping fast](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shipping-fast.png)
   static const IconData icon_shipping_fast = IconData([
     {
       'tag': 'root',
@@ -25786,6 +30334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shirt`
+  /// 
+  /// ![shirt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shirt.png)
   static const IconData icon_shirt = IconData([
     {
       'tag': 'root',
@@ -25803,6 +30354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shoe prints`
+  /// 
+  /// ![shoe prints](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shoe-prints.png)
   static const IconData icon_shoe_prints = IconData([
     {
       'tag': 'root',
@@ -25820,6 +30374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shop`
+  /// 
+  /// ![shop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shop.png)
   static const IconData icon_shop = IconData([
     {
       'tag': 'root',
@@ -25837,6 +30394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shop lock`
+  /// 
+  /// ![shop lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shop-lock.png)
   static const IconData icon_shop_lock = IconData([
     {
       'tag': 'root',
@@ -25854,6 +30414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shop slash`
+  /// 
+  /// ![shop slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shop-slash.png)
   static const IconData icon_shop_slash = IconData([
     {
       'tag': 'root',
@@ -25871,6 +30434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shopping bag`
+  /// 
+  /// ![shopping bag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shopping-bag.png)
   static const IconData icon_shopping_bag = IconData([
     {
       'tag': 'root',
@@ -25888,6 +30454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shopping basket`
+  /// 
+  /// ![shopping basket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shopping-basket.png)
   static const IconData icon_shopping_basket = IconData([
     {
       'tag': 'root',
@@ -25905,6 +30474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shopping cart`
+  /// 
+  /// ![shopping cart](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shopping-cart.png)
   static const IconData icon_shopping_cart = IconData([
     {
       'tag': 'root',
@@ -25922,6 +30494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shower`
+  /// 
+  /// ![shower](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shower.png)
   static const IconData icon_shower = IconData([
     {
       'tag': 'root',
@@ -25939,6 +30514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shrimp`
+  /// 
+  /// ![shrimp](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shrimp.png)
   static const IconData icon_shrimp = IconData([
     {
       'tag': 'root',
@@ -25956,6 +30534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shuffle`
+  /// 
+  /// ![shuffle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shuffle.png)
   static const IconData icon_shuffle = IconData([
     {
       'tag': 'root',
@@ -25973,6 +30554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shuttle space`
+  /// 
+  /// ![shuttle space](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shuttle-space.png)
   static const IconData icon_shuttle_space = IconData([
     {
       'tag': 'root',
@@ -25990,6 +30574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `shuttle van`
+  /// 
+  /// ![shuttle van](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/shuttle-van.png)
   static const IconData icon_shuttle_van = IconData([
     {
       'tag': 'root',
@@ -26007,6 +30594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sign`
+  /// 
+  /// ![sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sign.png)
   static const IconData icon_sign = IconData([
     {
       'tag': 'root',
@@ -26024,6 +30614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sign hanging`
+  /// 
+  /// ![sign hanging](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sign-hanging.png)
   static const IconData icon_sign_hanging = IconData([
     {
       'tag': 'root',
@@ -26041,6 +30634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sign in`
+  /// 
+  /// ![sign in](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sign-in.png)
   static const IconData icon_sign_in = IconData([
     {
       'tag': 'root',
@@ -26058,6 +30654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sign in alt`
+  /// 
+  /// ![sign in alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sign-in-alt.png)
   static const IconData icon_sign_in_alt = IconData([
     {
       'tag': 'root',
@@ -26075,6 +30674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sign language`
+  /// 
+  /// ![sign language](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sign-language.png)
   static const IconData icon_sign_language = IconData([
     {
       'tag': 'root',
@@ -26092,6 +30694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sign out`
+  /// 
+  /// ![sign out](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sign-out.png)
   static const IconData icon_sign_out = IconData([
     {
       'tag': 'root',
@@ -26109,6 +30714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sign out alt`
+  /// 
+  /// ![sign out alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sign-out-alt.png)
   static const IconData icon_sign_out_alt = IconData([
     {
       'tag': 'root',
@@ -26126,6 +30734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `signal`
+  /// 
+  /// ![signal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/signal.png)
   static const IconData icon_signal = IconData([
     {
       'tag': 'root',
@@ -26143,6 +30754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `signal 5`
+  /// 
+  /// ![signal 5](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/signal-5.png)
   static const IconData icon_signal_5 = IconData([
     {
       'tag': 'root',
@@ -26160,6 +30774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `signal perfect`
+  /// 
+  /// ![signal perfect](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/signal-perfect.png)
   static const IconData icon_signal_perfect = IconData([
     {
       'tag': 'root',
@@ -26177,6 +30794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `signature`
+  /// 
+  /// ![signature](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/signature.png)
   static const IconData icon_signature = IconData([
     {
       'tag': 'root',
@@ -26194,6 +30814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `signing`
+  /// 
+  /// ![signing](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/signing.png)
   static const IconData icon_signing = IconData([
     {
       'tag': 'root',
@@ -26211,6 +30834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `signs post`
+  /// 
+  /// ![signs post](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/signs-post.png)
   static const IconData icon_signs_post = IconData([
     {
       'tag': 'root',
@@ -26228,6 +30854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sim card`
+  /// 
+  /// ![sim card](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sim-card.png)
   static const IconData icon_sim_card = IconData([
     {
       'tag': 'root',
@@ -26245,6 +30874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `single quote left`
+  /// 
+  /// ![single quote left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/single-quote-left.png)
   static const IconData icon_single_quote_left = IconData([
     {
       'tag': 'root',
@@ -26262,6 +30894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `single quote right`
+  /// 
+  /// ![single quote right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/single-quote-right.png)
   static const IconData icon_single_quote_right = IconData([
     {
       'tag': 'root',
@@ -26279,6 +30914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sink`
+  /// 
+  /// ![sink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sink.png)
   static const IconData icon_sink = IconData([
     {
       'tag': 'root',
@@ -26296,6 +30934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sitemap`
+  /// 
+  /// ![sitemap](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sitemap.png)
   static const IconData icon_sitemap = IconData([
     {
       'tag': 'root',
@@ -26313,6 +30954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `skating`
+  /// 
+  /// ![skating](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/skating.png)
   static const IconData icon_skating = IconData([
     {
       'tag': 'root',
@@ -26330,6 +30974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `skiing`
+  /// 
+  /// ![skiing](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/skiing.png)
   static const IconData icon_skiing = IconData([
     {
       'tag': 'root',
@@ -26347,6 +30994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `skiing nordic`
+  /// 
+  /// ![skiing nordic](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/skiing-nordic.png)
   static const IconData icon_skiing_nordic = IconData([
     {
       'tag': 'root',
@@ -26364,6 +31014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `skull`
+  /// 
+  /// ![skull](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/skull.png)
   static const IconData icon_skull = IconData([
     {
       'tag': 'root',
@@ -26381,6 +31034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `skull crossbones`
+  /// 
+  /// ![skull crossbones](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/skull-crossbones.png)
   static const IconData icon_skull_crossbones = IconData([
     {
       'tag': 'root',
@@ -26398,6 +31054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `slash`
+  /// 
+  /// ![slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/slash.png)
   static const IconData icon_slash = IconData([
     {
       'tag': 'root',
@@ -26415,6 +31074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sleigh`
+  /// 
+  /// ![sleigh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sleigh.png)
   static const IconData icon_sleigh = IconData([
     {
       'tag': 'root',
@@ -26432,6 +31094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sliders`
+  /// 
+  /// ![sliders](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sliders.png)
   static const IconData icon_sliders = IconData([
     {
       'tag': 'root',
@@ -26449,6 +31114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sliders h`
+  /// 
+  /// ![sliders h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sliders-h.png)
   static const IconData icon_sliders_h = IconData([
     {
       'tag': 'root',
@@ -26466,6 +31134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `smile`
+  /// 
+  /// ![smile](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/smile.png)
   static const IconData icon_smile = IconData([
     {
       'tag': 'root',
@@ -26483,6 +31154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `smile beam`
+  /// 
+  /// ![smile beam](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/smile-beam.png)
   static const IconData icon_smile_beam = IconData([
     {
       'tag': 'root',
@@ -26500,6 +31174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `smile wink`
+  /// 
+  /// ![smile wink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/smile-wink.png)
   static const IconData icon_smile_wink = IconData([
     {
       'tag': 'root',
@@ -26517,6 +31194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `smog`
+  /// 
+  /// ![smog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/smog.png)
   static const IconData icon_smog = IconData([
     {
       'tag': 'root',
@@ -26534,6 +31214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `smoking`
+  /// 
+  /// ![smoking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/smoking.png)
   static const IconData icon_smoking = IconData([
     {
       'tag': 'root',
@@ -26551,6 +31234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `smoking ban`
+  /// 
+  /// ![smoking ban](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/smoking-ban.png)
   static const IconData icon_smoking_ban = IconData([
     {
       'tag': 'root',
@@ -26568,6 +31254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sms`
+  /// 
+  /// ![sms](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sms.png)
   static const IconData icon_sms = IconData([
     {
       'tag': 'root',
@@ -26585,6 +31274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `snowboarding`
+  /// 
+  /// ![snowboarding](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/snowboarding.png)
   static const IconData icon_snowboarding = IconData([
     {
       'tag': 'root',
@@ -26602,6 +31294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `snowflake`
+  /// 
+  /// ![snowflake](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/snowflake.png)
   static const IconData icon_snowflake = IconData([
     {
       'tag': 'root',
@@ -26619,6 +31314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `snowman`
+  /// 
+  /// ![snowman](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/snowman.png)
   static const IconData icon_snowman = IconData([
     {
       'tag': 'root',
@@ -26636,6 +31334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `snowplow`
+  /// 
+  /// ![snowplow](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/snowplow.png)
   static const IconData icon_snowplow = IconData([
     {
       'tag': 'root',
@@ -26653,6 +31354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `soap`
+  /// 
+  /// ![soap](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/soap.png)
   static const IconData icon_soap = IconData([
     {
       'tag': 'root',
@@ -26670,6 +31374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `soccer ball`
+  /// 
+  /// ![soccer ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/soccer-ball.png)
   static const IconData icon_soccer_ball = IconData([
     {
       'tag': 'root',
@@ -26687,6 +31394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `socks`
+  /// 
+  /// ![socks](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/socks.png)
   static const IconData icon_socks = IconData([
     {
       'tag': 'root',
@@ -26704,6 +31414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `solar panel`
+  /// 
+  /// ![solar panel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/solar-panel.png)
   static const IconData icon_solar_panel = IconData([
     {
       'tag': 'root',
@@ -26721,6 +31434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort`
+  /// 
+  /// ![sort](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort.png)
   static const IconData icon_sort = IconData([
     {
       'tag': 'root',
@@ -26738,6 +31454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort alpha asc`
+  /// 
+  /// ![sort alpha asc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-alpha-asc.png)
   static const IconData icon_sort_alpha_asc = IconData([
     {
       'tag': 'root',
@@ -26755,6 +31474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort alpha desc`
+  /// 
+  /// ![sort alpha desc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-alpha-desc.png)
   static const IconData icon_sort_alpha_desc = IconData([
     {
       'tag': 'root',
@@ -26772,6 +31494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort alpha down`
+  /// 
+  /// ![sort alpha down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-alpha-down.png)
   static const IconData icon_sort_alpha_down = IconData([
     {
       'tag': 'root',
@@ -26789,6 +31514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort alpha down alt`
+  /// 
+  /// ![sort alpha down alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-alpha-down-alt.png)
   static const IconData icon_sort_alpha_down_alt = IconData([
     {
       'tag': 'root',
@@ -26806,6 +31534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort alpha up`
+  /// 
+  /// ![sort alpha up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-alpha-up.png)
   static const IconData icon_sort_alpha_up = IconData([
     {
       'tag': 'root',
@@ -26823,6 +31554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort alpha up alt`
+  /// 
+  /// ![sort alpha up alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-alpha-up-alt.png)
   static const IconData icon_sort_alpha_up_alt = IconData([
     {
       'tag': 'root',
@@ -26840,6 +31574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort amount asc`
+  /// 
+  /// ![sort amount asc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-amount-asc.png)
   static const IconData icon_sort_amount_asc = IconData([
     {
       'tag': 'root',
@@ -26857,6 +31594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort amount desc`
+  /// 
+  /// ![sort amount desc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-amount-desc.png)
   static const IconData icon_sort_amount_desc = IconData([
     {
       'tag': 'root',
@@ -26874,6 +31614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort amount down`
+  /// 
+  /// ![sort amount down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-amount-down.png)
   static const IconData icon_sort_amount_down = IconData([
     {
       'tag': 'root',
@@ -26891,6 +31634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort amount down alt`
+  /// 
+  /// ![sort amount down alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-amount-down-alt.png)
   static const IconData icon_sort_amount_down_alt = IconData([
     {
       'tag': 'root',
@@ -26908,6 +31654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort amount up`
+  /// 
+  /// ![sort amount up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-amount-up.png)
   static const IconData icon_sort_amount_up = IconData([
     {
       'tag': 'root',
@@ -26925,6 +31674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort amount up alt`
+  /// 
+  /// ![sort amount up alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-amount-up-alt.png)
   static const IconData icon_sort_amount_up_alt = IconData([
     {
       'tag': 'root',
@@ -26942,6 +31694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort asc`
+  /// 
+  /// ![sort asc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-asc.png)
   static const IconData icon_sort_asc = IconData([
     {
       'tag': 'root',
@@ -26959,6 +31714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort desc`
+  /// 
+  /// ![sort desc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-desc.png)
   static const IconData icon_sort_desc = IconData([
     {
       'tag': 'root',
@@ -26976,6 +31734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort down`
+  /// 
+  /// ![sort down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-down.png)
   static const IconData icon_sort_down = IconData([
     {
       'tag': 'root',
@@ -26993,6 +31754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort numeric asc`
+  /// 
+  /// ![sort numeric asc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-numeric-asc.png)
   static const IconData icon_sort_numeric_asc = IconData([
     {
       'tag': 'root',
@@ -27010,6 +31774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort numeric desc`
+  /// 
+  /// ![sort numeric desc](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-numeric-desc.png)
   static const IconData icon_sort_numeric_desc = IconData([
     {
       'tag': 'root',
@@ -27027,6 +31794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort numeric down`
+  /// 
+  /// ![sort numeric down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-numeric-down.png)
   static const IconData icon_sort_numeric_down = IconData([
     {
       'tag': 'root',
@@ -27044,6 +31814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort numeric down alt`
+  /// 
+  /// ![sort numeric down alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-numeric-down-alt.png)
   static const IconData icon_sort_numeric_down_alt = IconData([
     {
       'tag': 'root',
@@ -27061,6 +31834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort numeric up`
+  /// 
+  /// ![sort numeric up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-numeric-up.png)
   static const IconData icon_sort_numeric_up = IconData([
     {
       'tag': 'root',
@@ -27078,6 +31854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort numeric up alt`
+  /// 
+  /// ![sort numeric up alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-numeric-up-alt.png)
   static const IconData icon_sort_numeric_up_alt = IconData([
     {
       'tag': 'root',
@@ -27095,6 +31874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sort up`
+  /// 
+  /// ![sort up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sort-up.png)
   static const IconData icon_sort_up = IconData([
     {
       'tag': 'root',
@@ -27112,6 +31894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spa`
+  /// 
+  /// ![spa](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spa.png)
   static const IconData icon_spa = IconData([
     {
       'tag': 'root',
@@ -27129,6 +31914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `space shuttle`
+  /// 
+  /// ![space shuttle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/space-shuttle.png)
   static const IconData icon_space_shuttle = IconData([
     {
       'tag': 'root',
@@ -27146,6 +31934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spaghetti monster flying`
+  /// 
+  /// ![spaghetti monster flying](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spaghetti-monster-flying.png)
   static const IconData icon_spaghetti_monster_flying = IconData([
     {
       'tag': 'root',
@@ -27163,6 +31954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spell check`
+  /// 
+  /// ![spell check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spell-check.png)
   static const IconData icon_spell_check = IconData([
     {
       'tag': 'root',
@@ -27180,6 +31974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spider`
+  /// 
+  /// ![spider](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spider.png)
   static const IconData icon_spider = IconData([
     {
       'tag': 'root',
@@ -27197,6 +31994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spinner`
+  /// 
+  /// ![spinner](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spinner.png)
   static const IconData icon_spinner = IconData([
     {
       'tag': 'root',
@@ -27214,6 +32014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spiral`
+  /// 
+  /// ![spiral](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spiral.png)
   static const IconData icon_spiral = IconData([
     {
       'tag': 'root',
@@ -27231,6 +32034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `splotch`
+  /// 
+  /// ![splotch](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/splotch.png)
   static const IconData icon_splotch = IconData([
     {
       'tag': 'root',
@@ -27248,6 +32054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spoon`
+  /// 
+  /// ![spoon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spoon.png)
   static const IconData icon_spoon = IconData([
     {
       'tag': 'root',
@@ -27265,6 +32074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spray can`
+  /// 
+  /// ![spray can](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spray-can.png)
   static const IconData icon_spray_can = IconData([
     {
       'tag': 'root',
@@ -27282,6 +32094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `spray can sparkles`
+  /// 
+  /// ![spray can sparkles](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/spray-can-sparkles.png)
   static const IconData icon_spray_can_sparkles = IconData([
     {
       'tag': 'root',
@@ -27299,6 +32114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sprout`
+  /// 
+  /// ![sprout](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sprout.png)
   static const IconData icon_sprout = IconData([
     {
       'tag': 'root',
@@ -27316,6 +32134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square`
+  /// 
+  /// ![square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square.png)
   static const IconData icon_square = IconData([
     {
       'tag': 'root',
@@ -27333,6 +32154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square arrow up right`
+  /// 
+  /// ![square arrow up right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-arrow-up-right.png)
   static const IconData icon_square_arrow_up_right = IconData([
     {
       'tag': 'root',
@@ -27350,6 +32174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square binary`
+  /// 
+  /// ![square binary](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-binary.png)
   static const IconData icon_square_binary = IconData([
     {
       'tag': 'root',
@@ -27367,6 +32194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square caret down`
+  /// 
+  /// ![square caret down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-caret-down.png)
   static const IconData icon_square_caret_down = IconData([
     {
       'tag': 'root',
@@ -27384,6 +32214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square caret left`
+  /// 
+  /// ![square caret left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-caret-left.png)
   static const IconData icon_square_caret_left = IconData([
     {
       'tag': 'root',
@@ -27401,6 +32234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square caret right`
+  /// 
+  /// ![square caret right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-caret-right.png)
   static const IconData icon_square_caret_right = IconData([
     {
       'tag': 'root',
@@ -27418,6 +32254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square caret up`
+  /// 
+  /// ![square caret up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-caret-up.png)
   static const IconData icon_square_caret_up = IconData([
     {
       'tag': 'root',
@@ -27435,6 +32274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square check`
+  /// 
+  /// ![square check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-check.png)
   static const IconData icon_square_check = IconData([
     {
       'tag': 'root',
@@ -27452,6 +32294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square envelope`
+  /// 
+  /// ![square envelope](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-envelope.png)
   static const IconData icon_square_envelope = IconData([
     {
       'tag': 'root',
@@ -27469,6 +32314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square full`
+  /// 
+  /// ![square full](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-full.png)
   static const IconData icon_square_full = IconData([
     {
       'tag': 'root',
@@ -27486,6 +32334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square h`
+  /// 
+  /// ![square h](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-h.png)
   static const IconData icon_square_h = IconData([
     {
       'tag': 'root',
@@ -27503,6 +32354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square minus`
+  /// 
+  /// ![square minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-minus.png)
   static const IconData icon_square_minus = IconData([
     {
       'tag': 'root',
@@ -27520,6 +32374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square nfi`
+  /// 
+  /// ![square nfi](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-nfi.png)
   static const IconData icon_square_nfi = IconData([
     {
       'tag': 'root',
@@ -27537,6 +32394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square parking`
+  /// 
+  /// ![square parking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-parking.png)
   static const IconData icon_square_parking = IconData([
     {
       'tag': 'root',
@@ -27554,6 +32414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square pen`
+  /// 
+  /// ![square pen](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-pen.png)
   static const IconData icon_square_pen = IconData([
     {
       'tag': 'root',
@@ -27571,6 +32434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square person confined`
+  /// 
+  /// ![square person confined](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-person-confined.png)
   static const IconData icon_square_person_confined = IconData([
     {
       'tag': 'root',
@@ -27588,6 +32454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square phone`
+  /// 
+  /// ![square phone](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-phone.png)
   static const IconData icon_square_phone = IconData([
     {
       'tag': 'root',
@@ -27605,6 +32474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square phone flip`
+  /// 
+  /// ![square phone flip](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-phone-flip.png)
   static const IconData icon_square_phone_flip = IconData([
     {
       'tag': 'root',
@@ -27622,6 +32494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square plus`
+  /// 
+  /// ![square plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-plus.png)
   static const IconData icon_square_plus = IconData([
     {
       'tag': 'root',
@@ -27639,6 +32514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square poll horizontal`
+  /// 
+  /// ![square poll horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-poll-horizontal.png)
   static const IconData icon_square_poll_horizontal = IconData([
     {
       'tag': 'root',
@@ -27656,6 +32534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square poll vertical`
+  /// 
+  /// ![square poll vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-poll-vertical.png)
   static const IconData icon_square_poll_vertical = IconData([
     {
       'tag': 'root',
@@ -27673,6 +32554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square root alt`
+  /// 
+  /// ![square root alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-root-alt.png)
   static const IconData icon_square_root_alt = IconData([
     {
       'tag': 'root',
@@ -27690,6 +32574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square root variable`
+  /// 
+  /// ![square root variable](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-root-variable.png)
   static const IconData icon_square_root_variable = IconData([
     {
       'tag': 'root',
@@ -27707,6 +32594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square rss`
+  /// 
+  /// ![square rss](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-rss.png)
   static const IconData icon_square_rss = IconData([
     {
       'tag': 'root',
@@ -27724,6 +32614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square share nodes`
+  /// 
+  /// ![square share nodes](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-share-nodes.png)
   static const IconData icon_square_share_nodes = IconData([
     {
       'tag': 'root',
@@ -27741,6 +32634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square up right`
+  /// 
+  /// ![square up right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-up-right.png)
   static const IconData icon_square_up_right = IconData([
     {
       'tag': 'root',
@@ -27758,6 +32654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square virus`
+  /// 
+  /// ![square virus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-virus.png)
   static const IconData icon_square_virus = IconData([
     {
       'tag': 'root',
@@ -27775,6 +32674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `square xmark`
+  /// 
+  /// ![square xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/square-xmark.png)
   static const IconData icon_square_xmark = IconData([
     {
       'tag': 'root',
@@ -27792,6 +32694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `staff aesculapius`
+  /// 
+  /// ![staff aesculapius](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/staff-aesculapius.png)
   static const IconData icon_staff_aesculapius = IconData([
     {
       'tag': 'root',
@@ -27809,6 +32714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `staff snake`
+  /// 
+  /// ![staff snake](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/staff-snake.png)
   static const IconData icon_staff_snake = IconData([
     {
       'tag': 'root',
@@ -27826,6 +32734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stairs`
+  /// 
+  /// ![stairs](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stairs.png)
   static const IconData icon_stairs = IconData([
     {
       'tag': 'root',
@@ -27843,6 +32754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stamp`
+  /// 
+  /// ![stamp](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stamp.png)
   static const IconData icon_stamp = IconData([
     {
       'tag': 'root',
@@ -27860,6 +32774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stapler`
+  /// 
+  /// ![stapler](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stapler.png)
   static const IconData icon_stapler = IconData([
     {
       'tag': 'root',
@@ -27877,6 +32794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `star`
+  /// 
+  /// ![star](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/star.png)
   static const IconData icon_star = IconData([
     {
       'tag': 'root',
@@ -27894,6 +32814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `star and crescent`
+  /// 
+  /// ![star and crescent](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/star-and-crescent.png)
   static const IconData icon_star_and_crescent = IconData([
     {
       'tag': 'root',
@@ -27911,6 +32834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `star half`
+  /// 
+  /// ![star half](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/star-half.png)
   static const IconData icon_star_half = IconData([
     {
       'tag': 'root',
@@ -27928,6 +32854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `star half alt`
+  /// 
+  /// ![star half alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/star-half-alt.png)
   static const IconData icon_star_half_alt = IconData([
     {
       'tag': 'root',
@@ -27945,6 +32874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `star half stroke`
+  /// 
+  /// ![star half stroke](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/star-half-stroke.png)
   static const IconData icon_star_half_stroke = IconData([
     {
       'tag': 'root',
@@ -27962,6 +32894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `star of david`
+  /// 
+  /// ![star of david](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/star-of-david.png)
   static const IconData icon_star_of_david = IconData([
     {
       'tag': 'root',
@@ -27979,6 +32914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `star of life`
+  /// 
+  /// ![star of life](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/star-of-life.png)
   static const IconData icon_star_of_life = IconData([
     {
       'tag': 'root',
@@ -27996,6 +32934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `step backward`
+  /// 
+  /// ![step backward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/step-backward.png)
   static const IconData icon_step_backward = IconData([
     {
       'tag': 'root',
@@ -28013,6 +32954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `step forward`
+  /// 
+  /// ![step forward](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/step-forward.png)
   static const IconData icon_step_forward = IconData([
     {
       'tag': 'root',
@@ -28030,6 +32974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sterling sign`
+  /// 
+  /// ![sterling sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sterling-sign.png)
   static const IconData icon_sterling_sign = IconData([
     {
       'tag': 'root',
@@ -28047,6 +32994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stethoscope`
+  /// 
+  /// ![stethoscope](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stethoscope.png)
   static const IconData icon_stethoscope = IconData([
     {
       'tag': 'root',
@@ -28064,6 +33014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sticky note`
+  /// 
+  /// ![sticky note](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sticky-note.png)
   static const IconData icon_sticky_note = IconData([
     {
       'tag': 'root',
@@ -28081,6 +33034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stop`
+  /// 
+  /// ![stop](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stop.png)
   static const IconData icon_stop = IconData([
     {
       'tag': 'root',
@@ -28098,6 +33054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stop circle`
+  /// 
+  /// ![stop circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stop-circle.png)
   static const IconData icon_stop_circle = IconData([
     {
       'tag': 'root',
@@ -28115,6 +33074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stopwatch`
+  /// 
+  /// ![stopwatch](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stopwatch.png)
   static const IconData icon_stopwatch = IconData([
     {
       'tag': 'root',
@@ -28132,6 +33094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stopwatch 20`
+  /// 
+  /// ![stopwatch 20](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stopwatch-20.png)
   static const IconData icon_stopwatch_20 = IconData([
     {
       'tag': 'root',
@@ -28149,6 +33114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `store`
+  /// 
+  /// ![store](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/store.png)
   static const IconData icon_store = IconData([
     {
       'tag': 'root',
@@ -28166,6 +33134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `store alt`
+  /// 
+  /// ![store alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/store-alt.png)
   static const IconData icon_store_alt = IconData([
     {
       'tag': 'root',
@@ -28183,6 +33154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `store alt slash`
+  /// 
+  /// ![store alt slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/store-alt-slash.png)
   static const IconData icon_store_alt_slash = IconData([
     {
       'tag': 'root',
@@ -28200,6 +33174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `store slash`
+  /// 
+  /// ![store slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/store-slash.png)
   static const IconData icon_store_slash = IconData([
     {
       'tag': 'root',
@@ -28217,6 +33194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stream`
+  /// 
+  /// ![stream](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stream.png)
   static const IconData icon_stream = IconData([
     {
       'tag': 'root',
@@ -28234,6 +33214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `street view`
+  /// 
+  /// ![street view](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/street-view.png)
   static const IconData icon_street_view = IconData([
     {
       'tag': 'root',
@@ -28251,6 +33234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `strikethrough`
+  /// 
+  /// ![strikethrough](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/strikethrough.png)
   static const IconData icon_strikethrough = IconData([
     {
       'tag': 'root',
@@ -28268,6 +33254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `stroopwafel`
+  /// 
+  /// ![stroopwafel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/stroopwafel.png)
   static const IconData icon_stroopwafel = IconData([
     {
       'tag': 'root',
@@ -28285,6 +33274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `subscript`
+  /// 
+  /// ![subscript](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/subscript.png)
   static const IconData icon_subscript = IconData([
     {
       'tag': 'root',
@@ -28302,6 +33294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `subtract`
+  /// 
+  /// ![subtract](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/subtract.png)
   static const IconData icon_subtract = IconData([
     {
       'tag': 'root',
@@ -28319,6 +33314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `subway`
+  /// 
+  /// ![subway](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/subway.png)
   static const IconData icon_subway = IconData([
     {
       'tag': 'root',
@@ -28336,6 +33334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `suitcase`
+  /// 
+  /// ![suitcase](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/suitcase.png)
   static const IconData icon_suitcase = IconData([
     {
       'tag': 'root',
@@ -28353,6 +33354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `suitcase medical`
+  /// 
+  /// ![suitcase medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/suitcase-medical.png)
   static const IconData icon_suitcase_medical = IconData([
     {
       'tag': 'root',
@@ -28370,6 +33374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `suitcase rolling`
+  /// 
+  /// ![suitcase rolling](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/suitcase-rolling.png)
   static const IconData icon_suitcase_rolling = IconData([
     {
       'tag': 'root',
@@ -28387,6 +33394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sun`
+  /// 
+  /// ![sun](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sun.png)
   static const IconData icon_sun = IconData([
     {
       'tag': 'root',
@@ -28404,6 +33414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sun plant wilt`
+  /// 
+  /// ![sun plant wilt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sun-plant-wilt.png)
   static const IconData icon_sun_plant_wilt = IconData([
     {
       'tag': 'root',
@@ -28421,6 +33434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `superscript`
+  /// 
+  /// ![superscript](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/superscript.png)
   static const IconData icon_superscript = IconData([
     {
       'tag': 'root',
@@ -28438,6 +33454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `surprise`
+  /// 
+  /// ![surprise](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/surprise.png)
   static const IconData icon_surprise = IconData([
     {
       'tag': 'root',
@@ -28455,6 +33474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `swatchbook`
+  /// 
+  /// ![swatchbook](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/swatchbook.png)
   static const IconData icon_swatchbook = IconData([
     {
       'tag': 'root',
@@ -28472,6 +33494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `swimmer`
+  /// 
+  /// ![swimmer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/swimmer.png)
   static const IconData icon_swimmer = IconData([
     {
       'tag': 'root',
@@ -28489,6 +33514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `swimming pool`
+  /// 
+  /// ![swimming pool](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/swimming-pool.png)
   static const IconData icon_swimming_pool = IconData([
     {
       'tag': 'root',
@@ -28506,6 +33534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `synagogue`
+  /// 
+  /// ![synagogue](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/synagogue.png)
   static const IconData icon_synagogue = IconData([
     {
       'tag': 'root',
@@ -28523,6 +33554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sync`
+  /// 
+  /// ![sync](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sync.png)
   static const IconData icon_sync = IconData([
     {
       'tag': 'root',
@@ -28540,6 +33574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `sync alt`
+  /// 
+  /// ![sync alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/sync-alt.png)
   static const IconData icon_sync_alt = IconData([
     {
       'tag': 'root',
@@ -28557,6 +33594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `syringe`
+  /// 
+  /// ![syringe](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/syringe.png)
   static const IconData icon_syringe = IconData([
     {
       'tag': 'root',
@@ -28574,6 +33614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `t`
+  /// 
+  /// ![t](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/t.png)
   static const IconData icon_t = IconData([
     {
       'tag': 'root',
@@ -28591,6 +33634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `t shirt`
+  /// 
+  /// ![t shirt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/t-shirt.png)
   static const IconData icon_t_shirt = IconData([
     {
       'tag': 'root',
@@ -28608,6 +33654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table`
+  /// 
+  /// ![table](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table.png)
   static const IconData icon_table = IconData([
     {
       'tag': 'root',
@@ -28625,6 +33674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table cells`
+  /// 
+  /// ![table cells](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-cells.png)
   static const IconData icon_table_cells = IconData([
     {
       'tag': 'root',
@@ -28642,6 +33694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table cells column lock`
+  /// 
+  /// ![table cells column lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-cells-column-lock.png)
   static const IconData icon_table_cells_column_lock = IconData([
     {
       'tag': 'root',
@@ -28659,6 +33714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table cells large`
+  /// 
+  /// ![table cells large](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-cells-large.png)
   static const IconData icon_table_cells_large = IconData([
     {
       'tag': 'root',
@@ -28676,6 +33734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table cells row lock`
+  /// 
+  /// ![table cells row lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-cells-row-lock.png)
   static const IconData icon_table_cells_row_lock = IconData([
     {
       'tag': 'root',
@@ -28693,6 +33754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table cells row unlock`
+  /// 
+  /// ![table cells row unlock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-cells-row-unlock.png)
   static const IconData icon_table_cells_row_unlock = IconData([
     {
       'tag': 'root',
@@ -28710,6 +33774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table columns`
+  /// 
+  /// ![table columns](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-columns.png)
   static const IconData icon_table_columns = IconData([
     {
       'tag': 'root',
@@ -28727,6 +33794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table list`
+  /// 
+  /// ![table list](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-list.png)
   static const IconData icon_table_list = IconData([
     {
       'tag': 'root',
@@ -28744,6 +33814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table tennis`
+  /// 
+  /// ![table tennis](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-tennis.png)
   static const IconData icon_table_tennis = IconData([
     {
       'tag': 'root',
@@ -28761,6 +33834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `table tennis paddle ball`
+  /// 
+  /// ![table tennis paddle ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/table-tennis-paddle-ball.png)
   static const IconData icon_table_tennis_paddle_ball = IconData([
     {
       'tag': 'root',
@@ -28778,6 +33854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tablet`
+  /// 
+  /// ![tablet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tablet.png)
   static const IconData icon_tablet = IconData([
     {
       'tag': 'root',
@@ -28795,6 +33874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tablet alt`
+  /// 
+  /// ![tablet alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tablet-alt.png)
   static const IconData icon_tablet_alt = IconData([
     {
       'tag': 'root',
@@ -28812,6 +33894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tablet android`
+  /// 
+  /// ![tablet android](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tablet-android.png)
   static const IconData icon_tablet_android = IconData([
     {
       'tag': 'root',
@@ -28829,6 +33914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tablet button`
+  /// 
+  /// ![tablet button](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tablet-button.png)
   static const IconData icon_tablet_button = IconData([
     {
       'tag': 'root',
@@ -28846,6 +33934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tablet screen button`
+  /// 
+  /// ![tablet screen button](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tablet-screen-button.png)
   static const IconData icon_tablet_screen_button = IconData([
     {
       'tag': 'root',
@@ -28863,6 +33954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tablets`
+  /// 
+  /// ![tablets](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tablets.png)
   static const IconData icon_tablets = IconData([
     {
       'tag': 'root',
@@ -28880,6 +33974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tachograph digital`
+  /// 
+  /// ![tachograph digital](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tachograph-digital.png)
   static const IconData icon_tachograph_digital = IconData([
     {
       'tag': 'root',
@@ -28897,6 +33994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tachometer`
+  /// 
+  /// ![tachometer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tachometer.png)
   static const IconData icon_tachometer = IconData([
     {
       'tag': 'root',
@@ -28914,6 +34014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tachometer alt`
+  /// 
+  /// ![tachometer alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tachometer-alt.png)
   static const IconData icon_tachometer_alt = IconData([
     {
       'tag': 'root',
@@ -28931,6 +34034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tachometer alt average`
+  /// 
+  /// ![tachometer alt average](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tachometer-alt-average.png)
   static const IconData icon_tachometer_alt_average = IconData([
     {
       'tag': 'root',
@@ -28948,6 +34054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tachometer alt fast`
+  /// 
+  /// ![tachometer alt fast](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tachometer-alt-fast.png)
   static const IconData icon_tachometer_alt_fast = IconData([
     {
       'tag': 'root',
@@ -28965,6 +34074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tachometer average`
+  /// 
+  /// ![tachometer average](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tachometer-average.png)
   static const IconData icon_tachometer_average = IconData([
     {
       'tag': 'root',
@@ -28982,6 +34094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tachometer fast`
+  /// 
+  /// ![tachometer fast](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tachometer-fast.png)
   static const IconData icon_tachometer_fast = IconData([
     {
       'tag': 'root',
@@ -28999,6 +34114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tag`
+  /// 
+  /// ![tag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tag.png)
   static const IconData icon_tag = IconData([
     {
       'tag': 'root',
@@ -29016,6 +34134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tags`
+  /// 
+  /// ![tags](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tags.png)
   static const IconData icon_tags = IconData([
     {
       'tag': 'root',
@@ -29033,6 +34154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tanakh`
+  /// 
+  /// ![tanakh](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tanakh.png)
   static const IconData icon_tanakh = IconData([
     {
       'tag': 'root',
@@ -29050,6 +34174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tape`
+  /// 
+  /// ![tape](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tape.png)
   static const IconData icon_tape = IconData([
     {
       'tag': 'root',
@@ -29067,6 +34194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tarp`
+  /// 
+  /// ![tarp](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tarp.png)
   static const IconData icon_tarp = IconData([
     {
       'tag': 'root',
@@ -29084,6 +34214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tarp droplet`
+  /// 
+  /// ![tarp droplet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tarp-droplet.png)
   static const IconData icon_tarp_droplet = IconData([
     {
       'tag': 'root',
@@ -29101,6 +34234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tasks`
+  /// 
+  /// ![tasks](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tasks.png)
   static const IconData icon_tasks = IconData([
     {
       'tag': 'root',
@@ -29118,6 +34254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tasks alt`
+  /// 
+  /// ![tasks alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tasks-alt.png)
   static const IconData icon_tasks_alt = IconData([
     {
       'tag': 'root',
@@ -29135,6 +34274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `taurus`
+  /// 
+  /// ![taurus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/taurus.png)
   static const IconData icon_taurus = IconData([
     {
       'tag': 'root',
@@ -29152,6 +34294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `taxi`
+  /// 
+  /// ![taxi](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/taxi.png)
   static const IconData icon_taxi = IconData([
     {
       'tag': 'root',
@@ -29169,6 +34314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `teeth`
+  /// 
+  /// ![teeth](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/teeth.png)
   static const IconData icon_teeth = IconData([
     {
       'tag': 'root',
@@ -29186,6 +34334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `teeth open`
+  /// 
+  /// ![teeth open](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/teeth-open.png)
   static const IconData icon_teeth_open = IconData([
     {
       'tag': 'root',
@@ -29203,6 +34354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `teletype`
+  /// 
+  /// ![teletype](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/teletype.png)
   static const IconData icon_teletype = IconData([
     {
       'tag': 'root',
@@ -29220,6 +34374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `television`
+  /// 
+  /// ![television](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/television.png)
   static const IconData icon_television = IconData([
     {
       'tag': 'root',
@@ -29237,6 +34394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature 0`
+  /// 
+  /// ![temperature 0](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-0.png)
   static const IconData icon_temperature_0 = IconData([
     {
       'tag': 'root',
@@ -29254,6 +34414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature 1`
+  /// 
+  /// ![temperature 1](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-1.png)
   static const IconData icon_temperature_1 = IconData([
     {
       'tag': 'root',
@@ -29271,6 +34434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature 2`
+  /// 
+  /// ![temperature 2](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-2.png)
   static const IconData icon_temperature_2 = IconData([
     {
       'tag': 'root',
@@ -29288,6 +34454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature 3`
+  /// 
+  /// ![temperature 3](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-3.png)
   static const IconData icon_temperature_3 = IconData([
     {
       'tag': 'root',
@@ -29305,6 +34474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature 4`
+  /// 
+  /// ![temperature 4](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-4.png)
   static const IconData icon_temperature_4 = IconData([
     {
       'tag': 'root',
@@ -29322,6 +34494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature arrow down`
+  /// 
+  /// ![temperature arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-arrow-down.png)
   static const IconData icon_temperature_arrow_down = IconData([
     {
       'tag': 'root',
@@ -29339,6 +34514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature arrow up`
+  /// 
+  /// ![temperature arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-arrow-up.png)
   static const IconData icon_temperature_arrow_up = IconData([
     {
       'tag': 'root',
@@ -29356,6 +34534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature down`
+  /// 
+  /// ![temperature down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-down.png)
   static const IconData icon_temperature_down = IconData([
     {
       'tag': 'root',
@@ -29373,6 +34554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature empty`
+  /// 
+  /// ![temperature empty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-empty.png)
   static const IconData icon_temperature_empty = IconData([
     {
       'tag': 'root',
@@ -29390,6 +34574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature full`
+  /// 
+  /// ![temperature full](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-full.png)
   static const IconData icon_temperature_full = IconData([
     {
       'tag': 'root',
@@ -29407,6 +34594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature half`
+  /// 
+  /// ![temperature half](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-half.png)
   static const IconData icon_temperature_half = IconData([
     {
       'tag': 'root',
@@ -29424,6 +34614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature high`
+  /// 
+  /// ![temperature high](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-high.png)
   static const IconData icon_temperature_high = IconData([
     {
       'tag': 'root',
@@ -29441,6 +34634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature low`
+  /// 
+  /// ![temperature low](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-low.png)
   static const IconData icon_temperature_low = IconData([
     {
       'tag': 'root',
@@ -29458,6 +34654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature quarter`
+  /// 
+  /// ![temperature quarter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-quarter.png)
   static const IconData icon_temperature_quarter = IconData([
     {
       'tag': 'root',
@@ -29475,6 +34674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature three quarters`
+  /// 
+  /// ![temperature three quarters](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-three-quarters.png)
   static const IconData icon_temperature_three_quarters = IconData([
     {
       'tag': 'root',
@@ -29492,6 +34694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `temperature up`
+  /// 
+  /// ![temperature up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/temperature-up.png)
   static const IconData icon_temperature_up = IconData([
     {
       'tag': 'root',
@@ -29509,6 +34714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tenge`
+  /// 
+  /// ![tenge](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tenge.png)
   static const IconData icon_tenge = IconData([
     {
       'tag': 'root',
@@ -29526,6 +34734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tenge sign`
+  /// 
+  /// ![tenge sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tenge-sign.png)
   static const IconData icon_tenge_sign = IconData([
     {
       'tag': 'root',
@@ -29543,6 +34754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tent`
+  /// 
+  /// ![tent](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tent.png)
   static const IconData icon_tent = IconData([
     {
       'tag': 'root',
@@ -29560,6 +34774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tent arrow down to line`
+  /// 
+  /// ![tent arrow down to line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tent-arrow-down-to-line.png)
   static const IconData icon_tent_arrow_down_to_line = IconData([
     {
       'tag': 'root',
@@ -29577,6 +34794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tent arrow left right`
+  /// 
+  /// ![tent arrow left right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tent-arrow-left-right.png)
   static const IconData icon_tent_arrow_left_right = IconData([
     {
       'tag': 'root',
@@ -29594,6 +34814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tent arrow turn left`
+  /// 
+  /// ![tent arrow turn left](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tent-arrow-turn-left.png)
   static const IconData icon_tent_arrow_turn_left = IconData([
     {
       'tag': 'root',
@@ -29611,6 +34834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tent arrows down`
+  /// 
+  /// ![tent arrows down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tent-arrows-down.png)
   static const IconData icon_tent_arrows_down = IconData([
     {
       'tag': 'root',
@@ -29628,6 +34854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tents`
+  /// 
+  /// ![tents](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tents.png)
   static const IconData icon_tents = IconData([
     {
       'tag': 'root',
@@ -29645,6 +34874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `terminal`
+  /// 
+  /// ![terminal](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/terminal.png)
   static const IconData icon_terminal = IconData([
     {
       'tag': 'root',
@@ -29662,6 +34894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `text height`
+  /// 
+  /// ![text height](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/text-height.png)
   static const IconData icon_text_height = IconData([
     {
       'tag': 'root',
@@ -29679,6 +34914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `text slash`
+  /// 
+  /// ![text slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/text-slash.png)
   static const IconData icon_text_slash = IconData([
     {
       'tag': 'root',
@@ -29696,6 +34934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `text width`
+  /// 
+  /// ![text width](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/text-width.png)
   static const IconData icon_text_width = IconData([
     {
       'tag': 'root',
@@ -29713,6 +34954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `th`
+  /// 
+  /// ![th](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/th.png)
   static const IconData icon_th = IconData([
     {
       'tag': 'root',
@@ -29730,6 +34974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `th large`
+  /// 
+  /// ![th large](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/th-large.png)
   static const IconData icon_th_large = IconData([
     {
       'tag': 'root',
@@ -29747,6 +34994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `th list`
+  /// 
+  /// ![th list](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/th-list.png)
   static const IconData icon_th_list = IconData([
     {
       'tag': 'root',
@@ -29764,6 +35014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `theater masks`
+  /// 
+  /// ![theater masks](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/theater-masks.png)
   static const IconData icon_theater_masks = IconData([
     {
       'tag': 'root',
@@ -29781,6 +35034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer`
+  /// 
+  /// ![thermometer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer.png)
   static const IconData icon_thermometer = IconData([
     {
       'tag': 'root',
@@ -29798,6 +35054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer 0`
+  /// 
+  /// ![thermometer 0](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-0.png)
   static const IconData icon_thermometer_0 = IconData([
     {
       'tag': 'root',
@@ -29815,6 +35074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer 1`
+  /// 
+  /// ![thermometer 1](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-1.png)
   static const IconData icon_thermometer_1 = IconData([
     {
       'tag': 'root',
@@ -29832,6 +35094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer 2`
+  /// 
+  /// ![thermometer 2](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-2.png)
   static const IconData icon_thermometer_2 = IconData([
     {
       'tag': 'root',
@@ -29849,6 +35114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer 3`
+  /// 
+  /// ![thermometer 3](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-3.png)
   static const IconData icon_thermometer_3 = IconData([
     {
       'tag': 'root',
@@ -29866,6 +35134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer 4`
+  /// 
+  /// ![thermometer 4](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-4.png)
   static const IconData icon_thermometer_4 = IconData([
     {
       'tag': 'root',
@@ -29883,6 +35154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer empty`
+  /// 
+  /// ![thermometer empty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-empty.png)
   static const IconData icon_thermometer_empty = IconData([
     {
       'tag': 'root',
@@ -29900,6 +35174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer full`
+  /// 
+  /// ![thermometer full](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-full.png)
   static const IconData icon_thermometer_full = IconData([
     {
       'tag': 'root',
@@ -29917,6 +35194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer half`
+  /// 
+  /// ![thermometer half](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-half.png)
   static const IconData icon_thermometer_half = IconData([
     {
       'tag': 'root',
@@ -29934,6 +35214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer quarter`
+  /// 
+  /// ![thermometer quarter](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-quarter.png)
   static const IconData icon_thermometer_quarter = IconData([
     {
       'tag': 'root',
@@ -29951,6 +35234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thermometer three quarters`
+  /// 
+  /// ![thermometer three quarters](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thermometer-three-quarters.png)
   static const IconData icon_thermometer_three_quarters = IconData([
     {
       'tag': 'root',
@@ -29968,6 +35254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thumb tack`
+  /// 
+  /// ![thumb tack](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thumb-tack.png)
   static const IconData icon_thumb_tack = IconData([
     {
       'tag': 'root',
@@ -29985,6 +35274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thumb tack slash`
+  /// 
+  /// ![thumb tack slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thumb-tack-slash.png)
   static const IconData icon_thumb_tack_slash = IconData([
     {
       'tag': 'root',
@@ -30002,6 +35294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thumbs down`
+  /// 
+  /// ![thumbs down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thumbs-down.png)
   static const IconData icon_thumbs_down = IconData([
     {
       'tag': 'root',
@@ -30019,6 +35314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thumbs up`
+  /// 
+  /// ![thumbs up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thumbs-up.png)
   static const IconData icon_thumbs_up = IconData([
     {
       'tag': 'root',
@@ -30036,6 +35334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thumbtack`
+  /// 
+  /// ![thumbtack](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thumbtack.png)
   static const IconData icon_thumbtack = IconData([
     {
       'tag': 'root',
@@ -30053,6 +35354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thumbtack slash`
+  /// 
+  /// ![thumbtack slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thumbtack-slash.png)
   static const IconData icon_thumbtack_slash = IconData([
     {
       'tag': 'root',
@@ -30070,6 +35374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `thunderstorm`
+  /// 
+  /// ![thunderstorm](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/thunderstorm.png)
   static const IconData icon_thunderstorm = IconData([
     {
       'tag': 'root',
@@ -30087,6 +35394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ticket`
+  /// 
+  /// ![ticket](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ticket.png)
   static const IconData icon_ticket = IconData([
     {
       'tag': 'root',
@@ -30104,6 +35414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ticket alt`
+  /// 
+  /// ![ticket alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ticket-alt.png)
   static const IconData icon_ticket_alt = IconData([
     {
       'tag': 'root',
@@ -30121,6 +35434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `ticket simple`
+  /// 
+  /// ![ticket simple](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/ticket-simple.png)
   static const IconData icon_ticket_simple = IconData([
     {
       'tag': 'root',
@@ -30138,6 +35454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `timeline`
+  /// 
+  /// ![timeline](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/timeline.png)
   static const IconData icon_timeline = IconData([
     {
       'tag': 'root',
@@ -30155,6 +35474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `times`
+  /// 
+  /// ![times](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/times.png)
   static const IconData icon_times = IconData([
     {
       'tag': 'root',
@@ -30172,6 +35494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `times circle`
+  /// 
+  /// ![times circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/times-circle.png)
   static const IconData icon_times_circle = IconData([
     {
       'tag': 'root',
@@ -30189,6 +35514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `times rectangle`
+  /// 
+  /// ![times rectangle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/times-rectangle.png)
   static const IconData icon_times_rectangle = IconData([
     {
       'tag': 'root',
@@ -30206,6 +35534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `times square`
+  /// 
+  /// ![times square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/times-square.png)
   static const IconData icon_times_square = IconData([
     {
       'tag': 'root',
@@ -30223,6 +35554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tint`
+  /// 
+  /// ![tint](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tint.png)
   static const IconData icon_tint = IconData([
     {
       'tag': 'root',
@@ -30240,6 +35574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tint slash`
+  /// 
+  /// ![tint slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tint-slash.png)
   static const IconData icon_tint_slash = IconData([
     {
       'tag': 'root',
@@ -30257,6 +35594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tired`
+  /// 
+  /// ![tired](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tired.png)
   static const IconData icon_tired = IconData([
     {
       'tag': 'root',
@@ -30274,6 +35614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toggle off`
+  /// 
+  /// ![toggle off](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toggle-off.png)
   static const IconData icon_toggle_off = IconData([
     {
       'tag': 'root',
@@ -30291,6 +35634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toggle on`
+  /// 
+  /// ![toggle on](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toggle-on.png)
   static const IconData icon_toggle_on = IconData([
     {
       'tag': 'root',
@@ -30308,6 +35654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toilet`
+  /// 
+  /// ![toilet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toilet.png)
   static const IconData icon_toilet = IconData([
     {
       'tag': 'root',
@@ -30325,6 +35674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toilet paper`
+  /// 
+  /// ![toilet paper](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toilet-paper.png)
   static const IconData icon_toilet_paper = IconData([
     {
       'tag': 'root',
@@ -30342,6 +35694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toilet paper alt`
+  /// 
+  /// ![toilet paper alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toilet-paper-alt.png)
   static const IconData icon_toilet_paper_alt = IconData([
     {
       'tag': 'root',
@@ -30359,6 +35714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toilet paper blank`
+  /// 
+  /// ![toilet paper blank](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toilet-paper-blank.png)
   static const IconData icon_toilet_paper_blank = IconData([
     {
       'tag': 'root',
@@ -30376,6 +35734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toilet paper slash`
+  /// 
+  /// ![toilet paper slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toilet-paper-slash.png)
   static const IconData icon_toilet_paper_slash = IconData([
     {
       'tag': 'root',
@@ -30393,6 +35754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toilet portable`
+  /// 
+  /// ![toilet portable](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toilet-portable.png)
   static const IconData icon_toilet_portable = IconData([
     {
       'tag': 'root',
@@ -30410,6 +35774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toilets portable`
+  /// 
+  /// ![toilets portable](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toilets-portable.png)
   static const IconData icon_toilets_portable = IconData([
     {
       'tag': 'root',
@@ -30427,6 +35794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `toolbox`
+  /// 
+  /// ![toolbox](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/toolbox.png)
   static const IconData icon_toolbox = IconData([
     {
       'tag': 'root',
@@ -30444,6 +35814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tools`
+  /// 
+  /// ![tools](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tools.png)
   static const IconData icon_tools = IconData([
     {
       'tag': 'root',
@@ -30461,6 +35834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tooth`
+  /// 
+  /// ![tooth](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tooth.png)
   static const IconData icon_tooth = IconData([
     {
       'tag': 'root',
@@ -30478,6 +35854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `torah`
+  /// 
+  /// ![torah](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/torah.png)
   static const IconData icon_torah = IconData([
     {
       'tag': 'root',
@@ -30495,6 +35874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `torii gate`
+  /// 
+  /// ![torii gate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/torii-gate.png)
   static const IconData icon_torii_gate = IconData([
     {
       'tag': 'root',
@@ -30512,6 +35894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tornado`
+  /// 
+  /// ![tornado](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tornado.png)
   static const IconData icon_tornado = IconData([
     {
       'tag': 'root',
@@ -30529,6 +35914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tower broadcast`
+  /// 
+  /// ![tower broadcast](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tower-broadcast.png)
   static const IconData icon_tower_broadcast = IconData([
     {
       'tag': 'root',
@@ -30546,6 +35934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tower cell`
+  /// 
+  /// ![tower cell](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tower-cell.png)
   static const IconData icon_tower_cell = IconData([
     {
       'tag': 'root',
@@ -30563,6 +35954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tower observation`
+  /// 
+  /// ![tower observation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tower-observation.png)
   static const IconData icon_tower_observation = IconData([
     {
       'tag': 'root',
@@ -30580,6 +35974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tractor`
+  /// 
+  /// ![tractor](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tractor.png)
   static const IconData icon_tractor = IconData([
     {
       'tag': 'root',
@@ -30597,6 +35994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trademark`
+  /// 
+  /// ![trademark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trademark.png)
   static const IconData icon_trademark = IconData([
     {
       'tag': 'root',
@@ -30614,6 +36014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `traffic light`
+  /// 
+  /// ![traffic light](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/traffic-light.png)
   static const IconData icon_traffic_light = IconData([
     {
       'tag': 'root',
@@ -30631,6 +36034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trailer`
+  /// 
+  /// ![trailer](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trailer.png)
   static const IconData icon_trailer = IconData([
     {
       'tag': 'root',
@@ -30648,6 +36054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `train`
+  /// 
+  /// ![train](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/train.png)
   static const IconData icon_train = IconData([
     {
       'tag': 'root',
@@ -30665,6 +36074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `train subway`
+  /// 
+  /// ![train subway](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/train-subway.png)
   static const IconData icon_train_subway = IconData([
     {
       'tag': 'root',
@@ -30682,6 +36094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `train tram`
+  /// 
+  /// ![train tram](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/train-tram.png)
   static const IconData icon_train_tram = IconData([
     {
       'tag': 'root',
@@ -30699,6 +36114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tram`
+  /// 
+  /// ![tram](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tram.png)
   static const IconData icon_tram = IconData([
     {
       'tag': 'root',
@@ -30716,6 +36134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `transgender`
+  /// 
+  /// ![transgender](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/transgender.png)
   static const IconData icon_transgender = IconData([
     {
       'tag': 'root',
@@ -30733,6 +36154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `transgender alt`
+  /// 
+  /// ![transgender alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/transgender-alt.png)
   static const IconData icon_transgender_alt = IconData([
     {
       'tag': 'root',
@@ -30750,6 +36174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trash`
+  /// 
+  /// ![trash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trash.png)
   static const IconData icon_trash = IconData([
     {
       'tag': 'root',
@@ -30767,6 +36194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trash alt`
+  /// 
+  /// ![trash alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trash-alt.png)
   static const IconData icon_trash_alt = IconData([
     {
       'tag': 'root',
@@ -30784,6 +36214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trash arrow up`
+  /// 
+  /// ![trash arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trash-arrow-up.png)
   static const IconData icon_trash_arrow_up = IconData([
     {
       'tag': 'root',
@@ -30801,6 +36234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trash can`
+  /// 
+  /// ![trash can](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trash-can.png)
   static const IconData icon_trash_can = IconData([
     {
       'tag': 'root',
@@ -30818,6 +36254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trash can arrow up`
+  /// 
+  /// ![trash can arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trash-can-arrow-up.png)
   static const IconData icon_trash_can_arrow_up = IconData([
     {
       'tag': 'root',
@@ -30835,6 +36274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trash restore`
+  /// 
+  /// ![trash restore](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trash-restore.png)
   static const IconData icon_trash_restore = IconData([
     {
       'tag': 'root',
@@ -30852,6 +36294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trash restore alt`
+  /// 
+  /// ![trash restore alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trash-restore-alt.png)
   static const IconData icon_trash_restore_alt = IconData([
     {
       'tag': 'root',
@@ -30869,6 +36314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tree`
+  /// 
+  /// ![tree](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tree.png)
   static const IconData icon_tree = IconData([
     {
       'tag': 'root',
@@ -30886,6 +36334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tree city`
+  /// 
+  /// ![tree city](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tree-city.png)
   static const IconData icon_tree_city = IconData([
     {
       'tag': 'root',
@@ -30903,6 +36354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `triangle circle square`
+  /// 
+  /// ![triangle circle square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/triangle-circle-square.png)
   static const IconData icon_triangle_circle_square = IconData([
     {
       'tag': 'root',
@@ -30920,6 +36374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `triangle exclamation`
+  /// 
+  /// ![triangle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/triangle-exclamation.png)
   static const IconData icon_triangle_exclamation = IconData([
     {
       'tag': 'root',
@@ -30937,6 +36394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trophy`
+  /// 
+  /// ![trophy](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trophy.png)
   static const IconData icon_trophy = IconData([
     {
       'tag': 'root',
@@ -30954,6 +36414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trowel`
+  /// 
+  /// ![trowel](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trowel.png)
   static const IconData icon_trowel = IconData([
     {
       'tag': 'root',
@@ -30971,6 +36434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `trowel bricks`
+  /// 
+  /// ![trowel bricks](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/trowel-bricks.png)
   static const IconData icon_trowel_bricks = IconData([
     {
       'tag': 'root',
@@ -30988,6 +36454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck`
+  /// 
+  /// ![truck](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck.png)
   static const IconData icon_truck = IconData([
     {
       'tag': 'root',
@@ -31005,6 +36474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck arrow right`
+  /// 
+  /// ![truck arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-arrow-right.png)
   static const IconData icon_truck_arrow_right = IconData([
     {
       'tag': 'root',
@@ -31022,6 +36494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck droplet`
+  /// 
+  /// ![truck droplet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-droplet.png)
   static const IconData icon_truck_droplet = IconData([
     {
       'tag': 'root',
@@ -31039,6 +36514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck fast`
+  /// 
+  /// ![truck fast](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-fast.png)
   static const IconData icon_truck_fast = IconData([
     {
       'tag': 'root',
@@ -31056,6 +36534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck field`
+  /// 
+  /// ![truck field](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-field.png)
   static const IconData icon_truck_field = IconData([
     {
       'tag': 'root',
@@ -31073,6 +36554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck field un`
+  /// 
+  /// ![truck field un](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-field-un.png)
   static const IconData icon_truck_field_un = IconData([
     {
       'tag': 'root',
@@ -31090,6 +36574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck front`
+  /// 
+  /// ![truck front](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-front.png)
   static const IconData icon_truck_front = IconData([
     {
       'tag': 'root',
@@ -31107,6 +36594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck loading`
+  /// 
+  /// ![truck loading](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-loading.png)
   static const IconData icon_truck_loading = IconData([
     {
       'tag': 'root',
@@ -31124,6 +36614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck medical`
+  /// 
+  /// ![truck medical](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-medical.png)
   static const IconData icon_truck_medical = IconData([
     {
       'tag': 'root',
@@ -31141,6 +36634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck monster`
+  /// 
+  /// ![truck monster](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-monster.png)
   static const IconData icon_truck_monster = IconData([
     {
       'tag': 'root',
@@ -31158,6 +36654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck moving`
+  /// 
+  /// ![truck moving](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-moving.png)
   static const IconData icon_truck_moving = IconData([
     {
       'tag': 'root',
@@ -31175,6 +36674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck pickup`
+  /// 
+  /// ![truck pickup](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-pickup.png)
   static const IconData icon_truck_pickup = IconData([
     {
       'tag': 'root',
@@ -31192,6 +36694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck plane`
+  /// 
+  /// ![truck plane](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-plane.png)
   static const IconData icon_truck_plane = IconData([
     {
       'tag': 'root',
@@ -31209,6 +36714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `truck ramp box`
+  /// 
+  /// ![truck ramp box](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/truck-ramp-box.png)
   static const IconData icon_truck_ramp_box = IconData([
     {
       'tag': 'root',
@@ -31226,6 +36734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `try`
+  /// 
+  /// ![try](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/try.png)
   static const IconData icon_try = IconData([
     {
       'tag': 'root',
@@ -31243,6 +36754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tshirt`
+  /// 
+  /// ![tshirt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tshirt.png)
   static const IconData icon_tshirt = IconData([
     {
       'tag': 'root',
@@ -31260,6 +36774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tty`
+  /// 
+  /// ![tty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tty.png)
   static const IconData icon_tty = IconData([
     {
       'tag': 'root',
@@ -31277,6 +36794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `turkish lira`
+  /// 
+  /// ![turkish lira](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/turkish-lira.png)
   static const IconData icon_turkish_lira = IconData([
     {
       'tag': 'root',
@@ -31294,6 +36814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `turkish lira sign`
+  /// 
+  /// ![turkish lira sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/turkish-lira-sign.png)
   static const IconData icon_turkish_lira_sign = IconData([
     {
       'tag': 'root',
@@ -31311,6 +36834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `turn down`
+  /// 
+  /// ![turn down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/turn-down.png)
   static const IconData icon_turn_down = IconData([
     {
       'tag': 'root',
@@ -31328,6 +36854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `turn up`
+  /// 
+  /// ![turn up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/turn-up.png)
   static const IconData icon_turn_up = IconData([
     {
       'tag': 'root',
@@ -31345,6 +36874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tv`
+  /// 
+  /// ![tv](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tv.png)
   static const IconData icon_tv = IconData([
     {
       'tag': 'root',
@@ -31362,6 +36894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `tv alt`
+  /// 
+  /// ![tv alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/tv-alt.png)
   static const IconData icon_tv_alt = IconData([
     {
       'tag': 'root',
@@ -31379,6 +36914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `u`
+  /// 
+  /// ![u](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/u.png)
   static const IconData icon_u = IconData([
     {
       'tag': 'root',
@@ -31396,6 +36934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `umbrella`
+  /// 
+  /// ![umbrella](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/umbrella.png)
   static const IconData icon_umbrella = IconData([
     {
       'tag': 'root',
@@ -31413,6 +36954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `umbrella beach`
+  /// 
+  /// ![umbrella beach](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/umbrella-beach.png)
   static const IconData icon_umbrella_beach = IconData([
     {
       'tag': 'root',
@@ -31430,6 +36974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `underline`
+  /// 
+  /// ![underline](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/underline.png)
   static const IconData icon_underline = IconData([
     {
       'tag': 'root',
@@ -31447,6 +36994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `undo`
+  /// 
+  /// ![undo](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/undo.png)
   static const IconData icon_undo = IconData([
     {
       'tag': 'root',
@@ -31464,6 +37014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `undo alt`
+  /// 
+  /// ![undo alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/undo-alt.png)
   static const IconData icon_undo_alt = IconData([
     {
       'tag': 'root',
@@ -31481,6 +37034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `universal access`
+  /// 
+  /// ![universal access](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/universal-access.png)
   static const IconData icon_universal_access = IconData([
     {
       'tag': 'root',
@@ -31498,6 +37054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `university`
+  /// 
+  /// ![university](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/university.png)
   static const IconData icon_university = IconData([
     {
       'tag': 'root',
@@ -31515,6 +37074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `unlink`
+  /// 
+  /// ![unlink](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/unlink.png)
   static const IconData icon_unlink = IconData([
     {
       'tag': 'root',
@@ -31532,6 +37094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `unlock`
+  /// 
+  /// ![unlock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/unlock.png)
   static const IconData icon_unlock = IconData([
     {
       'tag': 'root',
@@ -31549,6 +37114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `unlock alt`
+  /// 
+  /// ![unlock alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/unlock-alt.png)
   static const IconData icon_unlock_alt = IconData([
     {
       'tag': 'root',
@@ -31566,6 +37134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `unlock keyhole`
+  /// 
+  /// ![unlock keyhole](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/unlock-keyhole.png)
   static const IconData icon_unlock_keyhole = IconData([
     {
       'tag': 'root',
@@ -31583,6 +37154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `unsorted`
+  /// 
+  /// ![unsorted](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/unsorted.png)
   static const IconData icon_unsorted = IconData([
     {
       'tag': 'root',
@@ -31600,6 +37174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `up down`
+  /// 
+  /// ![up down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/up-down.png)
   static const IconData icon_up_down = IconData([
     {
       'tag': 'root',
@@ -31617,6 +37194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `up down left right`
+  /// 
+  /// ![up down left right](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/up-down-left-right.png)
   static const IconData icon_up_down_left_right = IconData([
     {
       'tag': 'root',
@@ -31634,6 +37214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `up long`
+  /// 
+  /// ![up long](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/up-long.png)
   static const IconData icon_up_long = IconData([
     {
       'tag': 'root',
@@ -31651,6 +37234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `up right and down left from center`
+  /// 
+  /// ![up right and down left from center](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/up-right-and-down-left-from-center.png)
   static const IconData icon_up_right_and_down_left_from_center = IconData([
     {
       'tag': 'root',
@@ -31668,6 +37254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `up right from square`
+  /// 
+  /// ![up right from square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/up-right-from-square.png)
   static const IconData icon_up_right_from_square = IconData([
     {
       'tag': 'root',
@@ -31685,6 +37274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `upload`
+  /// 
+  /// ![upload](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/upload.png)
   static const IconData icon_upload = IconData([
     {
       'tag': 'root',
@@ -31702,6 +37294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `usd`
+  /// 
+  /// ![usd](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/usd.png)
   static const IconData icon_usd = IconData([
     {
       'tag': 'root',
@@ -31719,6 +37314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user`
+  /// 
+  /// ![user](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user.png)
   static const IconData icon_user = IconData([
     {
       'tag': 'root',
@@ -31736,6 +37334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user alt`
+  /// 
+  /// ![user alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-alt.png)
   static const IconData icon_user_alt = IconData([
     {
       'tag': 'root',
@@ -31753,6 +37354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user alt slash`
+  /// 
+  /// ![user alt slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-alt-slash.png)
   static const IconData icon_user_alt_slash = IconData([
     {
       'tag': 'root',
@@ -31770,6 +37374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user astronaut`
+  /// 
+  /// ![user astronaut](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-astronaut.png)
   static const IconData icon_user_astronaut = IconData([
     {
       'tag': 'root',
@@ -31787,6 +37394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user check`
+  /// 
+  /// ![user check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-check.png)
   static const IconData icon_user_check = IconData([
     {
       'tag': 'root',
@@ -31804,6 +37414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user circle`
+  /// 
+  /// ![user circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-circle.png)
   static const IconData icon_user_circle = IconData([
     {
       'tag': 'root',
@@ -31821,6 +37434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user clock`
+  /// 
+  /// ![user clock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-clock.png)
   static const IconData icon_user_clock = IconData([
     {
       'tag': 'root',
@@ -31838,6 +37454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user cog`
+  /// 
+  /// ![user cog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-cog.png)
   static const IconData icon_user_cog = IconData([
     {
       'tag': 'root',
@@ -31855,6 +37474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user doctor`
+  /// 
+  /// ![user doctor](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-doctor.png)
   static const IconData icon_user_doctor = IconData([
     {
       'tag': 'root',
@@ -31872,6 +37494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user edit`
+  /// 
+  /// ![user edit](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-edit.png)
   static const IconData icon_user_edit = IconData([
     {
       'tag': 'root',
@@ -31889,6 +37514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user friends`
+  /// 
+  /// ![user friends](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-friends.png)
   static const IconData icon_user_friends = IconData([
     {
       'tag': 'root',
@@ -31906,6 +37534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user gear`
+  /// 
+  /// ![user gear](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-gear.png)
   static const IconData icon_user_gear = IconData([
     {
       'tag': 'root',
@@ -31923,6 +37554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user graduate`
+  /// 
+  /// ![user graduate](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-graduate.png)
   static const IconData icon_user_graduate = IconData([
     {
       'tag': 'root',
@@ -31940,6 +37574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user group`
+  /// 
+  /// ![user group](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-group.png)
   static const IconData icon_user_group = IconData([
     {
       'tag': 'root',
@@ -31957,6 +37594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user injured`
+  /// 
+  /// ![user injured](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-injured.png)
   static const IconData icon_user_injured = IconData([
     {
       'tag': 'root',
@@ -31974,6 +37614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user large`
+  /// 
+  /// ![user large](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-large.png)
   static const IconData icon_user_large = IconData([
     {
       'tag': 'root',
@@ -31991,6 +37634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user large slash`
+  /// 
+  /// ![user large slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-large-slash.png)
   static const IconData icon_user_large_slash = IconData([
     {
       'tag': 'root',
@@ -32008,6 +37654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user lock`
+  /// 
+  /// ![user lock](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-lock.png)
   static const IconData icon_user_lock = IconData([
     {
       'tag': 'root',
@@ -32025,6 +37674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user md`
+  /// 
+  /// ![user md](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-md.png)
   static const IconData icon_user_md = IconData([
     {
       'tag': 'root',
@@ -32042,6 +37694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user minus`
+  /// 
+  /// ![user minus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-minus.png)
   static const IconData icon_user_minus = IconData([
     {
       'tag': 'root',
@@ -32059,6 +37714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user ninja`
+  /// 
+  /// ![user ninja](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-ninja.png)
   static const IconData icon_user_ninja = IconData([
     {
       'tag': 'root',
@@ -32076,6 +37734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user nurse`
+  /// 
+  /// ![user nurse](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-nurse.png)
   static const IconData icon_user_nurse = IconData([
     {
       'tag': 'root',
@@ -32093,6 +37754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user pen`
+  /// 
+  /// ![user pen](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-pen.png)
   static const IconData icon_user_pen = IconData([
     {
       'tag': 'root',
@@ -32110,6 +37774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user plus`
+  /// 
+  /// ![user plus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-plus.png)
   static const IconData icon_user_plus = IconData([
     {
       'tag': 'root',
@@ -32127,6 +37794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user secret`
+  /// 
+  /// ![user secret](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-secret.png)
   static const IconData icon_user_secret = IconData([
     {
       'tag': 'root',
@@ -32144,6 +37814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user shield`
+  /// 
+  /// ![user shield](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-shield.png)
   static const IconData icon_user_shield = IconData([
     {
       'tag': 'root',
@@ -32161,6 +37834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user slash`
+  /// 
+  /// ![user slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-slash.png)
   static const IconData icon_user_slash = IconData([
     {
       'tag': 'root',
@@ -32178,6 +37854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user tag`
+  /// 
+  /// ![user tag](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-tag.png)
   static const IconData icon_user_tag = IconData([
     {
       'tag': 'root',
@@ -32195,6 +37874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user tie`
+  /// 
+  /// ![user tie](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-tie.png)
   static const IconData icon_user_tie = IconData([
     {
       'tag': 'root',
@@ -32212,6 +37894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user times`
+  /// 
+  /// ![user times](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-times.png)
   static const IconData icon_user_times = IconData([
     {
       'tag': 'root',
@@ -32229,6 +37914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `user xmark`
+  /// 
+  /// ![user xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/user-xmark.png)
   static const IconData icon_user_xmark = IconData([
     {
       'tag': 'root',
@@ -32246,6 +37934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users`
+  /// 
+  /// ![users](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users.png)
   static const IconData icon_users = IconData([
     {
       'tag': 'root',
@@ -32263,6 +37954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users between lines`
+  /// 
+  /// ![users between lines](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users-between-lines.png)
   static const IconData icon_users_between_lines = IconData([
     {
       'tag': 'root',
@@ -32280,6 +37974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users cog`
+  /// 
+  /// ![users cog](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users-cog.png)
   static const IconData icon_users_cog = IconData([
     {
       'tag': 'root',
@@ -32297,6 +37994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users gear`
+  /// 
+  /// ![users gear](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users-gear.png)
   static const IconData icon_users_gear = IconData([
     {
       'tag': 'root',
@@ -32314,6 +38014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users line`
+  /// 
+  /// ![users line](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users-line.png)
   static const IconData icon_users_line = IconData([
     {
       'tag': 'root',
@@ -32331,6 +38034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users rays`
+  /// 
+  /// ![users rays](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users-rays.png)
   static const IconData icon_users_rays = IconData([
     {
       'tag': 'root',
@@ -32348,6 +38054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users rectangle`
+  /// 
+  /// ![users rectangle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users-rectangle.png)
   static const IconData icon_users_rectangle = IconData([
     {
       'tag': 'root',
@@ -32365,6 +38074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users slash`
+  /// 
+  /// ![users slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users-slash.png)
   static const IconData icon_users_slash = IconData([
     {
       'tag': 'root',
@@ -32382,6 +38094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `users viewfinder`
+  /// 
+  /// ![users viewfinder](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/users-viewfinder.png)
   static const IconData icon_users_viewfinder = IconData([
     {
       'tag': 'root',
@@ -32399,6 +38114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `utensil spoon`
+  /// 
+  /// ![utensil spoon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/utensil-spoon.png)
   static const IconData icon_utensil_spoon = IconData([
     {
       'tag': 'root',
@@ -32416,6 +38134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `utensils`
+  /// 
+  /// ![utensils](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/utensils.png)
   static const IconData icon_utensils = IconData([
     {
       'tag': 'root',
@@ -32433,6 +38154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `v`
+  /// 
+  /// ![v](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/v.png)
   static const IconData icon_v = IconData([
     {
       'tag': 'root',
@@ -32450,6 +38174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `van shuttle`
+  /// 
+  /// ![van shuttle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/van-shuttle.png)
   static const IconData icon_van_shuttle = IconData([
     {
       'tag': 'root',
@@ -32467,6 +38194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vault`
+  /// 
+  /// ![vault](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vault.png)
   static const IconData icon_vault = IconData([
     {
       'tag': 'root',
@@ -32484,6 +38214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vcard`
+  /// 
+  /// ![vcard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vcard.png)
   static const IconData icon_vcard = IconData([
     {
       'tag': 'root',
@@ -32501,6 +38234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vector polygon`
+  /// 
+  /// ![vector polygon](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vector-polygon.png)
   static const IconData icon_vector_polygon = IconData([
     {
       'tag': 'root',
@@ -32518,6 +38254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `venus`
+  /// 
+  /// ![venus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/venus.png)
   static const IconData icon_venus = IconData([
     {
       'tag': 'root',
@@ -32535,6 +38274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `venus double`
+  /// 
+  /// ![venus double](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/venus-double.png)
   static const IconData icon_venus_double = IconData([
     {
       'tag': 'root',
@@ -32552,6 +38294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `venus mars`
+  /// 
+  /// ![venus mars](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/venus-mars.png)
   static const IconData icon_venus_mars = IconData([
     {
       'tag': 'root',
@@ -32569,6 +38314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vest`
+  /// 
+  /// ![vest](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vest.png)
   static const IconData icon_vest = IconData([
     {
       'tag': 'root',
@@ -32586,6 +38334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vest patches`
+  /// 
+  /// ![vest patches](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vest-patches.png)
   static const IconData icon_vest_patches = IconData([
     {
       'tag': 'root',
@@ -32603,6 +38354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vial`
+  /// 
+  /// ![vial](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vial.png)
   static const IconData icon_vial = IconData([
     {
       'tag': 'root',
@@ -32620,6 +38374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vial circle check`
+  /// 
+  /// ![vial circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vial-circle-check.png)
   static const IconData icon_vial_circle_check = IconData([
     {
       'tag': 'root',
@@ -32637,6 +38394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vial virus`
+  /// 
+  /// ![vial virus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vial-virus.png)
   static const IconData icon_vial_virus = IconData([
     {
       'tag': 'root',
@@ -32654,6 +38414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vials`
+  /// 
+  /// ![vials](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vials.png)
   static const IconData icon_vials = IconData([
     {
       'tag': 'root',
@@ -32671,6 +38434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `video`
+  /// 
+  /// ![video](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/video.png)
   static const IconData icon_video = IconData([
     {
       'tag': 'root',
@@ -32688,6 +38454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `video camera`
+  /// 
+  /// ![video camera](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/video-camera.png)
   static const IconData icon_video_camera = IconData([
     {
       'tag': 'root',
@@ -32705,6 +38474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `video slash`
+  /// 
+  /// ![video slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/video-slash.png)
   static const IconData icon_video_slash = IconData([
     {
       'tag': 'root',
@@ -32722,6 +38494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vihara`
+  /// 
+  /// ![vihara](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vihara.png)
   static const IconData icon_vihara = IconData([
     {
       'tag': 'root',
@@ -32739,6 +38514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `virgo`
+  /// 
+  /// ![virgo](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/virgo.png)
   static const IconData icon_virgo = IconData([
     {
       'tag': 'root',
@@ -32756,6 +38534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `virus`
+  /// 
+  /// ![virus](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/virus.png)
   static const IconData icon_virus = IconData([
     {
       'tag': 'root',
@@ -32773,6 +38554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `virus covid`
+  /// 
+  /// ![virus covid](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/virus-covid.png)
   static const IconData icon_virus_covid = IconData([
     {
       'tag': 'root',
@@ -32790,6 +38574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `virus covid slash`
+  /// 
+  /// ![virus covid slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/virus-covid-slash.png)
   static const IconData icon_virus_covid_slash = IconData([
     {
       'tag': 'root',
@@ -32807,6 +38594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `virus slash`
+  /// 
+  /// ![virus slash](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/virus-slash.png)
   static const IconData icon_virus_slash = IconData([
     {
       'tag': 'root',
@@ -32824,6 +38614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `viruses`
+  /// 
+  /// ![viruses](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/viruses.png)
   static const IconData icon_viruses = IconData([
     {
       'tag': 'root',
@@ -32841,6 +38634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `voicemail`
+  /// 
+  /// ![voicemail](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/voicemail.png)
   static const IconData icon_voicemail = IconData([
     {
       'tag': 'root',
@@ -32858,6 +38654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volcano`
+  /// 
+  /// ![volcano](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volcano.png)
   static const IconData icon_volcano = IconData([
     {
       'tag': 'root',
@@ -32875,6 +38674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volleyball`
+  /// 
+  /// ![volleyball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volleyball.png)
   static const IconData icon_volleyball = IconData([
     {
       'tag': 'root',
@@ -32892,6 +38694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volleyball ball`
+  /// 
+  /// ![volleyball ball](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volleyball-ball.png)
   static const IconData icon_volleyball_ball = IconData([
     {
       'tag': 'root',
@@ -32909,6 +38714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume`
+  /// 
+  /// ![volume](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume.png)
   static const IconData icon_volume = IconData([
     {
       'tag': 'root',
@@ -32926,6 +38734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume control phone`
+  /// 
+  /// ![volume control phone](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-control-phone.png)
   static const IconData icon_volume_control_phone = IconData([
     {
       'tag': 'root',
@@ -32943,6 +38754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume down`
+  /// 
+  /// ![volume down](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-down.png)
   static const IconData icon_volume_down = IconData([
     {
       'tag': 'root',
@@ -32960,6 +38774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume high`
+  /// 
+  /// ![volume high](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-high.png)
   static const IconData icon_volume_high = IconData([
     {
       'tag': 'root',
@@ -32977,6 +38794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume low`
+  /// 
+  /// ![volume low](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-low.png)
   static const IconData icon_volume_low = IconData([
     {
       'tag': 'root',
@@ -32994,6 +38814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume medium`
+  /// 
+  /// ![volume medium](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-medium.png)
   static const IconData icon_volume_medium = IconData([
     {
       'tag': 'root',
@@ -33011,6 +38834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume mute`
+  /// 
+  /// ![volume mute](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-mute.png)
   static const IconData icon_volume_mute = IconData([
     {
       'tag': 'root',
@@ -33028,6 +38854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume off`
+  /// 
+  /// ![volume off](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-off.png)
   static const IconData icon_volume_off = IconData([
     {
       'tag': 'root',
@@ -33045,6 +38874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume times`
+  /// 
+  /// ![volume times](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-times.png)
   static const IconData icon_volume_times = IconData([
     {
       'tag': 'root',
@@ -33062,6 +38894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume up`
+  /// 
+  /// ![volume up](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-up.png)
   static const IconData icon_volume_up = IconData([
     {
       'tag': 'root',
@@ -33079,6 +38914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `volume xmark`
+  /// 
+  /// ![volume xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/volume-xmark.png)
   static const IconData icon_volume_xmark = IconData([
     {
       'tag': 'root',
@@ -33096,6 +38934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vote yea`
+  /// 
+  /// ![vote yea](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vote-yea.png)
   static const IconData icon_vote_yea = IconData([
     {
       'tag': 'root',
@@ -33113,6 +38954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `vr cardboard`
+  /// 
+  /// ![vr cardboard](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/vr-cardboard.png)
   static const IconData icon_vr_cardboard = IconData([
     {
       'tag': 'root',
@@ -33130,6 +38974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `w`
+  /// 
+  /// ![w](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/w.png)
   static const IconData icon_w = IconData([
     {
       'tag': 'root',
@@ -33147,6 +38994,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `walkie talkie`
+  /// 
+  /// ![walkie talkie](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/walkie-talkie.png)
   static const IconData icon_walkie_talkie = IconData([
     {
       'tag': 'root',
@@ -33164,6 +39014,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `walking`
+  /// 
+  /// ![walking](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/walking.png)
   static const IconData icon_walking = IconData([
     {
       'tag': 'root',
@@ -33181,6 +39034,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wallet`
+  /// 
+  /// ![wallet](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wallet.png)
   static const IconData icon_wallet = IconData([
     {
       'tag': 'root',
@@ -33198,6 +39054,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wand magic`
+  /// 
+  /// ![wand magic](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wand-magic.png)
   static const IconData icon_wand_magic = IconData([
     {
       'tag': 'root',
@@ -33215,6 +39074,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wand magic sparkles`
+  /// 
+  /// ![wand magic sparkles](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wand-magic-sparkles.png)
   static const IconData icon_wand_magic_sparkles = IconData([
     {
       'tag': 'root',
@@ -33232,6 +39094,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wand sparkles`
+  /// 
+  /// ![wand sparkles](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wand-sparkles.png)
   static const IconData icon_wand_sparkles = IconData([
     {
       'tag': 'root',
@@ -33249,6 +39114,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `warehouse`
+  /// 
+  /// ![warehouse](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/warehouse.png)
   static const IconData icon_warehouse = IconData([
     {
       'tag': 'root',
@@ -33266,6 +39134,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `warning`
+  /// 
+  /// ![warning](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/warning.png)
   static const IconData icon_warning = IconData([
     {
       'tag': 'root',
@@ -33283,6 +39154,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `water`
+  /// 
+  /// ![water](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/water.png)
   static const IconData icon_water = IconData([
     {
       'tag': 'root',
@@ -33300,6 +39174,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `water ladder`
+  /// 
+  /// ![water ladder](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/water-ladder.png)
   static const IconData icon_water_ladder = IconData([
     {
       'tag': 'root',
@@ -33317,6 +39194,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wave square`
+  /// 
+  /// ![wave square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wave-square.png)
   static const IconData icon_wave_square = IconData([
     {
       'tag': 'root',
@@ -33334,6 +39214,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `web awesome`
+  /// 
+  /// ![web awesome](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/web-awesome.png)
   static const IconData icon_web_awesome = IconData([
     {
       'tag': 'root',
@@ -33351,6 +39234,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `weight`
+  /// 
+  /// ![weight](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/weight.png)
   static const IconData icon_weight = IconData([
     {
       'tag': 'root',
@@ -33368,6 +39254,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `weight hanging`
+  /// 
+  /// ![weight hanging](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/weight-hanging.png)
   static const IconData icon_weight_hanging = IconData([
     {
       'tag': 'root',
@@ -33385,6 +39274,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `weight scale`
+  /// 
+  /// ![weight scale](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/weight-scale.png)
   static const IconData icon_weight_scale = IconData([
     {
       'tag': 'root',
@@ -33402,6 +39294,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wheat alt`
+  /// 
+  /// ![wheat alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wheat-alt.png)
   static const IconData icon_wheat_alt = IconData([
     {
       'tag': 'root',
@@ -33419,6 +39314,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wheat awn`
+  /// 
+  /// ![wheat awn](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wheat-awn.png)
   static const IconData icon_wheat_awn = IconData([
     {
       'tag': 'root',
@@ -33436,6 +39334,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wheat awn circle exclamation`
+  /// 
+  /// ![wheat awn circle exclamation](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wheat-awn-circle-exclamation.png)
   static const IconData icon_wheat_awn_circle_exclamation = IconData([
     {
       'tag': 'root',
@@ -33453,6 +39354,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wheelchair`
+  /// 
+  /// ![wheelchair](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wheelchair.png)
   static const IconData icon_wheelchair = IconData([
     {
       'tag': 'root',
@@ -33470,6 +39374,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wheelchair alt`
+  /// 
+  /// ![wheelchair alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wheelchair-alt.png)
   static const IconData icon_wheelchair_alt = IconData([
     {
       'tag': 'root',
@@ -33487,6 +39394,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wheelchair move`
+  /// 
+  /// ![wheelchair move](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wheelchair-move.png)
   static const IconData icon_wheelchair_move = IconData([
     {
       'tag': 'root',
@@ -33504,6 +39414,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `whiskey glass`
+  /// 
+  /// ![whiskey glass](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/whiskey-glass.png)
   static const IconData icon_whiskey_glass = IconData([
     {
       'tag': 'root',
@@ -33521,6 +39434,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wifi`
+  /// 
+  /// ![wifi](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wifi.png)
   static const IconData icon_wifi = IconData([
     {
       'tag': 'root',
@@ -33538,6 +39454,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wifi 3`
+  /// 
+  /// ![wifi 3](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wifi-3.png)
   static const IconData icon_wifi_3 = IconData([
     {
       'tag': 'root',
@@ -33555,6 +39474,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wifi strong`
+  /// 
+  /// ![wifi strong](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wifi-strong.png)
   static const IconData icon_wifi_strong = IconData([
     {
       'tag': 'root',
@@ -33572,6 +39494,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wind`
+  /// 
+  /// ![wind](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wind.png)
   static const IconData icon_wind = IconData([
     {
       'tag': 'root',
@@ -33589,6 +39514,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `window close`
+  /// 
+  /// ![window close](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/window-close.png)
   static const IconData icon_window_close = IconData([
     {
       'tag': 'root',
@@ -33606,6 +39534,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `window maximize`
+  /// 
+  /// ![window maximize](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/window-maximize.png)
   static const IconData icon_window_maximize = IconData([
     {
       'tag': 'root',
@@ -33623,6 +39554,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `window minimize`
+  /// 
+  /// ![window minimize](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/window-minimize.png)
   static const IconData icon_window_minimize = IconData([
     {
       'tag': 'root',
@@ -33640,6 +39574,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `window restore`
+  /// 
+  /// ![window restore](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/window-restore.png)
   static const IconData icon_window_restore = IconData([
     {
       'tag': 'root',
@@ -33657,6 +39594,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wine bottle`
+  /// 
+  /// ![wine bottle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wine-bottle.png)
   static const IconData icon_wine_bottle = IconData([
     {
       'tag': 'root',
@@ -33674,6 +39614,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wine glass`
+  /// 
+  /// ![wine glass](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wine-glass.png)
   static const IconData icon_wine_glass = IconData([
     {
       'tag': 'root',
@@ -33691,6 +39634,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wine glass alt`
+  /// 
+  /// ![wine glass alt](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wine-glass-alt.png)
   static const IconData icon_wine_glass_alt = IconData([
     {
       'tag': 'root',
@@ -33708,6 +39654,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wine glass empty`
+  /// 
+  /// ![wine glass empty](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wine-glass-empty.png)
   static const IconData icon_wine_glass_empty = IconData([
     {
       'tag': 'root',
@@ -33725,6 +39674,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `won`
+  /// 
+  /// ![won](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/won.png)
   static const IconData icon_won = IconData([
     {
       'tag': 'root',
@@ -33742,6 +39694,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `won sign`
+  /// 
+  /// ![won sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/won-sign.png)
   static const IconData icon_won_sign = IconData([
     {
       'tag': 'root',
@@ -33759,6 +39714,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `worm`
+  /// 
+  /// ![worm](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/worm.png)
   static const IconData icon_worm = IconData([
     {
       'tag': 'root',
@@ -33776,6 +39734,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `wrench`
+  /// 
+  /// ![wrench](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/wrench.png)
   static const IconData icon_wrench = IconData([
     {
       'tag': 'root',
@@ -33793,6 +39754,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `x`
+  /// 
+  /// ![x](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/x.png)
   static const IconData icon_x = IconData([
     {
       'tag': 'root',
@@ -33810,6 +39774,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `x ray`
+  /// 
+  /// ![x ray](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/x-ray.png)
   static const IconData icon_x_ray = IconData([
     {
       'tag': 'root',
@@ -33827,6 +39794,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `xmark`
+  /// 
+  /// ![xmark](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/xmark.png)
   static const IconData icon_xmark = IconData([
     {
       'tag': 'root',
@@ -33844,6 +39814,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `xmark circle`
+  /// 
+  /// ![xmark circle](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/xmark-circle.png)
   static const IconData icon_xmark_circle = IconData([
     {
       'tag': 'root',
@@ -33861,6 +39834,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `xmark square`
+  /// 
+  /// ![xmark square](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/xmark-square.png)
   static const IconData icon_xmark_square = IconData([
     {
       'tag': 'root',
@@ -33878,6 +39854,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `xmarks lines`
+  /// 
+  /// ![xmarks lines](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/xmarks-lines.png)
   static const IconData icon_xmarks_lines = IconData([
     {
       'tag': 'root',
@@ -33895,6 +39874,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `y`
+  /// 
+  /// ![y](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/y.png)
   static const IconData icon_y = IconData([
     {
       'tag': 'root',
@@ -33912,6 +39894,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `yen`
+  /// 
+  /// ![yen](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/yen.png)
   static const IconData icon_yen = IconData([
     {
       'tag': 'root',
@@ -33929,6 +39914,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `yen sign`
+  /// 
+  /// ![yen sign](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/yen-sign.png)
   static const IconData icon_yen_sign = IconData([
     {
       'tag': 'root',
@@ -33946,6 +39934,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `yin yang`
+  /// 
+  /// ![yin yang](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/yin-yang.png)
   static const IconData icon_yin_yang = IconData([
     {
       'tag': 'root',
@@ -33963,6 +39954,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `z`
+  /// 
+  /// ![z](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/z.png)
   static const IconData icon_z = IconData([
     {
       'tag': 'root',
@@ -33980,6 +39974,9 @@ class FontAwesome {
     },
   ]);
 
+  /// Font Awesome icon named `zap`
+  /// 
+  /// ![zap](https://makanakidev.github.io/jaspr_icons_previews/previews/fa7-solid/zap.png)
   static const IconData icon_zap = IconData([
     {
       'tag': 'root',

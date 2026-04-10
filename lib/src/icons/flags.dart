@@ -4,19 +4,25 @@
 // The original icons may be subject to their upstream license terms.
 // Review the upstream collection before publishing or redistributing generated output.
 
-// ignore_for_file: constant_identifier_names
+// ignore_for_file: constant_identifier_names, public_member_api_docs, unintended_html_in_doc_comment
 
 import '../helpers.dart';
 
 /// [Flagpack (256)](https://icones.js.org/collection/flagpack)
+/// - Set SvgIcon `color` to change fill or stroke value
+/// - Icon `height` and `width` can also be modified
 class Flags {
   const Flags._();
 
+  /// Flagpack icon named `ad`
+  /// 
+  /// ![ad](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ad.png)
   static const IconData icon_ad = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -72,11 +78,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ae`
+  /// 
+  /// ![ae](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ae.png)
   static const IconData icon_ae = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -123,11 +133,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `af`
+  /// 
+  /// ![af](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/af.png)
   static const IconData icon_af = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -211,11 +225,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ag`
+  /// 
+  /// ![ag](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ag.png)
   static const IconData icon_ag = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -269,7 +287,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ai`
+  /// 
+  /// ![ai](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ai.png)
   static const IconData icon_ai = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -461,11 +489,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `al`
+  /// 
+  /// ![al](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/al.png)
   static const IconData icon_al = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -494,11 +526,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `am`
+  /// 
+  /// ![am](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/am.png)
   static const IconData icon_am = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -567,11 +603,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ao`
+  /// 
+  /// ![ao](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ao.png)
   static const IconData icon_ao = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -837,11 +877,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `aq`
+  /// 
+  /// ![aq](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/aq.png)
   static const IconData icon_aq = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -903,11 +947,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ar`
+  /// 
+  /// ![ar](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ar.png)
   static const IconData icon_ar = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1035,11 +1083,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `as`
+  /// 
+  /// ![as](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/as.png)
   static const IconData icon_as = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1124,11 +1176,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `at`
+  /// 
+  /// ![at](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/at.png)
   static const IconData icon_at = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1190,7 +1246,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `au`
+  /// 
+  /// ![au](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/au.png)
   static const IconData icon_au = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -1316,11 +1382,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `aw`
+  /// 
+  /// ![aw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/aw.png)
   static const IconData icon_aw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1391,11 +1461,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ax`
+  /// 
+  /// ![ax](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ax.png)
   static const IconData icon_ax = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1457,11 +1531,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `az`
+  /// 
+  /// ![az](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/az.png)
   static const IconData icon_az = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1537,11 +1615,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ba`
+  /// 
+  /// ![ba](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ba.png)
   static const IconData icon_ba = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1577,11 +1659,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bb`
+  /// 
+  /// ![bb](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bb.png)
   static const IconData icon_bb = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1624,11 +1710,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bd`
+  /// 
+  /// ![bd](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bd.png)
   static const IconData icon_bd = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1657,11 +1747,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `be`
+  /// 
+  /// ![be](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/be.png)
   static const IconData icon_be = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1697,11 +1791,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bf`
+  /// 
+  /// ![bf](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bf.png)
   static const IconData icon_bf = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1770,11 +1868,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bg`
+  /// 
+  /// ![bg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bg.png)
   static const IconData icon_bg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1843,11 +1945,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bh`
+  /// 
+  /// ![bh](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bh.png)
   static const IconData icon_bh = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1876,11 +1982,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bi`
+  /// 
+  /// ![bi](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bi.png)
   static const IconData icon_bi = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -1968,11 +2078,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bj`
+  /// 
+  /// ![bj](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bj.png)
   static const IconData icon_bj = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -2010,11 +2124,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bl`
+  /// 
+  /// ![bl](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bl.png)
   static const IconData icon_bl = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -2050,7 +2168,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bm`
+  /// 
+  /// ![bm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bm.png)
   static const IconData icon_bm = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'defs',
       'attrs': {
@@ -2329,11 +2457,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bn`
+  /// 
+  /// ![bn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bn.png)
   static const IconData icon_bn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -2436,11 +2568,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bo`
+  /// 
+  /// ![bo](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bo.png)
   static const IconData icon_bo = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -2815,11 +2951,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bq bo`
+  /// 
+  /// ![bq bo](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bq-bo.png)
   static const IconData icon_bq_bo = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -2902,11 +3042,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bq sa`
+  /// 
+  /// ![bq sa](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bq-sa.png)
   static const IconData icon_bq_sa = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -2949,11 +3093,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bq se`
+  /// 
+  /// ![bq se](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bq-se.png)
   static const IconData icon_bq_se = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -3014,11 +3162,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `br`
+  /// 
+  /// ![br](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/br.png)
   static const IconData icon_br = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -3269,11 +3421,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bs`
+  /// 
+  /// ![bs](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bs.png)
   static const IconData icon_bs = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -3309,11 +3465,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bt`
+  /// 
+  /// ![bt](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bt.png)
   static const IconData icon_bt = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -3448,11 +3608,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bv`
+  /// 
+  /// ![bv](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bv.png)
   static const IconData icon_bv = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -3514,11 +3678,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bw`
+  /// 
+  /// ![bw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bw.png)
   static const IconData icon_bw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -3589,11 +3757,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `by`
+  /// 
+  /// ![by](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/by.png)
   static const IconData icon_by = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -3708,11 +3880,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `bz`
+  /// 
+  /// ![bz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/bz.png)
   static const IconData icon_bz = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4094,11 +4270,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ca`
+  /// 
+  /// ![ca](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ca.png)
   static const IconData icon_ca = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4127,11 +4307,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cc`
+  /// 
+  /// ![cc](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cc.png)
   static const IconData icon_cc = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4178,11 +4362,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cd`
+  /// 
+  /// ![cd](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cd.png)
   static const IconData icon_cd = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4253,11 +4441,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cf`
+  /// 
+  /// ![cf](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cf.png)
   static const IconData icon_cf = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4314,11 +4506,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cg`
+  /// 
+  /// ![cg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cg.png)
   static const IconData icon_cg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4354,11 +4550,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ch`
+  /// 
+  /// ![ch](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ch.png)
   static const IconData icon_ch = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4420,11 +4620,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ci`
+  /// 
+  /// ![ci](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ci.png)
   static const IconData icon_ci = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4460,7 +4664,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ck`
+  /// 
+  /// ![ck](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ck.png)
   static const IconData icon_ck = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -4565,11 +4779,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cl`
+  /// 
+  /// ![cl](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cl.png)
   static const IconData icon_cl = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4612,11 +4830,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cm`
+  /// 
+  /// ![cm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cm.png)
   static const IconData icon_cm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4659,11 +4881,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cn`
+  /// 
+  /// ![cn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cn.png)
   static const IconData icon_cn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4692,11 +4918,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `co`
+  /// 
+  /// ![co](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/co.png)
   static const IconData icon_co = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4765,11 +4995,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cr`
+  /// 
+  /// ![cr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cr.png)
   static const IconData icon_cr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4831,11 +5065,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cu`
+  /// 
+  /// ![cu](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cu.png)
   static const IconData icon_cu = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -4946,11 +5184,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cv`
+  /// 
+  /// ![cv](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cv.png)
   static const IconData icon_cv = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -5120,11 +5362,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cw`
+  /// 
+  /// ![cw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cw.png)
   static const IconData icon_cw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -5193,11 +5439,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cx`
+  /// 
+  /// ![cx](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cx.png)
   static const IconData icon_cx = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -5254,11 +5504,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cy`
+  /// 
+  /// ![cy](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cy.png)
   static const IconData icon_cy = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -5327,11 +5581,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `cz`
+  /// 
+  /// ![cz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/cz.png)
   static const IconData icon_cz = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -5402,11 +5660,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `de`
+  /// 
+  /// ![de](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/de.png)
   static const IconData icon_de = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -5442,7 +5704,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `dj`
+  /// 
+  /// ![dj](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/dj.png)
   static const IconData icon_dj = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'defs',
       'attrs': {
@@ -5564,11 +5836,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `dk`
+  /// 
+  /// ![dk](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/dk.png)
   static const IconData icon_dk = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -5630,11 +5906,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `dm`
+  /// 
+  /// ![dm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/dm.png)
   static const IconData icon_dm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -5802,11 +6082,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `do`
+  /// 
+  /// ![do](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/do.png)
   static const IconData icon_do = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -6018,11 +6302,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `dz`
+  /// 
+  /// ![dz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/dz.png)
   static const IconData icon_dz = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -6058,11 +6346,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ec`
+  /// 
+  /// ![ec](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ec.png)
   static const IconData icon_ec = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -6330,11 +6622,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ee`
+  /// 
+  /// ![ee](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ee.png)
   static const IconData icon_ee = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -6403,11 +6699,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `eg`
+  /// 
+  /// ![eg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/eg.png)
   static const IconData icon_eg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -6520,11 +6820,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `eh`
+  /// 
+  /// ![eh](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/eh.png)
   static const IconData icon_eh = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -6567,11 +6871,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `er`
+  /// 
+  /// ![er](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/er.png)
   static const IconData icon_er = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -6614,11 +6922,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `es`
+  /// 
+  /// ![es](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/es.png)
   static const IconData icon_es = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -7062,11 +7374,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `et`
+  /// 
+  /// ![et](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/et.png)
   static const IconData icon_et = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -7162,11 +7478,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `fi`
+  /// 
+  /// ![fi](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/fi.png)
   static const IconData icon_fi = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -7228,7 +7548,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `fj`
+  /// 
+  /// ![fj](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/fj.png)
   static const IconData icon_fj = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -7480,7 +7810,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `fk`
+  /// 
+  /// ![fk](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/fk.png)
   static const IconData icon_fk = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -7590,11 +7930,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `fm`
+  /// 
+  /// ![fm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/fm.png)
   static const IconData icon_fm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -7656,11 +8000,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `fo`
+  /// 
+  /// ![fo](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/fo.png)
   static const IconData icon_fo = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -7722,11 +8070,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `fr`
+  /// 
+  /// ![fr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/fr.png)
   static const IconData icon_fr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -7762,11 +8114,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ga`
+  /// 
+  /// ![ga](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ga.png)
   static const IconData icon_ga = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -7802,11 +8158,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gb`
+  /// 
+  /// ![gb](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gb.png)
   static const IconData icon_gb = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -7835,7 +8195,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gb eng`
+  /// 
+  /// ![gb eng](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gb-eng.png)
   static const IconData icon_gb_eng = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'mask',
       'attrs': {
@@ -7883,11 +8253,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gb nir`
+  /// 
+  /// ![gb nir](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gb-nir.png)
   static const IconData icon_gb_nir = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8002,11 +8376,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gb sct`
+  /// 
+  /// ![gb sct](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gb-sct.png)
   static const IconData icon_gb_sct = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8035,11 +8413,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gb ukm`
+  /// 
+  /// ![gb ukm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gb-ukm.png)
   static const IconData icon_gb_ukm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8154,11 +8536,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gb wls`
+  /// 
+  /// ![gb wls](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gb-wls.png)
   static const IconData icon_gb_wls = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8275,11 +8661,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gd`
+  /// 
+  /// ![gd](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gd.png)
   static const IconData icon_gd = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8391,11 +8781,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ge`
+  /// 
+  /// ![ge](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ge.png)
   static const IconData icon_ge = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8463,11 +8857,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gf`
+  /// 
+  /// ![gf](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gf.png)
   static const IconData icon_gf = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8507,11 +8905,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gg`
+  /// 
+  /// ![gg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gg.png)
   static const IconData icon_gg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8580,11 +8982,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gh`
+  /// 
+  /// ![gh](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gh.png)
   static const IconData icon_gh = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8627,11 +9033,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gi`
+  /// 
+  /// ![gi](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gi.png)
   static const IconData icon_gi = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8749,11 +9159,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gl`
+  /// 
+  /// ![gl](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gl.png)
   static const IconData icon_gl = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8864,11 +9278,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gm`
+  /// 
+  /// ![gm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gm.png)
   static const IconData icon_gm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8908,11 +9326,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gn`
+  /// 
+  /// ![gn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gn.png)
   static const IconData icon_gn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8948,11 +9370,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gp`
+  /// 
+  /// ![gp](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gp.png)
   static const IconData icon_gp = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -8988,11 +9414,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gq`
+  /// 
+  /// ![gq](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gq.png)
   static const IconData icon_gq = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -9112,11 +9542,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gr`
+  /// 
+  /// ![gr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gr.png)
   static const IconData icon_gr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -9172,11 +9606,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gs`
+  /// 
+  /// ![gs](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gs.png)
   static const IconData icon_gs = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -9571,11 +10009,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gt`
+  /// 
+  /// ![gt](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gt.png)
   static const IconData icon_gt = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -9703,11 +10145,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gu`
+  /// 
+  /// ![gu](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gu.png)
   static const IconData icon_gu = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -9897,11 +10343,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gw`
+  /// 
+  /// ![gw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gw.png)
   static const IconData icon_gw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -9944,11 +10394,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `gy`
+  /// 
+  /// ![gy](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/gy.png)
   static const IconData icon_gy = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -9988,11 +10442,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `hk`
+  /// 
+  /// ![hk](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/hk.png)
   static const IconData icon_hk = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -10084,7 +10542,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `hm`
+  /// 
+  /// ![hm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/hm.png)
   static const IconData icon_hm = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -10210,11 +10678,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `hn`
+  /// 
+  /// ![hn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/hn.png)
   static const IconData icon_hn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -10276,11 +10748,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `hr`
+  /// 
+  /// ![hr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/hr.png)
   static const IconData icon_hr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -10627,7 +11103,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ht`
+  /// 
+  /// ![ht](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ht.png)
   static const IconData icon_ht = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'defs',
       'attrs': {
@@ -10896,11 +11382,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `hu`
+  /// 
+  /// ![hu](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/hu.png)
   static const IconData icon_hu = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -10969,11 +11459,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `id`
+  /// 
+  /// ![id](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/id.png)
   static const IconData icon_id = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11035,11 +11529,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ie`
+  /// 
+  /// ![ie](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ie.png)
   static const IconData icon_ie = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11075,11 +11573,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `il`
+  /// 
+  /// ![il](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/il.png)
   static const IconData icon_il = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11147,11 +11649,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `im`
+  /// 
+  /// ![im](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/im.png)
   static const IconData icon_im = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11272,11 +11778,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `in`
+  /// 
+  /// ![in](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/in.png)
   static const IconData icon_in = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11359,7 +11869,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `io`
+  /// 
+  /// ![io](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/io.png)
   static const IconData icon_io = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -11598,11 +12118,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `iq`
+  /// 
+  /// ![iq](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/iq.png)
   static const IconData icon_iq = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11678,11 +12202,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ir`
+  /// 
+  /// ![ir](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ir.png)
   static const IconData icon_ir = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11765,11 +12293,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `is`
+  /// 
+  /// ![is](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/is.png)
   static const IconData icon_is = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11831,11 +12363,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `it`
+  /// 
+  /// ![it](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/it.png)
   static const IconData icon_it = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11871,11 +12407,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `je`
+  /// 
+  /// ![je](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/je.png)
   static const IconData icon_je = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11933,11 +12473,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `jm`
+  /// 
+  /// ![jm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/jm.png)
   static const IconData icon_jm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -11977,11 +12521,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `jo`
+  /// 
+  /// ![jo](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/jo.png)
   static const IconData icon_jo = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -12099,11 +12647,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `jp`
+  /// 
+  /// ![jp](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/jp.png)
   static const IconData icon_jp = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -12165,11 +12717,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ke`
+  /// 
+  /// ![ke](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ke.png)
   static const IconData icon_ke = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -12267,11 +12823,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `kg`
+  /// 
+  /// ![kg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/kg.png)
   static const IconData icon_kg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -12333,11 +12893,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `kh`
+  /// 
+  /// ![kh](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/kh.png)
   static const IconData icon_kh = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -13065,11 +13629,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ki`
+  /// 
+  /// ![ki](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ki.png)
   static const IconData icon_ki = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -13197,11 +13765,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `km`
+  /// 
+  /// ![km](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/km.png)
   static const IconData icon_km = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -13291,11 +13863,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `kn`
+  /// 
+  /// ![kn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/kn.png)
   static const IconData icon_kn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -13344,11 +13920,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `kp`
+  /// 
+  /// ![kp](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/kp.png)
   static const IconData icon_kp = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -13428,11 +14008,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `kr`
+  /// 
+  /// ![kr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/kr.png)
   static const IconData icon_kr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -13543,11 +14127,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `kw`
+  /// 
+  /// ![kw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/kw.png)
   static const IconData icon_kw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -13625,7 +14213,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ky`
+  /// 
+  /// ![ky](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ky.png)
   static const IconData icon_ky = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'defs',
       'attrs': {
@@ -13929,11 +14527,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `kz`
+  /// 
+  /// ![kz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/kz.png)
   static const IconData icon_kz = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14103,11 +14705,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `la`
+  /// 
+  /// ![la](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/la.png)
   static const IconData icon_la = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14150,11 +14756,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `lb`
+  /// 
+  /// ![lb](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/lb.png)
   static const IconData icon_lb = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14190,11 +14800,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `lc`
+  /// 
+  /// ![lc](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/lc.png)
   static const IconData icon_lc = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14237,11 +14851,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `li`
+  /// 
+  /// ![li](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/li.png)
   static const IconData icon_li = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14376,11 +14994,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `lk`
+  /// 
+  /// ![lk](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/lk.png)
   static const IconData icon_lk = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14439,11 +15061,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `lr`
+  /// 
+  /// ![lr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/lr.png)
   static const IconData icon_lr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14506,11 +15132,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ls`
+  /// 
+  /// ![ls](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ls.png)
   static const IconData icon_ls = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14553,11 +15183,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `lt`
+  /// 
+  /// ![lt](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/lt.png)
   static const IconData icon_lt = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14626,11 +15260,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `lu`
+  /// 
+  /// ![lu](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/lu.png)
   static const IconData icon_lu = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14699,11 +15337,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `lv`
+  /// 
+  /// ![lv](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/lv.png)
   static const IconData icon_lv = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14739,11 +15381,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ly`
+  /// 
+  /// ![ly](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ly.png)
   static const IconData icon_ly = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14786,11 +15432,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ma`
+  /// 
+  /// ![ma](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ma.png)
   static const IconData icon_ma = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14833,11 +15483,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mc`
+  /// 
+  /// ![mc](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mc.png)
   static const IconData icon_mc = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -14899,11 +15553,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `md`
+  /// 
+  /// ![md](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/md.png)
   static const IconData icon_md = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15077,11 +15735,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `me`
+  /// 
+  /// ![me](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/me.png)
   static const IconData icon_me = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15267,11 +15929,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mf`
+  /// 
+  /// ![mf](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mf.png)
   static const IconData icon_mf = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15307,11 +15973,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mg`
+  /// 
+  /// ![mg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mg.png)
   static const IconData icon_mg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15347,11 +16017,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mh`
+  /// 
+  /// ![mh](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mh.png)
   static const IconData icon_mh = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15427,11 +16101,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mk`
+  /// 
+  /// ![mk](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mk.png)
   static const IconData icon_mk = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15501,11 +16179,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ml`
+  /// 
+  /// ![ml](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ml.png)
   static const IconData icon_ml = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15541,11 +16223,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mm`
+  /// 
+  /// ![mm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mm.png)
   static const IconData icon_mm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15588,11 +16274,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mn`
+  /// 
+  /// ![mn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mn.png)
   static const IconData icon_mn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15648,11 +16338,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mo`
+  /// 
+  /// ![mo](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mo.png)
   static const IconData icon_mo = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15769,11 +16463,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mp`
+  /// 
+  /// ![mp](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mp.png)
   static const IconData icon_mp = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15884,11 +16582,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mq`
+  /// 
+  /// ![mq](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mq.png)
   static const IconData icon_mq = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -15924,11 +16626,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mr`
+  /// 
+  /// ![mr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mr.png)
   static const IconData icon_mr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16004,7 +16710,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ms`
+  /// 
+  /// ![ms](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ms.png)
   static const IconData icon_ms = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -16100,7 +16816,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mt`
+  /// 
+  /// ![mt](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mt.png)
   static const IconData icon_mt = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'mask',
       'attrs': {
@@ -16154,11 +16880,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mu`
+  /// 
+  /// ![mu](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mu.png)
   static const IconData icon_mu = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16234,11 +16964,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mv`
+  /// 
+  /// ![mv](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mv.png)
   static const IconData icon_mv = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16335,11 +17069,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mw`
+  /// 
+  /// ![mw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mw.png)
   static const IconData icon_mw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16415,11 +17153,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mx`
+  /// 
+  /// ![mx](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mx.png)
   static const IconData icon_mx = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16529,11 +17271,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `my`
+  /// 
+  /// ![my](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/my.png)
   static const IconData icon_my = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16598,11 +17344,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `mz`
+  /// 
+  /// ![mz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/mz.png)
   static const IconData icon_mz = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16765,11 +17515,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `na`
+  /// 
+  /// ![na](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/na.png)
   static const IconData icon_na = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16849,11 +17603,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `nc`
+  /// 
+  /// ![nc](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/nc.png)
   static const IconData icon_nc = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16889,11 +17647,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ne`
+  /// 
+  /// ![ne](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ne.png)
   static const IconData icon_ne = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -16969,11 +17731,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `nf`
+  /// 
+  /// ![nf](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/nf.png)
   static const IconData icon_nf = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17009,11 +17775,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ng`
+  /// 
+  /// ![ng](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ng.png)
   static const IconData icon_ng = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17042,11 +17812,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ni`
+  /// 
+  /// ![ni](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ni.png)
   static const IconData icon_ni = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17201,11 +17975,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `nl`
+  /// 
+  /// ![nl](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/nl.png)
   static const IconData icon_nl = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17274,11 +18052,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `no`
+  /// 
+  /// ![no](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/no.png)
   static const IconData icon_no = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17340,11 +18122,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `np`
+  /// 
+  /// ![np](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/np.png)
   static const IconData icon_np = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17418,11 +18204,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `nr`
+  /// 
+  /// ![nr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/nr.png)
   static const IconData icon_nr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17491,11 +18281,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `nu`
+  /// 
+  /// ![nu](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/nu.png)
   static const IconData icon_nu = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17619,7 +18413,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `nz`
+  /// 
+  /// ![nz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/nz.png)
   static const IconData icon_nz = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -17731,11 +18535,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `om`
+  /// 
+  /// ![om](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/om.png)
   static const IconData icon_om = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17822,11 +18630,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pa`
+  /// 
+  /// ![pa](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pa.png)
   static const IconData icon_pa = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -17895,7 +18707,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pe`
+  /// 
+  /// ![pe](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pe.png)
   static const IconData icon_pe = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'defs',
       'attrs': {
@@ -18133,11 +18955,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pf`
+  /// 
+  /// ![pf](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pf.png)
   static const IconData icon_pf = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -18271,11 +19097,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pg`
+  /// 
+  /// ![pg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pg.png)
   static const IconData icon_pg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -18333,11 +19163,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ph`
+  /// 
+  /// ![ph](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ph.png)
   static const IconData icon_ph = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -18454,11 +19288,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pk`
+  /// 
+  /// ![pk](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pk.png)
   static const IconData icon_pk = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -18494,11 +19332,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pl`
+  /// 
+  /// ![pl](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pl.png)
   static const IconData icon_pl = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -18560,11 +19402,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pm`
+  /// 
+  /// ![pm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pm.png)
   static const IconData icon_pm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -18600,7 +19446,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pn`
+  /// 
+  /// ![pn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pn.png)
   static const IconData icon_pn = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -18857,11 +19713,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pr`
+  /// 
+  /// ![pr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pr.png)
   static const IconData icon_pr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -18972,7 +19832,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ps`
+  /// 
+  /// ![ps](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ps.png)
   static const IconData icon_ps = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'mask',
       'attrs': {
@@ -19034,11 +19904,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pt`
+  /// 
+  /// ![pt](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pt.png)
   static const IconData icon_pt = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -19445,11 +20319,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `pw`
+  /// 
+  /// ![pw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/pw.png)
   static const IconData icon_pw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -19511,11 +20389,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `py`
+  /// 
+  /// ![py](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/py.png)
   static const IconData icon_py = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -19634,11 +20516,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `qa`
+  /// 
+  /// ![qa](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/qa.png)
   static const IconData icon_qa = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -19667,11 +20553,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `re`
+  /// 
+  /// ![re](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/re.png)
   static const IconData icon_re = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -19707,11 +20597,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ro`
+  /// 
+  /// ![ro](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ro.png)
   static const IconData icon_ro = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -19747,11 +20641,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `rs`
+  /// 
+  /// ![rs](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/rs.png)
   static const IconData icon_rs = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -19918,11 +20816,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ru`
+  /// 
+  /// ![ru](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ru.png)
   static const IconData icon_ru = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -19991,11 +20893,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `rw`
+  /// 
+  /// ![rw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/rw.png)
   static const IconData icon_rw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20071,11 +20977,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sa`
+  /// 
+  /// ![sa](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sa.png)
   static const IconData icon_sa = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20127,11 +21037,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sb`
+  /// 
+  /// ![sb](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sb.png)
   static const IconData icon_sb = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20218,11 +21132,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sc`
+  /// 
+  /// ![sc](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sc.png)
   static const IconData icon_sc = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20307,11 +21225,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sd`
+  /// 
+  /// ![sd](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sd.png)
   static const IconData icon_sd = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20354,11 +21276,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `se`
+  /// 
+  /// ![se](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/se.png)
   static const IconData icon_se = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20420,11 +21346,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sg`
+  /// 
+  /// ![sg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sg.png)
   static const IconData icon_sg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20493,7 +21423,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sh`
+  /// 
+  /// ![sh](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sh.png)
   static const IconData icon_sh = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -20589,11 +21529,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `si`
+  /// 
+  /// ![si](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/si.png)
   static const IconData icon_si = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20698,11 +21642,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sj`
+  /// 
+  /// ![sj](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sj.png)
   static const IconData icon_sj = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20764,11 +21712,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sk`
+  /// 
+  /// ![sk](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sk.png)
   static const IconData icon_sk = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20893,11 +21845,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sl`
+  /// 
+  /// ![sl](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sl.png)
   static const IconData icon_sl = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -20966,11 +21922,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sm`
+  /// 
+  /// ![sm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sm.png)
   static const IconData icon_sm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21217,11 +22177,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sn`
+  /// 
+  /// ![sn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sn.png)
   static const IconData icon_sn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21264,11 +22228,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `so`
+  /// 
+  /// ![so](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/so.png)
   static const IconData icon_so = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21297,11 +22265,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sr`
+  /// 
+  /// ![sr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sr.png)
   static const IconData icon_sr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21341,11 +22313,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ss`
+  /// 
+  /// ![ss](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ss.png)
   static const IconData icon_ss = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21412,11 +22388,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `st`
+  /// 
+  /// ![st](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/st.png)
   static const IconData icon_st = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21459,11 +22439,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sv`
+  /// 
+  /// ![sv](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sv.png)
   static const IconData icon_sv = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21555,11 +22539,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sx`
+  /// 
+  /// ![sx](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sx.png)
   static const IconData icon_sx = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21744,11 +22732,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sy`
+  /// 
+  /// ![sy](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sy.png)
   static const IconData icon_sy = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21791,11 +22783,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `sz`
+  /// 
+  /// ![sz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/sz.png)
   static const IconData icon_sz = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -21944,7 +22940,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tc`
+  /// 
+  /// ![tc](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tc.png)
   static const IconData icon_tc = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -22040,11 +23046,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `td`
+  /// 
+  /// ![td](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/td.png)
   static const IconData icon_td = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22080,11 +23090,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tf`
+  /// 
+  /// ![tf](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tf.png)
   static const IconData icon_tf = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22167,11 +23181,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tg`
+  /// 
+  /// ![tg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tg.png)
   static const IconData icon_tg = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22218,11 +23236,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `th`
+  /// 
+  /// ![th](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/th.png)
   static const IconData icon_th = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22253,11 +23275,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tj`
+  /// 
+  /// ![tj](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tj.png)
   static const IconData icon_tj = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22307,11 +23333,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tk`
+  /// 
+  /// ![tk](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tk.png)
   static const IconData icon_tk = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22380,11 +23410,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tl`
+  /// 
+  /// ![tl](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tl.png)
   static const IconData icon_tl = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22433,11 +23467,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tm`
+  /// 
+  /// ![tm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tm.png)
   static const IconData icon_tm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22926,11 +23964,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tn`
+  /// 
+  /// ![tn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tn.png)
   static const IconData icon_tn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -22999,11 +24041,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `to`
+  /// 
+  /// ![to](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/to.png)
   static const IconData icon_to = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23072,11 +24118,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tr`
+  /// 
+  /// ![tr](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tr.png)
   static const IconData icon_tr = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23138,11 +24188,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tt`
+  /// 
+  /// ![tt](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tt.png)
   static const IconData icon_tt = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23204,7 +24258,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tv`
+  /// 
+  /// ![tv](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tv.png)
   static const IconData icon_tv = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -23309,11 +24373,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tw`
+  /// 
+  /// ![tw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tw.png)
   static const IconData icon_tw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23382,11 +24450,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `tz`
+  /// 
+  /// ![tz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/tz.png)
   static const IconData icon_tz = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23457,11 +24529,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ua`
+  /// 
+  /// ![ua](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ua.png)
   static const IconData icon_ua = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23523,11 +24599,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ug`
+  /// 
+  /// ![ug](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ug.png)
   static const IconData icon_ug = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23662,11 +24742,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `um`
+  /// 
+  /// ![um](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/um.png)
   static const IconData icon_um = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23713,11 +24797,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `us`
+  /// 
+  /// ![us](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/us.png)
   static const IconData icon_us = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23764,11 +24852,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `uy`
+  /// 
+  /// ![uy](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/uy.png)
   static const IconData icon_uy = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23917,11 +25009,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `uz`
+  /// 
+  /// ![uz](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/uz.png)
   static const IconData icon_uz = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -23969,11 +25065,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `va`
+  /// 
+  /// ![va](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/va.png)
   static const IconData icon_va = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24074,11 +25174,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `vc`
+  /// 
+  /// ![vc](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/vc.png)
   static const IconData icon_vc = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24121,11 +25225,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ve`
+  /// 
+  /// ![ve](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ve.png)
   static const IconData icon_ve = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24208,7 +25316,17 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `vg`
+  /// 
+  /// ![vg](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/vg.png)
   static const IconData icon_vg = IconData([
+    {
+      'tag': 'root',
+      'family': 'flagpack',
+      'attrs': {
+          'viewBox': "0 0 32 24",
+      },
+    },
     {
       'tag': 'clipPath',
       'attrs': {
@@ -24304,11 +25422,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `vi`
+  /// 
+  /// ![vi](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/vi.png)
   static const IconData icon_vi = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24444,11 +25566,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `vn`
+  /// 
+  /// ![vn](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/vn.png)
   static const IconData icon_vn = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24519,11 +25645,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `vu`
+  /// 
+  /// ![vu](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/vu.png)
   static const IconData icon_vu = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24643,11 +25773,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `wf`
+  /// 
+  /// ![wf](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/wf.png)
   static const IconData icon_wf = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24683,11 +25817,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ws`
+  /// 
+  /// ![ws](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ws.png)
   static const IconData icon_ws = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24756,11 +25894,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `ye`
+  /// 
+  /// ![ye](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/ye.png)
   static const IconData icon_ye = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24829,11 +25971,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `yt`
+  /// 
+  /// ![yt](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/yt.png)
   static const IconData icon_yt = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -24961,11 +26107,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `za`
+  /// 
+  /// ![za](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/za.png)
   static const IconData icon_za = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -25060,11 +26210,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `zm`
+  /// 
+  /// ![zm](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/zm.png)
   static const IconData icon_zm = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },
@@ -25163,11 +26317,15 @@ class Flags {
     },
   ]);
 
+  /// Flagpack icon named `zw`
+  /// 
+  /// ![zw](https://makanakidev.github.io/jaspr_icons_previews/previews/flagpack/zw.png)
   static const IconData icon_zw = IconData([
     {
       'tag': 'root',
       'family': 'flagpack',
       'attrs': {
+          'viewBox': "0 0 32 24",
           'fill': "none",
       },
     },

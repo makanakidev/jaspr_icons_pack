@@ -5,6 +5,7 @@ import 'package:jaspr/jaspr.dart';
 
 import '../jaspr_icons_pack.dart';
 
+/// Renders an SVG icon from generated or custom [IconData].
 class SvgIcon extends StatelessComponent {
   static const (double, double, double, double) _defaultViewBox = (0, 0, 24, 24);
 

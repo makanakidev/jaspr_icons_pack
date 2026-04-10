@@ -1,19 +1,19 @@
-/// a helper class that stores the data for an svg icon
+/// Structured SVG data consumed by [SvgIcon].
 class IconData {
-  /// a list of xml elements that form an svg
+  /// The SVG element tree that defines the icon.
   ///
-  /// each element is a map with the following keys:
+  /// Each element map can contain:
   /// - `tag`: the name of the svg element
   /// - `attrs`: a map of attributes specific to the element
   /// - `children`: optional nested xml elements
   /// - `text`: optional text node content
   final List<Map<String, dynamic>> content;
 
-  /// this can be used to supply a [icon] component with the data it needs to drawan svg icon
+  /// Creates an [IconData] instance from structured SVG content.
   const IconData(this.content);
 }
 
-/// stroke-linejoin options
+/// Supported values for the SVG `stroke-linejoin` attribute.
 enum StrokeLineJoin {
   /// arcs
   arcs('arcs'),
@@ -35,7 +35,7 @@ enum StrokeLineJoin {
   const StrokeLineJoin(this.value);
 }
 
-/// stroke-linecap options
+/// Supported values for the SVG `stroke-linecap` attribute.
 enum StrokeLineCap {
   /// butt
   butt,

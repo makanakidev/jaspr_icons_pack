@@ -1,19 +1,13 @@
 # jaspr_icons_pack
 
-An easy and efficient way to use SVG icons in your Jaspr applications. This package provides a simple `SvgIcon()` component and a comprehensive, tree-shakable library of 12 icon collections.
-
-## Overview
-
-Insert icons just like you do in flutter.
-
+An easy and efficient way to use SVG icons in your Jaspr applications. This package provides a simple `SvgIcon()` component and a comprehensive library of 60,000+ icons from 12 different icon sets.
 
 ## Features
 
 - **Simple API:** A single, easy-to-use `SvgIcon()` component.
-- **Tree-Shakable:** Only the icons you import are included in your final compiled app.
-- **Fully Customizable:** Easily control the width, height, color (`fill`), stroke, and apply custom CSS classes.
+- **Fully Customizable:** Easily control the width, height, color (`fill` | `stroke`), and apply custom CSS classes.
 - **Type-Safe:** All icons are `static const` fields, providing compile-time safety and IDE auto-completion.
-- **Comprehensive Icon Set:** Includes 12 different icon collections.
+- **Comprehensive Icon Set:** Includes 60,000+ icons from 12 different icon sets.
 
 ## Installation
 
@@ -21,14 +15,14 @@ Add `jaspr_icons_pack` to your `pubspec.yaml` dependencies:
 
 ```yaml
 dependencies:
-  jaspr_icons_pack: ^1.0.0
+  jaspr_icons_pack: ^1.0.2
 ```
 
 Then, run `dart pub get`.
 
 ## Usage
 
-Import the package and use the `SvgIcon()` component with the desired icon.
+Import the package and use the `SvgIcon()` component with your desired icon.
 
 ```dart
 import 'package:jaspr/jaspr.dart';
@@ -64,7 +58,7 @@ class MyAwesomeComponent extends StatelessComponent {
 ## Available Icons
 > Open an issue on github if there is a certain icon family that you think should be included
 
-There's currently 12 icon collections:
+There's currently 12 icon sets:
 | Collection | Class | Naming convention | Example |
 |------------|-------|-------------------|---------|
 | Google Material Icons | `MaterialIcons` | `icon_<style>_<icon_name>` with a plain alias `icon_<icon_name>` for the default icon where available | `MaterialIcons.icon_home`, `MaterialIcons.icon_baseline_home`, `MaterialIcons.icon_outline_home`, `MaterialIcons.icon_round_home`, `MaterialIcons.icon_sharp_home`, `MaterialIcons.icon_twotone_home` |
@@ -129,7 +123,7 @@ The included icons are licensed under the **Apache License 2.0**. Your use of th
 
 ## Issues and Contributions
 
-If you encounter any bugs or have a feature request, please file an issue on the [Github issue tracker](https://github.com/makanakidev/jaspr_icons_pack/issues). Contributions are welcome
+If you encounter any bugs or have a feature request, please file an issue on the [Github issue tracker](https://github.com/makanakidev/jaspr_icons_pack/issues). Contributions are welcome.
 
 ## Inspiration
 

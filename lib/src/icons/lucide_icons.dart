@@ -4,21 +4,25 @@
 // The original icons may be subject to their upstream license terms.
 // Review the upstream collection before publishing or redistributing generated output.
 
-// ignore_for_file: constant_identifier_names
+// ignore_for_file: constant_identifier_names, public_member_api_docs, unintended_html_in_doc_comment
 
 import '../helpers.dart';
 
-/// [Lucide Icons (1744)](https://icones.js.org/collection/lucide)
+/// [Lucide Icons (1754)](https://icones.js.org/collection/lucide)
 /// - Set SvgIcon `color` to change fill or stroke value
 /// - Icon `height` and `width` can also be modified
 class LucideIcons {
   const LucideIcons._();
 
+  /// Lucide icon named `a arrow down`
+  /// 
+  /// ![a arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/a-arrow-down.png)
   static const IconData icon_a_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34,11 +38,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `a arrow up`
+  /// 
+  /// ![a arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/a-arrow-up.png)
   static const IconData icon_a_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54,11 +62,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `a large small`
+  /// 
+  /// ![a large small](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/a-large-small.png)
   static const IconData icon_a_large_small = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -74,11 +86,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `accessibility`
+  /// 
+  /// ![accessibility](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/accessibility.png)
   static const IconData icon_accessibility = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -115,11 +131,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `activity`
+  /// 
+  /// ![activity](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/activity.png)
   static const IconData icon_activity = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -135,11 +155,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `air vent`
+  /// 
+  /// ![air vent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/air-vent.png)
   static const IconData icon_air_vent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -155,11 +179,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `airplay`
+  /// 
+  /// ![airplay](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/airplay.png)
   static const IconData icon_airplay = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -188,11 +216,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `alarm clock`
+  /// 
+  /// ![alarm clock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-clock.png)
   static const IconData icon_alarm_clock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -223,11 +255,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `alarm clock check`
+  /// 
+  /// ![alarm clock check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-clock-check.png)
   static const IconData icon_alarm_clock_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -258,11 +294,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `alarm clock minus`
+  /// 
+  /// ![alarm clock minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-clock-minus.png)
   static const IconData icon_alarm_clock_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -293,11 +333,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `alarm clock off`
+  /// 
+  /// ![alarm clock off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-clock-off.png)
   static const IconData icon_alarm_clock_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -313,11 +357,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `alarm clock plus`
+  /// 
+  /// ![alarm clock plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-clock-plus.png)
   static const IconData icon_alarm_clock_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -348,11 +396,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `alarm smoke`
+  /// 
+  /// ![alarm smoke](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-smoke.png)
   static const IconData icon_alarm_smoke = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -368,11 +420,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `album`
+  /// 
+  /// ![album](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/album.png)
   static const IconData icon_album = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -406,11 +462,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align center`
+  /// 
+  /// ![align center](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-center.png)
   static const IconData icon_align_center = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -426,11 +486,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align center horizontal`
+  /// 
+  /// ![align center horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-center-horizontal.png)
   static const IconData icon_align_center_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -446,11 +510,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align center vertical`
+  /// 
+  /// ![align center vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-center-vertical.png)
   static const IconData icon_align_center_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -466,11 +534,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align end horizontal`
+  /// 
+  /// ![align end horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-end-horizontal.png)
   static const IconData icon_align_end_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -513,11 +585,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align end vertical`
+  /// 
+  /// ![align end vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-end-vertical.png)
   static const IconData icon_align_end_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -560,11 +636,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align horizontal distribute center`
+  /// 
+  /// ![align horizontal distribute center](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-distribute-center.png)
   static const IconData icon_align_horizontal_distribute_center = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -607,11 +687,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align horizontal distribute end`
+  /// 
+  /// ![align horizontal distribute end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-distribute-end.png)
   static const IconData icon_align_horizontal_distribute_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -654,11 +738,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align horizontal distribute start`
+  /// 
+  /// ![align horizontal distribute start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-distribute-start.png)
   static const IconData icon_align_horizontal_distribute_start = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -701,11 +789,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align horizontal justify center`
+  /// 
+  /// ![align horizontal justify center](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-justify-center.png)
   static const IconData icon_align_horizontal_justify_center = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -748,11 +840,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align horizontal justify end`
+  /// 
+  /// ![align horizontal justify end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-justify-end.png)
   static const IconData icon_align_horizontal_justify_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -795,11 +891,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align horizontal justify start`
+  /// 
+  /// ![align horizontal justify start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-justify-start.png)
   static const IconData icon_align_horizontal_justify_start = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -842,11 +942,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align horizontal space around`
+  /// 
+  /// ![align horizontal space around](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-space-around.png)
   static const IconData icon_align_horizontal_space_around = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -879,11 +983,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align horizontal space between`
+  /// 
+  /// ![align horizontal space between](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-space-between.png)
   static const IconData icon_align_horizontal_space_between = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -926,11 +1034,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align justify`
+  /// 
+  /// ![align justify](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-justify.png)
   static const IconData icon_align_justify = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -946,11 +1058,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align left`
+  /// 
+  /// ![align left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-left.png)
   static const IconData icon_align_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -966,11 +1082,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align right`
+  /// 
+  /// ![align right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-right.png)
   static const IconData icon_align_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -986,11 +1106,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align start horizontal`
+  /// 
+  /// ![align start horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-start-horizontal.png)
   static const IconData icon_align_start_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1033,11 +1157,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align start vertical`
+  /// 
+  /// ![align start vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-start-vertical.png)
   static const IconData icon_align_start_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1080,11 +1208,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align vertical distribute center`
+  /// 
+  /// ![align vertical distribute center](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-vertical-distribute-center.png)
   static const IconData icon_align_vertical_distribute_center = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1127,11 +1259,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align vertical distribute end`
+  /// 
+  /// ![align vertical distribute end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-vertical-distribute-end.png)
   static const IconData icon_align_vertical_distribute_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1174,11 +1310,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align vertical distribute start`
+  /// 
+  /// ![align vertical distribute start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-vertical-distribute-start.png)
   static const IconData icon_align_vertical_distribute_start = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1221,11 +1361,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align vertical justify center`
+  /// 
+  /// ![align vertical justify center](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-vertical-justify-center.png)
   static const IconData icon_align_vertical_justify_center = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1268,11 +1412,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align vertical justify end`
+  /// 
+  /// ![align vertical justify end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-vertical-justify-end.png)
   static const IconData icon_align_vertical_justify_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1315,11 +1463,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align vertical justify start`
+  /// 
+  /// ![align vertical justify start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-vertical-justify-start.png)
   static const IconData icon_align_vertical_justify_start = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1362,11 +1514,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align vertical space around`
+  /// 
+  /// ![align vertical space around](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-vertical-space-around.png)
   static const IconData icon_align_vertical_space_around = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1399,11 +1555,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `align vertical space between`
+  /// 
+  /// ![align vertical space between](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-vertical-space-between.png)
   static const IconData icon_align_vertical_space_between = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1446,11 +1606,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ambulance`
+  /// 
+  /// ![ambulance](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ambulance.png)
   static const IconData icon_ambulance = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1489,11 +1653,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ampersand`
+  /// 
+  /// ![ampersand](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ampersand.png)
   static const IconData icon_ampersand = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1509,11 +1677,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ampersands`
+  /// 
+  /// ![ampersands](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ampersands.png)
   static const IconData icon_ampersands = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1529,11 +1701,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `amphora`
+  /// 
+  /// ![amphora](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/amphora.png)
   static const IconData icon_amphora = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1568,11 +1744,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `anchor`
+  /// 
+  /// ![anchor](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/anchor.png)
   static const IconData icon_anchor = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1603,11 +1783,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `angry`
+  /// 
+  /// ![angry](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/angry.png)
   static const IconData icon_angry = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1638,11 +1822,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `annoyed`
+  /// 
+  /// ![annoyed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/annoyed.png)
   static const IconData icon_annoyed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1673,11 +1861,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `antenna`
+  /// 
+  /// ![antenna](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/antenna.png)
   static const IconData icon_antenna = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1693,11 +1885,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `anvil`
+  /// 
+  /// ![anvil](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/anvil.png)
   static const IconData icon_anvil = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1713,11 +1909,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `aperture`
+  /// 
+  /// ![aperture](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/aperture.png)
   static const IconData icon_aperture = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1748,11 +1948,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `app window`
+  /// 
+  /// ![app window](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/app-window.png)
   static const IconData icon_app_window = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1785,11 +1989,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `app window mac`
+  /// 
+  /// ![app window mac](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/app-window-mac.png)
   static const IconData icon_app_window_mac = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1822,11 +2030,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `apple`
+  /// 
+  /// ![apple](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/apple.png)
   static const IconData icon_apple = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1855,11 +2067,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `archive`
+  /// 
+  /// ![archive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/archive.png)
   static const IconData icon_archive = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1892,11 +2108,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `archive restore`
+  /// 
+  /// ![archive restore](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/archive-restore.png)
   static const IconData icon_archive_restore = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1929,11 +2149,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `archive x`
+  /// 
+  /// ![archive x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/archive-x.png)
   static const IconData icon_archive_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1966,11 +2190,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `area chart`
+  /// 
+  /// ![area chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/area-chart.png)
   static const IconData icon_area_chart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -1999,11 +2227,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `armchair`
+  /// 
+  /// ![armchair](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/armchair.png)
   static const IconData icon_armchair = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2032,11 +2264,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow big down`
+  /// 
+  /// ![arrow big down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-big-down.png)
   static const IconData icon_arrow_big_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2047,16 +2283,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M15 11a1 1 0 0 0 1 1h2.939a1 1 0 0 1 .75 1.811l-6.835 6.836a1.207 1.207 0 0 1-1.707 0L4.31 13.81a1 1 0 0 1 .75-1.811H8a1 1 0 0 0 1-1V5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1z",
+          'd': "M9 5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v6a1 1 0 0 0 1 1h3.293a.707.707 0 0 1 .5 1.207l-7.086 7.086a1 1 0 0 1-1.414 0l-7.086-7.086a.707.707 0 0 1 .5-1.207H8a1 1 0 0 0 1-1z",
       },
     },
   ]);
 
+  /// Lucide icon named `arrow big down dash`
+  /// 
+  /// ![arrow big down dash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-big-down-dash.png)
   static const IconData icon_arrow_big_down_dash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2067,16 +2307,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M15 11a1 1 0 0 0 1 1h2.939a1 1 0 0 1 .75 1.811l-6.835 6.836a1.207 1.207 0 0 1-1.707 0L4.31 13.81a1 1 0 0 1 .75-1.811H8a1 1 0 0 0 1-1V9a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1zM9 4h6",
+          'd': "M14 8a1 1 0 0 1 1 1v2a1 1 0 0 0 1 1h3.293a.707.707 0 0 1 .5 1.207l-6.939 6.939a1.207 1.207 0 0 1-1.708 0l-6.94-6.94a.707.707 0 0 1 .5-1.206H8a1 1 0 0 0 1-1V9a1 1 0 0 1 1-1zM9 4h6",
       },
     },
   ]);
 
+  /// Lucide icon named `arrow big left`
+  /// 
+  /// ![arrow big left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-big-left.png)
   static const IconData icon_arrow_big_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2087,16 +2331,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M13 9a1 1 0 0 1-1-1V5.061a1 1 0 0 0-1.811-.75l-6.835 6.836a1.207 1.207 0 0 0 0 1.707l6.835 6.835a1 1 0 0 0 1.811-.75V16a1 1 0 0 1 1-1h6a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1z",
+          'd': "M10.793 19.793a.707.707 0 0 0 1.207-.5V16a1 1 0 0 1 1-1h6a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1h-6a1 1 0 0 1-1-1V4.707a.707.707 0 0 0-1.207-.5l-6.94 6.94a1.207 1.207 0 0 0 0 1.707z",
       },
     },
   ]);
 
+  /// Lucide icon named `arrow big left dash`
+  /// 
+  /// ![arrow big left dash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-big-left-dash.png)
   static const IconData icon_arrow_big_left_dash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2107,16 +2355,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M13 9a1 1 0 0 1-1-1V5.061a1 1 0 0 0-1.811-.75l-6.835 6.836a1.207 1.207 0 0 0 0 1.707l6.835 6.835a1 1 0 0 0 1.811-.75V16a1 1 0 0 1 1-1h2a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1zm7 0v6",
+          'd': "M13 9a1 1 0 0 1-1-1V4.707a.707.707 0 0 0-1.207-.5l-6.94 6.94a1.207 1.207 0 0 0 0 1.707l6.94 6.94a.707.707 0 0 0 1.207-.5V16a1 1 0 0 1 1-1h2a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1zm7 0v6",
       },
     },
   ]);
 
+  /// Lucide icon named `arrow big right`
+  /// 
+  /// ![arrow big right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-big-right.png)
   static const IconData icon_arrow_big_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2127,16 +2379,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M11 9a1 1 0 0 0 1-1V5.061a1 1 0 0 1 1.811-.75l6.836 6.836a1.207 1.207 0 0 1 0 1.707l-6.836 6.835a1 1 0 0 1-1.811-.75V16a1 1 0 0 0-1-1H5a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1z",
+          'd': "M13.207 19.793a.707.707 0 0 1-1.207-.5V16a1 1 0 0 0-1-1H5a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1h6a1 1 0 0 0 1-1V4.707a.707.707 0 0 1 1.207-.5l6.94 6.94a1.207 1.207 0 0 1 0 1.707z",
       },
     },
   ]);
 
+  /// Lucide icon named `arrow big right dash`
+  /// 
+  /// ![arrow big right dash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-big-right-dash.png)
   static const IconData icon_arrow_big_right_dash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2147,16 +2403,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M11 9a1 1 0 0 0 1-1V5.061a1 1 0 0 1 1.811-.75l6.836 6.836a1.207 1.207 0 0 1 0 1.707l-6.836 6.835a1 1 0 0 1-1.811-.75V16a1 1 0 0 0-1-1H9a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1zM4 9v6",
+          'd': "M11 9a1 1 0 0 0 1-1V4.707a.707.707 0 0 1 1.207-.5l6.94 6.94a1.207 1.207 0 0 1 0 1.707l-6.94 6.94a.707.707 0 0 1-1.207-.5V16a1 1 0 0 0-1-1H9a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1zM4 9v6",
       },
     },
   ]);
 
+  /// Lucide icon named `arrow big up`
+  /// 
+  /// ![arrow big up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-big-up.png)
   static const IconData icon_arrow_big_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2167,16 +2427,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M9 13a1 1 0 0 0-1-1H5.061a1 1 0 0 1-.75-1.811l6.836-6.835a1.207 1.207 0 0 1 1.707 0l6.835 6.835a1 1 0 0 1-.75 1.811H16a1 1 0 0 0-1 1v6a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1z",
+          'd': "M9 19a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-6a1 1 0 0 1 1-1h3.293a.707.707 0 0 0 .5-1.207l-7.086-7.086a1 1 0 0 0-1.414 0l-7.086 7.086a.707.707 0 0 0 .5 1.207H8a1 1 0 0 1 1 1z",
       },
     },
   ]);
 
+  /// Lucide icon named `arrow big up dash`
+  /// 
+  /// ![arrow big up dash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-big-up-dash.png)
   static const IconData icon_arrow_big_up_dash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2187,16 +2451,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M9 13a1 1 0 0 0-1-1H5.061a1 1 0 0 1-.75-1.811l6.836-6.835a1.207 1.207 0 0 1 1.707 0l6.835 6.835a1 1 0 0 1-.75 1.811H16a1 1 0 0 0-1 1v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1zm0 7h6",
+          'd': "M14 16a1 1 0 0 0 1-1v-2a1 1 0 0 1 1-1h3.293a.707.707 0 0 0 .5-1.207l-6.939-6.939a1.207 1.207 0 0 0-1.708 0l-6.94 6.94a.707.707 0 0 0 .5 1.206H8a1 1 0 0 1 1 1v2a1 1 0 0 0 1 1zm-5 4h6",
       },
     },
   ]);
 
+  /// Lucide icon named `arrow down`
+  /// 
+  /// ![arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down.png)
   static const IconData icon_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2212,11 +2480,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down 0 1`
+  /// 
+  /// ![arrow down 0 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-0-1.png)
   static const IconData icon_arrow_down_0_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2255,11 +2527,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down 1 0`
+  /// 
+  /// ![arrow down 1 0](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-1-0.png)
   static const IconData icon_arrow_down_1_0 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2292,11 +2568,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down a z`
+  /// 
+  /// ![arrow down a z](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-a-z.png)
   static const IconData icon_arrow_down_a_z = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2312,11 +2592,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down from line`
+  /// 
+  /// ![arrow down from line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-from-line.png)
   static const IconData icon_arrow_down_from_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2332,11 +2616,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down left`
+  /// 
+  /// ![arrow down left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-left.png)
   static const IconData icon_arrow_down_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2352,11 +2640,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down narrow wide`
+  /// 
+  /// ![arrow down narrow wide](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-narrow-wide.png)
   static const IconData icon_arrow_down_narrow_wide = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2372,11 +2664,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down right`
+  /// 
+  /// ![arrow down right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-right.png)
   static const IconData icon_arrow_down_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2392,11 +2688,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down to dot`
+  /// 
+  /// ![arrow down to dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-to-dot.png)
   static const IconData icon_arrow_down_to_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2427,11 +2727,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down to line`
+  /// 
+  /// ![arrow down to line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-to-line.png)
   static const IconData icon_arrow_down_to_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2447,11 +2751,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down up`
+  /// 
+  /// ![arrow down up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-up.png)
   static const IconData icon_arrow_down_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2467,11 +2775,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down wide narrow`
+  /// 
+  /// ![arrow down wide narrow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-wide-narrow.png)
   static const IconData icon_arrow_down_wide_narrow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2487,11 +2799,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow down z a`
+  /// 
+  /// ![arrow down z a](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-z-a.png)
   static const IconData icon_arrow_down_z_a = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2507,11 +2823,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow left`
+  /// 
+  /// ![arrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-left.png)
   static const IconData icon_arrow_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2527,11 +2847,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow left from line`
+  /// 
+  /// ![arrow left from line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-left-from-line.png)
   static const IconData icon_arrow_left_from_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2547,11 +2871,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow left right`
+  /// 
+  /// ![arrow left right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-left-right.png)
   static const IconData icon_arrow_left_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2567,11 +2895,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow left to line`
+  /// 
+  /// ![arrow left to line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-left-to-line.png)
   static const IconData icon_arrow_left_to_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2587,11 +2919,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow right`
+  /// 
+  /// ![arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-right.png)
   static const IconData icon_arrow_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2607,11 +2943,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow right from line`
+  /// 
+  /// ![arrow right from line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-right-from-line.png)
   static const IconData icon_arrow_right_from_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2627,11 +2967,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow right left`
+  /// 
+  /// ![arrow right left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-right-left.png)
   static const IconData icon_arrow_right_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2647,11 +2991,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow right to line`
+  /// 
+  /// ![arrow right to line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-right-to-line.png)
   static const IconData icon_arrow_right_to_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2667,11 +3015,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up`
+  /// 
+  /// ![arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up.png)
   static const IconData icon_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2687,11 +3039,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up 0 1`
+  /// 
+  /// ![arrow up 0 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-0-1.png)
   static const IconData icon_arrow_up_0_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2730,11 +3086,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up 1 0`
+  /// 
+  /// ![arrow up 1 0](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-1-0.png)
   static const IconData icon_arrow_up_1_0 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2767,11 +3127,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up a z`
+  /// 
+  /// ![arrow up a z](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-a-z.png)
   static const IconData icon_arrow_up_a_z = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2787,11 +3151,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up down`
+  /// 
+  /// ![arrow up down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-down.png)
   static const IconData icon_arrow_up_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2807,11 +3175,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up from dot`
+  /// 
+  /// ![arrow up from dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-from-dot.png)
   static const IconData icon_arrow_up_from_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2842,11 +3214,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up from line`
+  /// 
+  /// ![arrow up from line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-from-line.png)
   static const IconData icon_arrow_up_from_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2862,11 +3238,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up left`
+  /// 
+  /// ![arrow up left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-left.png)
   static const IconData icon_arrow_up_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2882,11 +3262,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up narrow wide`
+  /// 
+  /// ![arrow up narrow wide](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-narrow-wide.png)
   static const IconData icon_arrow_up_narrow_wide = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2902,11 +3286,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up right`
+  /// 
+  /// ![arrow up right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-right.png)
   static const IconData icon_arrow_up_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2922,11 +3310,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up to line`
+  /// 
+  /// ![arrow up to line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-to-line.png)
   static const IconData icon_arrow_up_to_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2942,11 +3334,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up wide narrow`
+  /// 
+  /// ![arrow up wide narrow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-wide-narrow.png)
   static const IconData icon_arrow_up_wide_narrow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2962,11 +3358,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrow up z a`
+  /// 
+  /// ![arrow up z a](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-z-a.png)
   static const IconData icon_arrow_up_z_a = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -2982,11 +3382,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `arrows up from line`
+  /// 
+  /// ![arrows up from line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrows-up-from-line.png)
   static const IconData icon_arrows_up_from_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3002,11 +3406,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `asterisk`
+  /// 
+  /// ![asterisk](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/asterisk.png)
   static const IconData icon_asterisk = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3022,11 +3430,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `at sign`
+  /// 
+  /// ![at sign](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/at-sign.png)
   static const IconData icon_at_sign = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3057,11 +3469,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `atom`
+  /// 
+  /// ![atom](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/atom.png)
   static const IconData icon_atom = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3098,11 +3514,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `audio lines`
+  /// 
+  /// ![audio lines](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/audio-lines.png)
   static const IconData icon_audio_lines = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3118,11 +3538,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `audio waveform`
+  /// 
+  /// ![audio waveform](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/audio-waveform.png)
   static const IconData icon_audio_waveform = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3138,11 +3562,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `award`
+  /// 
+  /// ![award](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/award.png)
   static const IconData icon_award = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3173,11 +3601,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `axe`
+  /// 
+  /// ![axe](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/axe.png)
   static const IconData icon_axe = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3206,11 +3638,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `axis 3d`
+  /// 
+  /// ![axis 3d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/axis-3d.png)
   static const IconData icon_axis_3d = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3226,11 +3662,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `baby`
+  /// 
+  /// ![baby](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/baby.png)
   static const IconData icon_baby = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3259,11 +3699,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `backpack`
+  /// 
+  /// ![backpack](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/backpack.png)
   static const IconData icon_backpack = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3292,11 +3736,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge`
+  /// 
+  /// ![badge](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge.png)
   static const IconData icon_badge = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3312,11 +3760,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge alert`
+  /// 
+  /// ![badge alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-alert.png)
   static const IconData icon_badge_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3332,11 +3784,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge cent`
+  /// 
+  /// ![badge cent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-cent.png)
   static const IconData icon_badge_cent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3365,11 +3821,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge check`
+  /// 
+  /// ![badge check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-check.png)
   static const IconData icon_badge_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3398,11 +3858,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge dollar sign`
+  /// 
+  /// ![badge dollar sign](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-dollar-sign.png)
   static const IconData icon_badge_dollar_sign = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3431,11 +3895,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge euro`
+  /// 
+  /// ![badge euro](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-euro.png)
   static const IconData icon_badge_euro = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3464,11 +3932,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge indian rupee`
+  /// 
+  /// ![badge indian rupee](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-indian-rupee.png)
   static const IconData icon_badge_indian_rupee = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3497,11 +3969,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge info`
+  /// 
+  /// ![badge info](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-info.png)
   static const IconData icon_badge_info = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3517,11 +3993,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge japanese yen`
+  /// 
+  /// ![badge japanese yen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-japanese-yen.png)
   static const IconData icon_badge_japanese_yen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3550,11 +4030,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge minus`
+  /// 
+  /// ![badge minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-minus.png)
   static const IconData icon_badge_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3570,11 +4054,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge percent`
+  /// 
+  /// ![badge percent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-percent.png)
   static const IconData icon_badge_percent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3590,11 +4078,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge plus`
+  /// 
+  /// ![badge plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-plus.png)
   static const IconData icon_badge_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3610,11 +4102,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge pound sterling`
+  /// 
+  /// ![badge pound sterling](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-pound-sterling.png)
   static const IconData icon_badge_pound_sterling = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3643,11 +4139,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge question mark`
+  /// 
+  /// ![badge question mark](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-question-mark.png)
   static const IconData icon_badge_question_mark = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3676,11 +4176,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge russian ruble`
+  /// 
+  /// ![badge russian ruble](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-russian-ruble.png)
   static const IconData icon_badge_russian_ruble = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3709,11 +4213,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge swiss franc`
+  /// 
+  /// ![badge swiss franc](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-swiss-franc.png)
   static const IconData icon_badge_swiss_franc = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3742,11 +4250,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge turkish lira`
+  /// 
+  /// ![badge turkish lira](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-turkish-lira.png)
   static const IconData icon_badge_turkish_lira = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3775,11 +4287,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `badge x`
+  /// 
+  /// ![badge x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-x.png)
   static const IconData icon_badge_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3795,11 +4311,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `baggage claim`
+  /// 
+  /// ![baggage claim](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/baggage-claim.png)
   static const IconData icon_baggage_claim = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3854,11 +4374,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `balloon`
+  /// 
+  /// ![balloon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/balloon.png)
   static const IconData icon_balloon = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3887,11 +4411,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ban`
+  /// 
+  /// ![ban](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ban.png)
   static const IconData icon_ban = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3922,11 +4450,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `banana`
+  /// 
+  /// ![banana](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/banana.png)
   static const IconData icon_banana = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3955,11 +4487,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bandage`
+  /// 
+  /// ![bandage](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bandage.png)
   static const IconData icon_bandage = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -3992,11 +4528,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `banknote`
+  /// 
+  /// ![banknote](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/banknote.png)
   static const IconData icon_banknote = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4037,11 +4577,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `banknote arrow down`
+  /// 
+  /// ![banknote arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/banknote-arrow-down.png)
   static const IconData icon_banknote_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4072,11 +4616,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `banknote arrow up`
+  /// 
+  /// ![banknote arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/banknote-arrow-up.png)
   static const IconData icon_banknote_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4107,11 +4655,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `banknote x`
+  /// 
+  /// ![banknote x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/banknote-x.png)
   static const IconData icon_banknote_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4142,11 +4694,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bar chart 3`
+  /// 
+  /// ![bar chart 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bar-chart-3.png)
   static const IconData icon_bar_chart_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4162,11 +4718,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bar chart 4`
+  /// 
+  /// ![bar chart 4](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bar-chart-4.png)
   static const IconData icon_bar_chart_4 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4182,11 +4742,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bar chart big`
+  /// 
+  /// ![bar chart big](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bar-chart-big.png)
   static const IconData icon_bar_chart_big = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4229,11 +4793,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bar chart horizontal`
+  /// 
+  /// ![bar chart horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bar-chart-horizontal.png)
   static const IconData icon_bar_chart_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4249,11 +4817,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bar chart horizontal big`
+  /// 
+  /// ![bar chart horizontal big](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bar-chart-horizontal-big.png)
   static const IconData icon_bar_chart_horizontal_big = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4296,11 +4868,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `barcode`
+  /// 
+  /// ![barcode](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/barcode.png)
   static const IconData icon_barcode = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4316,11 +4892,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `barrel`
+  /// 
+  /// ![barrel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/barrel.png)
   static const IconData icon_barrel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4349,11 +4929,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `baseline`
+  /// 
+  /// ![baseline](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/baseline.png)
   static const IconData icon_baseline = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4369,11 +4953,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bath`
+  /// 
+  /// ![bath](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bath.png)
   static const IconData icon_bath = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4389,11 +4977,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `battery`
+  /// 
+  /// ![battery](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/battery.png)
   static const IconData icon_battery = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4426,11 +5018,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `battery charging`
+  /// 
+  /// ![battery charging](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/battery-charging.png)
   static const IconData icon_battery_charging = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4446,11 +5042,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `battery full`
+  /// 
+  /// ![battery full](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/battery-full.png)
   static const IconData icon_battery_full = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4483,11 +5083,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `battery low`
+  /// 
+  /// ![battery low](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/battery-low.png)
   static const IconData icon_battery_low = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4520,11 +5124,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `battery medium`
+  /// 
+  /// ![battery medium](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/battery-medium.png)
   static const IconData icon_battery_medium = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4557,11 +5165,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `battery plus`
+  /// 
+  /// ![battery plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/battery-plus.png)
   static const IconData icon_battery_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4577,11 +5189,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `battery warning`
+  /// 
+  /// ![battery warning](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/battery-warning.png)
   static const IconData icon_battery_warning = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4597,11 +5213,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `beaker`
+  /// 
+  /// ![beaker](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/beaker.png)
   static const IconData icon_beaker = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4617,11 +5237,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bean`
+  /// 
+  /// ![bean](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bean.png)
   static const IconData icon_bean = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4650,11 +5274,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bean off`
+  /// 
+  /// ![bean off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bean-off.png)
   static const IconData icon_bean_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4683,11 +5311,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bed`
+  /// 
+  /// ![bed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bed.png)
   static const IconData icon_bed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4703,11 +5335,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bed double`
+  /// 
+  /// ![bed double](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bed-double.png)
   static const IconData icon_bed_double = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4723,11 +5359,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bed single`
+  /// 
+  /// ![bed single](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bed-single.png)
   static const IconData icon_bed_single = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4743,11 +5383,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `beef`
+  /// 
+  /// ![beef](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/beef.png)
   static const IconData icon_beef = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4784,11 +5428,58 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `beef off`
+  /// 
+  /// ![beef off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/beef-off.png)
+  static const IconData icon_beef_off = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'g',
+      'attrs': {
+      },
+      'children': [
+        {
+          'tag': 'path',
+          'attrs': {
+              'd': "M11.771 6.109a2.5 2.5 0 0 1 3.12 3.12",
+          },
+        },
+        {
+          'tag': 'path',
+          'attrs': {
+              'd': "M17.852 12.185a6.5 6.5 0 0 0-9.035-9.04m9.196 14.868C15.029 20.349 10.831 22 7 22a3 3 0 0 1-2.68-1.66L2.4 16.5",
+          },
+        },
+        {
+          'tag': 'path',
+          'attrs': {
+              'd': "m18.5 6l2.19 4.5a6.48 6.48 0 0 1-.139 4.393M2 2l20 20M6.355 6.37a7 7 0 0 0-.075.23c-1.1 3.13-.78 3.9-3.18 6.08A3 3 0 0 0 5 18c3.356 0 6.993-1.267 9.85-3.151",
+          },
+        },
+      ],
+    },
+  ]);
+
+  /// Lucide icon named `beer`
+  /// 
+  /// ![beer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/beer.png)
   static const IconData icon_beer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4817,11 +5508,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `beer off`
+  /// 
+  /// ![beer off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/beer-off.png)
   static const IconData icon_beer_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4850,11 +5545,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bell`
+  /// 
+  /// ![bell](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bell.png)
   static const IconData icon_bell = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4870,11 +5569,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bell dot`
+  /// 
+  /// ![bell dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bell-dot.png)
   static const IconData icon_bell_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4905,11 +5608,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bell electric`
+  /// 
+  /// ![bell electric](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bell-electric.png)
   static const IconData icon_bell_electric = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4958,11 +5665,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bell minus`
+  /// 
+  /// ![bell minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bell-minus.png)
   static const IconData icon_bell_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4978,11 +5689,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bell off`
+  /// 
+  /// ![bell off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bell-off.png)
   static const IconData icon_bell_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -4998,11 +5713,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bell plus`
+  /// 
+  /// ![bell plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bell-plus.png)
   static const IconData icon_bell_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5018,11 +5737,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bell ring`
+  /// 
+  /// ![bell ring](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bell-ring.png)
   static const IconData icon_bell_ring = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5038,11 +5761,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `between horizontal end`
+  /// 
+  /// ![between horizontal end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/between-horizontal-end.png)
   static const IconData icon_between_horizontal_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5085,11 +5812,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `between horizontal start`
+  /// 
+  /// ![between horizontal start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/between-horizontal-start.png)
   static const IconData icon_between_horizontal_start = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5132,11 +5863,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `between vertical end`
+  /// 
+  /// ![between vertical end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/between-vertical-end.png)
   static const IconData icon_between_vertical_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5179,11 +5914,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `between vertical start`
+  /// 
+  /// ![between vertical start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/between-vertical-start.png)
   static const IconData icon_between_vertical_start = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5226,11 +5965,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `biceps flexed`
+  /// 
+  /// ![biceps flexed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/biceps-flexed.png)
   static const IconData icon_biceps_flexed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5265,11 +6008,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bike`
+  /// 
+  /// ![bike](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bike.png)
   static const IconData icon_bike = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5316,11 +6063,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `binary`
+  /// 
+  /// ![binary](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/binary.png)
   static const IconData icon_binary = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5363,11 +6114,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `binoculars`
+  /// 
+  /// ![binoculars](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/binoculars.png)
   static const IconData icon_binoculars = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5383,11 +6138,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `biohazard`
+  /// 
+  /// ![biohazard](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/biohazard.png)
   static const IconData icon_biohazard = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5418,11 +6177,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bird`
+  /// 
+  /// ![bird](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bird.png)
   static const IconData icon_bird = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5451,11 +6214,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `birdhouse`
+  /// 
+  /// ![birdhouse](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/birdhouse.png)
   static const IconData icon_birdhouse = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5486,11 +6253,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bitcoin`
+  /// 
+  /// ![bitcoin](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bitcoin.png)
   static const IconData icon_bitcoin = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5506,11 +6277,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `blend`
+  /// 
+  /// ![blend](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/blend.png)
   static const IconData icon_blend = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5543,11 +6318,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `blinds`
+  /// 
+  /// ![blinds](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/blinds.png)
   static const IconData icon_blinds = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5578,11 +6357,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `blocks`
+  /// 
+  /// ![blocks](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/blocks.png)
   static const IconData icon_blocks = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5615,11 +6398,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bluetooth`
+  /// 
+  /// ![bluetooth](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bluetooth.png)
   static const IconData icon_bluetooth = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5635,11 +6422,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bluetooth connected`
+  /// 
+  /// ![bluetooth connected](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bluetooth-connected.png)
   static const IconData icon_bluetooth_connected = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5655,11 +6446,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bluetooth off`
+  /// 
+  /// ![bluetooth off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bluetooth-off.png)
   static const IconData icon_bluetooth_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5675,11 +6470,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bluetooth searching`
+  /// 
+  /// ![bluetooth searching](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bluetooth-searching.png)
   static const IconData icon_bluetooth_searching = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5695,11 +6494,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bold`
+  /// 
+  /// ![bold](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bold.png)
   static const IconData icon_bold = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5715,11 +6518,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bolt`
+  /// 
+  /// ![bolt](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bolt.png)
   static const IconData icon_bolt = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5750,11 +6557,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bomb`
+  /// 
+  /// ![bomb](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bomb.png)
   static const IconData icon_bomb = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5785,11 +6596,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bone`
+  /// 
+  /// ![bone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bone.png)
   static const IconData icon_bone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5805,11 +6620,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book`
+  /// 
+  /// ![book](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book.png)
   static const IconData icon_book = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5825,11 +6644,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book a`
+  /// 
+  /// ![book a](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-a.png)
   static const IconData icon_book_a = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5858,11 +6681,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book alert`
+  /// 
+  /// ![book alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-alert.png)
   static const IconData icon_book_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5878,11 +6705,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book audio`
+  /// 
+  /// ![book audio](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-audio.png)
   static const IconData icon_book_audio = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5898,11 +6729,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book check`
+  /// 
+  /// ![book check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-check.png)
   static const IconData icon_book_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5931,11 +6766,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book copy`
+  /// 
+  /// ![book copy](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-copy.png)
   static const IconData icon_book_copy = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5964,11 +6803,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book dashed`
+  /// 
+  /// ![book dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-dashed.png)
   static const IconData icon_book_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -5984,11 +6827,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book down`
+  /// 
+  /// ![book down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-down.png)
   static const IconData icon_book_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6017,11 +6864,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book headphones`
+  /// 
+  /// ![book headphones](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-headphones.png)
   static const IconData icon_book_headphones = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6066,11 +6917,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book heart`
+  /// 
+  /// ![book heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-heart.png)
   static const IconData icon_book_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6099,11 +6954,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book image`
+  /// 
+  /// ![book image](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-image.png)
   static const IconData icon_book_image = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6140,11 +6999,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book key`
+  /// 
+  /// ![book key](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-key.png)
   static const IconData icon_book_key = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6181,11 +7044,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book lock`
+  /// 
+  /// ![book lock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-lock.png)
   static const IconData icon_book_lock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6224,11 +7091,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book marked`
+  /// 
+  /// ![book marked](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-marked.png)
   static const IconData icon_book_marked = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6257,11 +7128,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book minus`
+  /// 
+  /// ![book minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-minus.png)
   static const IconData icon_book_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6277,11 +7152,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book open`
+  /// 
+  /// ![book open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-open.png)
   static const IconData icon_book_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6297,11 +7176,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book open check`
+  /// 
+  /// ![book open check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-open-check.png)
   static const IconData icon_book_open_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6330,11 +7213,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book open text`
+  /// 
+  /// ![book open text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-open-text.png)
   static const IconData icon_book_open_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6350,11 +7237,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book plus`
+  /// 
+  /// ![book plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-plus.png)
   static const IconData icon_book_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6370,11 +7261,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book search`
+  /// 
+  /// ![book search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-search.png)
   static const IconData icon_book_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6411,11 +7306,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book text`
+  /// 
+  /// ![book text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-text.png)
   static const IconData icon_book_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6431,11 +7330,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book type`
+  /// 
+  /// ![book type](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-type.png)
   static const IconData icon_book_type = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6464,11 +7367,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book up`
+  /// 
+  /// ![book up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-up.png)
   static const IconData icon_book_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6497,11 +7404,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book up 2`
+  /// 
+  /// ![book up 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-up-2.png)
   static const IconData icon_book_up_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6530,11 +7441,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book user`
+  /// 
+  /// ![book user](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-user.png)
   static const IconData icon_book_user = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6571,11 +7486,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `book x`
+  /// 
+  /// ![book x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-x.png)
   static const IconData icon_book_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6591,11 +7510,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bookmark`
+  /// 
+  /// ![bookmark](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bookmark.png)
   static const IconData icon_bookmark = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6611,11 +7534,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bookmark check`
+  /// 
+  /// ![bookmark check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bookmark-check.png)
   static const IconData icon_bookmark_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6644,11 +7571,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bookmark minus`
+  /// 
+  /// ![bookmark minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bookmark-minus.png)
   static const IconData icon_bookmark_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6664,11 +7595,39 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bookmark off`
+  /// 
+  /// ![bookmark off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bookmark-off.png)
+  static const IconData icon_bookmark_off = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'path',
+      'attrs': {
+          'd': "M19 19v1a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5M2 2l20 20M8.656 3H17a2 2 0 0 1 2 2v8.344",
+      },
+    },
+  ]);
+
+  /// Lucide icon named `bookmark plus`
+  /// 
+  /// ![bookmark plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bookmark-plus.png)
   static const IconData icon_bookmark_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6684,11 +7643,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bookmark x`
+  /// 
+  /// ![bookmark x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bookmark-x.png)
   static const IconData icon_bookmark_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6704,11 +7667,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `boom box`
+  /// 
+  /// ![boom box](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/boom-box.png)
   static const IconData icon_boom_box = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6757,11 +7724,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bot`
+  /// 
+  /// ![bot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bot.png)
   static const IconData icon_bot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6800,11 +7771,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bot message square`
+  /// 
+  /// ![bot message square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bot-message-square.png)
   static const IconData icon_bot_message_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6820,11 +7795,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bot off`
+  /// 
+  /// ![bot off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bot-off.png)
   static const IconData icon_bot_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6840,11 +7819,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bottle wine`
+  /// 
+  /// ![bottle wine](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bottle-wine.png)
   static const IconData icon_bottle_wine = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6873,11 +7856,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bow arrow`
+  /// 
+  /// ![bow arrow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bow-arrow.png)
   static const IconData icon_bow_arrow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6893,11 +7880,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `box`
+  /// 
+  /// ![box](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/box.png)
   static const IconData icon_box = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6926,11 +7917,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `boxes`
+  /// 
+  /// ![boxes](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/boxes.png)
   static const IconData icon_boxes = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6959,11 +7954,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `braces`
+  /// 
+  /// ![braces](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/braces.png)
   static const IconData icon_braces = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6979,11 +7978,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brackets`
+  /// 
+  /// ![brackets](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brackets.png)
   static const IconData icon_brackets = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -6999,11 +8002,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brain`
+  /// 
+  /// ![brain](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brain.png)
   static const IconData icon_brain = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7056,11 +8063,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brain circuit`
+  /// 
+  /// ![brain circuit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brain-circuit.png)
   static const IconData icon_brain_circuit = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7121,11 +8132,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brain cog`
+  /// 
+  /// ![brain cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brain-cog.png)
   static const IconData icon_brain_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7180,11 +8195,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brick wall`
+  /// 
+  /// ![brick wall](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brick-wall.png)
   static const IconData icon_brick_wall = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7217,11 +8236,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brick wall fire`
+  /// 
+  /// ![brick wall fire](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brick-wall-fire.png)
   static const IconData icon_brick_wall_fire = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7250,11 +8273,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brick wall shield`
+  /// 
+  /// ![brick wall shield](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brick-wall-shield.png)
   static const IconData icon_brick_wall_shield = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7283,11 +8310,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `briefcase`
+  /// 
+  /// ![briefcase](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/briefcase.png)
   static const IconData icon_briefcase = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7320,11 +8351,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `briefcase business`
+  /// 
+  /// ![briefcase business](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/briefcase-business.png)
   static const IconData icon_briefcase_business = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7357,11 +8392,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `briefcase conveyor belt`
+  /// 
+  /// ![briefcase conveyor belt](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/briefcase-conveyor-belt.png)
   static const IconData icon_briefcase_conveyor_belt = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7394,11 +8433,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `briefcase medical`
+  /// 
+  /// ![briefcase medical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/briefcase-medical.png)
   static const IconData icon_briefcase_medical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7431,11 +8474,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bring to front`
+  /// 
+  /// ![bring to front](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bring-to-front.png)
   static const IconData icon_bring_to_front = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7468,11 +8515,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brush`
+  /// 
+  /// ![brush](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brush.png)
   static const IconData icon_brush = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7501,11 +8552,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `brush cleaning`
+  /// 
+  /// ![brush cleaning](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/brush-cleaning.png)
   static const IconData icon_brush_cleaning = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7534,11 +8589,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bubbles`
+  /// 
+  /// ![bubbles](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bubbles.png)
   static const IconData icon_bubbles = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7585,11 +8644,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bug`
+  /// 
+  /// ![bug](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bug.png)
   static const IconData icon_bug = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7618,11 +8681,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bug off`
+  /// 
+  /// ![bug off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bug-off.png)
   static const IconData icon_bug_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7651,11 +8718,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bug play`
+  /// 
+  /// ![bug play](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bug-play.png)
   static const IconData icon_bug_play = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7684,11 +8755,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `building`
+  /// 
+  /// ![building](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/building.png)
   static const IconData icon_building = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7721,11 +8796,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `building 2`
+  /// 
+  /// ![building 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/building-2.png)
   static const IconData icon_building_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7760,11 +8839,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bus`
+  /// 
+  /// ![bus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bus.png)
   static const IconData icon_bus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7809,11 +8892,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `bus front`
+  /// 
+  /// ![bus front](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/bus-front.png)
   static const IconData icon_bus_front = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7852,11 +8939,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cable`
+  /// 
+  /// ![cable](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cable.png)
   static const IconData icon_cable = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7891,11 +8982,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cable car`
+  /// 
+  /// ![cable car](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cable-car.png)
   static const IconData icon_cable_car = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7934,11 +9029,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cake`
+  /// 
+  /// ![cake](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cake.png)
   static const IconData icon_cake = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -7967,11 +9066,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cake slice`
+  /// 
+  /// ![cake slice](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cake-slice.png)
   static const IconData icon_cake_slice = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8002,11 +9105,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calculator`
+  /// 
+  /// ![calculator](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calculator.png)
   static const IconData icon_calculator = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8039,11 +9146,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar`
+  /// 
+  /// ![calendar](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar.png)
   static const IconData icon_calendar = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8082,11 +9193,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar 1`
+  /// 
+  /// ![calendar 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-1.png)
   static const IconData icon_calendar_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8119,11 +9234,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar arrow down`
+  /// 
+  /// ![calendar arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-arrow-down.png)
   static const IconData icon_calendar_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8152,11 +9271,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar arrow up`
+  /// 
+  /// ![calendar arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-arrow-up.png)
   static const IconData icon_calendar_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8185,11 +9308,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar check`
+  /// 
+  /// ![calendar check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-check.png)
   static const IconData icon_calendar_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8228,11 +9355,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar check 2`
+  /// 
+  /// ![calendar check 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-check-2.png)
   static const IconData icon_calendar_check_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8248,11 +9379,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar clock`
+  /// 
+  /// ![calendar clock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-clock.png)
   static const IconData icon_calendar_clock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8283,11 +9418,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar cog`
+  /// 
+  /// ![calendar cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-cog.png)
   static const IconData icon_calendar_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8318,11 +9457,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar days`
+  /// 
+  /// ![calendar days](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-days.png)
   static const IconData icon_calendar_days = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8361,11 +9504,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar fold`
+  /// 
+  /// ![calendar fold](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-fold.png)
   static const IconData icon_calendar_fold = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8394,11 +9541,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar heart`
+  /// 
+  /// ![calendar heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-heart.png)
   static const IconData icon_calendar_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8427,11 +9578,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar minus`
+  /// 
+  /// ![calendar minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-minus.png)
   static const IconData icon_calendar_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8447,11 +9602,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar minus 2`
+  /// 
+  /// ![calendar minus 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-minus-2.png)
   static const IconData icon_calendar_minus_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8490,11 +9649,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar off`
+  /// 
+  /// ![calendar off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-off.png)
   static const IconData icon_calendar_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8510,11 +9673,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar plus`
+  /// 
+  /// ![calendar plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-plus.png)
   static const IconData icon_calendar_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8530,11 +9697,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar plus 2`
+  /// 
+  /// ![calendar plus 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-plus-2.png)
   static const IconData icon_calendar_plus_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8573,11 +9744,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar range`
+  /// 
+  /// ![calendar range](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-range.png)
   static const IconData icon_calendar_range = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8610,11 +9785,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar search`
+  /// 
+  /// ![calendar search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-search.png)
   static const IconData icon_calendar_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8645,11 +9824,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar sync`
+  /// 
+  /// ![calendar sync](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-sync.png)
   static const IconData icon_calendar_sync = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8684,11 +9867,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar x`
+  /// 
+  /// ![calendar x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-x.png)
   static const IconData icon_calendar_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8727,11 +9914,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendar x 2`
+  /// 
+  /// ![calendar x 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendar-x-2.png)
   static const IconData icon_calendar_x_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8747,11 +9938,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `calendars`
+  /// 
+  /// ![calendars](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/calendars.png)
   static const IconData icon_calendars = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8784,11 +9979,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `camera`
+  /// 
+  /// ![camera](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/camera.png)
   static const IconData icon_camera = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8819,11 +10018,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `camera off`
+  /// 
+  /// ![camera off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/camera-off.png)
   static const IconData icon_camera_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8852,11 +10055,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `candlestick chart`
+  /// 
+  /// ![candlestick chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/candlestick-chart.png)
   static const IconData icon_candlestick_chart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8911,11 +10118,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `candy`
+  /// 
+  /// ![candy](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/candy.png)
   static const IconData icon_candy = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8950,11 +10161,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `candy cane`
+  /// 
+  /// ![candy cane](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/candy-cane.png)
   static const IconData icon_candy_cane = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -8970,11 +10185,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `candy off`
+  /// 
+  /// ![candy off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/candy-off.png)
   static const IconData icon_candy_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9003,11 +10222,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cannabis`
+  /// 
+  /// ![cannabis](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cannabis.png)
   static const IconData icon_cannabis = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9023,11 +10246,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cannabis off`
+  /// 
+  /// ![cannabis off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cannabis-off.png)
   static const IconData icon_cannabis_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9043,11 +10270,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `captions`
+  /// 
+  /// ![captions](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/captions.png)
   static const IconData icon_captions = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9081,11 +10312,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `captions off`
+  /// 
+  /// ![captions off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/captions-off.png)
   static const IconData icon_captions_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9101,11 +10336,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `car`
+  /// 
+  /// ![car](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/car.png)
   static const IconData icon_car = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9150,11 +10389,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `car front`
+  /// 
+  /// ![car front](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/car-front.png)
   static const IconData icon_car_front = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9193,11 +10436,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `car taxi front`
+  /// 
+  /// ![car taxi front](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/car-taxi-front.png)
   static const IconData icon_car_taxi_front = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9236,11 +10483,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `caravan`
+  /// 
+  /// ![caravan](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/caravan.png)
   static const IconData icon_caravan = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9277,11 +10528,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `card sim`
+  /// 
+  /// ![card sim](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/card-sim.png)
   static const IconData icon_card_sim = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9314,11 +10569,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `carrot`
+  /// 
+  /// ![carrot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/carrot.png)
   static const IconData icon_carrot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9353,11 +10612,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `case lower`
+  /// 
+  /// ![case lower](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/case-lower.png)
   static const IconData icon_case_lower = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9396,11 +10659,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `case sensitive`
+  /// 
+  /// ![case sensitive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/case-sensitive.png)
   static const IconData icon_case_sensitive = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9431,11 +10698,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `case upper`
+  /// 
+  /// ![case upper](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/case-upper.png)
   static const IconData icon_case_upper = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9451,11 +10722,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cassette tape`
+  /// 
+  /// ![cassette tape](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cassette-tape.png)
   static const IconData icon_cassette_tape = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9510,11 +10785,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cast`
+  /// 
+  /// ![cast](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cast.png)
   static const IconData icon_cast = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9530,11 +10809,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `castle`
+  /// 
+  /// ![castle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/castle.png)
   static const IconData icon_castle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9563,11 +10846,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cat`
+  /// 
+  /// ![cat](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cat.png)
   static const IconData icon_cat = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9596,11 +10883,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cctv`
+  /// 
+  /// ![cctv](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cctv.png)
   static const IconData icon_cctv = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9616,11 +10907,52 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cctv off`
+  /// 
+  /// ![cctv off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cctv-off.png)
+  static const IconData icon_cctv_off = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'g',
+      'attrs': {
+      },
+      'children': [
+        {
+          'tag': 'path',
+          'attrs': {
+              'd': "m12.309 6.652l4.797 2.401a1 1 0 0 1 .447 1.341l-.501 1.001l.605.605h2.725a1 1 0 0 1 .894 1.447l-.724 1.448m-5.386.271l-.719 1.439a1 1 0 0 1-1.342.447L3.61 12.3a2.92 2.92 0 0 1-1.3-3.91L3.69 5.6a2.9 2.9 0 0 1 .873-1.037",
+          },
+        },
+        {
+          'tag': 'path',
+          'attrs': {
+              'd': "M2 19h3.76a2 2 0 0 0 1.8-1.1l1.441-2.902M2 2l20 20M2 21v-4m5-8h.01",
+          },
+        },
+      ],
+    },
+  ]);
+
+  /// Lucide icon named `chart area`
+  /// 
+  /// ![chart area](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-area.png)
   static const IconData icon_chart_area = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9649,11 +10981,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart bar`
+  /// 
+  /// ![chart bar](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-bar.png)
   static const IconData icon_chart_bar = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9669,11 +11005,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart bar big`
+  /// 
+  /// ![chart bar big](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-bar-big.png)
   static const IconData icon_chart_bar_big = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9716,11 +11056,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart bar decreasing`
+  /// 
+  /// ![chart bar decreasing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-bar-decreasing.png)
   static const IconData icon_chart_bar_decreasing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9736,11 +11080,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart bar increasing`
+  /// 
+  /// ![chart bar increasing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-bar-increasing.png)
   static const IconData icon_chart_bar_increasing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9756,11 +11104,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart bar stacked`
+  /// 
+  /// ![chart bar stacked](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-bar-stacked.png)
   static const IconData icon_chart_bar_stacked = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9803,11 +11155,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart candlestick`
+  /// 
+  /// ![chart candlestick](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-candlestick.png)
   static const IconData icon_chart_candlestick = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9862,11 +11218,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart column`
+  /// 
+  /// ![chart column](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-column.png)
   static const IconData icon_chart_column = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9882,11 +11242,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart column big`
+  /// 
+  /// ![chart column big](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-column-big.png)
   static const IconData icon_chart_column_big = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9929,11 +11293,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart column decreasing`
+  /// 
+  /// ![chart column decreasing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-column-decreasing.png)
   static const IconData icon_chart_column_decreasing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9949,11 +11317,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart column increasing`
+  /// 
+  /// ![chart column increasing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-column-increasing.png)
   static const IconData icon_chart_column_increasing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -9969,11 +11341,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart column stacked`
+  /// 
+  /// ![chart column stacked](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-column-stacked.png)
   static const IconData icon_chart_column_stacked = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10016,11 +11392,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart gantt`
+  /// 
+  /// ![chart gantt](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-gantt.png)
   static const IconData icon_chart_gantt = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10036,11 +11416,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart line`
+  /// 
+  /// ![chart line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-line.png)
   static const IconData icon_chart_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10069,11 +11453,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart network`
+  /// 
+  /// ![chart network](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-network.png)
   static const IconData icon_chart_network = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10120,11 +11508,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart no axes column`
+  /// 
+  /// ![chart no axes column](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-no-axes-column.png)
   static const IconData icon_chart_no_axes_column = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10140,11 +11532,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart no axes column decreasing`
+  /// 
+  /// ![chart no axes column decreasing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-no-axes-column-decreasing.png)
   static const IconData icon_chart_no_axes_column_decreasing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10160,11 +11556,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart no axes column increasing`
+  /// 
+  /// ![chart no axes column increasing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-no-axes-column-increasing.png)
   static const IconData icon_chart_no_axes_column_increasing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10180,11 +11580,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart no axes combined`
+  /// 
+  /// ![chart no axes combined](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-no-axes-combined.png)
   static const IconData icon_chart_no_axes_combined = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10200,11 +11604,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart no axes gantt`
+  /// 
+  /// ![chart no axes gantt](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-no-axes-gantt.png)
   static const IconData icon_chart_no_axes_gantt = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10220,11 +11628,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart pie`
+  /// 
+  /// ![chart pie](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-pie.png)
   static const IconData icon_chart_pie = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10253,11 +11665,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart scatter`
+  /// 
+  /// ![chart scatter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-scatter.png)
   static const IconData icon_chart_scatter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10325,11 +11741,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chart spline`
+  /// 
+  /// ![chart spline](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-spline.png)
   static const IconData icon_chart_spline = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10358,11 +11778,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `check`
+  /// 
+  /// ![check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/check.png)
   static const IconData icon_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10378,11 +11802,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `check check`
+  /// 
+  /// ![check check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/check-check.png)
   static const IconData icon_check_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10398,11 +11826,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `check line`
+  /// 
+  /// ![check line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/check-line.png)
   static const IconData icon_check_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10418,11 +11850,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chef hat`
+  /// 
+  /// ![chef hat](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chef-hat.png)
   static const IconData icon_chef_hat = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10438,11 +11874,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cherry`
+  /// 
+  /// ![cherry](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cherry.png)
   static const IconData icon_cherry = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10477,11 +11917,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chess bishop`
+  /// 
+  /// ![chess bishop](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chess-bishop.png)
   static const IconData icon_chess_bishop = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10497,11 +11941,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chess king`
+  /// 
+  /// ![chess king](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chess-king.png)
   static const IconData icon_chess_king = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10517,11 +11965,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chess knight`
+  /// 
+  /// ![chess knight](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chess-knight.png)
   static const IconData icon_chess_knight = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10537,11 +11989,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chess pawn`
+  /// 
+  /// ![chess pawn](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chess-pawn.png)
   static const IconData icon_chess_pawn = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10572,11 +12028,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chess queen`
+  /// 
+  /// ![chess queen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chess-queen.png)
   static const IconData icon_chess_queen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10623,11 +12083,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chess rook`
+  /// 
+  /// ![chess rook](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chess-rook.png)
   static const IconData icon_chess_rook = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10643,11 +12107,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevron down`
+  /// 
+  /// ![chevron down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevron-down.png)
   static const IconData icon_chevron_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10663,11 +12131,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevron first`
+  /// 
+  /// ![chevron first](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevron-first.png)
   static const IconData icon_chevron_first = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10683,11 +12155,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevron last`
+  /// 
+  /// ![chevron last](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevron-last.png)
   static const IconData icon_chevron_last = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10703,11 +12179,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevron left`
+  /// 
+  /// ![chevron left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevron-left.png)
   static const IconData icon_chevron_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10723,11 +12203,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevron right`
+  /// 
+  /// ![chevron right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevron-right.png)
   static const IconData icon_chevron_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10743,11 +12227,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevron up`
+  /// 
+  /// ![chevron up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevron-up.png)
   static const IconData icon_chevron_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10763,11 +12251,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons down`
+  /// 
+  /// ![chevrons down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-down.png)
   static const IconData icon_chevrons_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10783,11 +12275,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons down up`
+  /// 
+  /// ![chevrons down up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-down-up.png)
   static const IconData icon_chevrons_down_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10803,11 +12299,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons left`
+  /// 
+  /// ![chevrons left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-left.png)
   static const IconData icon_chevrons_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10823,11 +12323,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons left right`
+  /// 
+  /// ![chevrons left right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-left-right.png)
   static const IconData icon_chevrons_left_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10843,11 +12347,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons left right ellipsis`
+  /// 
+  /// ![chevrons left right ellipsis](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-left-right-ellipsis.png)
   static const IconData icon_chevrons_left_right_ellipsis = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10863,11 +12371,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons right`
+  /// 
+  /// ![chevrons right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-right.png)
   static const IconData icon_chevrons_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10883,11 +12395,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons right left`
+  /// 
+  /// ![chevrons right left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-right-left.png)
   static const IconData icon_chevrons_right_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10903,11 +12419,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons up`
+  /// 
+  /// ![chevrons up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-up.png)
   static const IconData icon_chevrons_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10923,11 +12443,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chevrons up down`
+  /// 
+  /// ![chevrons up down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chevrons-up-down.png)
   static const IconData icon_chevrons_up_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10943,11 +12467,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chrome`
+  /// 
+  /// ![chrome](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chrome.png)
   static const IconData icon_chrome = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -10986,11 +12514,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `chromium`
+  /// 
+  /// ![chromium](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chromium.png)
   static const IconData icon_chromium = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11029,11 +12561,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `church`
+  /// 
+  /// ![church](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/church.png)
   static const IconData icon_church = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11068,11 +12604,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cigarette`
+  /// 
+  /// ![cigarette](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cigarette.png)
   static const IconData icon_cigarette = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11088,11 +12628,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cigarette off`
+  /// 
+  /// ![cigarette off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cigarette-off.png)
   static const IconData icon_cigarette_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11108,7 +12652,17 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle`
+  /// 
+  /// ![circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle.png)
   static const IconData icon_circle = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+      },
+    },
     {
       'tag': 'circle',
       'attrs': {
@@ -11124,11 +12678,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle alert`
+  /// 
+  /// ![circle alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-alert.png)
   static const IconData icon_circle_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11159,11 +12717,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle arrow down`
+  /// 
+  /// ![circle arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-down.png)
   static const IconData icon_circle_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11194,11 +12756,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle arrow left`
+  /// 
+  /// ![circle arrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-left.png)
   static const IconData icon_circle_arrow_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11229,11 +12795,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle arrow out down left`
+  /// 
+  /// ![circle arrow out down left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-out-down-left.png)
   static const IconData icon_circle_arrow_out_down_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11249,11 +12819,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle arrow out down right`
+  /// 
+  /// ![circle arrow out down right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-out-down-right.png)
   static const IconData icon_circle_arrow_out_down_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11269,11 +12843,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle arrow out up left`
+  /// 
+  /// ![circle arrow out up left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-out-up-left.png)
   static const IconData icon_circle_arrow_out_up_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11289,11 +12867,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle arrow out up right`
+  /// 
+  /// ![circle arrow out up right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-out-up-right.png)
   static const IconData icon_circle_arrow_out_up_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11309,11 +12891,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle arrow right`
+  /// 
+  /// ![circle arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-right.png)
   static const IconData icon_circle_arrow_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11344,11 +12930,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle arrow up`
+  /// 
+  /// ![circle arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-up.png)
   static const IconData icon_circle_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11379,11 +12969,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle check`
+  /// 
+  /// ![circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-check.png)
   static const IconData icon_circle_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11414,11 +13008,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle check big`
+  /// 
+  /// ![circle check big](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-check-big.png)
   static const IconData icon_circle_check_big = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11447,11 +13045,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle chevron down`
+  /// 
+  /// ![circle chevron down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-chevron-down.png)
   static const IconData icon_circle_chevron_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11482,11 +13084,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle chevron left`
+  /// 
+  /// ![circle chevron left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-chevron-left.png)
   static const IconData icon_circle_chevron_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11517,11 +13123,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle chevron right`
+  /// 
+  /// ![circle chevron right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-chevron-right.png)
   static const IconData icon_circle_chevron_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11552,11 +13162,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle chevron up`
+  /// 
+  /// ![circle chevron up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-chevron-up.png)
   static const IconData icon_circle_chevron_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11587,11 +13201,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle dashed`
+  /// 
+  /// ![circle dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-dashed.png)
   static const IconData icon_circle_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11607,11 +13225,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle divide`
+  /// 
+  /// ![circle divide](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-divide.png)
   static const IconData icon_circle_divide = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11642,11 +13264,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle dollar sign`
+  /// 
+  /// ![circle dollar sign](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-dollar-sign.png)
   static const IconData icon_circle_dollar_sign = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11677,11 +13303,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle dot`
+  /// 
+  /// ![circle dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-dot.png)
   static const IconData icon_circle_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11714,11 +13344,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle dot dashed`
+  /// 
+  /// ![circle dot dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-dot-dashed.png)
   static const IconData icon_circle_dot_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11749,11 +13383,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle ellipsis`
+  /// 
+  /// ![circle ellipsis](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-ellipsis.png)
   static const IconData icon_circle_ellipsis = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11784,11 +13422,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle equal`
+  /// 
+  /// ![circle equal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-equal.png)
   static const IconData icon_circle_equal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11819,11 +13461,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle fading arrow up`
+  /// 
+  /// ![circle fading arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-fading-arrow-up.png)
   static const IconData icon_circle_fading_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11839,11 +13485,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle fading plus`
+  /// 
+  /// ![circle fading plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-fading-plus.png)
   static const IconData icon_circle_fading_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11859,11 +13509,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle gauge`
+  /// 
+  /// ![circle gauge](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-gauge.png)
   static const IconData icon_circle_gauge = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11900,11 +13554,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle minus`
+  /// 
+  /// ![circle minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-minus.png)
   static const IconData icon_circle_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11935,11 +13593,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle off`
+  /// 
+  /// ![circle off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-off.png)
   static const IconData icon_circle_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11955,11 +13617,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle parking`
+  /// 
+  /// ![circle parking](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-parking.png)
   static const IconData icon_circle_parking = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -11990,11 +13656,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle parking off`
+  /// 
+  /// ![circle parking off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-parking-off.png)
   static const IconData icon_circle_parking_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12023,11 +13693,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle pause`
+  /// 
+  /// ![circle pause](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-pause.png)
   static const IconData icon_circle_pause = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12058,11 +13732,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle percent`
+  /// 
+  /// ![circle percent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-percent.png)
   static const IconData icon_circle_percent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12093,11 +13771,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle pile`
+  /// 
+  /// ![circle pile](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-pile.png)
   static const IconData icon_circle_pile = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12162,11 +13844,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle play`
+  /// 
+  /// ![circle play](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-play.png)
   static const IconData icon_circle_play = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12197,11 +13883,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle plus`
+  /// 
+  /// ![circle plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-plus.png)
   static const IconData icon_circle_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12232,11 +13922,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle pound sterling`
+  /// 
+  /// ![circle pound sterling](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-pound-sterling.png)
   static const IconData icon_circle_pound_sterling = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12267,11 +13961,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle power`
+  /// 
+  /// ![circle power](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-power.png)
   static const IconData icon_circle_power = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12302,11 +14000,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle question mark`
+  /// 
+  /// ![circle question mark](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-question-mark.png)
   static const IconData icon_circle_question_mark = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12337,11 +14039,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle slash`
+  /// 
+  /// ![circle slash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-slash.png)
   static const IconData icon_circle_slash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12372,11 +14078,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle slash 2`
+  /// 
+  /// ![circle slash 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-slash-2.png)
   static const IconData icon_circle_slash_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12407,7 +14117,17 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle small`
+  /// 
+  /// ![circle small](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-small.png)
   static const IconData icon_circle_small = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+      },
+    },
     {
       'tag': 'circle',
       'attrs': {
@@ -12423,11 +14143,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle star`
+  /// 
+  /// ![circle star](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-star.png)
   static const IconData icon_circle_star = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12458,11 +14182,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle stop`
+  /// 
+  /// ![circle stop](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-stop.png)
   static const IconData icon_circle_stop = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12497,11 +14225,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle user`
+  /// 
+  /// ![circle user](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-user.png)
   static const IconData icon_circle_user = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12540,11 +14272,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle user round`
+  /// 
+  /// ![circle user round](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-user-round.png)
   static const IconData icon_circle_user_round = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12560,14 +14296,14 @@ class LucideIcons {
         {
           'tag': 'path',
           'attrs': {
-              'd': "M18 20a6 6 0 0 0-12 0",
+              'd': "M17.925 20.056a6 6 0 0 0-11.851.001",
           },
         },
         {
           'tag': 'circle',
           'attrs': {
               'cx': "12",
-              'cy': "10",
+              'cy': "11",
               'r': "4",
           },
         },
@@ -12583,11 +14319,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circle x`
+  /// 
+  /// ![circle x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-x.png)
   static const IconData icon_circle_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12618,11 +14358,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `circuit board`
+  /// 
+  /// ![circuit board](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circuit-board.png)
   static const IconData icon_circuit_board = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12677,11 +14421,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `citrus`
+  /// 
+  /// ![citrus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/citrus.png)
   static const IconData icon_citrus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12716,11 +14464,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clapperboard`
+  /// 
+  /// ![clapperboard](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clapperboard.png)
   static const IconData icon_clapperboard = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12736,11 +14488,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard`
+  /// 
+  /// ![clipboard](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard.png)
   static const IconData icon_clipboard = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12774,11 +14530,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard check`
+  /// 
+  /// ![clipboard check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-check.png)
   static const IconData icon_clipboard_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12818,11 +14578,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard clock`
+  /// 
+  /// ![clipboard clock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-clock.png)
   static const IconData icon_clipboard_clock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12863,11 +14627,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard copy`
+  /// 
+  /// ![clipboard copy](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-copy.png)
   static const IconData icon_clipboard_copy = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12907,11 +14675,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard list`
+  /// 
+  /// ![clipboard list](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-list.png)
   static const IconData icon_clipboard_list = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12945,11 +14717,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard minus`
+  /// 
+  /// ![clipboard minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-minus.png)
   static const IconData icon_clipboard_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -12983,11 +14759,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard paste`
+  /// 
+  /// ![clipboard paste](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-paste.png)
   static const IconData icon_clipboard_paste = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13026,11 +14806,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard pen`
+  /// 
+  /// ![clipboard pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-pen.png)
   static const IconData icon_clipboard_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13063,11 +14847,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard pen line`
+  /// 
+  /// ![clipboard pen line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-pen-line.png)
   static const IconData icon_clipboard_pen_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13106,11 +14894,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard plus`
+  /// 
+  /// ![clipboard plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-plus.png)
   static const IconData icon_clipboard_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13144,11 +14936,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard type`
+  /// 
+  /// ![clipboard type](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-type.png)
   static const IconData icon_clipboard_type = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13188,11 +14984,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clipboard x`
+  /// 
+  /// ![clipboard x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-x.png)
   static const IconData icon_clipboard_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13226,11 +15026,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock`
+  /// 
+  /// ![clock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock.png)
   static const IconData icon_clock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13261,11 +15065,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 1`
+  /// 
+  /// ![clock 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-1.png)
   static const IconData icon_clock_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13296,11 +15104,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 10`
+  /// 
+  /// ![clock 10](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-10.png)
   static const IconData icon_clock_10 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13331,11 +15143,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 11`
+  /// 
+  /// ![clock 11](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-11.png)
   static const IconData icon_clock_11 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13366,11 +15182,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 12`
+  /// 
+  /// ![clock 12](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-12.png)
   static const IconData icon_clock_12 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13401,11 +15221,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 2`
+  /// 
+  /// ![clock 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-2.png)
   static const IconData icon_clock_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13436,11 +15260,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 3`
+  /// 
+  /// ![clock 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-3.png)
   static const IconData icon_clock_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13471,11 +15299,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 4`
+  /// 
+  /// ![clock 4](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-4.png)
   static const IconData icon_clock_4 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13506,11 +15338,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 5`
+  /// 
+  /// ![clock 5](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-5.png)
   static const IconData icon_clock_5 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13541,11 +15377,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 6`
+  /// 
+  /// ![clock 6](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-6.png)
   static const IconData icon_clock_6 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13576,11 +15416,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 7`
+  /// 
+  /// ![clock 7](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-7.png)
   static const IconData icon_clock_7 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13611,11 +15455,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 8`
+  /// 
+  /// ![clock 8](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-8.png)
   static const IconData icon_clock_8 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13646,11 +15494,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock 9`
+  /// 
+  /// ![clock 9](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-9.png)
   static const IconData icon_clock_9 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13681,11 +15533,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock alert`
+  /// 
+  /// ![clock alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-alert.png)
   static const IconData icon_clock_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13714,11 +15570,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock arrow down`
+  /// 
+  /// ![clock arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-arrow-down.png)
   static const IconData icon_clock_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13753,11 +15613,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock arrow up`
+  /// 
+  /// ![clock arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-arrow-up.png)
   static const IconData icon_clock_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13792,11 +15656,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock check`
+  /// 
+  /// ![clock check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-check.png)
   static const IconData icon_clock_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13831,11 +15699,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock fading`
+  /// 
+  /// ![clock fading](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-fading.png)
   static const IconData icon_clock_fading = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13851,11 +15723,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clock plus`
+  /// 
+  /// ![clock plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clock-plus.png)
   static const IconData icon_clock_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13884,11 +15760,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `closed caption`
+  /// 
+  /// ![closed caption](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/closed-caption.png)
   static const IconData icon_closed_caption = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13921,11 +15801,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud`
+  /// 
+  /// ![cloud](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud.png)
   static const IconData icon_cloud = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13941,11 +15825,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud alert`
+  /// 
+  /// ![cloud alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-alert.png)
   static const IconData icon_cloud_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -13961,11 +15849,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud backup`
+  /// 
+  /// ![cloud backup](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-backup.png)
   static const IconData icon_cloud_backup = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14000,11 +15892,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud check`
+  /// 
+  /// ![cloud check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-check.png)
   static const IconData icon_cloud_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14033,11 +15929,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud cog`
+  /// 
+  /// ![cloud cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-cog.png)
   static const IconData icon_cloud_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14072,11 +15972,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud download`
+  /// 
+  /// ![cloud download](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-download.png)
   static const IconData icon_cloud_download = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14105,11 +16009,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud drizzle`
+  /// 
+  /// ![cloud drizzle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-drizzle.png)
   static const IconData icon_cloud_drizzle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14125,11 +16033,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud fog`
+  /// 
+  /// ![cloud fog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-fog.png)
   static const IconData icon_cloud_fog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14145,11 +16057,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud hail`
+  /// 
+  /// ![cloud hail](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-hail.png)
   static const IconData icon_cloud_hail = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14165,11 +16081,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud lightning`
+  /// 
+  /// ![cloud lightning](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-lightning.png)
   static const IconData icon_cloud_lightning = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14198,11 +16118,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud moon`
+  /// 
+  /// ![cloud moon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-moon.png)
   static const IconData icon_cloud_moon = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14218,11 +16142,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud moon rain`
+  /// 
+  /// ![cloud moon rain](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-moon-rain.png)
   static const IconData icon_cloud_moon_rain = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14238,11 +16166,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud off`
+  /// 
+  /// ![cloud off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-off.png)
   static const IconData icon_cloud_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14258,11 +16190,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud rain`
+  /// 
+  /// ![cloud rain](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-rain.png)
   static const IconData icon_cloud_rain = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14278,11 +16214,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud rain wind`
+  /// 
+  /// ![cloud rain wind](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-rain-wind.png)
   static const IconData icon_cloud_rain_wind = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14298,11 +16238,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud snow`
+  /// 
+  /// ![cloud snow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-snow.png)
   static const IconData icon_cloud_snow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14318,11 +16262,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud sun`
+  /// 
+  /// ![cloud sun](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-sun.png)
   static const IconData icon_cloud_sun = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14338,11 +16286,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud sun rain`
+  /// 
+  /// ![cloud sun rain](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-sun-rain.png)
   static const IconData icon_cloud_sun_rain = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14358,11 +16310,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud sync`
+  /// 
+  /// ![cloud sync](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-sync.png)
   static const IconData icon_cloud_sync = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14403,11 +16359,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloud upload`
+  /// 
+  /// ![cloud upload](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-upload.png)
   static const IconData icon_cloud_upload = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14436,11 +16396,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cloudy`
+  /// 
+  /// ![cloudy](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloudy.png)
   static const IconData icon_cloudy = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14469,11 +16433,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `clover`
+  /// 
+  /// ![clover](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clover.png)
   static const IconData icon_clover = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14489,11 +16457,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `club`
+  /// 
+  /// ![club](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/club.png)
   static const IconData icon_club = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14509,11 +16481,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `code`
+  /// 
+  /// ![code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/code.png)
   static const IconData icon_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14529,11 +16505,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `code xml`
+  /// 
+  /// ![code xml](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/code-xml.png)
   static const IconData icon_code_xml = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14549,11 +16529,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `codepen`
+  /// 
+  /// ![codepen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/codepen.png)
   static const IconData icon_codepen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14588,11 +16572,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `codesandbox`
+  /// 
+  /// ![codesandbox](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/codesandbox.png)
   static const IconData icon_codesandbox = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14621,11 +16609,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `coffee`
+  /// 
+  /// ![coffee](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/coffee.png)
   static const IconData icon_coffee = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14641,11 +16633,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cog`
+  /// 
+  /// ![cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cog.png)
   static const IconData icon_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14684,11 +16680,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `coins`
+  /// 
+  /// ![coins](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/coins.png)
   static const IconData icon_coins = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14725,11 +16725,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `columns 2`
+  /// 
+  /// ![columns 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/columns-2.png)
   static const IconData icon_columns_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14762,11 +16766,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `columns 3`
+  /// 
+  /// ![columns 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/columns-3.png)
   static const IconData icon_columns_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14799,11 +16807,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `columns 3 cog`
+  /// 
+  /// ![columns 3 cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/columns-3-cog.png)
   static const IconData icon_columns_3_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14834,11 +16846,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `columns 4`
+  /// 
+  /// ![columns 4](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/columns-4.png)
   static const IconData icon_columns_4 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14871,11 +16887,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `combine`
+  /// 
+  /// ![combine](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/combine.png)
   static const IconData icon_combine = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14918,11 +16938,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `command`
+  /// 
+  /// ![command](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/command.png)
   static const IconData icon_command = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14938,11 +16962,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `compass`
+  /// 
+  /// ![compass](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/compass.png)
   static const IconData icon_compass = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14973,11 +17001,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `component`
+  /// 
+  /// ![component](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/component.png)
   static const IconData icon_component = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -14993,11 +17025,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `computer`
+  /// 
+  /// ![computer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/computer.png)
   static const IconData icon_computer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15040,11 +17076,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `concierge bell`
+  /// 
+  /// ![concierge bell](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/concierge-bell.png)
   static const IconData icon_concierge_bell = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15060,11 +17100,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cone`
+  /// 
+  /// ![cone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cone.png)
   static const IconData icon_cone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15096,11 +17140,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `construction`
+  /// 
+  /// ![construction](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/construction.png)
   static const IconData icon_construction = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15133,11 +17181,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `contact`
+  /// 
+  /// ![contact](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/contact.png)
   static const IconData icon_contact = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15178,11 +17230,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `contact round`
+  /// 
+  /// ![contact round](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/contact-round.png)
   static const IconData icon_contact_round = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15223,11 +17279,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `container`
+  /// 
+  /// ![container](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/container.png)
   static const IconData icon_container = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15256,11 +17316,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `contrast`
+  /// 
+  /// ![contrast](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/contrast.png)
   static const IconData icon_contrast = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15291,11 +17355,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cookie`
+  /// 
+  /// ![cookie](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cookie.png)
   static const IconData icon_cookie = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15311,11 +17379,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cooking pot`
+  /// 
+  /// ![cooking pot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cooking-pot.png)
   static const IconData icon_cooking_pot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15331,11 +17403,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `copy`
+  /// 
+  /// ![copy](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/copy.png)
   static const IconData icon_copy = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15369,11 +17445,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `copy check`
+  /// 
+  /// ![copy check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/copy-check.png)
   static const IconData icon_copy_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15413,11 +17493,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `copy minus`
+  /// 
+  /// ![copy minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/copy-minus.png)
   static const IconData icon_copy_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15457,11 +17541,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `copy plus`
+  /// 
+  /// ![copy plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/copy-plus.png)
   static const IconData icon_copy_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15501,11 +17589,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `copy slash`
+  /// 
+  /// ![copy slash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/copy-slash.png)
   static const IconData icon_copy_slash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15545,11 +17637,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `copy x`
+  /// 
+  /// ![copy x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/copy-x.png)
   static const IconData icon_copy_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15589,11 +17685,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `copyleft`
+  /// 
+  /// ![copyleft](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/copyleft.png)
   static const IconData icon_copyleft = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15624,11 +17724,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `copyright`
+  /// 
+  /// ![copyright](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/copyright.png)
   static const IconData icon_copyright = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15659,11 +17763,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `corner down left`
+  /// 
+  /// ![corner down left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/corner-down-left.png)
   static const IconData icon_corner_down_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15692,11 +17800,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `corner down right`
+  /// 
+  /// ![corner down right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/corner-down-right.png)
   static const IconData icon_corner_down_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15725,11 +17837,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `corner left down`
+  /// 
+  /// ![corner left down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/corner-left-down.png)
   static const IconData icon_corner_left_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15758,11 +17874,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `corner left up`
+  /// 
+  /// ![corner left up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/corner-left-up.png)
   static const IconData icon_corner_left_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15791,11 +17911,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `corner right down`
+  /// 
+  /// ![corner right down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/corner-right-down.png)
   static const IconData icon_corner_right_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15824,11 +17948,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `corner right up`
+  /// 
+  /// ![corner right up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/corner-right-up.png)
   static const IconData icon_corner_right_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15857,11 +17985,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `corner up left`
+  /// 
+  /// ![corner up left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/corner-up-left.png)
   static const IconData icon_corner_up_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15890,11 +18022,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `corner up right`
+  /// 
+  /// ![corner up right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/corner-up-right.png)
   static const IconData icon_corner_up_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15923,11 +18059,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cpu`
+  /// 
+  /// ![cpu](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cpu.png)
   static const IconData icon_cpu = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -15970,11 +18110,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `creative commons`
+  /// 
+  /// ![creative commons](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/creative-commons.png)
   static const IconData icon_creative_commons = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16005,11 +18149,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `credit card`
+  /// 
+  /// ![credit card](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/credit-card.png)
   static const IconData icon_credit_card = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16042,11 +18190,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `croissant`
+  /// 
+  /// ![croissant](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/croissant.png)
   static const IconData icon_croissant = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16081,11 +18233,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `crop`
+  /// 
+  /// ![crop](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/crop.png)
   static const IconData icon_crop = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16114,11 +18270,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cross`
+  /// 
+  /// ![cross](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cross.png)
   static const IconData icon_cross = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16134,11 +18294,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `crosshair`
+  /// 
+  /// ![crosshair](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/crosshair.png)
   static const IconData icon_crosshair = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16169,11 +18333,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `crown`
+  /// 
+  /// ![crown](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/crown.png)
   static const IconData icon_crown = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16189,11 +18357,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cuboid`
+  /// 
+  /// ![cuboid](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cuboid.png)
   static const IconData icon_cuboid = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16222,11 +18394,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cup soda`
+  /// 
+  /// ![cup soda](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cup-soda.png)
   static const IconData icon_cup_soda = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16255,11 +18431,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `currency`
+  /// 
+  /// ![currency](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/currency.png)
   static const IconData icon_currency = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16290,11 +18470,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `cylinder`
+  /// 
+  /// ![cylinder](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cylinder.png)
   static const IconData icon_cylinder = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16326,11 +18510,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dam`
+  /// 
+  /// ![dam](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dam.png)
   static const IconData icon_dam = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16359,11 +18547,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `database`
+  /// 
+  /// ![database](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/database.png)
   static const IconData icon_database = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16401,11 +18593,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `database backup`
+  /// 
+  /// ![database backup](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/database-backup.png)
   static const IconData icon_database_backup = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16449,11 +18645,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `database search`
+  /// 
+  /// ![database search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/database-search.png)
   static const IconData icon_database_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16499,11 +18699,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `database zap`
+  /// 
+  /// ![database zap](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/database-zap.png)
   static const IconData icon_database_zap = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16541,11 +18745,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `decimals arrow left`
+  /// 
+  /// ![decimals arrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/decimals-arrow-left.png)
   static const IconData icon_decimals_arrow_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16578,11 +18786,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `decimals arrow right`
+  /// 
+  /// ![decimals arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/decimals-arrow-right.png)
   static const IconData icon_decimals_arrow_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16625,11 +18837,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `delete`
+  /// 
+  /// ![delete](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/delete.png)
   static const IconData icon_delete = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16645,11 +18861,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dessert`
+  /// 
+  /// ![dessert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dessert.png)
   static const IconData icon_dessert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16686,11 +18906,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `diameter`
+  /// 
+  /// ![diameter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/diameter.png)
   static const IconData icon_diameter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16729,11 +18953,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `diamond`
+  /// 
+  /// ![diamond](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/diamond.png)
   static const IconData icon_diamond = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16749,11 +18977,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `diamond minus`
+  /// 
+  /// ![diamond minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/diamond-minus.png)
   static const IconData icon_diamond_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16769,11 +19001,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `diamond percent`
+  /// 
+  /// ![diamond percent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/diamond-percent.png)
   static const IconData icon_diamond_percent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16789,11 +19025,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `diamond plus`
+  /// 
+  /// ![diamond plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/diamond-plus.png)
   static const IconData icon_diamond_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16809,11 +19049,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dice 1`
+  /// 
+  /// ![dice 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dice-1.png)
   static const IconData icon_dice_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16847,11 +19091,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dice 2`
+  /// 
+  /// ![dice 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dice-2.png)
   static const IconData icon_dice_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16885,11 +19133,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dice 3`
+  /// 
+  /// ![dice 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dice-3.png)
   static const IconData icon_dice_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16923,11 +19175,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dice 4`
+  /// 
+  /// ![dice 4](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dice-4.png)
   static const IconData icon_dice_4 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16961,11 +19217,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dice 5`
+  /// 
+  /// ![dice 5](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dice-5.png)
   static const IconData icon_dice_5 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -16999,11 +19259,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dice 6`
+  /// 
+  /// ![dice 6](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dice-6.png)
   static const IconData icon_dice_6 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17037,11 +19301,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dices`
+  /// 
+  /// ![dices](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dices.png)
   static const IconData icon_dices = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17075,11 +19343,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `diff`
+  /// 
+  /// ![diff](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/diff.png)
   static const IconData icon_diff = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17095,11 +19367,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `disc`
+  /// 
+  /// ![disc](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/disc.png)
   static const IconData icon_disc = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17132,11 +19408,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `disc 2`
+  /// 
+  /// ![disc 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/disc-2.png)
   static const IconData icon_disc_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17175,11 +19455,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `disc 3`
+  /// 
+  /// ![disc 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/disc-3.png)
   static const IconData icon_disc_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17224,11 +19508,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `disc album`
+  /// 
+  /// ![disc album](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/disc-album.png)
   static const IconData icon_disc_album = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17269,11 +19557,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `divide`
+  /// 
+  /// ![divide](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/divide.png)
   static const IconData icon_divide = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17312,11 +19604,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dna`
+  /// 
+  /// ![dna](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dna.png)
   static const IconData icon_dna = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17332,11 +19628,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dna off`
+  /// 
+  /// ![dna off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dna-off.png)
   static const IconData icon_dna_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17352,11 +19652,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dock`
+  /// 
+  /// ![dock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dock.png)
   static const IconData icon_dock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17395,11 +19699,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dog`
+  /// 
+  /// ![dog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dog.png)
   static const IconData icon_dog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17434,11 +19742,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dollar sign`
+  /// 
+  /// ![dollar sign](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dollar-sign.png)
   static const IconData icon_dollar_sign = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17454,11 +19766,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `donut`
+  /// 
+  /// ![donut](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/donut.png)
   static const IconData icon_donut = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17489,11 +19805,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `door closed`
+  /// 
+  /// ![door closed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/door-closed.png)
   static const IconData icon_door_closed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17509,11 +19829,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `door closed locked`
+  /// 
+  /// ![door closed locked](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/door-closed-locked.png)
   static const IconData icon_door_closed_locked = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17546,11 +19870,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `door open`
+  /// 
+  /// ![door open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/door-open.png)
   static const IconData icon_door_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17566,7 +19894,17 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dot`
+  /// 
+  /// ![dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dot.png)
   static const IconData icon_dot = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+      },
+    },
     {
       'tag': 'circle',
       'attrs': {
@@ -17582,11 +19920,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `download`
+  /// 
+  /// ![download](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/download.png)
   static const IconData icon_download = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17615,11 +19957,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `drafting compass`
+  /// 
+  /// ![drafting compass](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/drafting-compass.png)
   static const IconData icon_drafting_compass = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17650,11 +19996,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `drama`
+  /// 
+  /// ![drama](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/drama.png)
   static const IconData icon_drama = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17689,11 +20039,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dribbble`
+  /// 
+  /// ![dribbble](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dribbble.png)
   static const IconData icon_dribbble = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17730,11 +20084,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `drill`
+  /// 
+  /// ![drill](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/drill.png)
   static const IconData icon_drill = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17750,11 +20108,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `drone`
+  /// 
+  /// ![drone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/drone.png)
   static const IconData icon_drone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17787,11 +20149,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `droplet`
+  /// 
+  /// ![droplet](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/droplet.png)
   static const IconData icon_droplet = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17807,11 +20173,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `droplet off`
+  /// 
+  /// ![droplet off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/droplet-off.png)
   static const IconData icon_droplet_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17827,11 +20197,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `droplets`
+  /// 
+  /// ![droplets](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/droplets.png)
   static const IconData icon_droplets = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17860,11 +20234,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `drum`
+  /// 
+  /// ![drum](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/drum.png)
   static const IconData icon_drum = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17902,11 +20280,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `drumstick`
+  /// 
+  /// ![drumstick](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/drumstick.png)
   static const IconData icon_drumstick = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17935,11 +20317,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `dumbbell`
+  /// 
+  /// ![dumbbell](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/dumbbell.png)
   static const IconData icon_dumbbell = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17955,11 +20341,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ear`
+  /// 
+  /// ![ear](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ear.png)
   static const IconData icon_ear = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -17988,11 +20378,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ear off`
+  /// 
+  /// ![ear off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ear-off.png)
   static const IconData icon_ear_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18021,11 +20415,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `earth`
+  /// 
+  /// ![earth](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/earth.png)
   static const IconData icon_earth = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18056,11 +20454,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `earth lock`
+  /// 
+  /// ![earth lock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/earth-lock.png)
   static const IconData icon_earth_lock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18099,11 +20501,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `eclipse`
+  /// 
+  /// ![eclipse](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/eclipse.png)
   static const IconData icon_eclipse = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18134,11 +20540,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `egg`
+  /// 
+  /// ![egg](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/egg.png)
   static const IconData icon_egg = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18154,11 +20564,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `egg fried`
+  /// 
+  /// ![egg fried](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/egg-fried.png)
   static const IconData icon_egg_fried = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18189,11 +20603,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `egg off`
+  /// 
+  /// ![egg off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/egg-off.png)
   static const IconData icon_egg_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18209,7 +20627,17 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ellipse`
+  /// 
+  /// ![ellipse](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ellipse.png)
   static const IconData icon_ellipse = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+      },
+    },
     {
       'tag': 'ellipse',
       'attrs': {
@@ -18226,11 +20654,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ellipsis`
+  /// 
+  /// ![ellipsis](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ellipsis.png)
   static const IconData icon_ellipsis = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18271,11 +20703,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ellipsis vertical`
+  /// 
+  /// ![ellipsis vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ellipsis-vertical.png)
   static const IconData icon_ellipsis_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18316,11 +20752,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `equal`
+  /// 
+  /// ![equal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/equal.png)
   static const IconData icon_equal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18336,11 +20776,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `equal approximately`
+  /// 
+  /// ![equal approximately](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/equal-approximately.png)
   static const IconData icon_equal_approximately = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18356,11 +20800,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `equal not`
+  /// 
+  /// ![equal not](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/equal-not.png)
   static const IconData icon_equal_not = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18376,11 +20824,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `eraser`
+  /// 
+  /// ![eraser](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/eraser.png)
   static const IconData icon_eraser = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18396,11 +20848,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ethernet port`
+  /// 
+  /// ![ethernet port](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ethernet-port.png)
   static const IconData icon_ethernet_port = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18416,11 +20872,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `euro`
+  /// 
+  /// ![euro](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/euro.png)
   static const IconData icon_euro = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18436,11 +20896,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ev charger`
+  /// 
+  /// ![ev charger](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ev-charger.png)
   static const IconData icon_ev_charger = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18469,11 +20933,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `expand`
+  /// 
+  /// ![expand](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/expand.png)
   static const IconData icon_expand = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18489,11 +20957,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `external link`
+  /// 
+  /// ![external link](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/external-link.png)
   static const IconData icon_external_link = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18509,11 +20981,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `eye`
+  /// 
+  /// ![eye](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/eye.png)
   static const IconData icon_eye = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18544,11 +21020,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `eye closed`
+  /// 
+  /// ![eye closed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/eye-closed.png)
   static const IconData icon_eye_closed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18564,11 +21044,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `eye off`
+  /// 
+  /// ![eye off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/eye-off.png)
   static const IconData icon_eye_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18597,11 +21081,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `facebook`
+  /// 
+  /// ![facebook](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/facebook.png)
   static const IconData icon_facebook = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18617,11 +21105,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `factory`
+  /// 
+  /// ![factory](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/factory.png)
   static const IconData icon_factory = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18637,11 +21129,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fan`
+  /// 
+  /// ![fan](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fan.png)
   static const IconData icon_fan = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18657,11 +21153,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fast forward`
+  /// 
+  /// ![fast forward](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fast-forward.png)
   static const IconData icon_fast_forward = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18690,11 +21190,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `feather`
+  /// 
+  /// ![feather](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/feather.png)
   static const IconData icon_feather = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18710,11 +21214,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fence`
+  /// 
+  /// ![fence](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fence.png)
   static const IconData icon_fence = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18730,11 +21238,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ferris wheel`
+  /// 
+  /// ![ferris wheel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ferris-wheel.png)
   static const IconData icon_ferris_wheel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18771,11 +21283,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `figma`
+  /// 
+  /// ![figma](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/figma.png)
   static const IconData icon_figma = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18804,11 +21320,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file`
+  /// 
+  /// ![file](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file.png)
   static const IconData icon_file = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18837,11 +21357,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file archive`
+  /// 
+  /// ![file archive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-archive.png)
   static const IconData icon_file_archive = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18878,11 +21402,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file audio`
+  /// 
+  /// ![file audio](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-audio.png)
   static const IconData icon_file_audio = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18911,11 +21439,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file audio 2`
+  /// 
+  /// ![file audio 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-audio-2.png)
   static const IconData icon_file_audio_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18966,11 +21498,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file axis 3d`
+  /// 
+  /// ![file axis 3d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-axis-3d.png)
   static const IconData icon_file_axis_3d = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -18999,11 +21535,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file badge`
+  /// 
+  /// ![file badge](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-badge.png)
   static const IconData icon_file_badge = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19040,11 +21580,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file badge 2`
+  /// 
+  /// ![file badge 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-badge-2.png)
   static const IconData icon_file_badge_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19081,11 +21625,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file box`
+  /// 
+  /// ![file box](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-box.png)
   static const IconData icon_file_box = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19120,11 +21668,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file braces`
+  /// 
+  /// ![file braces](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-braces.png)
   static const IconData icon_file_braces = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19153,11 +21705,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file braces corner`
+  /// 
+  /// ![file braces corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-braces-corner.png)
   static const IconData icon_file_braces_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19186,11 +21742,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file chart column`
+  /// 
+  /// ![file chart column](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-chart-column.png)
   static const IconData icon_file_chart_column = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19219,11 +21779,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file chart column increasing`
+  /// 
+  /// ![file chart column increasing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-chart-column-increasing.png)
   static const IconData icon_file_chart_column_increasing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19252,11 +21816,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file chart line`
+  /// 
+  /// ![file chart line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-chart-line.png)
   static const IconData icon_file_chart_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19285,11 +21853,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file chart pie`
+  /// 
+  /// ![file chart pie](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-chart-pie.png)
   static const IconData icon_file_chart_pie = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19324,11 +21896,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file check`
+  /// 
+  /// ![file check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-check.png)
   static const IconData icon_file_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19357,11 +21933,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file check 2`
+  /// 
+  /// ![file check 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-check-2.png)
   static const IconData icon_file_check_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19390,11 +21970,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file check corner`
+  /// 
+  /// ![file check corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-check-corner.png)
   static const IconData icon_file_check_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19423,11 +22007,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file clock`
+  /// 
+  /// ![file clock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-clock.png)
   static const IconData icon_file_clock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19464,11 +22052,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file code`
+  /// 
+  /// ![file code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-code.png)
   static const IconData icon_file_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19497,11 +22089,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file code 2`
+  /// 
+  /// ![file code 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-code-2.png)
   static const IconData icon_file_code_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19530,11 +22126,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file code corner`
+  /// 
+  /// ![file code corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-code-corner.png)
   static const IconData icon_file_code_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19563,11 +22163,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file cog`
+  /// 
+  /// ![file cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-cog.png)
   static const IconData icon_file_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19598,11 +22202,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file diff`
+  /// 
+  /// ![file diff](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-diff.png)
   static const IconData icon_file_diff = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19618,11 +22226,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file digit`
+  /// 
+  /// ![file digit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-digit.png)
   static const IconData icon_file_digit = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19661,11 +22273,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file down`
+  /// 
+  /// ![file down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-down.png)
   static const IconData icon_file_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19694,11 +22310,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file exclamation point`
+  /// 
+  /// ![file exclamation point](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-exclamation-point.png)
   static const IconData icon_file_exclamation_point = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19714,11 +22334,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file headphone`
+  /// 
+  /// ![file headphone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-headphone.png)
   static const IconData icon_file_headphone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19747,11 +22371,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file heart`
+  /// 
+  /// ![file heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-heart.png)
   static const IconData icon_file_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19780,11 +22408,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file image`
+  /// 
+  /// ![file image](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-image.png)
   static const IconData icon_file_image = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19827,11 +22459,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file input`
+  /// 
+  /// ![file input](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-input.png)
   static const IconData icon_file_input = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19860,11 +22496,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file json`
+  /// 
+  /// ![file json](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-json.png)
   static const IconData icon_file_json = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19893,11 +22533,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file json 2`
+  /// 
+  /// ![file json 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-json-2.png)
   static const IconData icon_file_json_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19926,11 +22570,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file key`
+  /// 
+  /// ![file key](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-key.png)
   static const IconData icon_file_key = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -19967,11 +22615,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file key 2`
+  /// 
+  /// ![file key 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-key-2.png)
   static const IconData icon_file_key_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20014,11 +22666,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file lock`
+  /// 
+  /// ![file lock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-lock.png)
   static const IconData icon_file_lock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20057,11 +22713,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file lock 2`
+  /// 
+  /// ![file lock 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-lock-2.png)
   static const IconData icon_file_lock_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20106,11 +22766,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file minus`
+  /// 
+  /// ![file minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-minus.png)
   static const IconData icon_file_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20139,11 +22803,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file minus 2`
+  /// 
+  /// ![file minus 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-minus-2.png)
   static const IconData icon_file_minus_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20172,11 +22840,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file minus corner`
+  /// 
+  /// ![file minus corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-minus-corner.png)
   static const IconData icon_file_minus_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20205,11 +22877,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file music`
+  /// 
+  /// ![file music](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-music.png)
   static const IconData icon_file_music = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20246,11 +22922,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file output`
+  /// 
+  /// ![file output](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-output.png)
   static const IconData icon_file_output = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20279,11 +22959,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file pen`
+  /// 
+  /// ![file pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-pen.png)
   static const IconData icon_file_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20312,11 +22996,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file pen line`
+  /// 
+  /// ![file pen line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-pen-line.png)
   static const IconData icon_file_pen_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20345,11 +23033,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file pie chart`
+  /// 
+  /// ![file pie chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-pie-chart.png)
   static const IconData icon_file_pie_chart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20384,11 +23076,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file play`
+  /// 
+  /// ![file play](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-play.png)
   static const IconData icon_file_play = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20417,11 +23113,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file plus`
+  /// 
+  /// ![file plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-plus.png)
   static const IconData icon_file_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20450,11 +23150,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file plus 2`
+  /// 
+  /// ![file plus 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-plus-2.png)
   static const IconData icon_file_plus_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20483,11 +23187,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file plus corner`
+  /// 
+  /// ![file plus corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-plus-corner.png)
   static const IconData icon_file_plus_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20516,11 +23224,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file question mark`
+  /// 
+  /// ![file question mark](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-question-mark.png)
   static const IconData icon_file_question_mark = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20549,11 +23261,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file scan`
+  /// 
+  /// ![file scan](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-scan.png)
   static const IconData icon_file_scan = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20582,11 +23298,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file search`
+  /// 
+  /// ![file search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-search.png)
   static const IconData icon_file_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20629,11 +23349,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file search 2`
+  /// 
+  /// ![file search 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-search-2.png)
   static const IconData icon_file_search_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20676,11 +23400,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file search corner`
+  /// 
+  /// ![file search corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-search-corner.png)
   static const IconData icon_file_search_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20717,11 +23445,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file signal`
+  /// 
+  /// ![file signal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-signal.png)
   static const IconData icon_file_signal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20750,11 +23482,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file sliders`
+  /// 
+  /// ![file sliders](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-sliders.png)
   static const IconData icon_file_sliders = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20783,11 +23519,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file spreadsheet`
+  /// 
+  /// ![file spreadsheet](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-spreadsheet.png)
   static const IconData icon_file_spreadsheet = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20816,11 +23556,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file stack`
+  /// 
+  /// ![file stack](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-stack.png)
   static const IconData icon_file_stack = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20836,11 +23580,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file symlink`
+  /// 
+  /// ![file symlink](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-symlink.png)
   static const IconData icon_file_symlink = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20869,11 +23617,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file terminal`
+  /// 
+  /// ![file terminal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-terminal.png)
   static const IconData icon_file_terminal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20902,11 +23654,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file text`
+  /// 
+  /// ![file text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-text.png)
   static const IconData icon_file_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20935,11 +23691,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file type`
+  /// 
+  /// ![file type](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-type.png)
   static const IconData icon_file_type = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -20968,11 +23728,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file type 2`
+  /// 
+  /// ![file type 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-type-2.png)
   static const IconData icon_file_type_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21001,11 +23765,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file type corner`
+  /// 
+  /// ![file type corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-type-corner.png)
   static const IconData icon_file_type_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21034,11 +23802,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file up`
+  /// 
+  /// ![file up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-up.png)
   static const IconData icon_file_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21067,11 +23839,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file user`
+  /// 
+  /// ![file user](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-user.png)
   static const IconData icon_file_user = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21108,11 +23884,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file video camera`
+  /// 
+  /// ![file video camera](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-video-camera.png)
   static const IconData icon_file_video_camera = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21151,11 +23931,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file volume`
+  /// 
+  /// ![file volume](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-volume.png)
   static const IconData icon_file_volume = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21184,11 +23968,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file volume 2`
+  /// 
+  /// ![file volume 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-volume-2.png)
   static const IconData icon_file_volume_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21217,11 +24005,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file warning`
+  /// 
+  /// ![file warning](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-warning.png)
   static const IconData icon_file_warning = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21237,11 +24029,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file x`
+  /// 
+  /// ![file x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-x.png)
   static const IconData icon_file_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21270,11 +24066,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file x 2`
+  /// 
+  /// ![file x 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-x-2.png)
   static const IconData icon_file_x_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21303,11 +24103,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `file x corner`
+  /// 
+  /// ![file x corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-x-corner.png)
   static const IconData icon_file_x_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21336,11 +24140,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `files`
+  /// 
+  /// ![files](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/files.png)
   static const IconData icon_files = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21369,11 +24177,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `film`
+  /// 
+  /// ![film](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/film.png)
   static const IconData icon_film = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21406,11 +24218,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `filter`
+  /// 
+  /// ![filter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/filter.png)
   static const IconData icon_filter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21426,11 +24242,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `filter x`
+  /// 
+  /// ![filter x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/filter-x.png)
   static const IconData icon_filter_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21446,11 +24266,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fingerprint pattern`
+  /// 
+  /// ![fingerprint pattern](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fingerprint-pattern.png)
   static const IconData icon_fingerprint_pattern = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21479,11 +24303,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fire extinguisher`
+  /// 
+  /// ![fire extinguisher](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fire-extinguisher.png)
   static const IconData icon_fire_extinguisher = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21512,11 +24340,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fish`
+  /// 
+  /// ![fish](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fish.png)
   static const IconData icon_fish = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21551,11 +24383,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fish off`
+  /// 
+  /// ![fish off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fish-off.png)
   static const IconData icon_fish_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21590,11 +24426,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fish symbol`
+  /// 
+  /// ![fish symbol](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fish-symbol.png)
   static const IconData icon_fish_symbol = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21610,11 +24450,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fishing hook`
+  /// 
+  /// ![fishing hook](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fishing-hook.png)
   static const IconData icon_fishing_hook = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21645,11 +24489,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fishing rod`
+  /// 
+  /// ![fishing rod](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fishing-rod.png)
   static const IconData icon_fishing_rod = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21680,11 +24528,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flag`
+  /// 
+  /// ![flag](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flag.png)
   static const IconData icon_flag = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21700,11 +24552,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flag off`
+  /// 
+  /// ![flag off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flag-off.png)
   static const IconData icon_flag_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21720,11 +24576,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flag triangle left`
+  /// 
+  /// ![flag triangle left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flag-triangle-left.png)
   static const IconData icon_flag_triangle_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21740,11 +24600,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flag triangle right`
+  /// 
+  /// ![flag triangle right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flag-triangle-right.png)
   static const IconData icon_flag_triangle_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21760,11 +24624,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flame`
+  /// 
+  /// ![flame](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flame.png)
   static const IconData icon_flame = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21780,11 +24648,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flame kindling`
+  /// 
+  /// ![flame kindling](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flame-kindling.png)
   static const IconData icon_flame_kindling = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21800,11 +24672,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flashlight`
+  /// 
+  /// ![flashlight](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flashlight.png)
   static const IconData icon_flashlight = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21820,11 +24696,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flashlight off`
+  /// 
+  /// ![flashlight off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flashlight-off.png)
   static const IconData icon_flashlight_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21840,11 +24720,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flask conical`
+  /// 
+  /// ![flask conical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flask-conical.png)
   static const IconData icon_flask_conical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21860,11 +24744,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flask conical off`
+  /// 
+  /// ![flask conical off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flask-conical-off.png)
   static const IconData icon_flask_conical_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21880,11 +24768,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flask round`
+  /// 
+  /// ![flask round](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flask-round.png)
   static const IconData icon_flask_round = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21900,11 +24792,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flip horizontal 2`
+  /// 
+  /// ![flip horizontal 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flip-horizontal-2.png)
   static const IconData icon_flip_horizontal_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21920,11 +24816,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flip vertical 2`
+  /// 
+  /// ![flip vertical 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flip-vertical-2.png)
   static const IconData icon_flip_vertical_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21940,11 +24840,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flower`
+  /// 
+  /// ![flower](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flower.png)
   static const IconData icon_flower = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -21975,11 +24879,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `flower 2`
+  /// 
+  /// ![flower 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/flower-2.png)
   static const IconData icon_flower_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22016,11 +24924,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `focus`
+  /// 
+  /// ![focus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/focus.png)
   static const IconData icon_focus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22051,11 +24963,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fold horizontal`
+  /// 
+  /// ![fold horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fold-horizontal.png)
   static const IconData icon_fold_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22071,11 +24987,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fold vertical`
+  /// 
+  /// ![fold vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fold-vertical.png)
   static const IconData icon_fold_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22091,11 +25011,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder`
+  /// 
+  /// ![folder](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder.png)
   static const IconData icon_folder = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22111,11 +25035,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder archive`
+  /// 
+  /// ![folder archive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-archive.png)
   static const IconData icon_folder_archive = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22146,11 +25074,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder check`
+  /// 
+  /// ![folder check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-check.png)
   static const IconData icon_folder_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22179,11 +25111,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder clock`
+  /// 
+  /// ![folder clock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-clock.png)
   static const IconData icon_folder_clock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22214,11 +25150,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder closed`
+  /// 
+  /// ![folder closed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-closed.png)
   static const IconData icon_folder_closed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22234,11 +25174,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder code`
+  /// 
+  /// ![folder code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-code.png)
   static const IconData icon_folder_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22267,11 +25211,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder cog`
+  /// 
+  /// ![folder cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-cog.png)
   static const IconData icon_folder_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22302,11 +25250,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder dot`
+  /// 
+  /// ![folder dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-dot.png)
   static const IconData icon_folder_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22337,11 +25289,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder down`
+  /// 
+  /// ![folder down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-down.png)
   static const IconData icon_folder_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22370,11 +25326,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder git`
+  /// 
+  /// ![folder git](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-git.png)
   static const IconData icon_folder_git = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22405,11 +25365,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder git 2`
+  /// 
+  /// ![folder git 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-git-2.png)
   static const IconData icon_folder_git_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22454,11 +25418,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder heart`
+  /// 
+  /// ![folder heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-heart.png)
   static const IconData icon_folder_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22487,11 +25455,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder input`
+  /// 
+  /// ![folder input](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-input.png)
   static const IconData icon_folder_input = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22520,11 +25492,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder kanban`
+  /// 
+  /// ![folder kanban](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-kanban.png)
   static const IconData icon_folder_kanban = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22540,11 +25516,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder key`
+  /// 
+  /// ![folder key](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-key.png)
   static const IconData icon_folder_key = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22575,11 +25555,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder lock`
+  /// 
+  /// ![folder lock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-lock.png)
   static const IconData icon_folder_lock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22618,11 +25602,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder minus`
+  /// 
+  /// ![folder minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-minus.png)
   static const IconData icon_folder_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22638,11 +25626,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder open`
+  /// 
+  /// ![folder open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-open.png)
   static const IconData icon_folder_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22658,11 +25650,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder open dot`
+  /// 
+  /// ![folder open dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-open-dot.png)
   static const IconData icon_folder_open_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22693,11 +25689,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder output`
+  /// 
+  /// ![folder output](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-output.png)
   static const IconData icon_folder_output = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22726,11 +25726,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder pen`
+  /// 
+  /// ![folder pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-pen.png)
   static const IconData icon_folder_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22759,11 +25763,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder plus`
+  /// 
+  /// ![folder plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-plus.png)
   static const IconData icon_folder_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22779,11 +25787,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder root`
+  /// 
+  /// ![folder root](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-root.png)
   static const IconData icon_folder_root = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22820,11 +25832,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder search`
+  /// 
+  /// ![folder search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-search.png)
   static const IconData icon_folder_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22855,11 +25871,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder search 2`
+  /// 
+  /// ![folder search 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-search-2.png)
   static const IconData icon_folder_search_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22890,11 +25910,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder symlink`
+  /// 
+  /// ![folder symlink](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-symlink.png)
   static const IconData icon_folder_symlink = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22923,11 +25947,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder sync`
+  /// 
+  /// ![folder sync](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-sync.png)
   static const IconData icon_folder_sync = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -22968,11 +25996,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder tree`
+  /// 
+  /// ![folder tree](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-tree.png)
   static const IconData icon_folder_tree = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23001,11 +26033,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder up`
+  /// 
+  /// ![folder up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-up.png)
   static const IconData icon_folder_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23034,11 +26070,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folder x`
+  /// 
+  /// ![folder x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-x.png)
   static const IconData icon_folder_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23054,11 +26094,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `folders`
+  /// 
+  /// ![folders](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folders.png)
   static const IconData icon_folders = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23087,11 +26131,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `footprints`
+  /// 
+  /// ![footprints](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/footprints.png)
   static const IconData icon_footprints = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23107,11 +26155,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `forklift`
+  /// 
+  /// ![forklift](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/forklift.png)
   static const IconData icon_forklift = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23150,11 +26202,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `form`
+  /// 
+  /// ![form](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/form.png)
   static const IconData icon_form = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23197,11 +26253,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `forward`
+  /// 
+  /// ![forward](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/forward.png)
   static const IconData icon_forward = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23230,11 +26290,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `frame`
+  /// 
+  /// ![frame](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/frame.png)
   static const IconData icon_frame = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23250,11 +26314,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `framer`
+  /// 
+  /// ![framer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/framer.png)
   static const IconData icon_framer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23270,11 +26338,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `frown`
+  /// 
+  /// ![frown](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/frown.png)
   static const IconData icon_frown = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23305,11 +26377,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fuel`
+  /// 
+  /// ![fuel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fuel.png)
   static const IconData icon_fuel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23325,11 +26401,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `fullscreen`
+  /// 
+  /// ![fullscreen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fullscreen.png)
   static const IconData icon_fullscreen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23362,11 +26442,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `funnel`
+  /// 
+  /// ![funnel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/funnel.png)
   static const IconData icon_funnel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23382,11 +26466,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `funnel plus`
+  /// 
+  /// ![funnel plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/funnel-plus.png)
   static const IconData icon_funnel_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23402,11 +26490,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `funnel x`
+  /// 
+  /// ![funnel x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/funnel-x.png)
   static const IconData icon_funnel_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23422,11 +26514,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gallery horizontal`
+  /// 
+  /// ![gallery horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gallery-horizontal.png)
   static const IconData icon_gallery_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23465,11 +26561,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gallery horizontal end`
+  /// 
+  /// ![gallery horizontal end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gallery-horizontal-end.png)
   static const IconData icon_gallery_horizontal_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23502,11 +26602,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gallery thumbnails`
+  /// 
+  /// ![gallery thumbnails](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gallery-thumbnails.png)
   static const IconData icon_gallery_thumbnails = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23539,11 +26643,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gallery vertical`
+  /// 
+  /// ![gallery vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gallery-vertical.png)
   static const IconData icon_gallery_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23582,11 +26690,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gallery vertical end`
+  /// 
+  /// ![gallery vertical end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gallery-vertical-end.png)
   static const IconData icon_gallery_vertical_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23619,11 +26731,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gamepad`
+  /// 
+  /// ![gamepad](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gamepad.png)
   static const IconData icon_gamepad = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23656,11 +26772,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gamepad 2`
+  /// 
+  /// ![gamepad 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gamepad-2.png)
   static const IconData icon_gamepad_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23676,11 +26796,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gamepad directional`
+  /// 
+  /// ![gamepad directional](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gamepad-directional.png)
   static const IconData icon_gamepad_directional = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23696,11 +26820,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gauge`
+  /// 
+  /// ![gauge](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gauge.png)
   static const IconData icon_gauge = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23716,11 +26844,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gavel`
+  /// 
+  /// ![gavel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gavel.png)
   static const IconData icon_gavel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23736,11 +26868,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gem`
+  /// 
+  /// ![gem](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gem.png)
   static const IconData icon_gem = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23769,11 +26905,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `georgian lari`
+  /// 
+  /// ![georgian lari](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/georgian-lari.png)
   static const IconData icon_georgian_lari = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23789,11 +26929,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ghost`
+  /// 
+  /// ![ghost](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ghost.png)
   static const IconData icon_ghost = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23809,11 +26953,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gift`
+  /// 
+  /// ![gift](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gift.png)
   static const IconData icon_gift = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23846,11 +26994,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git branch`
+  /// 
+  /// ![git branch](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-branch.png)
   static const IconData icon_git_branch = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23889,11 +27041,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git branch minus`
+  /// 
+  /// ![git branch minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-branch-minus.png)
   static const IconData icon_git_branch_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23932,11 +27088,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git branch plus`
+  /// 
+  /// ![git branch plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-branch-plus.png)
   static const IconData icon_git_branch_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -23965,11 +27125,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git commit horizontal`
+  /// 
+  /// ![git commit horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-commit-horizontal.png)
   static const IconData icon_git_commit_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24000,11 +27164,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git commit vertical`
+  /// 
+  /// ![git commit vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-commit-vertical.png)
   static const IconData icon_git_commit_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24041,11 +27209,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git compare`
+  /// 
+  /// ![git compare](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-compare.png)
   static const IconData icon_git_compare = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24084,11 +27256,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git compare arrows`
+  /// 
+  /// ![git compare arrows](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-compare-arrows.png)
   static const IconData icon_git_compare_arrows = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24145,11 +27321,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git fork`
+  /// 
+  /// ![git fork](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-fork.png)
   static const IconData icon_git_fork = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24196,11 +27376,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git graph`
+  /// 
+  /// ![git graph](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-graph.png)
   static const IconData icon_git_graph = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24259,11 +27443,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git merge`
+  /// 
+  /// ![git merge](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-merge.png)
   static const IconData icon_git_merge = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24302,11 +27490,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git merge conflict`
+  /// 
+  /// ![git merge conflict](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-merge-conflict.png)
   static const IconData icon_git_merge_conflict = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24337,11 +27529,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git pull request`
+  /// 
+  /// ![git pull request](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-pull-request.png)
   static const IconData icon_git_pull_request = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24380,11 +27576,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git pull request arrow`
+  /// 
+  /// ![git pull request arrow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-pull-request-arrow.png)
   static const IconData icon_git_pull_request_arrow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24435,11 +27635,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git pull request closed`
+  /// 
+  /// ![git pull request closed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-pull-request-closed.png)
   static const IconData icon_git_pull_request_closed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24478,11 +27682,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git pull request create`
+  /// 
+  /// ![git pull request create](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-pull-request-create.png)
   static const IconData icon_git_pull_request_create = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24513,11 +27721,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git pull request create arrow`
+  /// 
+  /// ![git pull request create arrow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-pull-request-create-arrow.png)
   static const IconData icon_git_pull_request_create_arrow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24554,11 +27766,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `git pull request draft`
+  /// 
+  /// ![git pull request draft](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-pull-request-draft.png)
   static const IconData icon_git_pull_request_draft = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24597,11 +27813,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `github`
+  /// 
+  /// ![github](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/github.png)
   static const IconData icon_github = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24630,11 +27850,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gitlab`
+  /// 
+  /// ![gitlab](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gitlab.png)
   static const IconData icon_gitlab = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24650,11 +27874,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `glass water`
+  /// 
+  /// ![glass water](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/glass-water.png)
   static const IconData icon_glass_water = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24683,11 +27911,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `glasses`
+  /// 
+  /// ![glasses](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/glasses.png)
   static const IconData icon_glasses = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24726,11 +27958,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `globe`
+  /// 
+  /// ![globe](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/globe.png)
   static const IconData icon_globe = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24761,11 +27997,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `globe lock`
+  /// 
+  /// ![globe lock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/globe-lock.png)
   static const IconData icon_globe_lock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24798,11 +28038,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `globe off`
+  /// 
+  /// ![globe off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/globe-off.png)
   static const IconData icon_globe_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24831,11 +28075,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `globe x`
+  /// 
+  /// ![globe x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/globe-x.png)
   static const IconData icon_globe_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24851,11 +28099,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `goal`
+  /// 
+  /// ![goal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/goal.png)
   static const IconData icon_goal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24890,11 +28142,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `gpu`
+  /// 
+  /// ![gpu](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/gpu.png)
   static const IconData icon_gpu = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24933,11 +28189,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `graduation cap`
+  /// 
+  /// ![graduation cap](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/graduation-cap.png)
   static const IconData icon_graduation_cap = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -24966,11 +28226,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grape`
+  /// 
+  /// ![grape](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grape.png)
   static const IconData icon_grape = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25057,11 +28321,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grid 2x2`
+  /// 
+  /// ![grid 2x2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-2x2.png)
   static const IconData icon_grid_2x2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25094,11 +28362,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grid 2x2 check`
+  /// 
+  /// ![grid 2x2 check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-2x2-check.png)
   static const IconData icon_grid_2x2_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25114,11 +28386,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grid 2x2 plus`
+  /// 
+  /// ![grid 2x2 plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-2x2-plus.png)
   static const IconData icon_grid_2x2_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25134,11 +28410,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grid 2x2 x`
+  /// 
+  /// ![grid 2x2 x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-2x2-x.png)
   static const IconData icon_grid_2x2_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25154,11 +28434,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grid 3x2`
+  /// 
+  /// ![grid 3x2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-3x2.png)
   static const IconData icon_grid_3x2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25191,11 +28475,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grid 3x3`
+  /// 
+  /// ![grid 3x3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-3x3.png)
   static const IconData icon_grid_3x3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25228,11 +28516,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grip`
+  /// 
+  /// ![grip](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grip.png)
   static const IconData icon_grip = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25321,11 +28613,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grip horizontal`
+  /// 
+  /// ![grip horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grip-horizontal.png)
   static const IconData icon_grip_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25390,11 +28686,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `grip vertical`
+  /// 
+  /// ![grip vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grip-vertical.png)
   static const IconData icon_grip_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25459,11 +28759,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `group`
+  /// 
+  /// ![group](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/group.png)
   static const IconData icon_group = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25506,11 +28810,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `guitar`
+  /// 
+  /// ![guitar](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/guitar.png)
   static const IconData icon_guitar = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25526,11 +28834,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ham`
+  /// 
+  /// ![ham](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ham.png)
   static const IconData icon_ham = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25559,11 +28871,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hamburger`
+  /// 
+  /// ![hamburger](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hamburger.png)
   static const IconData icon_hamburger = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25592,11 +28908,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hammer`
+  /// 
+  /// ![hammer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hammer.png)
   static const IconData icon_hammer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25625,11 +28945,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hand`
+  /// 
+  /// ![hand](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand.png)
   static const IconData icon_hand = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25658,11 +28982,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hand coins`
+  /// 
+  /// ![hand coins](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-coins.png)
   static const IconData icon_hand_coins = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25707,11 +29035,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hand fist`
+  /// 
+  /// ![hand fist](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-fist.png)
   static const IconData icon_hand_fist = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25740,11 +29072,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hand grab`
+  /// 
+  /// ![hand grab](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-grab.png)
   static const IconData icon_hand_grab = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25773,11 +29109,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hand heart`
+  /// 
+  /// ![hand heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-heart.png)
   static const IconData icon_hand_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25812,11 +29152,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hand helping`
+  /// 
+  /// ![hand helping](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-helping.png)
   static const IconData icon_hand_helping = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25845,11 +29189,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hand metal`
+  /// 
+  /// ![hand metal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-metal.png)
   static const IconData icon_hand_metal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25878,11 +29226,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hand platter`
+  /// 
+  /// ![hand platter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-platter.png)
   static const IconData icon_hand_platter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25917,11 +29269,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `handbag`
+  /// 
+  /// ![handbag](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/handbag.png)
   static const IconData icon_handbag = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25950,11 +29306,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `handshake`
+  /// 
+  /// ![handshake](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/handshake.png)
   static const IconData icon_handshake = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -25989,11 +29349,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hard drive`
+  /// 
+  /// ![hard drive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hard-drive.png)
   static const IconData icon_hard_drive = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26009,11 +29373,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hard drive download`
+  /// 
+  /// ![hard drive download](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hard-drive-download.png)
   static const IconData icon_hard_drive_download = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26052,11 +29420,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hard drive upload`
+  /// 
+  /// ![hard drive upload](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hard-drive-upload.png)
   static const IconData icon_hard_drive_upload = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26095,11 +29467,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hard hat`
+  /// 
+  /// ![hard hat](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hard-hat.png)
   static const IconData icon_hard_hat = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26132,11 +29508,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hash`
+  /// 
+  /// ![hash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hash.png)
   static const IconData icon_hash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26152,11 +29532,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hat glasses`
+  /// 
+  /// ![hat glasses](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hat-glasses.png)
   static const IconData icon_hat_glasses = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26195,11 +29579,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `haze`
+  /// 
+  /// ![haze](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/haze.png)
   static const IconData icon_haze = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26215,11 +29603,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hd`
+  /// 
+  /// ![hd](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hd.png)
   static const IconData icon_hd = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26252,11 +29644,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hdmi port`
+  /// 
+  /// ![hdmi port](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hdmi-port.png)
   static const IconData icon_hdmi_port = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26272,11 +29668,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heading`
+  /// 
+  /// ![heading](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heading.png)
   static const IconData icon_heading = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26292,11 +29692,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heading 1`
+  /// 
+  /// ![heading 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heading-1.png)
   static const IconData icon_heading_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26312,11 +29716,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heading 2`
+  /// 
+  /// ![heading 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heading-2.png)
   static const IconData icon_heading_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26332,11 +29740,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heading 3`
+  /// 
+  /// ![heading 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heading-3.png)
   static const IconData icon_heading_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26352,11 +29764,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heading 4`
+  /// 
+  /// ![heading 4](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heading-4.png)
   static const IconData icon_heading_4 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26372,11 +29788,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heading 5`
+  /// 
+  /// ![heading 5](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heading-5.png)
   static const IconData icon_heading_5 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26392,11 +29812,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heading 6`
+  /// 
+  /// ![heading 6](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heading-6.png)
   static const IconData icon_heading_6 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26433,11 +29857,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `headphone off`
+  /// 
+  /// ![headphone off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/headphone-off.png)
   static const IconData icon_headphone_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26453,11 +29881,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `headphones`
+  /// 
+  /// ![headphones](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/headphones.png)
   static const IconData icon_headphones = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26473,11 +29905,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `headset`
+  /// 
+  /// ![headset](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/headset.png)
   static const IconData icon_headset = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26506,11 +29942,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heart`
+  /// 
+  /// ![heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heart.png)
   static const IconData icon_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26526,11 +29966,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heart crack`
+  /// 
+  /// ![heart crack](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heart-crack.png)
   static const IconData icon_heart_crack = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26559,11 +30003,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heart handshake`
+  /// 
+  /// ![heart handshake](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heart-handshake.png)
   static const IconData icon_heart_handshake = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26579,11 +30027,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heart minus`
+  /// 
+  /// ![heart minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heart-minus.png)
   static const IconData icon_heart_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26599,11 +30051,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heart off`
+  /// 
+  /// ![heart off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heart-off.png)
   static const IconData icon_heart_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26619,11 +30075,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heart plus`
+  /// 
+  /// ![heart plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heart-plus.png)
   static const IconData icon_heart_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26639,11 +30099,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heart pulse`
+  /// 
+  /// ![heart pulse](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heart-pulse.png)
   static const IconData icon_heart_pulse = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26672,11 +30136,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `heater`
+  /// 
+  /// ![heater](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/heater.png)
   static const IconData icon_heater = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26705,11 +30173,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `helicopter`
+  /// 
+  /// ![helicopter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/helicopter.png)
   static const IconData icon_helicopter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26738,11 +30210,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hexagon`
+  /// 
+  /// ![hexagon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hexagon.png)
   static const IconData icon_hexagon = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26758,11 +30234,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `highlighter`
+  /// 
+  /// ![highlighter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/highlighter.png)
   static const IconData icon_highlighter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26791,11 +30271,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `history`
+  /// 
+  /// ![history](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/history.png)
   static const IconData icon_history = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26824,11 +30308,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hop`
+  /// 
+  /// ![hop](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hop.png)
   static const IconData icon_hop = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26875,11 +30363,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hop off`
+  /// 
+  /// ![hop off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hop-off.png)
   static const IconData icon_hop_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26926,11 +30418,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hospital`
+  /// 
+  /// ![hospital](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hospital.png)
   static const IconData icon_hospital = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -26965,11 +30461,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hotel`
+  /// 
+  /// ![hotel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hotel.png)
   static const IconData icon_hotel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27002,11 +30502,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `hourglass`
+  /// 
+  /// ![hourglass](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hourglass.png)
   static const IconData icon_hourglass = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27022,11 +30526,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `house`
+  /// 
+  /// ![house](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/house.png)
   static const IconData icon_house = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27055,11 +30563,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `house heart`
+  /// 
+  /// ![house heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/house-heart.png)
   static const IconData icon_house_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27088,11 +30600,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `house plug`
+  /// 
+  /// ![house plug](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/house-plug.png)
   static const IconData icon_house_plug = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27121,11 +30637,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `house plus`
+  /// 
+  /// ![house plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/house-plus.png)
   static const IconData icon_house_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27154,11 +30674,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `house wifi`
+  /// 
+  /// ![house wifi](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/house-wifi.png)
   static const IconData icon_house_wifi = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27193,11 +30717,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ice cream bowl`
+  /// 
+  /// ![ice cream bowl](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ice-cream-bowl.png)
   static const IconData icon_ice_cream_bowl = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27232,11 +30760,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ice cream cone`
+  /// 
+  /// ![ice cream cone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ice-cream-cone.png)
   static const IconData icon_ice_cream_cone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27252,11 +30784,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `id card`
+  /// 
+  /// ![id card](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/id-card.png)
   static const IconData icon_id_card = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27297,11 +30833,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `id card lanyard`
+  /// 
+  /// ![id card lanyard](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/id-card-lanyard.png)
   static const IconData icon_id_card_lanyard = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27338,11 +30878,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `image`
+  /// 
+  /// ![image](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/image.png)
   static const IconData icon_image = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27384,11 +30928,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `image down`
+  /// 
+  /// ![image down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/image-down.png)
   static const IconData icon_image_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27425,11 +30973,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `image minus`
+  /// 
+  /// ![image minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/image-minus.png)
   static const IconData icon_image_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27466,11 +31018,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `image off`
+  /// 
+  /// ![image off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/image-off.png)
   static const IconData icon_image_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27499,11 +31055,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `image play`
+  /// 
+  /// ![image play](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/image-play.png)
   static const IconData icon_image_play = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27540,11 +31100,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `image plus`
+  /// 
+  /// ![image plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/image-plus.png)
   static const IconData icon_image_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27581,11 +31145,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `image up`
+  /// 
+  /// ![image up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/image-up.png)
   static const IconData icon_image_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27622,11 +31190,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `image upscale`
+  /// 
+  /// ![image upscale](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/image-upscale.png)
   static const IconData icon_image_upscale = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27659,11 +31231,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `images`
+  /// 
+  /// ![images](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/images.png)
   static const IconData icon_images = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27711,11 +31287,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `import`
+  /// 
+  /// ![import](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/import.png)
   static const IconData icon_import = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27744,11 +31324,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `inbox`
+  /// 
+  /// ![inbox](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/inbox.png)
   static const IconData icon_inbox = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27777,11 +31361,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `indent decrease`
+  /// 
+  /// ![indent decrease](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/indent-decrease.png)
   static const IconData icon_indent_decrease = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27797,11 +31385,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `indent increase`
+  /// 
+  /// ![indent increase](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/indent-increase.png)
   static const IconData icon_indent_increase = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27817,11 +31409,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `indian rupee`
+  /// 
+  /// ![indian rupee](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/indian-rupee.png)
   static const IconData icon_indian_rupee = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27837,11 +31433,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `infinity`
+  /// 
+  /// ![infinity](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/infinity.png)
   static const IconData icon_infinity = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27857,11 +31457,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `info`
+  /// 
+  /// ![info](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/info.png)
   static const IconData icon_info = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27892,11 +31496,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `inspection panel`
+  /// 
+  /// ![inspection panel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/inspection-panel.png)
   static const IconData icon_inspection_panel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27929,11 +31537,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `instagram`
+  /// 
+  /// ![instagram](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/instagram.png)
   static const IconData icon_instagram = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27967,11 +31579,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `italic`
+  /// 
+  /// ![italic](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/italic.png)
   static const IconData icon_italic = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -27987,11 +31603,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `iteration ccw`
+  /// 
+  /// ![iteration ccw](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/iteration-ccw.png)
   static const IconData icon_iteration_ccw = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28020,11 +31640,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `iteration cw`
+  /// 
+  /// ![iteration cw](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/iteration-cw.png)
   static const IconData icon_iteration_cw = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28053,11 +31677,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `japanese yen`
+  /// 
+  /// ![japanese yen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/japanese-yen.png)
   static const IconData icon_japanese_yen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28073,11 +31701,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `joystick`
+  /// 
+  /// ![joystick](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/joystick.png)
   static const IconData icon_joystick = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28108,11 +31740,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `kanban`
+  /// 
+  /// ![kanban](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/kanban.png)
   static const IconData icon_kanban = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28128,11 +31764,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `kayak`
+  /// 
+  /// ![kayak](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/kayak.png)
   static const IconData icon_kayak = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28148,11 +31788,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `key`
+  /// 
+  /// ![key](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/key.png)
   static const IconData icon_key = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28183,11 +31827,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `key round`
+  /// 
+  /// ![key round](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/key-round.png)
   static const IconData icon_key_round = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28219,11 +31867,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `key square`
+  /// 
+  /// ![key square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/key-square.png)
   static const IconData icon_key_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28239,11 +31891,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `keyboard`
+  /// 
+  /// ![keyboard](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/keyboard.png)
   static const IconData icon_keyboard = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28276,11 +31932,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `keyboard music`
+  /// 
+  /// ![keyboard music](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/keyboard-music.png)
   static const IconData icon_keyboard_music = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28313,11 +31973,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `keyboard off`
+  /// 
+  /// ![keyboard off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/keyboard-off.png)
   static const IconData icon_keyboard_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28333,11 +31997,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lamp`
+  /// 
+  /// ![lamp](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lamp.png)
   static const IconData icon_lamp = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28353,11 +32021,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lamp ceiling`
+  /// 
+  /// ![lamp ceiling](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lamp-ceiling.png)
   static const IconData icon_lamp_ceiling = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28386,11 +32058,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lamp desk`
+  /// 
+  /// ![lamp desk](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lamp-desk.png)
   static const IconData icon_lamp_desk = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28419,11 +32095,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lamp floor`
+  /// 
+  /// ![lamp floor](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lamp-floor.png)
   static const IconData icon_lamp_floor = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28439,11 +32119,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lamp wall down`
+  /// 
+  /// ![lamp wall down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lamp-wall-down.png)
   static const IconData icon_lamp_wall_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28459,11 +32143,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lamp wall up`
+  /// 
+  /// ![lamp wall up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lamp-wall-up.png)
   static const IconData icon_lamp_wall_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28492,11 +32180,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `land plot`
+  /// 
+  /// ![land plot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/land-plot.png)
   static const IconData icon_land_plot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28525,11 +32217,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `landmark`
+  /// 
+  /// ![landmark](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/landmark.png)
   static const IconData icon_landmark = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28545,11 +32241,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `languages`
+  /// 
+  /// ![languages](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/languages.png)
   static const IconData icon_languages = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28565,11 +32265,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `laptop`
+  /// 
+  /// ![laptop](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/laptop.png)
   static const IconData icon_laptop = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28585,11 +32289,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `laptop minimal`
+  /// 
+  /// ![laptop minimal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/laptop-minimal.png)
   static const IconData icon_laptop_minimal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28623,11 +32331,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `laptop minimal check`
+  /// 
+  /// ![laptop minimal check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/laptop-minimal-check.png)
   static const IconData icon_laptop_minimal_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28660,11 +32372,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lasso`
+  /// 
+  /// ![lasso](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lasso.png)
   static const IconData icon_lasso = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28695,11 +32411,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lasso select`
+  /// 
+  /// ![lasso select](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lasso-select.png)
   static const IconData icon_lasso_select = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28728,11 +32448,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `laugh`
+  /// 
+  /// ![laugh](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/laugh.png)
   static const IconData icon_laugh = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28763,11 +32487,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layers`
+  /// 
+  /// ![layers](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layers.png)
   static const IconData icon_layers = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28802,11 +32530,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layers 2`
+  /// 
+  /// ![layers 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layers-2.png)
   static const IconData icon_layers_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28822,11 +32554,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layers 3`
+  /// 
+  /// ![layers 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layers-3.png)
   static const IconData icon_layers_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28861,11 +32597,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layers plus`
+  /// 
+  /// ![layers plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layers-plus.png)
   static const IconData icon_layers_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28881,11 +32621,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layout dashboard`
+  /// 
+  /// ![layout dashboard](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layout-dashboard.png)
   static const IconData icon_layout_dashboard = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -28942,11 +32686,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layout grid`
+  /// 
+  /// ![layout grid](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layout-grid.png)
   static const IconData icon_layout_grid = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29003,11 +32751,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layout list`
+  /// 
+  /// ![layout list](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layout-list.png)
   static const IconData icon_layout_list = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29050,11 +32802,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layout panel left`
+  /// 
+  /// ![layout panel left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layout-panel-left.png)
   static const IconData icon_layout_panel_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29101,11 +32857,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layout panel top`
+  /// 
+  /// ![layout panel top](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layout-panel-top.png)
   static const IconData icon_layout_panel_top = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29152,11 +32912,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `layout template`
+  /// 
+  /// ![layout template](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/layout-template.png)
   static const IconData icon_layout_template = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29203,11 +32967,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `leaf`
+  /// 
+  /// ![leaf](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/leaf.png)
   static const IconData icon_leaf = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29236,11 +33004,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `leafy green`
+  /// 
+  /// ![leafy green](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/leafy-green.png)
   static const IconData icon_leafy_green = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29256,11 +33028,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lectern`
+  /// 
+  /// ![lectern](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lectern.png)
   static const IconData icon_lectern = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29299,11 +33075,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lens concave`
+  /// 
+  /// ![lens concave](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lens-concave.png)
   static const IconData icon_lens_concave = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29319,11 +33099,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lens convex`
+  /// 
+  /// ![lens convex](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lens-convex.png)
   static const IconData icon_lens_convex = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29339,11 +33123,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `letter text`
+  /// 
+  /// ![letter text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/letter-text.png)
   static const IconData icon_letter_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29359,11 +33147,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `library`
+  /// 
+  /// ![library](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/library.png)
   static const IconData icon_library = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29379,11 +33171,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `library big`
+  /// 
+  /// ![library big](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/library-big.png)
   static const IconData icon_library_big = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29416,11 +33212,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `life buoy`
+  /// 
+  /// ![life buoy](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/life-buoy.png)
   static const IconData icon_life_buoy = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29459,11 +33259,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ligature`
+  /// 
+  /// ![ligature](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ligature.png)
   static const IconData icon_ligature = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29479,11 +33283,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lightbulb`
+  /// 
+  /// ![lightbulb](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lightbulb.png)
   static const IconData icon_lightbulb = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29499,11 +33307,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lightbulb off`
+  /// 
+  /// ![lightbulb off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lightbulb-off.png)
   static const IconData icon_lightbulb_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29519,11 +33331,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `line chart`
+  /// 
+  /// ![line chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/line-chart.png)
   static const IconData icon_line_chart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29552,11 +33368,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `line dot right horizontal`
+  /// 
+  /// ![line dot right horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/line-dot-right-horizontal.png)
   static const IconData icon_line_dot_right_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29587,11 +33407,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `line squiggle`
+  /// 
+  /// ![line squiggle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/line-squiggle.png)
   static const IconData icon_line_squiggle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29607,11 +33431,39 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `line style`
+  /// 
+  /// ![line style](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/line-style.png)
+  static const IconData icon_line_style = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'path',
+      'attrs': {
+          'd': "M11 5h2m2 7h6m-2-7h2M3 12h6m-6 7h18M3 5h2",
+      },
+    },
+  ]);
+
+  /// Lucide icon named `link`
+  /// 
+  /// ![link](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/link.png)
   static const IconData icon_link = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29640,11 +33492,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `link 2`
+  /// 
+  /// ![link 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/link-2.png)
   static const IconData icon_link_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29660,11 +33516,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `link 2 off`
+  /// 
+  /// ![link 2 off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/link-2-off.png)
   static const IconData icon_link_2_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29680,11 +33540,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `linkedin`
+  /// 
+  /// ![linkedin](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/linkedin.png)
   static const IconData icon_linkedin = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29715,11 +33579,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list`
+  /// 
+  /// ![list](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list.png)
   static const IconData icon_list = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29735,11 +33603,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list check`
+  /// 
+  /// ![list check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-check.png)
   static const IconData icon_list_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29755,11 +33627,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list checks`
+  /// 
+  /// ![list checks](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-checks.png)
   static const IconData icon_list_checks = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29775,11 +33651,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list chevrons down up`
+  /// 
+  /// ![list chevrons down up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-chevrons-down-up.png)
   static const IconData icon_list_chevrons_down_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29795,11 +33675,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list chevrons up down`
+  /// 
+  /// ![list chevrons up down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-chevrons-up-down.png)
   static const IconData icon_list_chevrons_up_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29815,11 +33699,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list collapse`
+  /// 
+  /// ![list collapse](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-collapse.png)
   static const IconData icon_list_collapse = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29835,11 +33723,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list end`
+  /// 
+  /// ![list end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-end.png)
   static const IconData icon_list_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29868,11 +33760,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list filter`
+  /// 
+  /// ![list filter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-filter.png)
   static const IconData icon_list_filter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29888,11 +33784,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list filter plus`
+  /// 
+  /// ![list filter plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-filter-plus.png)
   static const IconData icon_list_filter_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29908,11 +33808,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list indent decrease`
+  /// 
+  /// ![list indent decrease](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-indent-decrease.png)
   static const IconData icon_list_indent_decrease = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29928,11 +33832,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list indent increase`
+  /// 
+  /// ![list indent increase](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-indent-increase.png)
   static const IconData icon_list_indent_increase = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29948,11 +33856,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list minus`
+  /// 
+  /// ![list minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-minus.png)
   static const IconData icon_list_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -29968,11 +33880,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list music`
+  /// 
+  /// ![list music](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-music.png)
   static const IconData icon_list_music = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30003,11 +33919,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list ordered`
+  /// 
+  /// ![list ordered](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-ordered.png)
   static const IconData icon_list_ordered = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30023,11 +33943,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list plus`
+  /// 
+  /// ![list plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-plus.png)
   static const IconData icon_list_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30043,11 +33967,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list restart`
+  /// 
+  /// ![list restart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-restart.png)
   static const IconData icon_list_restart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30076,11 +34004,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list start`
+  /// 
+  /// ![list start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-start.png)
   static const IconData icon_list_start = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30109,11 +34041,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list todo`
+  /// 
+  /// ![list todo](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-todo.png)
   static const IconData icon_list_todo = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30146,11 +34082,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list tree`
+  /// 
+  /// ![list tree](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-tree.png)
   static const IconData icon_list_tree = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30179,11 +34119,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list video`
+  /// 
+  /// ![list video](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-video.png)
   static const IconData icon_list_video = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30199,11 +34143,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `list x`
+  /// 
+  /// ![list x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/list-x.png)
   static const IconData icon_list_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30219,11 +34167,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `loader`
+  /// 
+  /// ![loader](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/loader.png)
   static const IconData icon_loader = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30239,11 +34191,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `loader circle`
+  /// 
+  /// ![loader circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/loader-circle.png)
   static const IconData icon_loader_circle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30259,11 +34215,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `loader pinwheel`
+  /// 
+  /// ![loader pinwheel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/loader-pinwheel.png)
   static const IconData icon_loader_pinwheel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30306,11 +34266,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `locate`
+  /// 
+  /// ![locate](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/locate.png)
   static const IconData icon_locate = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30341,11 +34305,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `locate fixed`
+  /// 
+  /// ![locate fixed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/locate-fixed.png)
   static const IconData icon_locate_fixed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30384,11 +34352,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `locate off`
+  /// 
+  /// ![locate off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/locate-off.png)
   static const IconData icon_locate_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30404,11 +34376,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lock`
+  /// 
+  /// ![lock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lock.png)
   static const IconData icon_lock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30442,11 +34418,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lock keyhole`
+  /// 
+  /// ![lock keyhole](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lock-keyhole.png)
   static const IconData icon_lock_keyhole = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30487,11 +34467,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lock keyhole open`
+  /// 
+  /// ![lock keyhole open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lock-keyhole-open.png)
   static const IconData icon_lock_keyhole_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30532,11 +34516,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lock open`
+  /// 
+  /// ![lock open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lock-open.png)
   static const IconData icon_lock_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30570,11 +34558,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `log in`
+  /// 
+  /// ![log in](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/log-in.png)
   static const IconData icon_log_in = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30590,11 +34582,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `log out`
+  /// 
+  /// ![log out](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/log-out.png)
   static const IconData icon_log_out = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30610,11 +34606,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `logs`
+  /// 
+  /// ![logs](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/logs.png)
   static const IconData icon_logs = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30630,11 +34630,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `lollipop`
+  /// 
+  /// ![lollipop](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lollipop.png)
   static const IconData icon_lollipop = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30665,11 +34669,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `luggage`
+  /// 
+  /// ![luggage](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/luggage.png)
   static const IconData icon_luggage = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30714,11 +34722,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `magnet`
+  /// 
+  /// ![magnet](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/magnet.png)
   static const IconData icon_magnet = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30734,11 +34746,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail`
+  /// 
+  /// ![mail](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail.png)
   static const IconData icon_mail = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30771,11 +34787,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail check`
+  /// 
+  /// ![mail check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-check.png)
   static const IconData icon_mail_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30804,11 +34824,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail minus`
+  /// 
+  /// ![mail minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-minus.png)
   static const IconData icon_mail_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30837,11 +34861,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail open`
+  /// 
+  /// ![mail open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-open.png)
   static const IconData icon_mail_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30870,11 +34898,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail plus`
+  /// 
+  /// ![mail plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-plus.png)
   static const IconData icon_mail_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30903,11 +34935,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail question mark`
+  /// 
+  /// ![mail question mark](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-question-mark.png)
   static const IconData icon_mail_question_mark = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30936,11 +34972,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail search`
+  /// 
+  /// ![mail search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-search.png)
   static const IconData icon_mail_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -30983,11 +35023,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail warning`
+  /// 
+  /// ![mail warning](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-warning.png)
   static const IconData icon_mail_warning = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31016,11 +35060,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mail x`
+  /// 
+  /// ![mail x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-x.png)
   static const IconData icon_mail_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31049,11 +35097,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mailbox`
+  /// 
+  /// ![mailbox](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mailbox.png)
   static const IconData icon_mailbox = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31082,11 +35134,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mails`
+  /// 
+  /// ![mails](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mails.png)
   static const IconData icon_mails = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31119,11 +35175,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map`
+  /// 
+  /// ![map](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map.png)
   static const IconData icon_map = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31139,11 +35199,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map minus`
+  /// 
+  /// ![map minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-minus.png)
   static const IconData icon_map_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31159,11 +35223,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin`
+  /// 
+  /// ![map pin](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin.png)
   static const IconData icon_map_pin = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31194,11 +35262,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin check`
+  /// 
+  /// ![map pin check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-check.png)
   static const IconData icon_map_pin_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31235,11 +35307,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin check inside`
+  /// 
+  /// ![map pin check inside](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-check-inside.png)
   static const IconData icon_map_pin_check_inside = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31268,11 +35344,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin house`
+  /// 
+  /// ![map pin house](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-house.png)
   static const IconData icon_map_pin_house = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31303,11 +35383,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin minus`
+  /// 
+  /// ![map pin minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-minus.png)
   static const IconData icon_map_pin_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31344,11 +35428,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin minus inside`
+  /// 
+  /// ![map pin minus inside](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-minus-inside.png)
   static const IconData icon_map_pin_minus_inside = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31364,11 +35452,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin off`
+  /// 
+  /// ![map pin off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-off.png)
   static const IconData icon_map_pin_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31397,11 +35489,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin pen`
+  /// 
+  /// ![map pin pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-pen.png)
   static const IconData icon_map_pin_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31432,11 +35528,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin plus`
+  /// 
+  /// ![map pin plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-plus.png)
   static const IconData icon_map_pin_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31473,11 +35573,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin plus inside`
+  /// 
+  /// ![map pin plus inside](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-plus-inside.png)
   static const IconData icon_map_pin_plus_inside = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31493,11 +35597,62 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin search`
+  /// 
+  /// ![map pin search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-search.png)
+  static const IconData icon_map_pin_search = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'g',
+      'attrs': {
+      },
+      'children': [
+        {
+          'tag': 'path',
+          'attrs': {
+              'd': "M12.248 21.969a1 1 0 0 1-.849-.17C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0q-.001.63-.112 1.262M22 22l-1.88-1.88",
+          },
+        },
+        {
+          'tag': 'circle',
+          'attrs': {
+              'cx': "12",
+              'cy': "10",
+              'r': "3",
+          },
+        },
+        {
+          'tag': 'circle',
+          'attrs': {
+              'cx': "18",
+              'cy': "18",
+              'r': "3",
+          },
+        },
+      ],
+    },
+  ]);
+
+  /// Lucide icon named `map pin x`
+  /// 
+  /// ![map pin x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-x.png)
   static const IconData icon_map_pin_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31534,11 +35689,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pin x inside`
+  /// 
+  /// ![map pin x inside](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-x-inside.png)
   static const IconData icon_map_pin_x_inside = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31554,11 +35713,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map pinned`
+  /// 
+  /// ![map pinned](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pinned.png)
   static const IconData icon_map_pinned = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31595,11 +35758,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `map plus`
+  /// 
+  /// ![map plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-plus.png)
   static const IconData icon_map_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31615,11 +35782,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mars`
+  /// 
+  /// ![mars](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mars.png)
   static const IconData icon_mars = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31650,11 +35821,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mars stroke`
+  /// 
+  /// ![mars stroke](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mars-stroke.png)
   static const IconData icon_mars_stroke = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31685,11 +35860,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `martini`
+  /// 
+  /// ![martini](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/martini.png)
   static const IconData icon_martini = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31705,11 +35884,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `maximize`
+  /// 
+  /// ![maximize](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/maximize.png)
   static const IconData icon_maximize = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31725,11 +35908,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `maximize 2`
+  /// 
+  /// ![maximize 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/maximize-2.png)
   static const IconData icon_maximize_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31745,11 +35932,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `medal`
+  /// 
+  /// ![medal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/medal.png)
   static const IconData icon_medal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31786,11 +35977,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `megaphone`
+  /// 
+  /// ![megaphone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/megaphone.png)
   static const IconData icon_megaphone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31819,11 +36014,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `megaphone off`
+  /// 
+  /// ![megaphone off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/megaphone-off.png)
   static const IconData icon_megaphone_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31852,11 +36051,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `meh`
+  /// 
+  /// ![meh](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/meh.png)
   static const IconData icon_meh = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31887,11 +36090,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `memory stick`
+  /// 
+  /// ![memory stick](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/memory-stick.png)
   static const IconData icon_memory_stick = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31924,11 +36131,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `menu`
+  /// 
+  /// ![menu](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/menu.png)
   static const IconData icon_menu = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31944,11 +36155,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `merge`
+  /// 
+  /// ![merge](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/merge.png)
   static const IconData icon_merge = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31977,11 +36192,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle`
+  /// 
+  /// ![message circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle.png)
   static const IconData icon_message_circle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -31997,11 +36216,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle check`
+  /// 
+  /// ![message circle check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-check.png)
   static const IconData icon_message_circle_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32030,11 +36253,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle code`
+  /// 
+  /// ![message circle code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-code.png)
   static const IconData icon_message_circle_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32063,11 +36290,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle dashed`
+  /// 
+  /// ![message circle dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-dashed.png)
   static const IconData icon_message_circle_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32083,11 +36314,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle heart`
+  /// 
+  /// ![message circle heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-heart.png)
   static const IconData icon_message_circle_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32116,11 +36351,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle more`
+  /// 
+  /// ![message circle more](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-more.png)
   static const IconData icon_message_circle_more = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32136,11 +36375,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle off`
+  /// 
+  /// ![message circle off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-off.png)
   static const IconData icon_message_circle_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32156,11 +36399,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle plus`
+  /// 
+  /// ![message circle plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-plus.png)
   static const IconData icon_message_circle_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32176,11 +36423,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle question mark`
+  /// 
+  /// ![message circle question mark](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-question-mark.png)
   static const IconData icon_message_circle_question_mark = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32209,11 +36460,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle reply`
+  /// 
+  /// ![message circle reply](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-reply.png)
   static const IconData icon_message_circle_reply = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32248,11 +36503,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle warning`
+  /// 
+  /// ![message circle warning](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-warning.png)
   static const IconData icon_message_circle_warning = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32268,11 +36527,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message circle x`
+  /// 
+  /// ![message circle x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-x.png)
   static const IconData icon_message_circle_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32288,11 +36551,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square`
+  /// 
+  /// ![message square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square.png)
   static const IconData icon_message_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32308,11 +36575,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square check`
+  /// 
+  /// ![message square check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-check.png)
   static const IconData icon_message_square_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32341,11 +36612,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square code`
+  /// 
+  /// ![message square code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-code.png)
   static const IconData icon_message_square_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32374,11 +36649,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square dashed`
+  /// 
+  /// ![message square dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-dashed.png)
   static const IconData icon_message_square_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32394,11 +36673,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square diff`
+  /// 
+  /// ![message square diff](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-diff.png)
   static const IconData icon_message_square_diff = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32414,11 +36697,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square dot`
+  /// 
+  /// ![message square dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-dot.png)
   static const IconData icon_message_square_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32449,11 +36736,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square heart`
+  /// 
+  /// ![message square heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-heart.png)
   static const IconData icon_message_square_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32482,11 +36773,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square lock`
+  /// 
+  /// ![message square lock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-lock.png)
   static const IconData icon_message_square_lock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32525,11 +36820,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square more`
+  /// 
+  /// ![message square more](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-more.png)
   static const IconData icon_message_square_more = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32545,11 +36844,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square off`
+  /// 
+  /// ![message square off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-off.png)
   static const IconData icon_message_square_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32565,11 +36868,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square plus`
+  /// 
+  /// ![message square plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-plus.png)
   static const IconData icon_message_square_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32585,11 +36892,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square quote`
+  /// 
+  /// ![message square quote](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-quote.png)
   static const IconData icon_message_square_quote = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32624,11 +36935,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square reply`
+  /// 
+  /// ![message square reply](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-reply.png)
   static const IconData icon_message_square_reply = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32663,11 +36978,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square share`
+  /// 
+  /// ![message square share](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-share.png)
   static const IconData icon_message_square_share = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32683,11 +37002,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square text`
+  /// 
+  /// ![message square text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-text.png)
   static const IconData icon_message_square_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32703,11 +37026,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square warning`
+  /// 
+  /// ![message square warning](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-warning.png)
   static const IconData icon_message_square_warning = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32723,11 +37050,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `message square x`
+  /// 
+  /// ![message square x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-square-x.png)
   static const IconData icon_message_square_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32743,11 +37074,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `messages square`
+  /// 
+  /// ![messages square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/messages-square.png)
   static const IconData icon_messages_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32763,11 +37098,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `metronome`
+  /// 
+  /// ![metronome](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/metronome.png)
   static const IconData icon_metronome = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32798,11 +37137,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mic`
+  /// 
+  /// ![mic](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mic.png)
   static const IconData icon_mic = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32835,11 +37178,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mic off`
+  /// 
+  /// ![mic off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mic-off.png)
   static const IconData icon_mic_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32868,11 +37215,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mic vocal`
+  /// 
+  /// ![mic vocal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mic-vocal.png)
   static const IconData icon_mic_vocal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32909,11 +37260,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `microchip`
+  /// 
+  /// ![microchip](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/microchip.png)
   static const IconData icon_microchip = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32946,11 +37301,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `microscope`
+  /// 
+  /// ![microscope](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/microscope.png)
   static const IconData icon_microscope = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -32966,11 +37325,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `microwave`
+  /// 
+  /// ![microwave](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/microwave.png)
   static const IconData icon_microwave = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33013,11 +37376,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `milestone`
+  /// 
+  /// ![milestone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/milestone.png)
   static const IconData icon_milestone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33028,16 +37395,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M12 13v8m0-18v3M4 6a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1h13a2 2 0 0 0 1.152-.365l3.424-2.317a1 1 0 0 0 0-1.635l-3.424-2.318A2 2 0 0 0 17 6z",
+          'd': "M12 13v8m0-18v3m6.172 0a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z",
       },
     },
   ]);
 
+  /// Lucide icon named `milk`
+  /// 
+  /// ![milk](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/milk.png)
   static const IconData icon_milk = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33066,11 +37437,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `milk off`
+  /// 
+  /// ![milk off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/milk-off.png)
   static const IconData icon_milk_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33099,11 +37474,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `minimize`
+  /// 
+  /// ![minimize](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/minimize.png)
   static const IconData icon_minimize = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33119,11 +37498,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `minimize 2`
+  /// 
+  /// ![minimize 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/minimize-2.png)
   static const IconData icon_minimize_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33139,11 +37522,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `minus`
+  /// 
+  /// ![minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/minus.png)
   static const IconData icon_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33159,11 +37546,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mirror rectangular`
+  /// 
+  /// ![mirror rectangular](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mirror-rectangular.png)
   static const IconData icon_mirror_rectangular = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33196,11 +37587,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mirror round`
+  /// 
+  /// ![mirror round](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mirror-round.png)
   static const IconData icon_mirror_round = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33231,11 +37626,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor`
+  /// 
+  /// ![monitor](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor.png)
   static const IconData icon_monitor = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33268,11 +37667,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor check`
+  /// 
+  /// ![monitor check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-check.png)
   static const IconData icon_monitor_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33311,11 +37714,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor cloud`
+  /// 
+  /// ![monitor cloud](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-cloud.png)
   static const IconData icon_monitor_cloud = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33348,11 +37755,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor cog`
+  /// 
+  /// ![monitor cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-cog.png)
   static const IconData icon_monitor_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33383,11 +37794,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor dot`
+  /// 
+  /// ![monitor dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-dot.png)
   static const IconData icon_monitor_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33418,11 +37833,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor down`
+  /// 
+  /// ![monitor down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-down.png)
   static const IconData icon_monitor_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33461,11 +37880,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor off`
+  /// 
+  /// ![monitor off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-off.png)
   static const IconData icon_monitor_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33481,11 +37904,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor pause`
+  /// 
+  /// ![monitor pause](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-pause.png)
   static const IconData icon_monitor_pause = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33524,11 +37951,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor play`
+  /// 
+  /// ![monitor play](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-play.png)
   static const IconData icon_monitor_play = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33561,11 +37992,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor smartphone`
+  /// 
+  /// ![monitor smartphone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-smartphone.png)
   static const IconData icon_monitor_smartphone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33598,11 +38033,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor speaker`
+  /// 
+  /// ![monitor speaker](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-speaker.png)
   static const IconData icon_monitor_speaker = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33649,11 +38088,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor stop`
+  /// 
+  /// ![monitor stop](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-stop.png)
   static const IconData icon_monitor_stop = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33696,11 +38139,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor up`
+  /// 
+  /// ![monitor up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-up.png)
   static const IconData icon_monitor_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33739,11 +38186,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `monitor x`
+  /// 
+  /// ![monitor x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/monitor-x.png)
   static const IconData icon_monitor_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33782,11 +38233,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `moon`
+  /// 
+  /// ![moon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/moon.png)
   static const IconData icon_moon = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33802,11 +38257,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `moon star`
+  /// 
+  /// ![moon star](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/moon-star.png)
   static const IconData icon_moon_star = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33822,11 +38281,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `motorbike`
+  /// 
+  /// ![motorbike](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/motorbike.png)
   static const IconData icon_motorbike = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33871,11 +38334,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mountain`
+  /// 
+  /// ![mountain](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mountain.png)
   static const IconData icon_mountain = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33891,11 +38358,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mountain snow`
+  /// 
+  /// ![mountain snow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mountain-snow.png)
   static const IconData icon_mountain_snow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33924,11 +38395,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse`
+  /// 
+  /// ![mouse](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse.png)
   static const IconData icon_mouse = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33961,11 +38436,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse left`
+  /// 
+  /// ![mouse left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse-left.png)
   static const IconData icon_mouse_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -33996,11 +38475,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse off`
+  /// 
+  /// ![mouse off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse-off.png)
   static const IconData icon_mouse_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34016,11 +38499,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse pointer`
+  /// 
+  /// ![mouse pointer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse-pointer.png)
   static const IconData icon_mouse_pointer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34036,11 +38523,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse pointer 2`
+  /// 
+  /// ![mouse pointer 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse-pointer-2.png)
   static const IconData icon_mouse_pointer_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34056,11 +38547,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse pointer 2 off`
+  /// 
+  /// ![mouse pointer 2 off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse-pointer-2-off.png)
   static const IconData icon_mouse_pointer_2_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34076,11 +38571,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse pointer ban`
+  /// 
+  /// ![mouse pointer ban](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse-pointer-ban.png)
   static const IconData icon_mouse_pointer_ban = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34117,11 +38616,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse pointer click`
+  /// 
+  /// ![mouse pointer click](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse-pointer-click.png)
   static const IconData icon_mouse_pointer_click = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34137,11 +38640,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `mouse right`
+  /// 
+  /// ![mouse right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mouse-right.png)
   static const IconData icon_mouse_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34172,11 +38679,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move`
+  /// 
+  /// ![move](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move.png)
   static const IconData icon_move = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34192,11 +38703,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move 3d`
+  /// 
+  /// ![move 3d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-3d.png)
   static const IconData icon_move_3d = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34225,11 +38740,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move diagonal`
+  /// 
+  /// ![move diagonal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-diagonal.png)
   static const IconData icon_move_diagonal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34245,11 +38764,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move diagonal 2`
+  /// 
+  /// ![move diagonal 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-diagonal-2.png)
   static const IconData icon_move_diagonal_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34265,11 +38788,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move down`
+  /// 
+  /// ![move down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-down.png)
   static const IconData icon_move_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34285,11 +38812,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move down left`
+  /// 
+  /// ![move down left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-down-left.png)
   static const IconData icon_move_down_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34305,11 +38836,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move down right`
+  /// 
+  /// ![move down right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-down-right.png)
   static const IconData icon_move_down_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34325,11 +38860,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move horizontal`
+  /// 
+  /// ![move horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-horizontal.png)
   static const IconData icon_move_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34345,11 +38884,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move left`
+  /// 
+  /// ![move left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-left.png)
   static const IconData icon_move_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34365,11 +38908,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move right`
+  /// 
+  /// ![move right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-right.png)
   static const IconData icon_move_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34385,11 +38932,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move up`
+  /// 
+  /// ![move up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-up.png)
   static const IconData icon_move_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34405,11 +38956,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move up left`
+  /// 
+  /// ![move up left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-up-left.png)
   static const IconData icon_move_up_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34425,11 +38980,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move up right`
+  /// 
+  /// ![move up right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-up-right.png)
   static const IconData icon_move_up_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34445,11 +39004,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `move vertical`
+  /// 
+  /// ![move vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-vertical.png)
   static const IconData icon_move_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34465,11 +39028,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `music`
+  /// 
+  /// ![music](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/music.png)
   static const IconData icon_music = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34508,11 +39075,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `music 2`
+  /// 
+  /// ![music 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/music-2.png)
   static const IconData icon_music_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34543,11 +39114,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `music 3`
+  /// 
+  /// ![music 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/music-3.png)
   static const IconData icon_music_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34578,11 +39153,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `music 4`
+  /// 
+  /// ![music 4](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/music-4.png)
   static const IconData icon_music_4 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34621,11 +39200,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `navigation`
+  /// 
+  /// ![navigation](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/navigation.png)
   static const IconData icon_navigation = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34641,11 +39224,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `navigation 2`
+  /// 
+  /// ![navigation 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/navigation-2.png)
   static const IconData icon_navigation_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34661,11 +39248,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `navigation 2 off`
+  /// 
+  /// ![navigation 2 off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/navigation-2-off.png)
   static const IconData icon_navigation_2_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34681,11 +39272,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `navigation off`
+  /// 
+  /// ![navigation off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/navigation-off.png)
   static const IconData icon_navigation_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34701,11 +39296,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `network`
+  /// 
+  /// ![network](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/network.png)
   static const IconData icon_network = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34758,11 +39357,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `newspaper`
+  /// 
+  /// ![newspaper](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/newspaper.png)
   static const IconData icon_newspaper = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34795,11 +39398,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `nfc`
+  /// 
+  /// ![nfc](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/nfc.png)
   static const IconData icon_nfc = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34815,11 +39422,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `non binary`
+  /// 
+  /// ![non binary](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/non-binary.png)
   static const IconData icon_non_binary = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34850,11 +39461,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `notebook`
+  /// 
+  /// ![notebook](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/notebook.png)
   static const IconData icon_notebook = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34893,11 +39508,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `notebook pen`
+  /// 
+  /// ![notebook pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/notebook-pen.png)
   static const IconData icon_notebook_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34926,11 +39545,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `notebook tabs`
+  /// 
+  /// ![notebook tabs](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/notebook-tabs.png)
   static const IconData icon_notebook_tabs = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -34969,11 +39592,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `notebook text`
+  /// 
+  /// ![notebook text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/notebook-text.png)
   static const IconData icon_notebook_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35012,11 +39639,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `notepad text`
+  /// 
+  /// ![notepad text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/notepad-text.png)
   static const IconData icon_notepad_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35055,11 +39686,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `notepad text dashed`
+  /// 
+  /// ![notepad text dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/notepad-text-dashed.png)
   static const IconData icon_notepad_text_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35075,11 +39710,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `nut`
+  /// 
+  /// ![nut](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/nut.png)
   static const IconData icon_nut = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35108,11 +39747,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `nut off`
+  /// 
+  /// ![nut off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/nut-off.png)
   static const IconData icon_nut_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35141,11 +39784,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `octagon`
+  /// 
+  /// ![octagon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/octagon.png)
   static const IconData icon_octagon = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35161,11 +39808,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `octagon alert`
+  /// 
+  /// ![octagon alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/octagon-alert.png)
   static const IconData icon_octagon_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35181,11 +39832,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `octagon minus`
+  /// 
+  /// ![octagon minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/octagon-minus.png)
   static const IconData icon_octagon_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35201,11 +39856,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `octagon pause`
+  /// 
+  /// ![octagon pause](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/octagon-pause.png)
   static const IconData icon_octagon_pause = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35221,11 +39880,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `octagon x`
+  /// 
+  /// ![octagon x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/octagon-x.png)
   static const IconData icon_octagon_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35241,11 +39904,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `omega`
+  /// 
+  /// ![omega](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/omega.png)
   static const IconData icon_omega = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35261,11 +39928,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `option`
+  /// 
+  /// ![option](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/option.png)
   static const IconData icon_option = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35281,11 +39952,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `orbit`
+  /// 
+  /// ![orbit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/orbit.png)
   static const IconData icon_orbit = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35332,11 +40007,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `origami`
+  /// 
+  /// ![origami](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/origami.png)
   static const IconData icon_origami = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35365,11 +40044,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `package`
+  /// 
+  /// ![package](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/package.png)
   static const IconData icon_package = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35398,11 +40081,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `package 2`
+  /// 
+  /// ![package 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/package-2.png)
   static const IconData icon_package_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35418,11 +40105,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `package check`
+  /// 
+  /// ![package check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/package-check.png)
   static const IconData icon_package_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35457,11 +40148,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `package minus`
+  /// 
+  /// ![package minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/package-minus.png)
   static const IconData icon_package_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35490,11 +40185,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `package open`
+  /// 
+  /// ![package open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/package-open.png)
   static const IconData icon_package_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35529,11 +40228,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `package plus`
+  /// 
+  /// ![package plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/package-plus.png)
   static const IconData icon_package_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35562,11 +40265,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `package search`
+  /// 
+  /// ![package search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/package-search.png)
   static const IconData icon_package_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35603,11 +40310,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `package x`
+  /// 
+  /// ![package x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/package-x.png)
   static const IconData icon_package_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35636,11 +40347,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `paint bucket`
+  /// 
+  /// ![paint bucket](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/paint-bucket.png)
   static const IconData icon_paint_bucket = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35656,11 +40371,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `paint roller`
+  /// 
+  /// ![paint roller](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/paint-roller.png)
   static const IconData icon_paint_roller = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35703,11 +40422,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `paintbrush`
+  /// 
+  /// ![paintbrush](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/paintbrush.png)
   static const IconData icon_paintbrush = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35723,11 +40446,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `paintbrush vertical`
+  /// 
+  /// ![paintbrush vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/paintbrush-vertical.png)
   static const IconData icon_paintbrush_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35743,11 +40470,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `palette`
+  /// 
+  /// ![palette](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/palette.png)
   static const IconData icon_palette = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35806,11 +40537,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panda`
+  /// 
+  /// ![panda](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panda.png)
   static const IconData icon_panda = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35845,11 +40580,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel bottom`
+  /// 
+  /// ![panel bottom](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-bottom.png)
   static const IconData icon_panel_bottom = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35882,11 +40621,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel bottom close`
+  /// 
+  /// ![panel bottom close](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-bottom-close.png)
   static const IconData icon_panel_bottom_close = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35919,11 +40662,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel bottom dashed`
+  /// 
+  /// ![panel bottom dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-bottom-dashed.png)
   static const IconData icon_panel_bottom_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35956,11 +40703,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel bottom open`
+  /// 
+  /// ![panel bottom open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-bottom-open.png)
   static const IconData icon_panel_bottom_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -35993,11 +40744,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel left`
+  /// 
+  /// ![panel left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left.png)
   static const IconData icon_panel_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36030,11 +40785,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel left close`
+  /// 
+  /// ![panel left close](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left-close.png)
   static const IconData icon_panel_left_close = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36067,11 +40826,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel left dashed`
+  /// 
+  /// ![panel left dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left-dashed.png)
   static const IconData icon_panel_left_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36104,11 +40867,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel left open`
+  /// 
+  /// ![panel left open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left-open.png)
   static const IconData icon_panel_left_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36141,11 +40908,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel left right dashed`
+  /// 
+  /// ![panel left right dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left-right-dashed.png)
   static const IconData icon_panel_left_right_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36178,11 +40949,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel right`
+  /// 
+  /// ![panel right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-right.png)
   static const IconData icon_panel_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36215,11 +40990,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel right close`
+  /// 
+  /// ![panel right close](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-right-close.png)
   static const IconData icon_panel_right_close = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36252,11 +41031,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel right dashed`
+  /// 
+  /// ![panel right dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-right-dashed.png)
   static const IconData icon_panel_right_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36289,11 +41072,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel right open`
+  /// 
+  /// ![panel right open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-right-open.png)
   static const IconData icon_panel_right_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36326,11 +41113,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel top`
+  /// 
+  /// ![panel top](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-top.png)
   static const IconData icon_panel_top = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36363,11 +41154,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel top bottom dashed`
+  /// 
+  /// ![panel top bottom dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-top-bottom-dashed.png)
   static const IconData icon_panel_top_bottom_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36400,11 +41195,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel top close`
+  /// 
+  /// ![panel top close](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-top-close.png)
   static const IconData icon_panel_top_close = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36437,11 +41236,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel top dashed`
+  /// 
+  /// ![panel top dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-top-dashed.png)
   static const IconData icon_panel_top_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36474,11 +41277,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panel top open`
+  /// 
+  /// ![panel top open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-top-open.png)
   static const IconData icon_panel_top_open = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36511,11 +41318,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panels left bottom`
+  /// 
+  /// ![panels left bottom](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panels-left-bottom.png)
   static const IconData icon_panels_left_bottom = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36548,11 +41359,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panels right bottom`
+  /// 
+  /// ![panels right bottom](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panels-right-bottom.png)
   static const IconData icon_panels_right_bottom = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36585,11 +41400,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `panels top left`
+  /// 
+  /// ![panels top left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panels-top-left.png)
   static const IconData icon_panels_top_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36622,11 +41441,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `paperclip`
+  /// 
+  /// ![paperclip](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/paperclip.png)
   static const IconData icon_paperclip = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36642,11 +41465,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `parentheses`
+  /// 
+  /// ![parentheses](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/parentheses.png)
   static const IconData icon_parentheses = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36662,11 +41489,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `parking meter`
+  /// 
+  /// ![parking meter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/parking-meter.png)
   static const IconData icon_parking_meter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36695,11 +41526,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `party popper`
+  /// 
+  /// ![party popper](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/party-popper.png)
   static const IconData icon_party_popper = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36728,11 +41563,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pause`
+  /// 
+  /// ![pause](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pause.png)
   static const IconData icon_pause = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36769,11 +41608,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `paw print`
+  /// 
+  /// ![paw print](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/paw-print.png)
   static const IconData icon_paw_print = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36820,11 +41663,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pc case`
+  /// 
+  /// ![pc case](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pc-case.png)
   static const IconData icon_pc_case = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36857,11 +41704,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pen`
+  /// 
+  /// ![pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pen.png)
   static const IconData icon_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36877,11 +41728,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pen line`
+  /// 
+  /// ![pen line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pen-line.png)
   static const IconData icon_pen_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36897,11 +41752,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pen off`
+  /// 
+  /// ![pen off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pen-off.png)
   static const IconData icon_pen_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36917,11 +41776,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pen tool`
+  /// 
+  /// ![pen tool](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pen-tool.png)
   static const IconData icon_pen_tool = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36958,11 +41821,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pencil`
+  /// 
+  /// ![pencil](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pencil.png)
   static const IconData icon_pencil = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36978,11 +41845,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pencil line`
+  /// 
+  /// ![pencil line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pencil-line.png)
   static const IconData icon_pencil_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -36998,11 +41869,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pencil off`
+  /// 
+  /// ![pencil off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pencil-off.png)
   static const IconData icon_pencil_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37018,11 +41893,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pencil ruler`
+  /// 
+  /// ![pencil ruler](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pencil-ruler.png)
   static const IconData icon_pencil_ruler = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37038,11 +41917,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pentagon`
+  /// 
+  /// ![pentagon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pentagon.png)
   static const IconData icon_pentagon = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37058,11 +41941,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `percent`
+  /// 
+  /// ![percent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/percent.png)
   static const IconData icon_percent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37101,11 +41988,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `person standing`
+  /// 
+  /// ![person standing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/person-standing.png)
   static const IconData icon_person_standing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37136,11 +42027,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `philippine peso`
+  /// 
+  /// ![philippine peso](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/philippine-peso.png)
   static const IconData icon_philippine_peso = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37156,11 +42051,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `phone`
+  /// 
+  /// ![phone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/phone.png)
   static const IconData icon_phone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37176,11 +42075,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `phone call`
+  /// 
+  /// ![phone call](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/phone-call.png)
   static const IconData icon_phone_call = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37196,11 +42099,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `phone forwarded`
+  /// 
+  /// ![phone forwarded](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/phone-forwarded.png)
   static const IconData icon_phone_forwarded = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37216,11 +42123,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `phone incoming`
+  /// 
+  /// ![phone incoming](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/phone-incoming.png)
   static const IconData icon_phone_incoming = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37236,11 +42147,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `phone missed`
+  /// 
+  /// ![phone missed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/phone-missed.png)
   static const IconData icon_phone_missed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37256,11 +42171,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `phone off`
+  /// 
+  /// ![phone off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/phone-off.png)
   static const IconData icon_phone_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37276,11 +42195,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `phone outgoing`
+  /// 
+  /// ![phone outgoing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/phone-outgoing.png)
   static const IconData icon_phone_outgoing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37296,11 +42219,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pi`
+  /// 
+  /// ![pi](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pi.png)
   static const IconData icon_pi = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37329,11 +42256,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `piano`
+  /// 
+  /// ![piano](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/piano.png)
   static const IconData icon_piano = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37349,11 +42280,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pickaxe`
+  /// 
+  /// ![pickaxe](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pickaxe.png)
   static const IconData icon_pickaxe = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37382,11 +42317,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `picture in picture`
+  /// 
+  /// ![picture in picture](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/picture-in-picture.png)
   static const IconData icon_picture_in_picture = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37419,11 +42358,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `picture in picture 2`
+  /// 
+  /// ![picture in picture 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/picture-in-picture-2.png)
   static const IconData icon_picture_in_picture_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37456,11 +42399,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pie chart`
+  /// 
+  /// ![pie chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pie-chart.png)
   static const IconData icon_pie_chart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37489,11 +42436,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `piggy bank`
+  /// 
+  /// ![piggy bank](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/piggy-bank.png)
   static const IconData icon_piggy_bank = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37509,11 +42460,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pilcrow`
+  /// 
+  /// ![pilcrow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pilcrow.png)
   static const IconData icon_pilcrow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37529,11 +42484,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pilcrow left`
+  /// 
+  /// ![pilcrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pilcrow-left.png)
   static const IconData icon_pilcrow_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37549,11 +42508,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pilcrow right`
+  /// 
+  /// ![pilcrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pilcrow-right.png)
   static const IconData icon_pilcrow_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37569,11 +42532,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pill`
+  /// 
+  /// ![pill](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pill.png)
   static const IconData icon_pill = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37589,11 +42556,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pill bottle`
+  /// 
+  /// ![pill bottle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pill-bottle.png)
   static const IconData icon_pill_bottle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37632,11 +42603,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pin`
+  /// 
+  /// ![pin](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pin.png)
   static const IconData icon_pin = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37652,11 +42627,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pin off`
+  /// 
+  /// ![pin off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pin-off.png)
   static const IconData icon_pin_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37672,11 +42651,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pipette`
+  /// 
+  /// ![pipette](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pipette.png)
   static const IconData icon_pipette = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37705,11 +42688,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pizza`
+  /// 
+  /// ![pizza](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pizza.png)
   static const IconData icon_pizza = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37738,11 +42725,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `plane`
+  /// 
+  /// ![plane](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/plane.png)
   static const IconData icon_plane = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37758,11 +42749,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `plane landing`
+  /// 
+  /// ![plane landing](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/plane-landing.png)
   static const IconData icon_plane_landing = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37778,11 +42773,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `plane takeoff`
+  /// 
+  /// ![plane takeoff](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/plane-takeoff.png)
   static const IconData icon_plane_takeoff = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37798,11 +42797,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `play`
+  /// 
+  /// ![play](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/play.png)
   static const IconData icon_play = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37818,11 +42821,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `plug`
+  /// 
+  /// ![plug](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/plug.png)
   static const IconData icon_plug = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37838,11 +42845,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `plug 2`
+  /// 
+  /// ![plug 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/plug-2.png)
   static const IconData icon_plug_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37858,11 +42869,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `plug zap`
+  /// 
+  /// ![plug zap](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/plug-zap.png)
   static const IconData icon_plug_zap = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37878,11 +42893,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `plus`
+  /// 
+  /// ![plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/plus.png)
   static const IconData icon_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37898,11 +42917,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pocket`
+  /// 
+  /// ![pocket](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pocket.png)
   static const IconData icon_pocket = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37931,11 +42954,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pocket knife`
+  /// 
+  /// ![pocket knife](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pocket-knife.png)
   static const IconData icon_pocket_knife = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -37964,11 +42991,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `podcast`
+  /// 
+  /// ![podcast](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/podcast.png)
   static const IconData icon_podcast = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38013,11 +43044,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pointer`
+  /// 
+  /// ![pointer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pointer.png)
   static const IconData icon_pointer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38046,11 +43081,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pointer off`
+  /// 
+  /// ![pointer off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pointer-off.png)
   static const IconData icon_pointer_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38066,11 +43105,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `popcorn`
+  /// 
+  /// ![popcorn](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/popcorn.png)
   static const IconData icon_popcorn = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38099,11 +43142,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `popsicle`
+  /// 
+  /// ![popsicle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/popsicle.png)
   static const IconData icon_popsicle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38119,11 +43166,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pound sterling`
+  /// 
+  /// ![pound sterling](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pound-sterling.png)
   static const IconData icon_pound_sterling = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38139,11 +43190,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `power`
+  /// 
+  /// ![power](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/power.png)
   static const IconData icon_power = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38159,11 +43214,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `power off`
+  /// 
+  /// ![power off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/power-off.png)
   static const IconData icon_power_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38179,11 +43238,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `presentation`
+  /// 
+  /// ![presentation](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/presentation.png)
   static const IconData icon_presentation = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38199,11 +43262,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `printer`
+  /// 
+  /// ![printer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/printer.png)
   static const IconData icon_printer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38236,11 +43303,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `printer check`
+  /// 
+  /// ![printer check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/printer-check.png)
   static const IconData icon_printer_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38269,11 +43340,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `printer x`
+  /// 
+  /// ![printer x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/printer-x.png)
   static const IconData icon_printer_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38302,11 +43377,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `projector`
+  /// 
+  /// ![projector](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/projector.png)
   static const IconData icon_projector = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38343,11 +43422,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `proportions`
+  /// 
+  /// ![proportions](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/proportions.png)
   static const IconData icon_proportions = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38380,11 +43463,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `puzzle`
+  /// 
+  /// ![puzzle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/puzzle.png)
   static const IconData icon_puzzle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38400,11 +43487,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `pyramid`
+  /// 
+  /// ![pyramid](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pyramid.png)
   static const IconData icon_pyramid = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38420,11 +43511,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `qr code`
+  /// 
+  /// ![qr code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/qr-code.png)
   static const IconData icon_qr_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38477,11 +43572,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `quote`
+  /// 
+  /// ![quote](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/quote.png)
   static const IconData icon_quote = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38497,11 +43596,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rabbit`
+  /// 
+  /// ![rabbit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rabbit.png)
   static const IconData icon_rabbit = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38536,11 +43639,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `radar`
+  /// 
+  /// ![radar](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/radar.png)
   static const IconData icon_radar = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38583,11 +43690,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `radiation`
+  /// 
+  /// ![radiation](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/radiation.png)
   static const IconData icon_radiation = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38603,11 +43714,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `radical`
+  /// 
+  /// ![radical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/radical.png)
   static const IconData icon_radical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38623,11 +43738,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `radio`
+  /// 
+  /// ![radio](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/radio.png)
   static const IconData icon_radio = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38658,11 +43777,39 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `radio off`
+  /// 
+  /// ![radio off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/radio-off.png)
+  static const IconData icon_radio_off = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'path',
+      'attrs': {
+          'd': "M13.414 13.414a2 2 0 1 1-2.828-2.828m5.661-2.825a6 6 0 0 1 1.744 4.572m1.084-7.4a10 10 0 0 1 2.234 10.72M2 2l20 20M4.925 19.067a10 10 0 0 1 0-14.134m2.828 11.306a6 6 0 0 1 0-8.478",
+      },
+    },
+  ]);
+
+  /// Lucide icon named `radio receiver`
+  /// 
+  /// ![radio receiver](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/radio-receiver.png)
   static const IconData icon_radio_receiver = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38701,11 +43848,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `radio tower`
+  /// 
+  /// ![radio tower](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/radio-tower.png)
   static const IconData icon_radio_tower = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38742,11 +43893,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `radius`
+  /// 
+  /// ![radius](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/radius.png)
   static const IconData icon_radius = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38791,11 +43946,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rail symbol`
+  /// 
+  /// ![rail symbol](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rail-symbol.png)
   static const IconData icon_rail_symbol = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38811,11 +43970,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rainbow`
+  /// 
+  /// ![rainbow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rainbow.png)
   static const IconData icon_rainbow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38850,11 +44013,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rat`
+  /// 
+  /// ![rat](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rat.png)
   static const IconData icon_rat = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38889,11 +44056,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ratio`
+  /// 
+  /// ![ratio](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ratio.png)
   static const IconData icon_ratio = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38930,11 +44101,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt`
+  /// 
+  /// ![receipt](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt.png)
   static const IconData icon_receipt = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38963,11 +44138,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt cent`
+  /// 
+  /// ![receipt cent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-cent.png)
   static const IconData icon_receipt_cent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -38996,11 +44175,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt euro`
+  /// 
+  /// ![receipt euro](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-euro.png)
   static const IconData icon_receipt_euro = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39029,11 +44212,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt indian rupee`
+  /// 
+  /// ![receipt indian rupee](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-indian-rupee.png)
   static const IconData icon_receipt_indian_rupee = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39062,11 +44249,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt japanese yen`
+  /// 
+  /// ![receipt japanese yen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-japanese-yen.png)
   static const IconData icon_receipt_japanese_yen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39095,11 +44286,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt pound sterling`
+  /// 
+  /// ![receipt pound sterling](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-pound-sterling.png)
   static const IconData icon_receipt_pound_sterling = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39128,11 +44323,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt russian ruble`
+  /// 
+  /// ![receipt russian ruble](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-russian-ruble.png)
   static const IconData icon_receipt_russian_ruble = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39161,11 +44360,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt swiss franc`
+  /// 
+  /// ![receipt swiss franc](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-swiss-franc.png)
   static const IconData icon_receipt_swiss_franc = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39194,11 +44397,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt text`
+  /// 
+  /// ![receipt text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-text.png)
   static const IconData icon_receipt_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39214,11 +44421,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `receipt turkish lira`
+  /// 
+  /// ![receipt turkish lira](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/receipt-turkish-lira.png)
   static const IconData icon_receipt_turkish_lira = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39247,11 +44458,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rectangle circle`
+  /// 
+  /// ![rectangle circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rectangle-circle.png)
   static const IconData icon_rectangle_circle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39282,11 +44497,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rectangle ellipsis`
+  /// 
+  /// ![rectangle ellipsis](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rectangle-ellipsis.png)
   static const IconData icon_rectangle_ellipsis = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39319,11 +44538,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rectangle goggles`
+  /// 
+  /// ![rectangle goggles](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rectangle-goggles.png)
   static const IconData icon_rectangle_goggles = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39339,11 +44562,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rectangle horizontal`
+  /// 
+  /// ![rectangle horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rectangle-horizontal.png)
   static const IconData icon_rectangle_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39363,11 +44590,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rectangle vertical`
+  /// 
+  /// ![rectangle vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rectangle-vertical.png)
   static const IconData icon_rectangle_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39387,11 +44618,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `recycle`
+  /// 
+  /// ![recycle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/recycle.png)
   static const IconData icon_recycle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39426,11 +44661,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `redo`
+  /// 
+  /// ![redo](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/redo.png)
   static const IconData icon_redo = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39459,11 +44698,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `redo 2`
+  /// 
+  /// ![redo 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/redo-2.png)
   static const IconData icon_redo_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39492,11 +44735,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `redo dot`
+  /// 
+  /// ![redo dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/redo-dot.png)
   static const IconData icon_redo_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39533,11 +44780,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `refresh ccw`
+  /// 
+  /// ![refresh ccw](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/refresh-ccw.png)
   static const IconData icon_refresh_ccw = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39572,11 +44823,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `refresh ccw dot`
+  /// 
+  /// ![refresh ccw dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/refresh-ccw-dot.png)
   static const IconData icon_refresh_ccw_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39619,11 +44874,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `refresh cw`
+  /// 
+  /// ![refresh cw](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/refresh-cw.png)
   static const IconData icon_refresh_cw = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39658,11 +44917,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `refresh cw off`
+  /// 
+  /// ![refresh cw off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/refresh-cw-off.png)
   static const IconData icon_refresh_cw_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39691,11 +44954,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `refrigerator`
+  /// 
+  /// ![refrigerator](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/refrigerator.png)
   static const IconData icon_refrigerator = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39711,11 +44978,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `regex`
+  /// 
+  /// ![regex](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/regex.png)
   static const IconData icon_regex = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39731,11 +45002,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `remove formatting`
+  /// 
+  /// ![remove formatting](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/remove-formatting.png)
   static const IconData icon_remove_formatting = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39751,11 +45026,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `repeat`
+  /// 
+  /// ![repeat](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/repeat.png)
   static const IconData icon_repeat = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39790,11 +45069,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `repeat 1`
+  /// 
+  /// ![repeat 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/repeat-1.png)
   static const IconData icon_repeat_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39829,11 +45112,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `repeat 2`
+  /// 
+  /// ![repeat 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/repeat-2.png)
   static const IconData icon_repeat_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39868,11 +45155,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `replace`
+  /// 
+  /// ![replace](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/replace.png)
   static const IconData icon_replace = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39911,11 +45202,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `replace all`
+  /// 
+  /// ![replace all](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/replace-all.png)
   static const IconData icon_replace_all = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39954,11 +45249,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `reply`
+  /// 
+  /// ![reply](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/reply.png)
   static const IconData icon_reply = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -39987,11 +45286,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `reply all`
+  /// 
+  /// ![reply all](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/reply-all.png)
   static const IconData icon_reply_all = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40020,11 +45323,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rewind`
+  /// 
+  /// ![rewind](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rewind.png)
   static const IconData icon_rewind = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40053,11 +45360,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ribbon`
+  /// 
+  /// ![ribbon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ribbon.png)
   static const IconData icon_ribbon = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40092,11 +45403,39 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `road`
+  /// 
+  /// ![road](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/road.png)
+  static const IconData icon_road = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'path',
+      'attrs': {
+          'd': "M12 17v4m0-16V3m0 6v3m-9.923 6.449A2 2 0 0 0 4 21h16a2 2 0 0 0 1.924-2.55l-4-14A2 2 0 0 0 16 3H8a2 2 0 0 0-1.924 1.45z",
+      },
+    },
+  ]);
+
+  /// Lucide icon named `rocket`
+  /// 
+  /// ![rocket](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rocket.png)
   static const IconData icon_rocket = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40131,11 +45470,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rocking chair`
+  /// 
+  /// ![rocking chair](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rocking-chair.png)
   static const IconData icon_rocking_chair = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40151,11 +45494,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `roller coaster`
+  /// 
+  /// ![roller coaster](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/roller-coaster.png)
   static const IconData icon_roller_coaster = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40171,11 +45518,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rose`
+  /// 
+  /// ![rose](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rose.png)
   static const IconData icon_rose = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40218,11 +45569,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rotate 3d`
+  /// 
+  /// ![rotate 3d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rotate-3d.png)
   static const IconData icon_rotate_3d = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40251,11 +45606,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rotate ccw`
+  /// 
+  /// ![rotate ccw](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rotate-ccw.png)
   static const IconData icon_rotate_ccw = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40284,11 +45643,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rotate ccw key`
+  /// 
+  /// ![rotate ccw key](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rotate-ccw-key.png)
   static const IconData icon_rotate_ccw_key = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40325,11 +45688,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rotate ccw square`
+  /// 
+  /// ![rotate ccw square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rotate-ccw-square.png)
   static const IconData icon_rotate_ccw_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40358,11 +45725,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rotate cw`
+  /// 
+  /// ![rotate cw](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rotate-cw.png)
   static const IconData icon_rotate_cw = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40391,11 +45762,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rotate cw square`
+  /// 
+  /// ![rotate cw square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rotate-cw-square.png)
   static const IconData icon_rotate_cw_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40424,11 +45799,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `route`
+  /// 
+  /// ![route](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/route.png)
   static const IconData icon_route = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40467,11 +45846,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `route off`
+  /// 
+  /// ![route off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/route-off.png)
   static const IconData icon_route_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40510,11 +45893,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `router`
+  /// 
+  /// ![router](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/router.png)
   static const IconData icon_router = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40547,11 +45934,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rows 2`
+  /// 
+  /// ![rows 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rows-2.png)
   static const IconData icon_rows_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40584,11 +45975,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rows 3`
+  /// 
+  /// ![rows 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rows-3.png)
   static const IconData icon_rows_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40621,11 +46016,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rows 4`
+  /// 
+  /// ![rows 4](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rows-4.png)
   static const IconData icon_rows_4 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40658,11 +46057,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `rss`
+  /// 
+  /// ![rss](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rss.png)
   static const IconData icon_rss = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40693,11 +46096,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ruler`
+  /// 
+  /// ![ruler](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ruler.png)
   static const IconData icon_ruler = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40713,11 +46120,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ruler dimension line`
+  /// 
+  /// ![ruler dimension line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ruler-dimension-line.png)
   static const IconData icon_ruler_dimension_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40750,11 +46161,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `russian ruble`
+  /// 
+  /// ![russian ruble](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/russian-ruble.png)
   static const IconData icon_russian_ruble = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40770,11 +46185,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sailboat`
+  /// 
+  /// ![sailboat](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sailboat.png)
   static const IconData icon_sailboat = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40790,11 +46209,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `salad`
+  /// 
+  /// ![salad](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/salad.png)
   static const IconData icon_salad = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40829,11 +46252,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sandwich`
+  /// 
+  /// ![sandwich](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sandwich.png)
   static const IconData icon_sandwich = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40872,11 +46299,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `satellite`
+  /// 
+  /// ![satellite](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/satellite.png)
   static const IconData icon_satellite = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40905,11 +46336,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `satellite dish`
+  /// 
+  /// ![satellite dish](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/satellite-dish.png)
   static const IconData icon_satellite_dish = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40925,11 +46360,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `saudi riyal`
+  /// 
+  /// ![saudi riyal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/saudi-riyal.png)
   static const IconData icon_saudi_riyal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40945,11 +46384,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `save`
+  /// 
+  /// ![save](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/save.png)
   static const IconData icon_save = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -40978,11 +46421,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `save all`
+  /// 
+  /// ![save all](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/save-all.png)
   static const IconData icon_save_all = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41017,11 +46464,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `save off`
+  /// 
+  /// ![save off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/save-off.png)
   static const IconData icon_save_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41050,11 +46501,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scale`
+  /// 
+  /// ![scale](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scale.png)
   static const IconData icon_scale = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41083,11 +46538,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scale 3d`
+  /// 
+  /// ![scale 3d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scale-3d.png)
   static const IconData icon_scale_3d = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41126,11 +46585,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scaling`
+  /// 
+  /// ![scaling](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scaling.png)
   static const IconData icon_scaling = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41159,11 +46622,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan`
+  /// 
+  /// ![scan](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan.png)
   static const IconData icon_scan = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41179,11 +46646,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan barcode`
+  /// 
+  /// ![scan barcode](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan-barcode.png)
   static const IconData icon_scan_barcode = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41199,11 +46670,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan eye`
+  /// 
+  /// ![scan eye](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan-eye.png)
   static const IconData icon_scan_eye = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41240,11 +46715,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan face`
+  /// 
+  /// ![scan face](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan-face.png)
   static const IconData icon_scan_face = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41260,11 +46739,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan heart`
+  /// 
+  /// ![scan heart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan-heart.png)
   static const IconData icon_scan_heart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41280,11 +46763,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan line`
+  /// 
+  /// ![scan line](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan-line.png)
   static const IconData icon_scan_line = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41300,11 +46787,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan qr code`
+  /// 
+  /// ![scan qr code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan-qr-code.png)
   static const IconData icon_scan_qr_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41337,11 +46828,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan search`
+  /// 
+  /// ![scan search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan-search.png)
   static const IconData icon_scan_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41378,11 +46873,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scan text`
+  /// 
+  /// ![scan text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scan-text.png)
   static const IconData icon_scan_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41398,11 +46897,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scatter chart`
+  /// 
+  /// ![scatter chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scatter-chart.png)
   static const IconData icon_scatter_chart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41470,11 +46973,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `school`
+  /// 
+  /// ![school](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/school.png)
   static const IconData icon_school = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41511,11 +47018,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scissors`
+  /// 
+  /// ![scissors](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scissors.png)
   static const IconData icon_scissors = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41560,11 +47071,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scissors line dashed`
+  /// 
+  /// ![scissors line dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scissors-line-dashed.png)
   static const IconData icon_scissors_line_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41615,11 +47130,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scooter`
+  /// 
+  /// ![scooter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scooter.png)
   static const IconData icon_scooter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41658,11 +47177,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `screen share`
+  /// 
+  /// ![screen share](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/screen-share.png)
   static const IconData icon_screen_share = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41678,11 +47201,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `screen share off`
+  /// 
+  /// ![screen share off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/screen-share-off.png)
   static const IconData icon_screen_share_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41698,11 +47225,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scroll`
+  /// 
+  /// ![scroll](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scroll.png)
   static const IconData icon_scroll = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41731,11 +47262,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `scroll text`
+  /// 
+  /// ![scroll text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scroll-text.png)
   static const IconData icon_scroll_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41764,11 +47299,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `search`
+  /// 
+  /// ![search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/search.png)
   static const IconData icon_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41799,11 +47338,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `search alert`
+  /// 
+  /// ![search alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/search-alert.png)
   static const IconData icon_search_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41834,11 +47377,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `search check`
+  /// 
+  /// ![search check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/search-check.png)
   static const IconData icon_search_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41875,11 +47422,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `search code`
+  /// 
+  /// ![search code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/search-code.png)
   static const IconData icon_search_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41910,11 +47461,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `search large`
+  /// 
+  /// ![search large](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/search-large.png)
   static const IconData icon_search_large = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 32 32",
           'fill': "none",
       },
     },
@@ -41936,11 +47491,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `search slash`
+  /// 
+  /// ![search slash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/search-slash.png)
   static const IconData icon_search_slash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -41977,11 +47536,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `search x`
+  /// 
+  /// ![search x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/search-x.png)
   static const IconData icon_search_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42018,11 +47581,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `section`
+  /// 
+  /// ![section](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/section.png)
   static const IconData icon_section = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42051,11 +47618,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `send`
+  /// 
+  /// ![send](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/send.png)
   static const IconData icon_send = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42071,11 +47642,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `send horizontal`
+  /// 
+  /// ![send horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/send-horizontal.png)
   static const IconData icon_send_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42091,11 +47666,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `send to back`
+  /// 
+  /// ![send to back](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/send-to-back.png)
   static const IconData icon_send_to_back = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42138,11 +47717,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `separator horizontal`
+  /// 
+  /// ![separator horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/separator-horizontal.png)
   static const IconData icon_separator_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42158,11 +47741,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `separator vertical`
+  /// 
+  /// ![separator vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/separator-vertical.png)
   static const IconData icon_separator_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42178,11 +47765,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `server`
+  /// 
+  /// ![server](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/server.png)
   static const IconData icon_server = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42227,11 +47818,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `server cog`
+  /// 
+  /// ![server cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/server-cog.png)
   static const IconData icon_server_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42266,11 +47861,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `server crash`
+  /// 
+  /// ![server crash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/server-crash.png)
   static const IconData icon_server_crash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42299,11 +47898,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `server off`
+  /// 
+  /// ![server off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/server-off.png)
   static const IconData icon_server_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42319,11 +47922,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `settings`
+  /// 
+  /// ![settings](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/settings.png)
   static const IconData icon_settings = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42354,11 +47961,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `settings 2`
+  /// 
+  /// ![settings 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/settings-2.png)
   static const IconData icon_settings_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42397,11 +48008,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shapes`
+  /// 
+  /// ![shapes](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shapes.png)
   static const IconData icon_shapes = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42442,11 +48057,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `share`
+  /// 
+  /// ![share](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/share.png)
   static const IconData icon_share = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42462,11 +48081,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `share 2`
+  /// 
+  /// ![share 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/share-2.png)
   static const IconData icon_share_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42513,11 +48136,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sheet`
+  /// 
+  /// ![sheet](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sheet.png)
   static const IconData icon_sheet = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42551,11 +48178,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shell`
+  /// 
+  /// ![shell](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shell.png)
   static const IconData icon_shell = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42571,11 +48202,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shelving unit`
+  /// 
+  /// ![shelving unit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shelving-unit.png)
   static const IconData icon_shelving_unit = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42591,11 +48226,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield`
+  /// 
+  /// ![shield](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield.png)
   static const IconData icon_shield = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42611,11 +48250,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield alert`
+  /// 
+  /// ![shield alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-alert.png)
   static const IconData icon_shield_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42631,11 +48274,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield ban`
+  /// 
+  /// ![shield ban](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-ban.png)
   static const IconData icon_shield_ban = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42651,11 +48298,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield check`
+  /// 
+  /// ![shield check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-check.png)
   static const IconData icon_shield_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42684,11 +48335,93 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield cog`
+  /// 
+  /// ![shield cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-cog.png)
+  static const IconData icon_shield_cog = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'g',
+      'attrs': {
+      },
+      'children': [
+        {
+          'tag': 'path',
+          'attrs': {
+              'd': "m10.929 14.467l-.383.924m.383-6.468L10.546 8m2.679.923L13.608 8m-.001 7.391l-.382-.924m1.624-3.92l.923-.383m-.923 2.679l.923.383M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1zM9.305 10.547l-.923-.383m.923 2.679l-.923.383",
+          },
+        },
+        {
+          'tag': 'circle',
+          'attrs': {
+              'cx': "12.077",
+              'cy': "11.695",
+              'r': "3",
+          },
+        },
+      ],
+    },
+  ]);
+
+  /// Lucide icon named `shield cog corner`
+  /// 
+  /// ![shield cog corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-cog-corner.png)
+  static const IconData icon_shield_cog_corner = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'g',
+      'attrs': {
+      },
+      'children': [
+        {
+          'tag': 'path',
+          'attrs': {
+              'd': "M11 22c-3.806-1.45-7-3.966-7-9V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1v4m-5.077 6.547L14 16.164m.923 2.679l-.923.383m2.547-4.303L16.164 14m.383 6.467l-.383.924m2.679-6.468l.383-.923m-.001 7.391l-.382-.924m1.624-3.92l.923-.383m-.923 2.679l.923.383",
+          },
+        },
+        {
+          'tag': 'circle',
+          'attrs': {
+              'cx': "17.695",
+              'cy': "17.695",
+              'r': "3",
+          },
+        },
+      ],
+    },
+  ]);
+
+  /// Lucide icon named `shield ellipsis`
+  /// 
+  /// ![shield ellipsis](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-ellipsis.png)
   static const IconData icon_shield_ellipsis = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42704,11 +48437,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield half`
+  /// 
+  /// ![shield half](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-half.png)
   static const IconData icon_shield_half = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42724,11 +48461,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield minus`
+  /// 
+  /// ![shield minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-minus.png)
   static const IconData icon_shield_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42744,11 +48485,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield off`
+  /// 
+  /// ![shield off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-off.png)
   static const IconData icon_shield_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42764,11 +48509,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield plus`
+  /// 
+  /// ![shield plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-plus.png)
   static const IconData icon_shield_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42784,11 +48533,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield question mark`
+  /// 
+  /// ![shield question mark](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-question-mark.png)
   static const IconData icon_shield_question_mark = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42817,11 +48570,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield user`
+  /// 
+  /// ![shield user](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-user.png)
   static const IconData icon_shield_user = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42858,11 +48615,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shield x`
+  /// 
+  /// ![shield x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-x.png)
   static const IconData icon_shield_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42878,11 +48639,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ship`
+  /// 
+  /// ![ship](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ship.png)
   static const IconData icon_ship = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42917,11 +48682,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ship wheel`
+  /// 
+  /// ![ship wheel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ship-wheel.png)
   static const IconData icon_ship_wheel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42960,11 +48729,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shirt`
+  /// 
+  /// ![shirt](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shirt.png)
   static const IconData icon_shirt = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -42980,11 +48753,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shopping bag`
+  /// 
+  /// ![shopping bag](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shopping-bag.png)
   static const IconData icon_shopping_bag = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43013,11 +48790,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shopping basket`
+  /// 
+  /// ![shopping basket](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shopping-basket.png)
   static const IconData icon_shopping_basket = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43033,11 +48814,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shopping cart`
+  /// 
+  /// ![shopping cart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shopping-cart.png)
   static const IconData icon_shopping_cart = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43076,11 +48861,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shovel`
+  /// 
+  /// ![shovel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shovel.png)
   static const IconData icon_shovel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43096,11 +48885,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shower head`
+  /// 
+  /// ![shower head](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shower-head.png)
   static const IconData icon_shower_head = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43116,11 +48909,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shredder`
+  /// 
+  /// ![shredder](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shredder.png)
   static const IconData icon_shredder = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43149,11 +48946,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shrimp`
+  /// 
+  /// ![shrimp](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shrimp.png)
   static const IconData icon_shrimp = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43182,11 +48983,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shrink`
+  /// 
+  /// ![shrink](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shrink.png)
   static const IconData icon_shrink = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43202,11 +49007,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shrub`
+  /// 
+  /// ![shrub](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shrub.png)
   static const IconData icon_shrub = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43235,11 +49044,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `shuffle`
+  /// 
+  /// ![shuffle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shuffle.png)
   static const IconData icon_shuffle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43268,11 +49081,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sigma`
+  /// 
+  /// ![sigma](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sigma.png)
   static const IconData icon_sigma = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43288,11 +49105,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `signal`
+  /// 
+  /// ![signal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/signal.png)
   static const IconData icon_signal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43308,11 +49129,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `signal high`
+  /// 
+  /// ![signal high](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/signal-high.png)
   static const IconData icon_signal_high = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43328,11 +49153,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `signal low`
+  /// 
+  /// ![signal low](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/signal-low.png)
   static const IconData icon_signal_low = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43348,11 +49177,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `signal medium`
+  /// 
+  /// ![signal medium](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/signal-medium.png)
   static const IconData icon_signal_medium = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43368,11 +49201,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `signal zero`
+  /// 
+  /// ![signal zero](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/signal-zero.png)
   static const IconData icon_signal_zero = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43388,11 +49225,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `signature`
+  /// 
+  /// ![signature](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/signature.png)
   static const IconData icon_signature = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43408,11 +49249,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `signpost`
+  /// 
+  /// ![signpost](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/signpost.png)
   static const IconData icon_signpost = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43423,16 +49268,20 @@ class LucideIcons {
     {
       'tag': 'path',
       'attrs': {
-          'd': "M12 13v8m0-18v3m6 0a2 2 0 0 1 1.387.56l2.307 2.22a1 1 0 0 1 0 1.44l-2.307 2.22A2 2 0 0 1 18 13H6a2 2 0 0 1-1.387-.56l-2.306-2.22a1 1 0 0 1 0-1.44l2.306-2.22A2 2 0 0 1 6 6z",
+          'd': "M12 13v8m0-18v3m-9.646 4.354a1.207 1.207 0 0 1 0-1.708l2.06-2.06A2 2 0 0 1 5.828 6h12.344a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H5.828a2 2 0 0 1-1.414-.586z",
       },
     },
   ]);
 
+  /// Lucide icon named `signpost big`
+  /// 
+  /// ![signpost big](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/signpost-big.png)
   static const IconData icon_signpost_big = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43448,11 +49297,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `siren`
+  /// 
+  /// ![siren](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/siren.png)
   static const IconData icon_siren = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43468,11 +49321,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `skip back`
+  /// 
+  /// ![skip back](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/skip-back.png)
   static const IconData icon_skip_back = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43488,11 +49345,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `skip forward`
+  /// 
+  /// ![skip forward](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/skip-forward.png)
   static const IconData icon_skip_forward = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43508,11 +49369,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `skull`
+  /// 
+  /// ![skull](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/skull.png)
   static const IconData icon_skull = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43557,11 +49422,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `slack`
+  /// 
+  /// ![slack](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/slack.png)
   static const IconData icon_slack = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43642,11 +49511,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `slash`
+  /// 
+  /// ![slash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/slash.png)
   static const IconData icon_slash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43662,11 +49535,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `slice`
+  /// 
+  /// ![slice](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/slice.png)
   static const IconData icon_slice = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43682,11 +49559,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sliders horizontal`
+  /// 
+  /// ![sliders horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sliders-horizontal.png)
   static const IconData icon_sliders_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43702,11 +49583,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sliders vertical`
+  /// 
+  /// ![sliders vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sliders-vertical.png)
   static const IconData icon_sliders_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43722,11 +49607,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `smartphone`
+  /// 
+  /// ![smartphone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/smartphone.png)
   static const IconData icon_smartphone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43760,11 +49649,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `smartphone charging`
+  /// 
+  /// ![smartphone charging](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/smartphone-charging.png)
   static const IconData icon_smartphone_charging = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43798,11 +49691,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `smartphone nfc`
+  /// 
+  /// ![smartphone nfc](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/smartphone-nfc.png)
   static const IconData icon_smartphone_nfc = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43835,11 +49732,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `smile`
+  /// 
+  /// ![smile](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/smile.png)
   static const IconData icon_smile = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43870,11 +49771,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `smile plus`
+  /// 
+  /// ![smile plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/smile-plus.png)
   static const IconData icon_smile_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43903,11 +49808,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `snail`
+  /// 
+  /// ![snail](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/snail.png)
   static const IconData icon_snail = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43944,11 +49853,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `snowflake`
+  /// 
+  /// ![snowflake](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/snowflake.png)
   static const IconData icon_snowflake = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -43983,11 +49896,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `soap dispenser droplet`
+  /// 
+  /// ![soap dispenser droplet](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/soap-dispenser-droplet.png)
   static const IconData icon_soap_dispenser_droplet = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44003,11 +49920,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sofa`
+  /// 
+  /// ![sofa](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sofa.png)
   static const IconData icon_sofa = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44036,11 +49957,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `solar panel`
+  /// 
+  /// ![solar panel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/solar-panel.png)
   static const IconData icon_solar_panel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44069,11 +49994,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `soup`
+  /// 
+  /// ![soup](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/soup.png)
   static const IconData icon_soup = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44089,11 +50018,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `space`
+  /// 
+  /// ![space](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/space.png)
   static const IconData icon_space = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44109,11 +50042,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `spade`
+  /// 
+  /// ![spade](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/spade.png)
   static const IconData icon_spade = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44129,11 +50066,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sparkle`
+  /// 
+  /// ![sparkle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sparkle.png)
   static const IconData icon_sparkle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44149,11 +50090,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sparkles`
+  /// 
+  /// ![sparkles](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sparkles.png)
   static const IconData icon_sparkles = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44184,11 +50129,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `speaker`
+  /// 
+  /// ![speaker](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/speaker.png)
   static const IconData icon_speaker = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44235,11 +50184,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `speech`
+  /// 
+  /// ![speech](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/speech.png)
   static const IconData icon_speech = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44255,11 +50208,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `spell check`
+  /// 
+  /// ![spell check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/spell-check.png)
   static const IconData icon_spell_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44275,11 +50232,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `spell check 2`
+  /// 
+  /// ![spell check 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/spell-check-2.png)
   static const IconData icon_spell_check_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44295,11 +50256,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `spline`
+  /// 
+  /// ![spline](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/spline.png)
   static const IconData icon_spline = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44338,11 +50303,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `spline pointer`
+  /// 
+  /// ![spline pointer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/spline-pointer.png)
   static const IconData icon_spline_pointer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44381,11 +50350,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `split`
+  /// 
+  /// ![split](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/split.png)
   static const IconData icon_split = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44414,11 +50387,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `spool`
+  /// 
+  /// ![spool](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/spool.png)
   static const IconData icon_spool = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44447,11 +50424,39 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sport shoe`
+  /// 
+  /// ![sport shoe](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sport-shoe.png)
+  static const IconData icon_sport_shoe = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'path',
+      'attrs': {
+          'd': "m15 10.42l4.8-5.07M19 18h3M9.5 22L21.414 9.415A2 2 0 0 0 21.2 6.4l-5.61-4.208A1 1 0 0 0 14 3v2a2 2 0 0 1-1.394 1.906L8.677 8.053A1 1 0 0 0 8 9c-.155 6.393-2.082 9-4 9a2 2 0 0 0 0 4h14",
+      },
+    },
+  ]);
+
+  /// Lucide icon named `spotlight`
+  /// 
+  /// ![spotlight](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/spotlight.png)
   static const IconData icon_spotlight = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44467,11 +50472,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `spray can`
+  /// 
+  /// ![spray can](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/spray-can.png)
   static const IconData icon_spray_can = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44487,11 +50496,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sprout`
+  /// 
+  /// ![sprout](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sprout.png)
   static const IconData icon_sprout = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44507,11 +50520,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square`
+  /// 
+  /// ![square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square.png)
   static const IconData icon_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44531,11 +50548,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square activity`
+  /// 
+  /// ![square activity](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-activity.png)
   static const IconData icon_square_activity = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44568,11 +50589,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow down`
+  /// 
+  /// ![square arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-down.png)
   static const IconData icon_square_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44605,11 +50630,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow down left`
+  /// 
+  /// ![square arrow down left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-down-left.png)
   static const IconData icon_square_arrow_down_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44642,11 +50671,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow down right`
+  /// 
+  /// ![square arrow down right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-down-right.png)
   static const IconData icon_square_arrow_down_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44679,11 +50712,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow left`
+  /// 
+  /// ![square arrow left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-left.png)
   static const IconData icon_square_arrow_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44716,11 +50753,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow out down left`
+  /// 
+  /// ![square arrow out down left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-out-down-left.png)
   static const IconData icon_square_arrow_out_down_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44736,11 +50777,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow out down right`
+  /// 
+  /// ![square arrow out down right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-out-down-right.png)
   static const IconData icon_square_arrow_out_down_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44756,11 +50801,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow out up left`
+  /// 
+  /// ![square arrow out up left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-out-up-left.png)
   static const IconData icon_square_arrow_out_up_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44776,11 +50825,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow out up right`
+  /// 
+  /// ![square arrow out up right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-out-up-right.png)
   static const IconData icon_square_arrow_out_up_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44796,11 +50849,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow right`
+  /// 
+  /// ![square arrow right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-right.png)
   static const IconData icon_square_arrow_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44833,11 +50890,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow right enter`
+  /// 
+  /// ![square arrow right enter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-right-enter.png)
   static const IconData icon_square_arrow_right_enter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44866,11 +50927,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow right exit`
+  /// 
+  /// ![square arrow right exit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-right-exit.png)
   static const IconData icon_square_arrow_right_exit = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44899,11 +50964,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow up`
+  /// 
+  /// ![square arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-up.png)
   static const IconData icon_square_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44936,11 +51005,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow up left`
+  /// 
+  /// ![square arrow up left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-up-left.png)
   static const IconData icon_square_arrow_up_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -44973,11 +51046,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square arrow up right`
+  /// 
+  /// ![square arrow up right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-up-right.png)
   static const IconData icon_square_arrow_up_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45010,11 +51087,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square asterisk`
+  /// 
+  /// ![square asterisk](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-asterisk.png)
   static const IconData icon_square_asterisk = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45047,11 +51128,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square bottom dashed scissors`
+  /// 
+  /// ![square bottom dashed scissors](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-bottom-dashed-scissors.png)
   static const IconData icon_square_bottom_dashed_scissors = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45102,11 +51187,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square centerline dashed horizontal`
+  /// 
+  /// ![square centerline dashed horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-centerline-dashed-horizontal.png)
   static const IconData icon_square_centerline_dashed_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45122,11 +51211,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square centerline dashed vertical`
+  /// 
+  /// ![square centerline dashed vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-centerline-dashed-vertical.png)
   static const IconData icon_square_centerline_dashed_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45142,11 +51235,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square chart gantt`
+  /// 
+  /// ![square chart gantt](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chart-gantt.png)
   static const IconData icon_square_chart_gantt = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45179,11 +51276,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square check`
+  /// 
+  /// ![square check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-check.png)
   static const IconData icon_square_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45216,11 +51317,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square check big`
+  /// 
+  /// ![square check big](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-check-big.png)
   static const IconData icon_square_check_big = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45249,11 +51354,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square chevron down`
+  /// 
+  /// ![square chevron down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chevron-down.png)
   static const IconData icon_square_chevron_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45286,11 +51395,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square chevron left`
+  /// 
+  /// ![square chevron left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chevron-left.png)
   static const IconData icon_square_chevron_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45323,11 +51436,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square chevron right`
+  /// 
+  /// ![square chevron right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chevron-right.png)
   static const IconData icon_square_chevron_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45360,11 +51477,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square chevron up`
+  /// 
+  /// ![square chevron up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chevron-up.png)
   static const IconData icon_square_chevron_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45397,11 +51518,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square code`
+  /// 
+  /// ![square code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-code.png)
   static const IconData icon_square_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45434,11 +51559,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square dashed`
+  /// 
+  /// ![square dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed.png)
   static const IconData icon_square_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45454,11 +51583,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square dashed bottom`
+  /// 
+  /// ![square dashed bottom](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-bottom.png)
   static const IconData icon_square_dashed_bottom = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45474,11 +51607,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square dashed bottom code`
+  /// 
+  /// ![square dashed bottom code](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-bottom-code.png)
   static const IconData icon_square_dashed_bottom_code = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45507,11 +51644,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square dashed kanban`
+  /// 
+  /// ![square dashed kanban](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-kanban.png)
   static const IconData icon_square_dashed_kanban = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45527,11 +51668,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square dashed mouse pointer`
+  /// 
+  /// ![square dashed mouse pointer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-mouse-pointer.png)
   static const IconData icon_square_dashed_mouse_pointer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45547,11 +51692,39 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square dashed text`
+  /// 
+  /// ![square dashed text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-text.png)
+  static const IconData icon_square_dashed_text = IconData([
+    {
+      'tag': 'root',
+      'family': 'lucide',
+      'attrs': {
+          'viewBox': "0 0 24 24",
+          'fill': "none",
+          'stroke': "currentColor",
+          'stroke-width': "2",
+          'stroke-linejoin': "round",
+          'stroke-linecap': "round",
+      },
+    },
+    {
+      'tag': 'path',
+      'attrs': {
+          'd': "M14 21h1M14 3h1m4 0a2 2 0 0 1 2 2m0 9v1m0 4a2 2 0 0 1-2 2m2-12v1M3 14v1m0-6v1m2 11a2 2 0 0 1-2-2M5 3a2 2 0 0 0-2 2m4 7h10M7 16h6M7 8h8M9 21h1M9 3h1",
+      },
+    },
+  ]);
+
+  /// Lucide icon named `square dashed top solid`
+  /// 
+  /// ![square dashed top solid](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-top-solid.png)
   static const IconData icon_square_dashed_top_solid = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45567,11 +51740,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square divide`
+  /// 
+  /// ![square divide](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-divide.png)
   static const IconData icon_square_divide = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45605,11 +51782,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square dot`
+  /// 
+  /// ![square dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dot.png)
   static const IconData icon_square_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45644,11 +51825,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square equal`
+  /// 
+  /// ![square equal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-equal.png)
   static const IconData icon_square_equal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45681,11 +51866,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square function`
+  /// 
+  /// ![square function](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-function.png)
   static const IconData icon_square_function = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45719,11 +51908,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square kanban`
+  /// 
+  /// ![square kanban](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-kanban.png)
   static const IconData icon_square_kanban = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45756,11 +51949,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square library`
+  /// 
+  /// ![square library](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-library.png)
   static const IconData icon_square_library = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45793,11 +51990,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square m`
+  /// 
+  /// ![square m](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-m.png)
   static const IconData icon_square_m = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45830,11 +52031,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square menu`
+  /// 
+  /// ![square menu](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-menu.png)
   static const IconData icon_square_menu = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45867,11 +52072,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square minus`
+  /// 
+  /// ![square minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-minus.png)
   static const IconData icon_square_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45904,11 +52113,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square mouse pointer`
+  /// 
+  /// ![square mouse pointer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-mouse-pointer.png)
   static const IconData icon_square_mouse_pointer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45937,11 +52150,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square parking`
+  /// 
+  /// ![square parking](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-parking.png)
   static const IconData icon_square_parking = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -45974,11 +52191,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square parking off`
+  /// 
+  /// ![square parking off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-parking-off.png)
   static const IconData icon_square_parking_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46007,11 +52228,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square pause`
+  /// 
+  /// ![square pause](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pause.png)
   static const IconData icon_square_pause = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46044,11 +52269,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square pen`
+  /// 
+  /// ![square pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pen.png)
   static const IconData icon_square_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46077,11 +52306,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square percent`
+  /// 
+  /// ![square percent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-percent.png)
   static const IconData icon_square_percent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46114,11 +52347,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square pi`
+  /// 
+  /// ![square pi](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pi.png)
   static const IconData icon_square_pi = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46151,11 +52388,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square pilcrow`
+  /// 
+  /// ![square pilcrow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pilcrow.png)
   static const IconData icon_square_pilcrow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46188,11 +52429,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square play`
+  /// 
+  /// ![square play](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-play.png)
   static const IconData icon_square_play = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46225,11 +52470,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square plus`
+  /// 
+  /// ![square plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-plus.png)
   static const IconData icon_square_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46262,11 +52511,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square power`
+  /// 
+  /// ![square power](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-power.png)
   static const IconData icon_square_power = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46299,11 +52552,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square radical`
+  /// 
+  /// ![square radical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-radical.png)
   static const IconData icon_square_radical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46336,11 +52593,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square round corner`
+  /// 
+  /// ![square round corner](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-round-corner.png)
   static const IconData icon_square_round_corner = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46356,11 +52617,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square scissors`
+  /// 
+  /// ![square scissors](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-scissors.png)
   static const IconData icon_square_scissors = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46415,11 +52680,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square sigma`
+  /// 
+  /// ![square sigma](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-sigma.png)
   static const IconData icon_square_sigma = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46452,11 +52721,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square slash`
+  /// 
+  /// ![square slash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-slash.png)
   static const IconData icon_square_slash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46489,11 +52762,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square split horizontal`
+  /// 
+  /// ![square split horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-split-horizontal.png)
   static const IconData icon_square_split_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46509,11 +52786,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square split vertical`
+  /// 
+  /// ![square split vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-split-vertical.png)
   static const IconData icon_square_split_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46529,11 +52810,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square square`
+  /// 
+  /// ![square square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-square.png)
   static const IconData icon_square_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46570,11 +52855,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square stack`
+  /// 
+  /// ![square stack](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-stack.png)
   static const IconData icon_square_stack = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46607,11 +52896,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square star`
+  /// 
+  /// ![square star](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-star.png)
   static const IconData icon_square_star = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46644,11 +52937,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square stop`
+  /// 
+  /// ![square stop](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-stop.png)
   static const IconData icon_square_stop = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46685,11 +52982,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square terminal`
+  /// 
+  /// ![square terminal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-terminal.png)
   static const IconData icon_square_terminal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46723,11 +53024,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square user`
+  /// 
+  /// ![square user](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-user.png)
   static const IconData icon_square_user = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46768,11 +53073,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square user round`
+  /// 
+  /// ![square user round](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-user-round.png)
   static const IconData icon_square_user_round = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46813,11 +53122,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `square x`
+  /// 
+  /// ![square x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-x.png)
   static const IconData icon_square_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46851,11 +53164,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `squares exclude`
+  /// 
+  /// ![squares exclude](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/squares-exclude.png)
   static const IconData icon_squares_exclude = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46871,11 +53188,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `squares intersect`
+  /// 
+  /// ![squares intersect](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/squares-intersect.png)
   static const IconData icon_squares_intersect = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46891,11 +53212,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `squares subtract`
+  /// 
+  /// ![squares subtract](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/squares-subtract.png)
   static const IconData icon_squares_subtract = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46911,11 +53236,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `squares unite`
+  /// 
+  /// ![squares unite](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/squares-unite.png)
   static const IconData icon_squares_unite = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46931,11 +53260,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `squircle`
+  /// 
+  /// ![squircle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/squircle.png)
   static const IconData icon_squircle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46951,11 +53284,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `squircle dashed`
+  /// 
+  /// ![squircle dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/squircle-dashed.png)
   static const IconData icon_squircle_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -46971,11 +53308,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `squirrel`
+  /// 
+  /// ![squirrel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/squirrel.png)
   static const IconData icon_squirrel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47010,11 +53351,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `stamp`
+  /// 
+  /// ![stamp](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/stamp.png)
   static const IconData icon_stamp = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47030,11 +53375,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `star`
+  /// 
+  /// ![star](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/star.png)
   static const IconData icon_star = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47050,11 +53399,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `star half`
+  /// 
+  /// ![star half](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/star-half.png)
   static const IconData icon_star_half = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47070,11 +53423,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `star off`
+  /// 
+  /// ![star off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/star-off.png)
   static const IconData icon_star_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47090,11 +53447,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `step back`
+  /// 
+  /// ![step back](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/step-back.png)
   static const IconData icon_step_back = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47110,11 +53471,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `step forward`
+  /// 
+  /// ![step forward](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/step-forward.png)
   static const IconData icon_step_forward = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47130,11 +53495,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `stethoscope`
+  /// 
+  /// ![stethoscope](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/stethoscope.png)
   static const IconData icon_stethoscope = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47171,11 +53540,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sticker`
+  /// 
+  /// ![sticker](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sticker.png)
   static const IconData icon_sticker = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47204,11 +53577,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sticky note`
+  /// 
+  /// ![sticky note](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sticky-note.png)
   static const IconData icon_sticky_note = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47237,11 +53614,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `stone`
+  /// 
+  /// ![stone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/stone.png)
   static const IconData icon_stone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47270,11 +53651,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `store`
+  /// 
+  /// ![store](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/store.png)
   static const IconData icon_store = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47303,11 +53688,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `stretch horizontal`
+  /// 
+  /// ![stretch horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/stretch-horizontal.png)
   static const IconData icon_stretch_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47344,11 +53733,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `stretch vertical`
+  /// 
+  /// ![stretch vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/stretch-vertical.png)
   static const IconData icon_stretch_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47385,11 +53778,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `strikethrough`
+  /// 
+  /// ![strikethrough](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/strikethrough.png)
   static const IconData icon_strikethrough = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47405,11 +53802,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `subscript`
+  /// 
+  /// ![subscript](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/subscript.png)
   static const IconData icon_subscript = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47425,11 +53826,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sun`
+  /// 
+  /// ![sun](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sun.png)
   static const IconData icon_sun = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47460,11 +53865,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sun dim`
+  /// 
+  /// ![sun dim](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sun-dim.png)
   static const IconData icon_sun_dim = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47495,11 +53904,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sun medium`
+  /// 
+  /// ![sun medium](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sun-medium.png)
   static const IconData icon_sun_medium = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47530,11 +53943,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sun moon`
+  /// 
+  /// ![sun moon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sun-moon.png)
   static const IconData icon_sun_moon = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47550,11 +53967,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sun snow`
+  /// 
+  /// ![sun snow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sun-snow.png)
   static const IconData icon_sun_snow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47589,11 +54010,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sunrise`
+  /// 
+  /// ![sunrise](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sunrise.png)
   static const IconData icon_sunrise = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47609,11 +54034,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sunset`
+  /// 
+  /// ![sunset](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sunset.png)
   static const IconData icon_sunset = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47629,11 +54058,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `superscript`
+  /// 
+  /// ![superscript](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/superscript.png)
   static const IconData icon_superscript = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47649,11 +54082,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `swatch book`
+  /// 
+  /// ![swatch book](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/swatch-book.png)
   static const IconData icon_swatch_book = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47688,11 +54125,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `swiss franc`
+  /// 
+  /// ![swiss franc](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/swiss-franc.png)
   static const IconData icon_swiss_franc = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47708,11 +54149,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `switch camera`
+  /// 
+  /// ![switch camera](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/switch-camera.png)
   static const IconData icon_switch_camera = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47749,11 +54194,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `sword`
+  /// 
+  /// ![sword](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sword.png)
   static const IconData icon_sword = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47769,11 +54218,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `swords`
+  /// 
+  /// ![swords](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/swords.png)
   static const IconData icon_swords = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47789,11 +54242,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `syringe`
+  /// 
+  /// ![syringe](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/syringe.png)
   static const IconData icon_syringe = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47809,11 +54266,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `table`
+  /// 
+  /// ![table](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/table.png)
   static const IconData icon_table = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47852,11 +54313,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `table 2`
+  /// 
+  /// ![table 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/table-2.png)
   static const IconData icon_table_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47872,11 +54337,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `table cells merge`
+  /// 
+  /// ![table cells merge](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/table-cells-merge.png)
   static const IconData icon_table_cells_merge = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47909,11 +54378,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `table cells split`
+  /// 
+  /// ![table cells split](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/table-cells-split.png)
   static const IconData icon_table_cells_split = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47946,11 +54419,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `table columns split`
+  /// 
+  /// ![table columns split](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/table-columns-split.png)
   static const IconData icon_table_columns_split = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47966,11 +54443,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `table of contents`
+  /// 
+  /// ![table of contents](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/table-of-contents.png)
   static const IconData icon_table_of_contents = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -47986,11 +54467,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `table properties`
+  /// 
+  /// ![table properties](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/table-properties.png)
   static const IconData icon_table_properties = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48029,11 +54514,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `table rows split`
+  /// 
+  /// ![table rows split](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/table-rows-split.png)
   static const IconData icon_table_rows_split = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48049,11 +54538,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tablet`
+  /// 
+  /// ![tablet](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tablet.png)
   static const IconData icon_tablet = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48087,11 +54580,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tablet smartphone`
+  /// 
+  /// ![tablet smartphone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tablet-smartphone.png)
   static const IconData icon_tablet_smartphone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48124,11 +54621,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tablets`
+  /// 
+  /// ![tablets](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tablets.png)
   static const IconData icon_tablets = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48167,11 +54668,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tag`
+  /// 
+  /// ![tag](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tag.png)
   static const IconData icon_tag = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48203,11 +54708,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tags`
+  /// 
+  /// ![tags](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tags.png)
   static const IconData icon_tags = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48239,11 +54748,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tally 1`
+  /// 
+  /// ![tally 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tally-1.png)
   static const IconData icon_tally_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48259,11 +54772,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tally 2`
+  /// 
+  /// ![tally 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tally-2.png)
   static const IconData icon_tally_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48279,11 +54796,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tally 3`
+  /// 
+  /// ![tally 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tally-3.png)
   static const IconData icon_tally_3 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48299,11 +54820,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tally 4`
+  /// 
+  /// ![tally 4](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tally-4.png)
   static const IconData icon_tally_4 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48319,11 +54844,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tally 5`
+  /// 
+  /// ![tally 5](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tally-5.png)
   static const IconData icon_tally_5 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48339,11 +54868,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tangent`
+  /// 
+  /// ![tangent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tangent.png)
   static const IconData icon_tangent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48388,11 +54921,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `target`
+  /// 
+  /// ![target](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/target.png)
   static const IconData icon_target = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48433,11 +54970,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `telescope`
+  /// 
+  /// ![telescope](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/telescope.png)
   static const IconData icon_telescope = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48474,11 +55015,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tent`
+  /// 
+  /// ![tent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tent.png)
   static const IconData icon_tent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48494,11 +55039,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tent tree`
+  /// 
+  /// ![tent tree](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tent-tree.png)
   static const IconData icon_tent_tree = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48529,11 +55078,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `terminal`
+  /// 
+  /// ![terminal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/terminal.png)
   static const IconData icon_terminal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48549,11 +55102,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `test tube`
+  /// 
+  /// ![test tube](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/test-tube.png)
   static const IconData icon_test_tube = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48569,11 +55126,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `test tube diagonal`
+  /// 
+  /// ![test tube diagonal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/test-tube-diagonal.png)
   static const IconData icon_test_tube_diagonal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48589,11 +55150,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `test tubes`
+  /// 
+  /// ![test tubes](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/test-tubes.png)
   static const IconData icon_test_tubes = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48609,11 +55174,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text`
+  /// 
+  /// ![text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text.png)
   static const IconData icon_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48629,11 +55198,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text align center`
+  /// 
+  /// ![text align center](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-align-center.png)
   static const IconData icon_text_align_center = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48649,11 +55222,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text align end`
+  /// 
+  /// ![text align end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-align-end.png)
   static const IconData icon_text_align_end = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48669,11 +55246,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text align justify`
+  /// 
+  /// ![text align justify](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-align-justify.png)
   static const IconData icon_text_align_justify = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48689,11 +55270,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text align start`
+  /// 
+  /// ![text align start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-align-start.png)
   static const IconData icon_text_align_start = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48709,11 +55294,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text cursor`
+  /// 
+  /// ![text cursor](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-cursor.png)
   static const IconData icon_text_cursor = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48729,11 +55318,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text cursor input`
+  /// 
+  /// ![text cursor input](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-cursor-input.png)
   static const IconData icon_text_cursor_input = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48749,11 +55342,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text initial`
+  /// 
+  /// ![text initial](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-initial.png)
   static const IconData icon_text_initial = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48769,11 +55366,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text quote`
+  /// 
+  /// ![text quote](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-quote.png)
   static const IconData icon_text_quote = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48789,11 +55390,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `text search`
+  /// 
+  /// ![text search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-search.png)
   static const IconData icon_text_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48830,31 +55435,15 @@ class LucideIcons {
     },
   ]);
 
-  static const IconData icon_text_select = IconData([
-    {
-      'tag': 'root',
-      'family': 'lucide',
-      'attrs': {
-          'fill': "none",
-          'stroke': "currentColor",
-          'stroke-width': "2",
-          'stroke-linejoin': "round",
-          'stroke-linecap': "round",
-      },
-    },
-    {
-      'tag': 'path',
-      'attrs': {
-          'd': "M14 21h1M14 3h1m4 0a2 2 0 0 1 2 2m0 9v1m0 4a2 2 0 0 1-2 2m2-12v1M3 14v1m0-6v1m2 11a2 2 0 0 1-2-2M5 3a2 2 0 0 0-2 2m4 7h10M7 16h6M7 8h8M9 21h1M9 3h1",
-      },
-    },
-  ]);
-
+  /// Lucide icon named `text wrap`
+  /// 
+  /// ![text wrap](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/text-wrap.png)
   static const IconData icon_text_wrap = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48883,11 +55472,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `theater`
+  /// 
+  /// ![theater](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/theater.png)
   static const IconData icon_theater = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48916,11 +55509,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `thermometer`
+  /// 
+  /// ![thermometer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/thermometer.png)
   static const IconData icon_thermometer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48936,11 +55533,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `thermometer snowflake`
+  /// 
+  /// ![thermometer snowflake](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/thermometer-snowflake.png)
   static const IconData icon_thermometer_snowflake = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48969,11 +55570,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `thermometer sun`
+  /// 
+  /// ![thermometer sun](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/thermometer-sun.png)
   static const IconData icon_thermometer_sun = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -48989,11 +55594,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `thumbs down`
+  /// 
+  /// ![thumbs down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/thumbs-down.png)
   static const IconData icon_thumbs_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49009,11 +55618,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `thumbs up`
+  /// 
+  /// ![thumbs up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/thumbs-up.png)
   static const IconData icon_thumbs_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49029,11 +55642,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ticket`
+  /// 
+  /// ![ticket](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ticket.png)
   static const IconData icon_ticket = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49049,11 +55666,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ticket check`
+  /// 
+  /// ![ticket check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ticket-check.png)
   static const IconData icon_ticket_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49082,11 +55703,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ticket minus`
+  /// 
+  /// ![ticket minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ticket-minus.png)
   static const IconData icon_ticket_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49102,11 +55727,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ticket percent`
+  /// 
+  /// ![ticket percent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ticket-percent.png)
   static const IconData icon_ticket_percent = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49122,11 +55751,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ticket plus`
+  /// 
+  /// ![ticket plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ticket-plus.png)
   static const IconData icon_ticket_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49142,11 +55775,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ticket slash`
+  /// 
+  /// ![ticket slash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ticket-slash.png)
   static const IconData icon_ticket_slash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49162,11 +55799,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ticket x`
+  /// 
+  /// ![ticket x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ticket-x.png)
   static const IconData icon_ticket_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49182,11 +55823,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tickets`
+  /// 
+  /// ![tickets](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tickets.png)
   static const IconData icon_tickets = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49219,11 +55864,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tickets plane`
+  /// 
+  /// ![tickets plane](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tickets-plane.png)
   static const IconData icon_tickets_plane = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49256,11 +55905,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `timer`
+  /// 
+  /// ![timer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/timer.png)
   static const IconData icon_timer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49291,11 +55944,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `timer off`
+  /// 
+  /// ![timer off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/timer-off.png)
   static const IconData icon_timer_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49311,11 +55968,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `timer reset`
+  /// 
+  /// ![timer reset](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/timer-reset.png)
   static const IconData icon_timer_reset = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49344,11 +56005,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `toggle left`
+  /// 
+  /// ![toggle left](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/toggle-left.png)
   static const IconData icon_toggle_left = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49383,11 +56048,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `toggle right`
+  /// 
+  /// ![toggle right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/toggle-right.png)
   static const IconData icon_toggle_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49422,11 +56091,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `toilet`
+  /// 
+  /// ![toilet](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/toilet.png)
   static const IconData icon_toilet = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49455,11 +56128,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tool case`
+  /// 
+  /// ![tool case](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tool-case.png)
   static const IconData icon_tool_case = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49488,11 +56165,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `toolbox`
+  /// 
+  /// ![toolbox](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/toolbox.png)
   static const IconData icon_toolbox = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49508,11 +56189,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tornado`
+  /// 
+  /// ![tornado](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tornado.png)
   static const IconData icon_tornado = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49528,11 +56213,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `torus`
+  /// 
+  /// ![torus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/torus.png)
   static const IconData icon_torus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49567,11 +56256,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `touchpad`
+  /// 
+  /// ![touchpad](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/touchpad.png)
   static const IconData icon_touchpad = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49604,11 +56297,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `touchpad off`
+  /// 
+  /// ![touchpad off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/touchpad-off.png)
   static const IconData icon_touchpad_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49624,11 +56321,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `towel rack`
+  /// 
+  /// ![towel rack](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/towel-rack.png)
   static const IconData icon_towel_rack = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49644,11 +56345,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tower control`
+  /// 
+  /// ![tower control](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tower-control.png)
   static const IconData icon_tower_control = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49664,11 +56369,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `toy brick`
+  /// 
+  /// ![toy brick](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/toy-brick.png)
   static const IconData icon_toy_brick = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49701,11 +56410,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tractor`
+  /// 
+  /// ![tractor](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tractor.png)
   static const IconData icon_tractor = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49750,11 +56463,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `traffic cone`
+  /// 
+  /// ![traffic cone](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/traffic-cone.png)
   static const IconData icon_traffic_cone = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49789,11 +56506,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `train front`
+  /// 
+  /// ![train front](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/train-front.png)
   static const IconData icon_train_front = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49822,11 +56543,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `train front tunnel`
+  /// 
+  /// ![train front tunnel](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/train-front-tunnel.png)
   static const IconData icon_train_front_tunnel = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49861,11 +56586,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `train track`
+  /// 
+  /// ![train track](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/train-track.png)
   static const IconData icon_train_track = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49881,11 +56610,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tram front`
+  /// 
+  /// ![tram front](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tram-front.png)
   static const IconData icon_tram_front = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49918,11 +56651,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `transgender`
+  /// 
+  /// ![transgender](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/transgender.png)
   static const IconData icon_transgender = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49953,11 +56690,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `trash`
+  /// 
+  /// ![trash](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/trash.png)
   static const IconData icon_trash = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49973,11 +56714,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `trash 2`
+  /// 
+  /// ![trash 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/trash-2.png)
   static const IconData icon_trash_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -49993,11 +56738,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tree deciduous`
+  /// 
+  /// ![tree deciduous](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tree-deciduous.png)
   static const IconData icon_tree_deciduous = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50013,11 +56762,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tree palm`
+  /// 
+  /// ![tree palm](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tree-palm.png)
   static const IconData icon_tree_palm = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50052,11 +56805,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tree pine`
+  /// 
+  /// ![tree pine](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tree-pine.png)
   static const IconData icon_tree_pine = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50072,11 +56829,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `trees`
+  /// 
+  /// ![trees](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/trees.png)
   static const IconData icon_trees = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50105,11 +56866,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `trello`
+  /// 
+  /// ![trello](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/trello.png)
   static const IconData icon_trello = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50143,11 +56908,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `trending down`
+  /// 
+  /// ![trending down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/trending-down.png)
   static const IconData icon_trending_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50176,11 +56945,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `trending up`
+  /// 
+  /// ![trending up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/trending-up.png)
   static const IconData icon_trending_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50209,11 +56982,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `trending up down`
+  /// 
+  /// ![trending up down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/trending-up-down.png)
   static const IconData icon_trending_up_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50242,11 +57019,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `triangle`
+  /// 
+  /// ![triangle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/triangle.png)
   static const IconData icon_triangle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50262,11 +57043,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `triangle alert`
+  /// 
+  /// ![triangle alert](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/triangle-alert.png)
   static const IconData icon_triangle_alert = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50282,11 +57067,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `triangle dashed`
+  /// 
+  /// ![triangle dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/triangle-dashed.png)
   static const IconData icon_triangle_dashed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50302,11 +57091,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `triangle right`
+  /// 
+  /// ![triangle right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/triangle-right.png)
   static const IconData icon_triangle_right = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50322,11 +57115,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `trophy`
+  /// 
+  /// ![trophy](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/trophy.png)
   static const IconData icon_trophy = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50355,11 +57152,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `truck`
+  /// 
+  /// ![truck](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/truck.png)
   static const IconData icon_truck = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50398,11 +57199,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `truck electric`
+  /// 
+  /// ![truck electric](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/truck-electric.png)
   static const IconData icon_truck_electric = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50441,11 +57246,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `turkish lira`
+  /// 
+  /// ![turkish lira](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/turkish-lira.png)
   static const IconData icon_turkish_lira = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50461,11 +57270,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `turntable`
+  /// 
+  /// ![turntable](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/turntable.png)
   static const IconData icon_turntable = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50506,11 +57319,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `turtle`
+  /// 
+  /// ![turtle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/turtle.png)
   static const IconData icon_turtle = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50539,11 +57356,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tv`
+  /// 
+  /// ![tv](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tv.png)
   static const IconData icon_tv = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50576,11 +57397,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tv minimal`
+  /// 
+  /// ![tv minimal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tv-minimal.png)
   static const IconData icon_tv_minimal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50613,11 +57438,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `tv minimal play`
+  /// 
+  /// ![tv minimal play](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tv-minimal-play.png)
   static const IconData icon_tv_minimal_play = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50650,11 +57479,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `twitch`
+  /// 
+  /// ![twitch](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/twitch.png)
   static const IconData icon_twitch = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50670,11 +57503,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `twitter`
+  /// 
+  /// ![twitter](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/twitter.png)
   static const IconData icon_twitter = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50690,11 +57527,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `type`
+  /// 
+  /// ![type](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/type.png)
   static const IconData icon_type = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50710,11 +57551,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `umbrella`
+  /// 
+  /// ![umbrella](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/umbrella.png)
   static const IconData icon_umbrella = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50743,11 +57588,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `umbrella off`
+  /// 
+  /// ![umbrella off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/umbrella-off.png)
   static const IconData icon_umbrella_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50776,11 +57625,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `underline`
+  /// 
+  /// ![underline](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/underline.png)
   static const IconData icon_underline = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50796,11 +57649,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `undo`
+  /// 
+  /// ![undo](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/undo.png)
   static const IconData icon_undo = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50829,11 +57686,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `undo 2`
+  /// 
+  /// ![undo 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/undo-2.png)
   static const IconData icon_undo_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50862,11 +57723,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `undo dot`
+  /// 
+  /// ![undo dot](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/undo-dot.png)
   static const IconData icon_undo_dot = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50903,11 +57768,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `unfold horizontal`
+  /// 
+  /// ![unfold horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/unfold-horizontal.png)
   static const IconData icon_unfold_horizontal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50923,11 +57792,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `unfold vertical`
+  /// 
+  /// ![unfold vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/unfold-vertical.png)
   static const IconData icon_unfold_vertical = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50943,11 +57816,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `ungroup`
+  /// 
+  /// ![ungroup](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ungroup.png)
   static const IconData icon_ungroup = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -50984,11 +57861,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `university`
+  /// 
+  /// ![university](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/university.png)
   static const IconData icon_university = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51025,11 +57906,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `unlink`
+  /// 
+  /// ![unlink](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/unlink.png)
   static const IconData icon_unlink = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51045,11 +57930,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `unlink 2`
+  /// 
+  /// ![unlink 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/unlink-2.png)
   static const IconData icon_unlink_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51065,11 +57954,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `unplug`
+  /// 
+  /// ![unplug](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/unplug.png)
   static const IconData icon_unplug = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51085,11 +57978,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `upload`
+  /// 
+  /// ![upload](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/upload.png)
   static const IconData icon_upload = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51105,11 +58002,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `usb`
+  /// 
+  /// ![usb](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/usb.png)
   static const IconData icon_usb = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51154,11 +58055,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user`
+  /// 
+  /// ![user](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user.png)
   static const IconData icon_user = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51189,11 +58094,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user check`
+  /// 
+  /// ![user check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-check.png)
   static const IconData icon_user_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51224,11 +58133,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user cog`
+  /// 
+  /// ![user cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-cog.png)
   static const IconData icon_user_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51267,11 +58180,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user key`
+  /// 
+  /// ![user key](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-key.png)
   static const IconData icon_user_key = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51310,11 +58227,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user lock`
+  /// 
+  /// ![user lock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-lock.png)
   static const IconData icon_user_lock = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51355,11 +58276,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user minus`
+  /// 
+  /// ![user minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-minus.png)
   static const IconData icon_user_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51396,11 +58321,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user pen`
+  /// 
+  /// ![user pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-pen.png)
   static const IconData icon_user_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51431,11 +58360,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user plus`
+  /// 
+  /// ![user plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-plus.png)
   static const IconData icon_user_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51472,11 +58405,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round`
+  /// 
+  /// ![user round](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round.png)
   static const IconData icon_user_round = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51507,11 +58444,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round check`
+  /// 
+  /// ![user round check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-check.png)
   static const IconData icon_user_round_check = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51548,11 +58489,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round cog`
+  /// 
+  /// ![user round cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-cog.png)
   static const IconData icon_user_round_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51591,11 +58536,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round key`
+  /// 
+  /// ![user round key](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-key.png)
   static const IconData icon_user_round_key = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51634,11 +58583,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round minus`
+  /// 
+  /// ![user round minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-minus.png)
   static const IconData icon_user_round_minus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51675,11 +58628,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round pen`
+  /// 
+  /// ![user round pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-pen.png)
   static const IconData icon_user_round_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51710,11 +58667,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round plus`
+  /// 
+  /// ![user round plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-plus.png)
   static const IconData icon_user_round_plus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51751,11 +58712,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round search`
+  /// 
+  /// ![user round search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-search.png)
   static const IconData icon_user_round_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51800,11 +58765,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user round x`
+  /// 
+  /// ![user round x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-x.png)
   static const IconData icon_user_round_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51841,11 +58810,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user search`
+  /// 
+  /// ![user search](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-search.png)
   static const IconData icon_user_search = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51890,11 +58863,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user star`
+  /// 
+  /// ![user star](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-star.png)
   static const IconData icon_user_star = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51925,11 +58902,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `user x`
+  /// 
+  /// ![user x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-x.png)
   static const IconData icon_user_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -51966,11 +58947,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `users`
+  /// 
+  /// ![users](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/users.png)
   static const IconData icon_users = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52001,11 +58986,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `users round`
+  /// 
+  /// ![users round](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/users-round.png)
   static const IconData icon_users_round = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52042,11 +59031,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `utensils`
+  /// 
+  /// ![utensils](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/utensils.png)
   static const IconData icon_utensils = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52062,11 +59055,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `utensils crossed`
+  /// 
+  /// ![utensils crossed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/utensils-crossed.png)
   static const IconData icon_utensils_crossed = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52082,11 +59079,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `utility pole`
+  /// 
+  /// ![utility pole](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/utility-pole.png)
   static const IconData icon_utility_pole = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52102,11 +59103,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `van`
+  /// 
+  /// ![van](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/van.png)
   static const IconData icon_van = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52151,11 +59156,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `variable`
+  /// 
+  /// ![variable](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/variable.png)
   static const IconData icon_variable = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52171,11 +59180,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `vault`
+  /// 
+  /// ![vault](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/vault.png)
   static const IconData icon_vault = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52270,11 +59283,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `vector square`
+  /// 
+  /// ![vector square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/vector-square.png)
   static const IconData icon_vector_square = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52337,11 +59354,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `vegan`
+  /// 
+  /// ![vegan](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/vegan.png)
   static const IconData icon_vegan = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52376,11 +59397,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `venetian mask`
+  /// 
+  /// ![venetian mask](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/venetian-mask.png)
   static const IconData icon_venetian_mask = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52415,11 +59440,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `venus`
+  /// 
+  /// ![venus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/venus.png)
   static const IconData icon_venus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52450,11 +59479,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `venus and mars`
+  /// 
+  /// ![venus and mars](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/venus-and-mars.png)
   static const IconData icon_venus_and_mars = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52485,11 +59518,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `vibrate`
+  /// 
+  /// ![vibrate](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/vibrate.png)
   static const IconData icon_vibrate = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52522,11 +59559,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `vibrate off`
+  /// 
+  /// ![vibrate off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/vibrate-off.png)
   static const IconData icon_vibrate_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52542,11 +59583,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `video`
+  /// 
+  /// ![video](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/video.png)
   static const IconData icon_video = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52579,11 +59624,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `video off`
+  /// 
+  /// ![video off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/video-off.png)
   static const IconData icon_video_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52599,11 +59648,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `videotape`
+  /// 
+  /// ![videotape](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/videotape.png)
   static const IconData icon_videotape = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52658,11 +59711,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `view`
+  /// 
+  /// ![view](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/view.png)
   static const IconData icon_view = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52699,11 +59756,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `voicemail`
+  /// 
+  /// ![voicemail](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/voicemail.png)
   static const IconData icon_voicemail = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52742,11 +59803,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `volleyball`
+  /// 
+  /// ![volleyball](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/volleyball.png)
   static const IconData icon_volleyball = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52783,11 +59848,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `volume`
+  /// 
+  /// ![volume](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/volume.png)
   static const IconData icon_volume = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52803,11 +59872,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `volume 1`
+  /// 
+  /// ![volume 1](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/volume-1.png)
   static const IconData icon_volume_1 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52823,11 +59896,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `volume 2`
+  /// 
+  /// ![volume 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/volume-2.png)
   static const IconData icon_volume_2 = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52843,11 +59920,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `volume off`
+  /// 
+  /// ![volume off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/volume-off.png)
   static const IconData icon_volume_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52863,11 +59944,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `volume x`
+  /// 
+  /// ![volume x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/volume-x.png)
   static const IconData icon_volume_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52883,11 +59968,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `vote`
+  /// 
+  /// ![vote](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/vote.png)
   static const IconData icon_vote = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52916,11 +60005,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wallet`
+  /// 
+  /// ![wallet](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wallet.png)
   static const IconData icon_wallet = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52949,11 +60042,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wallet cards`
+  /// 
+  /// ![wallet cards](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wallet-cards.png)
   static const IconData icon_wallet_cards = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -52986,11 +60083,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wallet minimal`
+  /// 
+  /// ![wallet minimal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wallet-minimal.png)
   static const IconData icon_wallet_minimal = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53006,11 +60107,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wallpaper`
+  /// 
+  /// ![wallpaper](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wallpaper.png)
   static const IconData icon_wallpaper = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53051,11 +60156,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wand`
+  /// 
+  /// ![wand](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wand.png)
   static const IconData icon_wand = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53071,11 +60180,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wand sparkles`
+  /// 
+  /// ![wand sparkles](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wand-sparkles.png)
   static const IconData icon_wand_sparkles = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53091,11 +60204,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `warehouse`
+  /// 
+  /// ![warehouse](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/warehouse.png)
   static const IconData icon_warehouse = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53124,11 +60241,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `washing machine`
+  /// 
+  /// ![washing machine](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/washing-machine.png)
   static const IconData icon_washing_machine = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53175,11 +60296,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `watch`
+  /// 
+  /// ![watch](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/watch.png)
   static const IconData icon_watch = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53210,11 +60335,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `waves`
+  /// 
+  /// ![waves](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/waves.png)
   static const IconData icon_waves = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53230,11 +60359,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `waves arrow down`
+  /// 
+  /// ![waves arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/waves-arrow-down.png)
   static const IconData icon_waves_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53250,11 +60383,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `waves arrow up`
+  /// 
+  /// ![waves arrow up](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/waves-arrow-up.png)
   static const IconData icon_waves_arrow_up = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53270,11 +60407,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `waves ladder`
+  /// 
+  /// ![waves ladder](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/waves-ladder.png)
   static const IconData icon_waves_ladder = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53309,11 +60450,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `waypoints`
+  /// 
+  /// ![waypoints](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/waypoints.png)
   static const IconData icon_waypoints = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53368,11 +60513,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `webcam`
+  /// 
+  /// ![webcam](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/webcam.png)
   static const IconData icon_webcam = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53411,11 +60560,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `webhook`
+  /// 
+  /// ![webhook](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/webhook.png)
   static const IconData icon_webhook = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53450,11 +60603,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `webhook off`
+  /// 
+  /// ![webhook off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/webhook-off.png)
   static const IconData icon_webhook_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53483,11 +60640,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `weight`
+  /// 
+  /// ![weight](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/weight.png)
   static const IconData icon_weight = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53518,11 +60679,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `weight tilde`
+  /// 
+  /// ![weight tilde](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/weight-tilde.png)
   static const IconData icon_weight_tilde = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53559,11 +60724,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wheat`
+  /// 
+  /// ![wheat](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wheat.png)
   static const IconData icon_wheat = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53592,11 +60761,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wheat off`
+  /// 
+  /// ![wheat off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wheat-off.png)
   static const IconData icon_wheat_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53625,11 +60798,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `whole word`
+  /// 
+  /// ![whole word](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/whole-word.png)
   static const IconData icon_whole_word = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53674,11 +60851,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wifi`
+  /// 
+  /// ![wifi](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wifi.png)
   static const IconData icon_wifi = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53694,11 +60875,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wifi cog`
+  /// 
+  /// ![wifi cog](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wifi-cog.png)
   static const IconData icon_wifi_cog = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53729,11 +60914,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wifi high`
+  /// 
+  /// ![wifi high](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wifi-high.png)
   static const IconData icon_wifi_high = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53749,11 +60938,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wifi low`
+  /// 
+  /// ![wifi low](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wifi-low.png)
   static const IconData icon_wifi_low = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53769,11 +60962,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wifi off`
+  /// 
+  /// ![wifi off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wifi-off.png)
   static const IconData icon_wifi_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53789,11 +60986,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wifi pen`
+  /// 
+  /// ![wifi pen](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wifi-pen.png)
   static const IconData icon_wifi_pen = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53809,11 +61010,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wifi sync`
+  /// 
+  /// ![wifi sync](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wifi-sync.png)
   static const IconData icon_wifi_sync = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53829,11 +61034,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wifi zero`
+  /// 
+  /// ![wifi zero](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wifi-zero.png)
   static const IconData icon_wifi_zero = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53849,11 +61058,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wind`
+  /// 
+  /// ![wind](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wind.png)
   static const IconData icon_wind = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53869,11 +61082,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wind arrow down`
+  /// 
+  /// ![wind arrow down](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wind-arrow-down.png)
   static const IconData icon_wind_arrow_down = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53889,11 +61106,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wine`
+  /// 
+  /// ![wine](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wine.png)
   static const IconData icon_wine = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53909,11 +61130,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wine off`
+  /// 
+  /// ![wine off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wine-off.png)
   static const IconData icon_wine_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53929,11 +61154,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `workflow`
+  /// 
+  /// ![workflow](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/workflow.png)
   static const IconData icon_workflow = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53976,11 +61205,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `worm`
+  /// 
+  /// ![worm](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/worm.png)
   static const IconData icon_worm = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -53996,11 +61229,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wrap text`
+  /// 
+  /// ![wrap text](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wrap-text.png)
   static const IconData icon_wrap_text = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54029,11 +61266,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `wrench`
+  /// 
+  /// ![wrench](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wrench.png)
   static const IconData icon_wrench = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54049,11 +61290,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `x`
+  /// 
+  /// ![x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/x.png)
   static const IconData icon_x = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54069,11 +61314,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `x line top`
+  /// 
+  /// ![x line top](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/x-line-top.png)
   static const IconData icon_x_line_top = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54089,11 +61338,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `youtube`
+  /// 
+  /// ![youtube](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/youtube.png)
   static const IconData icon_youtube = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54122,11 +61375,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zap`
+  /// 
+  /// ![zap](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zap.png)
   static const IconData icon_zap = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54142,11 +61399,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zap off`
+  /// 
+  /// ![zap off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zap-off.png)
   static const IconData icon_zap_off = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54162,11 +61423,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac aquarius`
+  /// 
+  /// ![zodiac aquarius](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-aquarius.png)
   static const IconData icon_zodiac_aquarius = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54182,11 +61447,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac aries`
+  /// 
+  /// ![zodiac aries](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-aries.png)
   static const IconData icon_zodiac_aries = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54202,11 +61471,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac cancer`
+  /// 
+  /// ![zodiac cancer](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-cancer.png)
   static const IconData icon_zodiac_cancer = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54245,11 +61518,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac capricorn`
+  /// 
+  /// ![zodiac capricorn](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-capricorn.png)
   static const IconData icon_zodiac_capricorn = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54280,11 +61557,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac gemini`
+  /// 
+  /// ![zodiac gemini](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-gemini.png)
   static const IconData icon_zodiac_gemini = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54300,11 +61581,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac leo`
+  /// 
+  /// ![zodiac leo](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-leo.png)
   static const IconData icon_zodiac_leo = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54335,11 +61620,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac libra`
+  /// 
+  /// ![zodiac libra](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-libra.png)
   static const IconData icon_zodiac_libra = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54355,11 +61644,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac ophiuchus`
+  /// 
+  /// ![zodiac ophiuchus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-ophiuchus.png)
   static const IconData icon_zodiac_ophiuchus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54388,11 +61681,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac pisces`
+  /// 
+  /// ![zodiac pisces](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-pisces.png)
   static const IconData icon_zodiac_pisces = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54408,11 +61705,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac sagittarius`
+  /// 
+  /// ![zodiac sagittarius](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-sagittarius.png)
   static const IconData icon_zodiac_sagittarius = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54428,11 +61729,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac scorpio`
+  /// 
+  /// ![zodiac scorpio](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-scorpio.png)
   static const IconData icon_zodiac_scorpio = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54448,11 +61753,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac taurus`
+  /// 
+  /// ![zodiac taurus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-taurus.png)
   static const IconData icon_zodiac_taurus = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54483,11 +61792,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zodiac virgo`
+  /// 
+  /// ![zodiac virgo](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zodiac-virgo.png)
   static const IconData icon_zodiac_virgo = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54516,11 +61829,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zoom in`
+  /// 
+  /// ![zoom in](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zoom-in.png)
   static const IconData icon_zoom_in = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54551,11 +61868,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `zoom out`
+  /// 
+  /// ![zoom out](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/zoom-out.png)
   static const IconData icon_zoom_out = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54586,11 +61907,15 @@ class LucideIcons {
     },
   ]);
 
+  /// Lucide icon named `type outline`
+  /// 
+  /// ![type outline](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/type-outline.png)
   static const IconData outline_type = IconData([
     {
       'tag': 'root',
       'family': 'lucide',
       'attrs': {
+          'viewBox': "0 0 24 24",
           'fill': "none",
           'stroke': "currentColor",
           'stroke-width': "2",
@@ -54606,434 +61931,1084 @@ class LucideIcons {
     },
   ]);
 
+  /// Alias for [icon_square_activity] from `activity square`
+  /// 
+  /// ![activity square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-activity.png)
   static const IconData icon_activity_square = icon_square_activity;
 
+  /// Alias for [icon_alarm_clock_check] from `alarm check`
+  /// 
+  /// ![alarm check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-clock-check.png)
   static const IconData icon_alarm_check = icon_alarm_clock_check;
 
+  /// Alias for [icon_alarm_clock_minus] from `alarm minus`
+  /// 
+  /// ![alarm minus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-clock-minus.png)
   static const IconData icon_alarm_minus = icon_alarm_clock_minus;
 
+  /// Alias for [icon_alarm_clock_plus] from `alarm plus`
+  /// 
+  /// ![alarm plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/alarm-clock-plus.png)
   static const IconData icon_alarm_plus = icon_alarm_clock_plus;
 
+  /// Alias for [icon_circle_alert] from `alert circle`
+  /// 
+  /// ![alert circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-alert.png)
   static const IconData icon_alert_circle = icon_circle_alert;
 
+  /// Alias for [icon_octagon_alert] from `alert octagon`
+  /// 
+  /// ![alert octagon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/octagon-alert.png)
   static const IconData icon_alert_octagon = icon_octagon_alert;
 
+  /// Alias for [icon_triangle_alert] from `alert triangle`
+  /// 
+  /// ![alert triangle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/triangle-alert.png)
   static const IconData icon_alert_triangle = icon_triangle_alert;
 
+  /// Alias for [icon_align_horizontal_distribute_center] from `align horizonal distribute center`
+  /// 
+  /// ![align horizonal distribute center](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-distribute-center.png)
   static const IconData icon_align_horizonal_distribute_center = icon_align_horizontal_distribute_center;
 
+  /// Alias for [icon_align_horizontal_distribute_end] from `align horizonal distribute end`
+  /// 
+  /// ![align horizonal distribute end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-distribute-end.png)
   static const IconData icon_align_horizonal_distribute_end = icon_align_horizontal_distribute_end;
 
+  /// Alias for [icon_align_horizontal_distribute_start] from `align horizonal distribute start`
+  /// 
+  /// ![align horizonal distribute start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/align-horizontal-distribute-start.png)
   static const IconData icon_align_horizonal_distribute_start = icon_align_horizontal_distribute_start;
 
+  /// Alias for [icon_arrow_down_0_1] from `arrow down 01`
+  /// 
+  /// ![arrow down 01](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-0-1.png)
   static const IconData icon_arrow_down_01 = icon_arrow_down_0_1;
 
+  /// Alias for [icon_arrow_down_1_0] from `arrow down 10`
+  /// 
+  /// ![arrow down 10](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-1-0.png)
   static const IconData icon_arrow_down_10 = icon_arrow_down_1_0;
 
+  /// Alias for [icon_arrow_down_a_z] from `arrow down az`
+  /// 
+  /// ![arrow down az](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-a-z.png)
   static const IconData icon_arrow_down_az = icon_arrow_down_a_z;
 
+  /// Alias for [icon_circle_arrow_down] from `arrow down circle`
+  /// 
+  /// ![arrow down circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-down.png)
   static const IconData icon_arrow_down_circle = icon_circle_arrow_down;
 
+  /// Alias for [icon_circle_arrow_out_down_left] from `arrow down left from circle`
+  /// 
+  /// ![arrow down left from circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-out-down-left.png)
   static const IconData icon_arrow_down_left_from_circle = icon_circle_arrow_out_down_left;
 
+  /// Alias for [icon_square_arrow_out_down_left] from `arrow down left from square`
+  /// 
+  /// ![arrow down left from square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-out-down-left.png)
   static const IconData icon_arrow_down_left_from_square = icon_square_arrow_out_down_left;
 
+  /// Alias for [icon_square_arrow_down_left] from `arrow down left square`
+  /// 
+  /// ![arrow down left square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-down-left.png)
   static const IconData icon_arrow_down_left_square = icon_square_arrow_down_left;
 
+  /// Alias for [icon_circle_arrow_out_down_right] from `arrow down right from circle`
+  /// 
+  /// ![arrow down right from circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-out-down-right.png)
   static const IconData icon_arrow_down_right_from_circle = icon_circle_arrow_out_down_right;
 
+  /// Alias for [icon_square_arrow_out_down_right] from `arrow down right from square`
+  /// 
+  /// ![arrow down right from square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-out-down-right.png)
   static const IconData icon_arrow_down_right_from_square = icon_square_arrow_out_down_right;
 
+  /// Alias for [icon_square_arrow_down_right] from `arrow down right square`
+  /// 
+  /// ![arrow down right square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-down-right.png)
   static const IconData icon_arrow_down_right_square = icon_square_arrow_down_right;
 
+  /// Alias for [icon_square_arrow_down] from `arrow down square`
+  /// 
+  /// ![arrow down square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-down.png)
   static const IconData icon_arrow_down_square = icon_square_arrow_down;
 
+  /// Alias for [icon_arrow_down_z_a] from `arrow down za`
+  /// 
+  /// ![arrow down za](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-z-a.png)
   static const IconData icon_arrow_down_za = icon_arrow_down_z_a;
 
+  /// Alias for [icon_circle_arrow_left] from `arrow left circle`
+  /// 
+  /// ![arrow left circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-left.png)
   static const IconData icon_arrow_left_circle = icon_circle_arrow_left;
 
+  /// Alias for [icon_square_arrow_left] from `arrow left square`
+  /// 
+  /// ![arrow left square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-left.png)
   static const IconData icon_arrow_left_square = icon_square_arrow_left;
 
+  /// Alias for [icon_circle_arrow_right] from `arrow right circle`
+  /// 
+  /// ![arrow right circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-right.png)
   static const IconData icon_arrow_right_circle = icon_circle_arrow_right;
 
+  /// Alias for [icon_square_arrow_right] from `arrow right square`
+  /// 
+  /// ![arrow right square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-right.png)
   static const IconData icon_arrow_right_square = icon_square_arrow_right;
 
+  /// Alias for [icon_arrow_up_0_1] from `arrow up 01`
+  /// 
+  /// ![arrow up 01](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-0-1.png)
   static const IconData icon_arrow_up_01 = icon_arrow_up_0_1;
 
+  /// Alias for [icon_arrow_up_1_0] from `arrow up 10`
+  /// 
+  /// ![arrow up 10](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-1-0.png)
   static const IconData icon_arrow_up_10 = icon_arrow_up_1_0;
 
+  /// Alias for [icon_arrow_up_a_z] from `arrow up az`
+  /// 
+  /// ![arrow up az](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-a-z.png)
   static const IconData icon_arrow_up_az = icon_arrow_up_a_z;
 
+  /// Alias for [icon_circle_arrow_up] from `arrow up circle`
+  /// 
+  /// ![arrow up circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-up.png)
   static const IconData icon_arrow_up_circle = icon_circle_arrow_up;
 
+  /// Alias for [icon_circle_arrow_out_up_left] from `arrow up left from circle`
+  /// 
+  /// ![arrow up left from circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-out-up-left.png)
   static const IconData icon_arrow_up_left_from_circle = icon_circle_arrow_out_up_left;
 
+  /// Alias for [icon_square_arrow_out_up_left] from `arrow up left from square`
+  /// 
+  /// ![arrow up left from square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-out-up-left.png)
   static const IconData icon_arrow_up_left_from_square = icon_square_arrow_out_up_left;
 
+  /// Alias for [icon_square_arrow_up_left] from `arrow up left square`
+  /// 
+  /// ![arrow up left square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-up-left.png)
   static const IconData icon_arrow_up_left_square = icon_square_arrow_up_left;
 
+  /// Alias for [icon_circle_arrow_out_up_right] from `arrow up right from circle`
+  /// 
+  /// ![arrow up right from circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-arrow-out-up-right.png)
   static const IconData icon_arrow_up_right_from_circle = icon_circle_arrow_out_up_right;
 
+  /// Alias for [icon_square_arrow_out_up_right] from `arrow up right from square`
+  /// 
+  /// ![arrow up right from square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-out-up-right.png)
   static const IconData icon_arrow_up_right_from_square = icon_square_arrow_out_up_right;
 
+  /// Alias for [icon_square_arrow_up_right] from `arrow up right square`
+  /// 
+  /// ![arrow up right square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-up-right.png)
   static const IconData icon_arrow_up_right_square = icon_square_arrow_up_right;
 
+  /// Alias for [icon_square_arrow_up] from `arrow up square`
+  /// 
+  /// ![arrow up square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-arrow-up.png)
   static const IconData icon_arrow_up_square = icon_square_arrow_up;
 
+  /// Alias for [icon_arrow_up_z_a] from `arrow up za`
+  /// 
+  /// ![arrow up za](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-z-a.png)
   static const IconData icon_arrow_up_za = icon_arrow_up_z_a;
 
+  /// Alias for [icon_square_asterisk] from `asterisk square`
+  /// 
+  /// ![asterisk square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-asterisk.png)
   static const IconData icon_asterisk_square = icon_square_asterisk;
 
+  /// Alias for [icon_axis_3d] from `axis 3 d`
+  /// 
+  /// ![axis 3 d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/axis-3d.png)
   static const IconData icon_axis_3_d = icon_axis_3d;
 
+  /// Alias for [icon_badge_question_mark] from `badge help`
+  /// 
+  /// ![badge help](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-question-mark.png)
   static const IconData icon_badge_help = icon_badge_question_mark;
 
+  /// Alias for [icon_chart_no_axes_column_increasing] from `bar chart`
+  /// 
+  /// ![bar chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-no-axes-column-increasing.png)
   static const IconData icon_bar_chart = icon_chart_no_axes_column_increasing;
 
+  /// Alias for [icon_chart_no_axes_column] from `bar chart 2`
+  /// 
+  /// ![bar chart 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-no-axes-column.png)
   static const IconData icon_bar_chart_2 = icon_chart_no_axes_column;
 
+  /// Alias for [icon_between_horizontal_end] from `between horizonal end`
+  /// 
+  /// ![between horizonal end](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/between-horizontal-end.png)
   static const IconData icon_between_horizonal_end = icon_between_horizontal_end;
 
+  /// Alias for [icon_between_horizontal_start] from `between horizonal start`
+  /// 
+  /// ![between horizonal start](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/between-horizontal-start.png)
   static const IconData icon_between_horizonal_start = icon_between_horizontal_start;
 
+  /// Alias for [icon_book_dashed] from `book template`
+  /// 
+  /// ![book template](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/book-dashed.png)
   static const IconData icon_book_template = icon_book_dashed;
 
+  /// Alias for [icon_square_dashed] from `box select`
+  /// 
+  /// ![box select](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed.png)
   static const IconData icon_box_select = icon_square_dashed;
 
+  /// Alias for [icon_circle_check_big] from `check circle`
+  /// 
+  /// ![check circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-check-big.png)
   static const IconData icon_check_circle = icon_circle_check_big;
 
+  /// Alias for [icon_circle_check] from `check circle 2`
+  /// 
+  /// ![check circle 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-check.png)
   static const IconData icon_check_circle_2 = icon_circle_check;
 
+  /// Alias for [icon_square_check_big] from `check square`
+  /// 
+  /// ![check square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-check-big.png)
   static const IconData icon_check_square = icon_square_check_big;
 
+  /// Alias for [icon_square_check] from `check square 2`
+  /// 
+  /// ![check square 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-check.png)
   static const IconData icon_check_square_2 = icon_square_check;
 
+  /// Alias for [icon_circle_chevron_down] from `chevron down circle`
+  /// 
+  /// ![chevron down circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-chevron-down.png)
   static const IconData icon_chevron_down_circle = icon_circle_chevron_down;
 
+  /// Alias for [icon_square_chevron_down] from `chevron down square`
+  /// 
+  /// ![chevron down square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chevron-down.png)
   static const IconData icon_chevron_down_square = icon_square_chevron_down;
 
+  /// Alias for [icon_circle_chevron_left] from `chevron left circle`
+  /// 
+  /// ![chevron left circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-chevron-left.png)
   static const IconData icon_chevron_left_circle = icon_circle_chevron_left;
 
+  /// Alias for [icon_square_chevron_left] from `chevron left square`
+  /// 
+  /// ![chevron left square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chevron-left.png)
   static const IconData icon_chevron_left_square = icon_square_chevron_left;
 
+  /// Alias for [icon_circle_chevron_right] from `chevron right circle`
+  /// 
+  /// ![chevron right circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-chevron-right.png)
   static const IconData icon_chevron_right_circle = icon_circle_chevron_right;
 
+  /// Alias for [icon_square_chevron_right] from `chevron right square`
+  /// 
+  /// ![chevron right square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chevron-right.png)
   static const IconData icon_chevron_right_square = icon_square_chevron_right;
 
+  /// Alias for [icon_circle_chevron_up] from `chevron up circle`
+  /// 
+  /// ![chevron up circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-chevron-up.png)
   static const IconData icon_chevron_up_circle = icon_circle_chevron_up;
 
+  /// Alias for [icon_square_chevron_up] from `chevron up square`
+  /// 
+  /// ![chevron up square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chevron-up.png)
   static const IconData icon_chevron_up_square = icon_square_chevron_up;
 
+  /// Alias for [icon_circle_question_mark] from `circle help`
+  /// 
+  /// ![circle help](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-question-mark.png)
   static const IconData icon_circle_help = icon_circle_question_mark;
 
+  /// Alias for [icon_circle_slash_2] from `circle slashed`
+  /// 
+  /// ![circle slashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-slash-2.png)
   static const IconData icon_circle_slashed = icon_circle_slash_2;
 
+  /// Alias for [icon_clipboard_pen] from `clipboard edit`
+  /// 
+  /// ![clipboard edit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-pen.png)
   static const IconData icon_clipboard_edit = icon_clipboard_pen;
 
+  /// Alias for [icon_clipboard_pen_line] from `clipboard signature`
+  /// 
+  /// ![clipboard signature](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/clipboard-pen-line.png)
   static const IconData icon_clipboard_signature = icon_clipboard_pen_line;
 
+  /// Alias for [icon_code_xml] from `code 2`
+  /// 
+  /// ![code 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/code-xml.png)
   static const IconData icon_code_2 = icon_code_xml;
 
+  /// Alias for [icon_square_code] from `code square`
+  /// 
+  /// ![code square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-code.png)
   static const IconData icon_code_square = icon_square_code;
 
+  /// Alias for [icon_columns_2] from `columns`
+  /// 
+  /// ![columns](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/columns-2.png)
   static const IconData icon_columns = icon_columns_2;
 
+  /// Alias for [icon_columns_3_cog] from `columns settings`
+  /// 
+  /// ![columns settings](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/columns-3-cog.png)
   static const IconData icon_columns_settings = icon_columns_3_cog;
 
+  /// Alias for [icon_contact_round] from `contact 2`
+  /// 
+  /// ![contact 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/contact-round.png)
   static const IconData icon_contact_2 = icon_contact_round;
 
+  /// Alias for [icon_braces] from `curly braces`
+  /// 
+  /// ![curly braces](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/braces.png)
   static const IconData icon_curly_braces = icon_braces;
 
+  /// Alias for [icon_circle_divide] from `divide circle`
+  /// 
+  /// ![divide circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-divide.png)
   static const IconData icon_divide_circle = icon_circle_divide;
 
+  /// Alias for [icon_square_divide] from `divide square`
+  /// 
+  /// ![divide square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-divide.png)
   static const IconData icon_divide_square = icon_square_divide;
 
+  /// Alias for [icon_square_dot] from `dot square`
+  /// 
+  /// ![dot square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dot.png)
   static const IconData icon_dot_square = icon_square_dot;
 
+  /// Alias for [icon_cloud_download] from `download cloud`
+  /// 
+  /// ![download cloud](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-download.png)
   static const IconData icon_download_cloud = icon_cloud_download;
 
+  /// Alias for [icon_square_pen] from `edit`
+  /// 
+  /// ![edit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pen.png)
   static const IconData icon_edit = icon_square_pen;
 
+  /// Alias for [icon_pen] from `edit 2`
+  /// 
+  /// ![edit 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pen.png)
   static const IconData icon_edit_2 = icon_pen;
 
+  /// Alias for [icon_pen_line] from `edit 3`
+  /// 
+  /// ![edit 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/pen-line.png)
   static const IconData icon_edit_3 = icon_pen_line;
 
+  /// Alias for [icon_square_equal] from `equal square`
+  /// 
+  /// ![equal square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-equal.png)
   static const IconData icon_equal_square = icon_square_equal;
 
+  /// Alias for [icon_file_axis_3d] from `file axis 3 d`
+  /// 
+  /// ![file axis 3 d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-axis-3d.png)
   static const IconData icon_file_axis_3_d = icon_file_axis_3d;
 
+  /// Alias for [icon_file_chart_column_increasing] from `file bar chart`
+  /// 
+  /// ![file bar chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-chart-column-increasing.png)
   static const IconData icon_file_bar_chart = icon_file_chart_column_increasing;
 
+  /// Alias for [icon_file_chart_column] from `file bar chart 2`
+  /// 
+  /// ![file bar chart 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-chart-column.png)
   static const IconData icon_file_bar_chart_2 = icon_file_chart_column;
 
+  /// Alias for [icon_file_cog] from `file cog 2`
+  /// 
+  /// ![file cog 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-cog.png)
   static const IconData icon_file_cog_2 = icon_file_cog;
 
+  /// Alias for [icon_file_pen] from `file edit`
+  /// 
+  /// ![file edit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-pen.png)
   static const IconData icon_file_edit = icon_file_pen;
 
+  /// Alias for [icon_file_chart_line] from `file line chart`
+  /// 
+  /// ![file line chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-chart-line.png)
   static const IconData icon_file_line_chart = icon_file_chart_line;
 
+  /// Alias for [icon_file_question_mark] from `file question`
+  /// 
+  /// ![file question](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-question-mark.png)
   static const IconData icon_file_question = icon_file_question_mark;
 
+  /// Alias for [icon_file_pen_line] from `file signature`
+  /// 
+  /// ![file signature](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-pen-line.png)
   static const IconData icon_file_signature = icon_file_pen_line;
 
+  /// Alias for [icon_file_play] from `file video`
+  /// 
+  /// ![file video](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-play.png)
   static const IconData icon_file_video = icon_file_play;
 
+  /// Alias for [icon_file_video_camera] from `file video 2`
+  /// 
+  /// ![file video 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/file-video-camera.png)
   static const IconData icon_file_video_2 = icon_file_video_camera;
 
+  /// Alias for [icon_fingerprint_pattern] from `fingerprint`
+  /// 
+  /// ![fingerprint](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/fingerprint-pattern.png)
   static const IconData icon_fingerprint = icon_fingerprint_pattern;
 
+  /// Alias for [icon_square_centerline_dashed_horizontal] from `flip horizontal`
+  /// 
+  /// ![flip horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-centerline-dashed-horizontal.png)
   static const IconData icon_flip_horizontal = icon_square_centerline_dashed_horizontal;
 
+  /// Alias for [icon_square_centerline_dashed_vertical] from `flip vertical`
+  /// 
+  /// ![flip vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-centerline-dashed-vertical.png)
   static const IconData icon_flip_vertical = icon_square_centerline_dashed_vertical;
 
+  /// Alias for [icon_folder_cog] from `folder cog 2`
+  /// 
+  /// ![folder cog 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-cog.png)
   static const IconData icon_folder_cog_2 = icon_folder_cog;
 
+  /// Alias for [icon_folder_pen] from `folder edit`
+  /// 
+  /// ![folder edit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/folder-pen.png)
   static const IconData icon_folder_edit = icon_folder_pen;
 
+  /// Alias for [icon_utensils] from `fork knife`
+  /// 
+  /// ![fork knife](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/utensils.png)
   static const IconData icon_fork_knife = icon_utensils;
 
+  /// Alias for [icon_utensils_crossed] from `fork knife crossed`
+  /// 
+  /// ![fork knife crossed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/utensils-crossed.png)
   static const IconData icon_fork_knife_crossed = icon_utensils_crossed;
 
+  /// Alias for [icon_rectangle_ellipsis] from `form input`
+  /// 
+  /// ![form input](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rectangle-ellipsis.png)
   static const IconData icon_form_input = icon_rectangle_ellipsis;
 
+  /// Alias for [icon_square_function] from `function square`
+  /// 
+  /// ![function square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-function.png)
   static const IconData icon_function_square = icon_square_function;
 
+  /// Alias for [icon_chart_no_axes_gantt] from `gantt chart`
+  /// 
+  /// ![gantt chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/chart-no-axes-gantt.png)
   static const IconData icon_gantt_chart = icon_chart_no_axes_gantt;
 
+  /// Alias for [icon_square_chart_gantt] from `gantt chart square`
+  /// 
+  /// ![gantt chart square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chart-gantt.png)
   static const IconData icon_gantt_chart_square = icon_square_chart_gantt;
 
+  /// Alias for [icon_circle_gauge] from `gauge circle`
+  /// 
+  /// ![gauge circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-gauge.png)
   static const IconData icon_gauge_circle = icon_circle_gauge;
 
+  /// Alias for [icon_git_commit_horizontal] from `git commit`
+  /// 
+  /// ![git commit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/git-commit-horizontal.png)
   static const IconData icon_git_commit = icon_git_commit_horizontal;
 
+  /// Alias for [icon_earth] from `globe 2`
+  /// 
+  /// ![globe 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/earth.png)
   static const IconData icon_globe_2 = icon_earth;
 
+  /// Alias for [icon_hand_grab] from `grab`
+  /// 
+  /// ![grab](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-grab.png)
   static const IconData icon_grab = icon_hand_grab;
 
+  /// Alias for [icon_grid_3x3] from `grid`
+  /// 
+  /// ![grid](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-3x3.png)
   static const IconData icon_grid = icon_grid_3x3;
 
+  /// Alias for [icon_grid_2x2] from `grid 2 x 2`
+  /// 
+  /// ![grid 2 x 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-2x2.png)
   static const IconData icon_grid_2_x_2 = icon_grid_2x2;
 
+  /// Alias for [icon_grid_2x2_check] from `grid 2 x 2 check`
+  /// 
+  /// ![grid 2 x 2 check](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-2x2-check.png)
   static const IconData icon_grid_2_x_2_check = icon_grid_2x2_check;
 
+  /// Alias for [icon_grid_2x2_plus] from `grid 2 x 2 plus`
+  /// 
+  /// ![grid 2 x 2 plus](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-2x2-plus.png)
   static const IconData icon_grid_2_x_2_plus = icon_grid_2x2_plus;
 
+  /// Alias for [icon_grid_2x2_x] from `grid 2 x 2 x`
+  /// 
+  /// ![grid 2 x 2 x](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-2x2-x.png)
   static const IconData icon_grid_2_x_2_x = icon_grid_2x2_x;
 
+  /// Alias for [icon_grid_3x3] from `grid 3 x 3`
+  /// 
+  /// ![grid 3 x 3](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/grid-3x3.png)
   static const IconData icon_grid_3_x_3 = icon_grid_3x3;
 
+  /// Alias for [icon_circle_question_mark] from `help circle`
+  /// 
+  /// ![help circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-question-mark.png)
   static const IconData icon_help_circle = icon_circle_question_mark;
 
+  /// Alias for [icon_hand_helping] from `helping hand`
+  /// 
+  /// ![helping hand](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/hand-helping.png)
   static const IconData icon_helping_hand = icon_hand_helping;
 
+  /// Alias for [icon_house] from `home`
+  /// 
+  /// ![home](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/house.png)
   static const IconData icon_home = icon_house;
 
+  /// Alias for [icon_ice_cream_cone] from `ice cream`
+  /// 
+  /// ![ice cream](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ice-cream-cone.png)
   static const IconData icon_ice_cream = icon_ice_cream_cone;
 
+  /// Alias for [icon_ice_cream_bowl] from `ice cream 2`
+  /// 
+  /// ![ice cream 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ice-cream-bowl.png)
   static const IconData icon_ice_cream_2 = icon_ice_cream_bowl;
 
+  /// Alias for [icon_indent_increase] from `indent`
+  /// 
+  /// ![indent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/indent-increase.png)
   static const IconData icon_indent = icon_indent_increase;
 
+  /// Alias for [icon_square_mouse_pointer] from `inspect`
+  /// 
+  /// ![inspect](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-mouse-pointer.png)
   static const IconData icon_inspect = icon_square_mouse_pointer;
 
+  /// Alias for [icon_japanese_yen] from `jersey pound`
+  /// 
+  /// ![jersey pound](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/japanese-yen.png)
   static const IconData icon_jersey_pound = icon_japanese_yen;
 
+  /// Alias for [icon_square_kanban] from `kanban square`
+  /// 
+  /// ![kanban square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-kanban.png)
   static const IconData icon_kanban_square = icon_square_kanban;
 
+  /// Alias for [icon_square_dashed_kanban] from `kanban square dashed`
+  /// 
+  /// ![kanban square dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-kanban.png)
   static const IconData icon_kanban_square_dashed = icon_square_dashed_kanban;
 
+  /// Alias for [icon_laptop_minimal] from `laptop 2`
+  /// 
+  /// ![laptop 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/laptop-minimal.png)
   static const IconData icon_laptop_2 = icon_laptop_minimal;
 
+  /// Alias for [icon_panels_top_left] from `layout`
+  /// 
+  /// ![layout](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panels-top-left.png)
   static const IconData icon_layout = icon_panels_top_left;
 
+  /// Alias for [icon_square_library] from `library square`
+  /// 
+  /// ![library square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-library.png)
   static const IconData icon_library_square = icon_square_library;
 
+  /// Alias for [icon_loader_circle] from `loader 2`
+  /// 
+  /// ![loader 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/loader-circle.png)
   static const IconData icon_loader_2 = icon_loader_circle;
 
+  /// Alias for [icon_map_pin_pen] from `location edit`
+  /// 
+  /// ![location edit](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/map-pin-pen.png)
   static const IconData icon_location_edit = icon_map_pin_pen;
 
+  /// Alias for [icon_square_m] from `m square`
+  /// 
+  /// ![m square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-m.png)
   static const IconData icon_m_square = icon_square_m;
 
+  /// Alias for [icon_mail_question_mark] from `mail question`
+  /// 
+  /// ![mail question](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mail-question-mark.png)
   static const IconData icon_mail_question = icon_mail_question_mark;
 
+  /// Alias for [icon_square_menu] from `menu square`
+  /// 
+  /// ![menu square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-menu.png)
   static const IconData icon_menu_square = icon_square_menu;
 
+  /// Alias for [icon_message_circle_question_mark] from `message circle question`
+  /// 
+  /// ![message circle question](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/message-circle-question-mark.png)
   static const IconData icon_message_circle_question = icon_message_circle_question_mark;
 
+  /// Alias for [icon_mic_vocal] from `mic 2`
+  /// 
+  /// ![mic 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/mic-vocal.png)
   static const IconData icon_mic_2 = icon_mic_vocal;
 
+  /// Alias for [icon_circle_minus] from `minus circle`
+  /// 
+  /// ![minus circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-minus.png)
   static const IconData icon_minus_circle = icon_circle_minus;
 
+  /// Alias for [icon_square_minus] from `minus square`
+  /// 
+  /// ![minus square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-minus.png)
   static const IconData icon_minus_square = icon_square_minus;
 
+  /// Alias for [icon_ellipsis] from `more horizontal`
+  /// 
+  /// ![more horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ellipsis.png)
   static const IconData icon_more_horizontal = icon_ellipsis;
 
+  /// Alias for [icon_ellipsis_vertical] from `more vertical`
+  /// 
+  /// ![more vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/ellipsis-vertical.png)
   static const IconData icon_more_vertical = icon_ellipsis_vertical;
 
+  /// Alias for [icon_square_mouse_pointer] from `mouse pointer square`
+  /// 
+  /// ![mouse pointer square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-mouse-pointer.png)
   static const IconData icon_mouse_pointer_square = icon_square_mouse_pointer;
 
+  /// Alias for [icon_square_dashed_mouse_pointer] from `mouse pointer square dashed`
+  /// 
+  /// ![mouse pointer square dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-mouse-pointer.png)
   static const IconData icon_mouse_pointer_square_dashed = icon_square_dashed_mouse_pointer;
 
+  /// Alias for [icon_move_3d] from `move 3 d`
+  /// 
+  /// ![move 3 d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/move-3d.png)
   static const IconData icon_move_3_d = icon_move_3d;
 
+  /// Alias for [icon_indent_decrease] from `outdent`
+  /// 
+  /// ![outdent](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/indent-decrease.png)
   static const IconData icon_outdent = icon_indent_decrease;
 
+  /// Alias for [icon_paintbrush_vertical] from `paintbrush 2`
+  /// 
+  /// ![paintbrush 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/paintbrush-vertical.png)
   static const IconData icon_paintbrush_2 = icon_paintbrush_vertical;
 
+  /// Alias for [icon_tree_palm] from `palmtree`
+  /// 
+  /// ![palmtree](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tree-palm.png)
   static const IconData icon_palmtree = icon_tree_palm;
 
+  /// Alias for [icon_panel_bottom_dashed] from `panel bottom inactive`
+  /// 
+  /// ![panel bottom inactive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-bottom-dashed.png)
   static const IconData icon_panel_bottom_inactive = icon_panel_bottom_dashed;
 
+  /// Alias for [icon_panel_left_dashed] from `panel left inactive`
+  /// 
+  /// ![panel left inactive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left-dashed.png)
   static const IconData icon_panel_left_inactive = icon_panel_left_dashed;
 
+  /// Alias for [icon_panel_right_dashed] from `panel right inactive`
+  /// 
+  /// ![panel right inactive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-right-dashed.png)
   static const IconData icon_panel_right_inactive = icon_panel_right_dashed;
 
+  /// Alias for [icon_panel_top_dashed] from `panel top inactive`
+  /// 
+  /// ![panel top inactive](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-top-dashed.png)
   static const IconData icon_panel_top_inactive = icon_panel_top_dashed;
 
+  /// Alias for [icon_columns_3] from `panels left right`
+  /// 
+  /// ![panels left right](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/columns-3.png)
   static const IconData icon_panels_left_right = icon_columns_3;
 
+  /// Alias for [icon_rows_3] from `panels top bottom`
+  /// 
+  /// ![panels top bottom](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rows-3.png)
   static const IconData icon_panels_top_bottom = icon_rows_3;
 
+  /// Alias for [icon_circle_parking] from `parking circle`
+  /// 
+  /// ![parking circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-parking.png)
   static const IconData icon_parking_circle = icon_circle_parking;
 
+  /// Alias for [icon_circle_parking_off] from `parking circle off`
+  /// 
+  /// ![parking circle off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-parking-off.png)
   static const IconData icon_parking_circle_off = icon_circle_parking_off;
 
+  /// Alias for [icon_square_parking] from `parking square`
+  /// 
+  /// ![parking square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-parking.png)
   static const IconData icon_parking_square = icon_square_parking;
 
+  /// Alias for [icon_square_parking_off] from `parking square off`
+  /// 
+  /// ![parking square off](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-parking-off.png)
   static const IconData icon_parking_square_off = icon_square_parking_off;
 
+  /// Alias for [icon_circle_pause] from `pause circle`
+  /// 
+  /// ![pause circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-pause.png)
   static const IconData icon_pause_circle = icon_circle_pause;
 
+  /// Alias for [icon_octagon_pause] from `pause octagon`
+  /// 
+  /// ![pause octagon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/octagon-pause.png)
   static const IconData icon_pause_octagon = icon_octagon_pause;
 
+  /// Alias for [icon_square_pen] from `pen box`
+  /// 
+  /// ![pen box](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pen.png)
   static const IconData icon_pen_box = icon_square_pen;
 
+  /// Alias for [icon_square_pen] from `pen square`
+  /// 
+  /// ![pen square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pen.png)
   static const IconData icon_pen_square = icon_square_pen;
 
+  /// Alias for [icon_circle_percent] from `percent circle`
+  /// 
+  /// ![percent circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-percent.png)
   static const IconData icon_percent_circle = icon_circle_percent;
 
+  /// Alias for [icon_diamond_percent] from `percent diamond`
+  /// 
+  /// ![percent diamond](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/diamond-percent.png)
   static const IconData icon_percent_diamond = icon_diamond_percent;
 
+  /// Alias for [icon_square_percent] from `percent square`
+  /// 
+  /// ![percent square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-percent.png)
   static const IconData icon_percent_square = icon_square_percent;
 
+  /// Alias for [icon_square_pi] from `pi square`
+  /// 
+  /// ![pi square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pi.png)
   static const IconData icon_pi_square = icon_square_pi;
 
+  /// Alias for [icon_square_pilcrow] from `pilcrow square`
+  /// 
+  /// ![pilcrow square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-pilcrow.png)
   static const IconData icon_pilcrow_square = icon_square_pilcrow;
 
+  /// Alias for [icon_circle_play] from `play circle`
+  /// 
+  /// ![play circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-play.png)
   static const IconData icon_play_circle = icon_circle_play;
 
+  /// Alias for [icon_square_play] from `play square`
+  /// 
+  /// ![play square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-play.png)
   static const IconData icon_play_square = icon_square_play;
 
+  /// Alias for [icon_plug_zap] from `plug zap 2`
+  /// 
+  /// ![plug zap 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/plug-zap.png)
   static const IconData icon_plug_zap_2 = icon_plug_zap;
 
+  /// Alias for [icon_circle_plus] from `plus circle`
+  /// 
+  /// ![plus circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-plus.png)
   static const IconData icon_plus_circle = icon_circle_plus;
 
+  /// Alias for [icon_square_plus] from `plus square`
+  /// 
+  /// ![plus square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-plus.png)
   static const IconData icon_plus_square = icon_square_plus;
 
+  /// Alias for [icon_circle_power] from `power circle`
+  /// 
+  /// ![power circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-power.png)
   static const IconData icon_power_circle = icon_circle_power;
 
+  /// Alias for [icon_square_power] from `power square`
+  /// 
+  /// ![power square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-power.png)
   static const IconData icon_power_square = icon_square_power;
 
+  /// Alias for [icon_rotate_3d] from `rotate 3 d`
+  /// 
+  /// ![rotate 3 d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rotate-3d.png)
   static const IconData icon_rotate_3_d = icon_rotate_3d;
 
+  /// Alias for [icon_rows_2] from `rows`
+  /// 
+  /// ![rows](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/rows-2.png)
   static const IconData icon_rows = icon_rows_2;
 
+  /// Alias for [icon_scale_3d] from `scale 3 d`
+  /// 
+  /// ![scale 3 d](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/scale-3d.png)
   static const IconData icon_scale_3_d = icon_scale_3d;
 
+  /// Alias for [icon_university] from `school 2`
+  /// 
+  /// ![school 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/university.png)
   static const IconData icon_school_2 = icon_university;
 
+  /// Alias for [icon_square_scissors] from `scissors square`
+  /// 
+  /// ![scissors square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-scissors.png)
   static const IconData icon_scissors_square = icon_square_scissors;
 
+  /// Alias for [icon_square_bottom_dashed_scissors] from `scissors square dashed bottom`
+  /// 
+  /// ![scissors square dashed bottom](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-bottom-dashed-scissors.png)
   static const IconData icon_scissors_square_dashed_bottom = icon_square_bottom_dashed_scissors;
 
+  /// Alias for [icon_send_horizontal] from `send horizonal`
+  /// 
+  /// ![send horizonal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/send-horizontal.png)
   static const IconData icon_send_horizonal = icon_send_horizontal;
 
+  /// Alias for [icon_shield_x] from `shield close`
+  /// 
+  /// ![shield close](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-x.png)
   static const IconData icon_shield_close = icon_shield_x;
 
+  /// Alias for [icon_shield_question_mark] from `shield question`
+  /// 
+  /// ![shield question](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/shield-question-mark.png)
   static const IconData icon_shield_question = icon_shield_question_mark;
 
+  /// Alias for [icon_panel_left] from `sidebar`
+  /// 
+  /// ![sidebar](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left.png)
   static const IconData icon_sidebar = icon_panel_left;
 
+  /// Alias for [icon_panel_left_close] from `sidebar close`
+  /// 
+  /// ![sidebar close](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left-close.png)
   static const IconData icon_sidebar_close = icon_panel_left_close;
 
+  /// Alias for [icon_panel_left_open] from `sidebar open`
+  /// 
+  /// ![sidebar open](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/panel-left-open.png)
   static const IconData icon_sidebar_open = icon_panel_left_open;
 
+  /// Alias for [icon_square_sigma] from `sigma square`
+  /// 
+  /// ![sigma square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-sigma.png)
   static const IconData icon_sigma_square = icon_square_sigma;
 
+  /// Alias for [icon_square_slash] from `slash square`
+  /// 
+  /// ![slash square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-slash.png)
   static const IconData icon_slash_square = icon_square_slash;
 
+  /// Alias for [icon_sliders_vertical] from `sliders`
+  /// 
+  /// ![sliders](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sliders-vertical.png)
   static const IconData icon_sliders = icon_sliders_vertical;
 
+  /// Alias for [icon_arrow_up_narrow_wide] from `sort asc`
+  /// 
+  /// ![sort asc](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-up-narrow-wide.png)
   static const IconData icon_sort_asc = icon_arrow_up_narrow_wide;
 
+  /// Alias for [icon_arrow_down_wide_narrow] from `sort desc`
+  /// 
+  /// ![sort desc](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/arrow-down-wide-narrow.png)
   static const IconData icon_sort_desc = icon_arrow_down_wide_narrow;
 
+  /// Alias for [icon_square_split_horizontal] from `split square horizontal`
+  /// 
+  /// ![split square horizontal](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-split-horizontal.png)
   static const IconData icon_split_square_horizontal = icon_square_split_horizontal;
 
+  /// Alias for [icon_square_split_vertical] from `split square vertical`
+  /// 
+  /// ![split square vertical](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-split-vertical.png)
   static const IconData icon_split_square_vertical = icon_square_split_vertical;
 
+  /// Alias for [icon_square_chart_gantt] from `square gantt`
+  /// 
+  /// ![square gantt](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chart-gantt.png)
   static const IconData icon_square_gantt = icon_square_chart_gantt;
 
+  /// Alias for [icon_square_chart_gantt] from `square gantt chart`
+  /// 
+  /// ![square gantt chart](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-chart-gantt.png)
   static const IconData icon_square_gantt_chart = icon_square_chart_gantt;
 
+  /// Alias for [icon_square_dashed_kanban] from `square kanban dashed`
+  /// 
+  /// ![square kanban dashed](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-kanban.png)
   static const IconData icon_square_kanban_dashed = icon_square_dashed_kanban;
 
+  /// Alias for [icon_sparkles] from `stars`
+  /// 
+  /// ![stars](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/sparkles.png)
   static const IconData icon_stars = icon_sparkles;
 
+  /// Alias for [icon_circle_stop] from `stop circle`
+  /// 
+  /// ![stop circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-stop.png)
   static const IconData icon_stop_circle = icon_circle_stop;
 
+  /// Alias for [icon_captions] from `subtitles`
+  /// 
+  /// ![subtitles](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/captions.png)
   static const IconData icon_subtitles = icon_captions;
 
+  /// Alias for [icon_columns_3_cog] from `table config`
+  /// 
+  /// ![table config](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/columns-3-cog.png)
   static const IconData icon_table_config = icon_columns_3_cog;
 
+  /// Alias for [icon_square_terminal] from `terminal square`
+  /// 
+  /// ![terminal square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-terminal.png)
   static const IconData icon_terminal_square = icon_square_terminal;
 
+  /// Alias for [icon_test_tube_diagonal] from `test tube 2`
+  /// 
+  /// ![test tube 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/test-tube-diagonal.png)
   static const IconData icon_test_tube_2 = icon_test_tube_diagonal;
 
-  static const IconData icon_text_selection = icon_text_select;
+  /// Alias for [icon_square_dashed_text] from `text select`
+  /// 
+  /// ![text select](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-text.png)
+  static const IconData icon_text_select = icon_square_dashed_text;
 
+  /// Alias for [icon_square_dashed_text] from `text selection`
+  /// 
+  /// ![text selection](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-dashed-text.png)
+  static const IconData icon_text_selection = icon_square_dashed_text;
+
+  /// Alias for [icon_tram_front] from `train`
+  /// 
+  /// ![train](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tram-front.png)
   static const IconData icon_train = icon_tram_front;
 
+  /// Alias for [icon_tv_minimal] from `tv 2`
+  /// 
+  /// ![tv 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/tv-minimal.png)
   static const IconData icon_tv_2 = icon_tv_minimal;
 
+  /// Alias for [icon_lock_open] from `unlock`
+  /// 
+  /// ![unlock](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lock-open.png)
   static const IconData icon_unlock = icon_lock_open;
 
+  /// Alias for [icon_lock_keyhole_open] from `unlock keyhole`
+  /// 
+  /// ![unlock keyhole](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/lock-keyhole-open.png)
   static const IconData icon_unlock_keyhole = icon_lock_keyhole_open;
 
+  /// Alias for [icon_cloud_upload] from `upload cloud`
+  /// 
+  /// ![upload cloud](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/cloud-upload.png)
   static const IconData icon_upload_cloud = icon_cloud_upload;
 
+  /// Alias for [icon_user_round] from `user 2`
+  /// 
+  /// ![user 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round.png)
   static const IconData icon_user_2 = icon_user_round;
 
+  /// Alias for [icon_user_round_check] from `user check 2`
+  /// 
+  /// ![user check 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-check.png)
   static const IconData icon_user_check_2 = icon_user_round_check;
 
+  /// Alias for [icon_circle_user] from `user circle`
+  /// 
+  /// ![user circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-user.png)
   static const IconData icon_user_circle = icon_circle_user;
 
+  /// Alias for [icon_circle_user_round] from `user circle 2`
+  /// 
+  /// ![user circle 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-user-round.png)
   static const IconData icon_user_circle_2 = icon_circle_user_round;
 
+  /// Alias for [icon_user_round_cog] from `user cog 2`
+  /// 
+  /// ![user cog 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-cog.png)
   static const IconData icon_user_cog_2 = icon_user_round_cog;
 
+  /// Alias for [icon_user_round_minus] from `user minus 2`
+  /// 
+  /// ![user minus 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-minus.png)
   static const IconData icon_user_minus_2 = icon_user_round_minus;
 
+  /// Alias for [icon_user_round_plus] from `user plus 2`
+  /// 
+  /// ![user plus 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-plus.png)
   static const IconData icon_user_plus_2 = icon_user_round_plus;
 
+  /// Alias for [icon_square_user] from `user square`
+  /// 
+  /// ![user square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-user.png)
   static const IconData icon_user_square = icon_square_user;
 
+  /// Alias for [icon_square_user_round] from `user square 2`
+  /// 
+  /// ![user square 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-user-round.png)
   static const IconData icon_user_square_2 = icon_square_user_round;
 
+  /// Alias for [icon_user_round_x] from `user x 2`
+  /// 
+  /// ![user x 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/user-round-x.png)
   static const IconData icon_user_x_2 = icon_user_round_x;
 
+  /// Alias for [icon_users_round] from `users 2`
+  /// 
+  /// ![users 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/users-round.png)
   static const IconData icon_users_2 = icon_users_round;
 
+  /// Alias for [icon_badge_check] from `verified`
+  /// 
+  /// ![verified](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/badge-check.png)
   static const IconData icon_verified = icon_badge_check;
 
+  /// Alias for [icon_wallet_minimal] from `wallet 2`
+  /// 
+  /// ![wallet 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wallet-minimal.png)
   static const IconData icon_wallet_2 = icon_wallet_minimal;
 
+  /// Alias for [icon_wand_sparkles] from `wand 2`
+  /// 
+  /// ![wand 2](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/wand-sparkles.png)
   static const IconData icon_wand_2 = icon_wand_sparkles;
 
+  /// Alias for [icon_circle_x] from `x circle`
+  /// 
+  /// ![x circle](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/circle-x.png)
   static const IconData icon_x_circle = icon_circle_x;
 
+  /// Alias for [icon_octagon_x] from `x octagon`
+  /// 
+  /// ![x octagon](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/octagon-x.png)
   static const IconData icon_x_octagon = icon_octagon_x;
 
+  /// Alias for [icon_square_x] from `x square`
+  /// 
+  /// ![x square](https://makanakidev.github.io/jaspr_icons_previews/previews/lucide/square-x.png)
   static const IconData icon_x_square = icon_square_x;
 
 }
