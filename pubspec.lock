@@ -69,10 +69,10 @@ packages:
     dependency: "direct main"
     description:
       name: jaspr
-      sha256: fcfb975cfaca42beab50735e1865e52ea32d44b69a7ec76504adcca4dc004be9
+      sha256: "3fc388e9c114b5febe8f4678c34332f27c652882e4ec06c293c0350075af8e76"
       url: "https://pub.dev"
     source: hosted
-    version: "0.22.4"
+    version: "0.23.0"
   lints:
     dependency: "direct dev"
     description:
