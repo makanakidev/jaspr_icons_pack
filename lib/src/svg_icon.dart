@@ -1,43 +1,48 @@
-// ignore_for_file: public_member_api_docs
-
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../jaspr_icons_pack.dart';
 
+/// Default viewbox for icons that don't specify one.
+const (double, double, double, double) _defaultViewBox = (0, 0, 24, 24);
+
 /// Renders an SVG icon from generated or custom [IconData].
 class SvgIcon extends StatelessComponent {
-  static const (double, double, double, double) _defaultViewBox = (0, 0, 24, 24);
-
-  /// the icon data to render
+  /// The icon data to render.
   final IconData icon;
 
-  /// the height and width of the icon (defaults to 24)
+  /// Width and height of the icon (defaults to 24).
   final double size;
 
-  /// the viewbox of the icon
+  /// Viewbox of the icon.
   final (double, double, double, double) viewBox;
 
-  /// the stroke or fill color of the icon
+  /// Stroke or fill color of the icon (defaults to currentColor).
   final Color? color;
 
-  /// the stroke width of the icon
+  /// Stroke width of the icon.
   final String? strokeWidth;
 
-  /// the stroke line join of the icon
+  /// Stroke line join of the icon.
   final StrokeLineJoin? strokeLineJoin;
 
-  /// the stroke line cap of the icon
+  /// Stroke line cap of the icon.
   final StrokeLineCap? strokeLineCap;
 
-  /// css classes to be applied to the svg element
+  /// CSS classes to be applied to the svg icon.
   final String? classes;
 
-  /// the key to be used by the framework
+  /// Optional unique id of the svg icon.
   final String? id;
 
-  /// inline css styles to be applied to the svg element
+  /// Optional inline css styles to be applied to the svg icon.
   final Styles? style;
+
+  /// Optional additional attributes to be added to the svg icon.
+  final Map<String, String>? attributes;
+
+  /// Optional callback to be invoked when the svg icon is clicked.
+  final VoidCallback? onClick;
 
   /// Render an svg icon from a structured [IconData] object.
   ///
@@ -60,6 +65,7 @@ class SvgIcon extends StatelessComponent {
   /// See the package README for more details
   const SvgIcon(
     this.icon, {
+    super.key,
     this.size = 24,
     this.viewBox = _defaultViewBox,
     this.color,
@@ -69,6 +75,8 @@ class SvgIcon extends StatelessComponent {
     this.classes,
     this.id,
     this.style,
+    this.attributes,
+    this.onClick,
   });
 
   @override
@@ -95,7 +103,9 @@ class SvgIcon extends StatelessComponent {
         'stroke-width': ?strokeWidth,
         'stroke-linejoin': ?strokeLineJoin?.value,
         'stroke-linecap': ?strokeLineCap?.name,
+        ...?attributes,
       },
+      events: onClick != null ? events(onClick: onClick) : null,
       _paths(icon),
     );
   }
@@ -108,6 +118,7 @@ class SvgIcon extends StatelessComponent {
 
     if (attrViewBox != null) {
       final parts = attrViewBox.split(RegExp(r'\s+')).where((part) => part.isNotEmpty).toList();
+
       if (parts.length == 4) {
         final values = parts.map(double.tryParse).toList();
         if (values.every((value) => value != null)) {
@@ -176,11 +187,13 @@ class SvgIcon extends StatelessComponent {
       resolved = resolved.replaceAll('#${entry.key}', '#${entry.value}');
       resolved = resolved.replaceAll('${entry.key}.', '${entry.value}.');
     }
+
     return resolved;
   }
 
   Component _node(Map<String, dynamic> elementData, Map<String, String> svgIdMap) {
     final text = elementData['text'];
+
     if (text is String) {
       return .text(text);
     }

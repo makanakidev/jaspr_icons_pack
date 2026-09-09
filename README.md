@@ -15,7 +15,7 @@ Add `jaspr_icons_pack` to your `pubspec.yaml` dependencies:
 
 ```yaml
 dependencies:
-  jaspr_icons_pack: ^1.0.2
+  jaspr_icons_pack: ^1.0.4
 ```
 
 Then, run `dart pub get`.
