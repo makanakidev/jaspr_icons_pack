@@ -14,10 +14,9 @@ homepage: https://github.com/makanakidev/jaspr_icons_pack.git
 
 topics:
   - jaspr
-  - web icons
-  - svg icons
-  - jaspr icons
-  - jaspr icons pack
+  - svg-icons
+  - jaspr-icons
+  - jaspr-icons-pack
 
 environment:
   sdk: ">=3.10.0 <4.0.0"
